@@ -1,0 +1,6 @@
+[6c911fdc](../../pieces/6c911fdc)
+[adf9e63e](../../pieces/adf9e63e)
+[9925f080](../../pieces/9925f080)
+[d9caa0e2](../../pieces/d9caa0e2)
+[5ab77408](../../pieces/5ab77408)
+[27676369](../../pieces/27676369)
