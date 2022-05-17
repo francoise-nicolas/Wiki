@@ -1,15 +1,22 @@
 # Dossier pénal
 
 ## Procédure
-### 2011-02-17 — Demandeur — Plainte simple devant le TJ de Rennes
-### 2014-07-16 — Procureur — Avis de classement sans suite
-### 2015-07-17 — Demandeur — CPC
+<details>
+  <summary>Parties</summary>
+  
+* Demandeur: Françoise Nicolas
+* Défendeur: Armelle APLOGAN épouse ADECHY
+</details>
+
+### 2011-02-17 — Demandeur — Saisine du procureur
+### 2014-07-16 — Procureur — Avis de classement
+### 2015-07-17 — Demandeur — Saisine du juge d'instruction
 <details>
   <summary>Info</summary>
   
 * Conseil: Me Bleykasten
 * No. 130255
-* [piece](../pieces/6c911fdc/6c911fdc.pdf)
+* [piece](../pieces/90f57e28/90f57e28.pdf)
 </details>
 
 ### 2020-02-28 — TJ Nantes — Décision
@@ -20,7 +27,7 @@
 * [piece](../pieces/27676369/27676369.pdf)
 </details>
 
-### 2020-03-20 — Demandeur — Acte d'appel
+### 2020-03-20 — Demandeur — Requête d'appel
 <details>
   <summary>Info</summary>
   
