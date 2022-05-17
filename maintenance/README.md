@@ -5,7 +5,7 @@
 A vocation à être utilisé:
 1. Hors-ligne ([`.gitignore`](../.gitignore) paramétré en conséquence)
 2. Pour le traitement de nouveaux fichiers
-3. En vue de leur transfert vers [`pieces`](../pieces)
+3. En vue de leur transfert vers [`pieces`](../pieces/identifiant)
 4. Partout où il est dit « supprimer fichier(s) », cela vaut sauf les fichiers témoins ([ici](INBOX/vide-mais-necessaire) et [ici](OUTBOX/vide-mais-necessaire))
 
 ### Étape 1: Indexer fichiers
@@ -30,4 +30,4 @@ find INBOX -type f -size +0 -print0 | xargs -0 -n1 "$SHELL" -c './indexer-fichie
 
 ### Étape 3: encryption en lot (optionnel)
 
-* Couper-coller le contenu de [`OUTBOX`](OUTBOX)  vers [`pieces`](../pieces)
+* Couper-coller le contenu de [`OUTBOX`](OUTBOX)  vers [`pieces`](../pieces/identifiant)

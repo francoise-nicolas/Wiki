@@ -1,5 +1,0 @@
-[fa69c324](../../pieces/fa69c324)
-[31f73b4d](../../pieces/31f73b4d)
-[78b8d6bb](../../pieces/78b8d6bb)
-[57139819](../../pieces/57139819)
-[67ecf1b9](../../pieces/67ecf1b9)

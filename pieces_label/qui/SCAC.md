@@ -1,7 +1,0 @@
-[c1da5928](../../pieces/c1da5928)
-[f5a2d2df](../../pieces/f5a2d2df)
-[1b3d5e31](../../pieces/1b3d5e31)
-[e2bb1a80](../../pieces/e2bb1a80)
-[af5b147a](../../pieces/af5b147a)
-[b2fab6eb](../../pieces/b2fab6eb)
-[d2da4337](../../pieces/d2da4337)
