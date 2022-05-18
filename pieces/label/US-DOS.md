@@ -1,6 +1,0 @@
-[fa69c324](../pieces/identifiant/fa69c324)
-[31f73b4d](../pieces/identifiant/31f73b4d)
-[78b8d6bb](../pieces/identifiant/78b8d6bb)
-[57139819](../pieces/identifiant/57139819)
-[67ecf1b9](../pieces/identifiant/67ecf1b9)
-[8fefd21f](../pieces/identifiant/8fefd21f)

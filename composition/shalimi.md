@@ -1,4 +1,4 @@
-# Dysfonctionnement judiciaire: Sarah Halimi
+# Affaire Sarah Halimi
 
 > Un rapport qui louvoie et pratique le déni (Nicolas Bastuck P/ Le Point, 2022)
 

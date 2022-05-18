@@ -1,7 +1,7 @@
-<!-- ![phi](../_aux/phi-strip.png) -->
-
 # Composition
 
+## [Affaires](./affaires.md)
 ## [Autre](./autre.md)
-## [Biographique](./biogr.md)
-## [Vie publique](./vp.md)
+## [Évènements](./even.md)
+## [Thèmes](./themes.md)
+## [Voir aussi](./voiraussi.md)
