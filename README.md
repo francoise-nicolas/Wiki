@@ -14,7 +14,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ## Mis en avant
 ### Vie publique:
 #### [Affaires](./composition/affaires.md)
-##### [Françoise Nicolas](./composition/fn.md)
+* [Françoise Nicolas](./composition/fn.md)
 #### [Évènements](./composition/even.md)
 #### [Thèmes](./composition/themes.md)
 #### [Voir aussi](./composition/voiraussi.md)

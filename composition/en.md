@@ -1,4 +1,4 @@
-![marc-chaumeil](_aux/marc-chaumeil.png)
+![marc-chaumeil](../_aux/marc-chaumeil.png)
 
 # About
 
