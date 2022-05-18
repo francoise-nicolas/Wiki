@@ -1,33 +1,40 @@
-# `pieces_`
+# Maintenance
 
-## Description
+## Avertissement
 
-A vocation à être utilisé:
-1. Hors-ligne ([`.gitignore`](../.gitignore) paramétré en conséquence)
-2. Pour le traitement de nouveaux fichiers
-3. En vue de leur transfert vers [`pieces`](../pieces/identifiant)
-4. Partout où il est dit « supprimer fichier(s) », cela vaut sauf les fichiers témoins ([ici](INBOX/vide-mais-necessaire) et [ici](OUTBOX/vide-mais-necessaire))
+Partout où il est dit « effacer »,  faire exception pour les fichiers nommés `vide-conserver`.
 
-### Étape 1: Indexer fichiers
+## MÀJ de [`../pieces/identifiant`](../pieces/identifiant)
 
-* Déposer fichiers dans [`INBOX`](INBOX)
-* Exécuter:
+1. Effacer le contenu de `INBOX`
+2. Dépôt dans `INBOX`, de fichiers destinés à être indexés 
+3. Exécuter: 
 
 ```
-find INBOX -type f -size +0 -print0 | xargs -0 -n1 "$SHELL" -c './indexer-fichier.sh "${1}"' "$SHELL"
-```
-( optionellement, `./indexer-fichier.sh` → `./indexer-fichier.sh --original` )
-
-* Supprimer le contenu de [`INBOX`](INBOX)
-
-### Étape 2: encryption en lot (optionnel)
-
-* Déposer les dossiers créés à l'étape 1 dans [`INBOX`](INBOX) (redite)
-* Éxecuter:
-```
-./encryptelot.sh
+find INBOX -type f -size +0 -print0 | xargs -0 -n1 "$SHELL" -c './indentifiant.sh OUTBOX "${1}"' "$SHELL"
 ```
 
-### Étape 3: encryption en lot (optionnel)
+À ce stade, les dossiers obtenus dans `OUTBOX` sont prêts à être copiés dans `identifiant`. 
+Toutefois, l'on peut préférer crypter les fichiers qu'ils contiennent, comme suit:
 
-* Couper-coller le contenu de [`OUTBOX`](OUTBOX)  vers [`pieces`](../pieces/identifiant)
+4. Effacer le contenu de `INBOX`
+5. Couper-coller les dossier de `OUTBOX` dans `INBOX`
+6. Exécuter `crypter.sh`
+
+## MÀJ de [`../pieces/label`](../pieces/label)
+
+1. Exécuter `./label.sh`
+
+## MÀJ de [`../pieces/cite.md`](../pieces/cite.md)
+
+1. Exécuter `./cite.sh`
+
+## Travaux en cours
+
+### Signalitique: 🚧
+
+### Recherche
+
+```
+find . -type f -name '*md' -print0 | xargs -0 -n1 grep -H '🚧'
+```

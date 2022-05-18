@@ -2,5 +2,6 @@
 
 # Composition
 
-## [Démarches](./demarches)
-## [Vie publique](./vp)
+## [Autre](./autre.md)
+## [Biographique](./biogr.md)
+## [Vie publique](./vp.md)
