@@ -15,6 +15,11 @@
 * [dossier](../pieces/identifiant/774a6ab9)
 </details>
 ### 2014-07-16 — Procureur — Avis de classement
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/18c1da54)
+</details>
 ### 2015-07-17 — Demandeur — Saisine du JI
 <details>
   <summary>Info</summary>
@@ -24,20 +29,43 @@
 * [piece](../pieces/identifiant/90f57e28)
 </details>
 
+### 2015-09-10 — JI — Consignation
+<details>
+  <summary>Info</summary>
+  
+* [piece](../pieces/identifiant/27d1fe25)
+</details>
+
+### 2016-12-08 — JI — Convocation
+<details>
+  <summary>Info</summary>
+  
+* [piece](../pieces/identifiant/d2dc8868)
+</details>
+
 ### 2020-02-28 — TJ Nantes — Décision
 <details>
   <summary>Info</summary>
   
 * Effet: non-lieu
-* [piece](../pieces/identifiant/27676369)
+* [piece](../pieces/identifiant/2ec03cd5)
 </details>
 
+### 2020-03-09 — TJ Nantes — Acte d'appel
+<details>
+  <summary>Info</summary>
+  
+* [piece](../pieces/identifiant/f3870505)
+</details>
+
+<!--
 ### 2020-03-20 — Demandeur — Requête d'appel
 <details>
   <summary>Info</summary>
   
 * [piece](../pieces/identifiant/5ab77408)
 </details>
+-->
 
 ## Droit
 ### Code de procédure pénal

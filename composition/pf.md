@@ -59,10 +59,10 @@ Par une requête enregistrée le 3 juin 2016, Mme Nicolas a demandé à la cour 
   <summary>Info</summary>
   
 * No. 16NT01873
-* [piece](../pieces/identifiant/57ed0086)
 * Représentant de la défense: [Samantha MARTEL](https://fr.linkedin.com/in/samantha-martel-506bb858?original_referer=https%3A%2F%2Fwww.google.com%2F)
 * Rapporteur: [Thomas Giraud](https://juricaf.org/recherche/rapporteur:%22M.+Thomas++GIRAUD%22)
 * Rapporteur public: [Durup de Baleine](https://jorfsearch.steinertriples.fr/name/Antoine%20Durup%20de%20Baleine)
+* [piece](../pieces/identifiant/57ed0086)
 </details>
 
 <details>

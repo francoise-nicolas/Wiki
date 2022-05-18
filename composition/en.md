@@ -52,7 +52,7 @@ My role vis à vis NGOs and IGOs is clear: to [incite them](./demarches/influenc
 
 ## Other
 
-I am a native of Saint-Malo, and have been a single mother of one since I'm an adult. In 2017, I was [suppleant candidate](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) to represent the 1st constituency of Loire-Atlantique at the [National Assembly](https://www.yourarticlelibrary.com/essay/the-national-assembly-of-french-parliament/44269
+I am a native of Saint-Malo, and have been a single mother of one since I'm an adult. In [1986](../pieces/identifiant/829cbd9) and [1987](../pieces/identifiant/b5b09b6e) two prestigious institutions awarded me prizes for thesis work at the junction between law and space travel. In 2017, I was [suppleant candidate](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) to represent the 1st constituency of Loire-Atlantique at the [National Assembly](https://www.yourarticlelibrary.com/essay/the-national-assembly-of-french-parliament/44269
 ) on a [France Insoumise](https://twitter.com/FranceInsoumise) platform.
 
 ---

@@ -41,5 +41,6 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
     * Co-chair, [Tom Lantos Human Rights Commission](https://twitter.com/TLHumanRights), 
 [Hon. Christopher H. Smith](https://chrissmith.house.gov/).
 * [document](../pieces/identifiant/31f73b4d)
-* [preuve de dépôt](../pieces/identifiant/6ee9b5eb)
+* [preuve de dépôt 1](../pieces/identifiant/8fefd21f)
+* [preuve de dépôt 2](../pieces/identifiant/6ee9b5eb)
 </details>

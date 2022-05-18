@@ -51,5 +51,4 @@ Face à sa capacité de récupération de crise, la [démocratie alternative](./
 Reste la voie à laquelle ce wiki ambitionne de donner sa chance: [sortir de sa position de pigeon](./vp/robenoire.md#carage2015demontg).
 
 ## Autre
-Je suis originaire de Saint-Malo, et mère célibataire d'un enfant unique depuis l'âge adulte. 
-En 2017, j'étais [candidate suppléante](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) pour représenter la 1ère circonscription de Loire-Atlantique à l'Assemblée nationale, aux couleurs de [France Insoumise](https://twitter.com/FranceInsoumise).
+Je suis originaire de Saint-Malo, et mère célibataire d'un enfant unique depuis l'âge adulte.  En [1986](../pieces/identifiant/829cbd9) et [1987](../pieces/identifiant/b5b09b6e) j'ai été récompensée par les Fondation de la Vocation et de l'Espace, respetivement, pour mes travaux sur le droit de l'espace. En 2017, j'étais [candidate suppléante](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) pour représenter la 1ère circonscription de Loire-Atlantique à l'Assemblée nationale, aux couleurs de [France Insoumise](https://twitter.com/FranceInsoumise).

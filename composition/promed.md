@@ -45,6 +45,13 @@
 * [dossier](../pieces/identifiant/9925f080)
 </details>
 
+## 2009-12-02 — ADISSIN
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/59dd3ab2)
+</details>
+
 ## 2009-12-14 — BAHUHAUD
 <details>
   <summary>Info</summary>

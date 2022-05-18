@@ -16,6 +16,8 @@ En attente:
 ### 2018
 #### <a id="nicolasVA"></a>[Valeurs Actuelles: La lanceuse d'alerte qui attaque Nathalie Loiseau](../pieces/identifiant/ccac26a8)
 
+#### <a id="mediacites"></a>[Médiacités: la LDA du Quai d'Orday poussée vers la sortie](https://www.mediacites.fr/complement-denquete/nantes/2018/10/18/la-lanceuse-dalerte-du-quai-dorsay-poussee-vers-la-sortie/)
+
 ### 2019
 #### <a id="lemedianicolas"></a>[📺 Le Média: La lanceuse d'alerte qui accuse Nathalie Loiseau](https://www.lemediatv.fr/emissions/les-entretiens/la-lanceuse-dalerte-qui-accuse-nathalie-loiseau-lKSR1V_BSsKkSzrIF8-h6A)
 
@@ -27,6 +29,8 @@ En attente:
 
 Françoise Nicolas [en a contesté en ligne la véracité](https://www.liberation.fr/checknews/2019/04/09/de-quoi-francoise-nicolas-ex-fonctionnaire-aux-affaires-etrangeres-accuse-t-elle-nathalie-loiseau_1717962/). Sa victoire en 2021 pour sa démarche engagée en 2013 pour obtenir la [protection fonctionnelle](../composition/demarches/pf.md) appelle une remise en perspective.
 </details>
+
+####  <a id="cgt-leaks"></a>UGCIT:  [« We Are The Leaks : 7 lanceurs d'alerte témoignent »](https://web.archive.org/web/20201221122852/http://www.ugict.cgt.fr/articles/actus/we-are-the-leaks-7-lanceurs-dalerte-temoignent)
 
 ### 2021
 #### <a id="RTnicolas"></a>[📺 Russia Today: Après une violente agression, la lanceur d'alerte Françoise Nicolas se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
