@@ -235,6 +235,13 @@ EN ATTENTE
 * [piece](../pieces/identifiant/5740ca1d)
 </details>
 
+### 2021-12-09 — CE — Décision
+<details>
+  <summary>Info</summary>
+  
+* No. 452652
+* [piece](../pieces/identifiant/c0b31ebb)
+</details>
 
 ## Droit
 ### Loi du 11 janvier 1984
