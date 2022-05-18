@@ -1,1 +1,1 @@
-[../../composition/demarches/influence.md](../../demarches/influence.md)
+[../../composition/influence.md](../../composition/influence.md)

@@ -11,7 +11,7 @@ Partout où il est dit « effacer »,  faire exception pour les fichiers nommés
 3. Exécuter: 
 
 ```
-find INBOX -type f -size +0 -print0 | xargs -0 -n1 "$SHELL" -c './indentifiant.sh OUTBOX "${1}"' "$SHELL"
+find INBOX -type f -size +0 -print0 | xargs -0 -n1 "$SHELL" -c './identifiant.sh OUTBOX "${1}"' "$SHELL"
 ```
 
 À ce stade, les dossiers obtenus dans `OUTBOX` sont prêts à être copiés dans `identifiant`. 

@@ -1,1 +1,1 @@
-[../../composition/demarches/autre.md](../../demarches/autre.md)
+[../../composition/promed.md](../../composition/promed.md)

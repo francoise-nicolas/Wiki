@@ -10,7 +10,7 @@ help()
 {
     printf "%s\n"\
            "Usage: ./cite.sh" \
-           "1. MAJ pieces/*/cite.md."
+           "1. MAJ ../pieces/*/cite.md"
 }
 
 case ${1} in
@@ -18,8 +18,7 @@ case ${1} in
     --*) echo "ERREUR: ${1}, option non connue"; exit 1;;
 esac
 
-
-find pieces -type f -name '*md' -print0\
+find ../pieces -type f -name '*md' -print0\
     | grep -vz -e 'README.md' \
     | tr "\n" "\0"\
     | xargs -0 -rn1 "$SHELL"\
@@ -27,21 +26,22 @@ find pieces -type f -name '*md' -print0\
           "$SHELL"
 
 # Ou sinon:
-#find pieces -type f -name 'cible.md' -exec rm {} \;
+#find ../pieces -type f -name 'cible.md' -exec rm {} \;
 
 #find fr.md en.md demarches -type f -name '*md' | grep -vE -e './[_]?pieces[_]?' -e './partage' |\
-    find fr.md en.md demarches -type f -name '*md' | grep -vE -e 'README.md' |\
+    find ../composition -type f -size +0 -name '*md' | \
     while IFS= read -r chem;
     do
-        matches=$(grep -E 'pieces/[0-9a-z]+' "${chem}" | sort | uniq)
-        chem='../../'"${chem}"
-        while IFS= read match;
+        matches=$(grep -E 'pieces/identifiant/[0-9a-z]+' "${chem}" | sort | uniq)
+        chem='../'"${chem}"
+        [[ -z "${matches}" ]] || 
+        while IFS= read -r match;
         do
 #            echo "match=${match}"
-            iu=$(echo "${match}" | sed -E 's/.*pieces\/([0-9a-z]+).*/\1/')
-            cible="pieces/${iu}/cite.md"
+            iu=$(echo "${match}" | sed -E 's/.*pieces\/identifiant\/([0-9a-z]+).*/\1/')
+            cible="../pieces/identifiant/${iu}/cite.md"
             touch "${cible}"
-            echo "${chem}"
+#            echo "${chem}"
             printf "%s\n" "[${chem}](${chem})" >> "${cible}"
         done <<< "${matches}"
     done 

@@ -1,1 +1,1 @@
-[../../composition/demarches/radiation.md](../../demarches/radiation.md)
+[../../composition/radiation.md](../../composition/radiation.md)
