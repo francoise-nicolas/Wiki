@@ -11,7 +11,7 @@
 
 * Sponsor: [le député Jean Lassalle](https://twitter.com/jeanlassalle)
 * Auteur: Nadya Saidi & [Antoine Fontaine](https://antoinefontaine.re/)
-* [Source](../pieces/identifiant/56739858/56739858.pdf)
+* [Source](../pieces/identifiant/56739858)
 </details>
 
 ## Cas d'école

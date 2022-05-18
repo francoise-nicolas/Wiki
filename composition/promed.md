@@ -4,31 +4,60 @@
 <details>
   <summary>Info</summary>
   
-* [piece](../pieces/identifiant/82f04043/82f04043.pdf)
+* [piece](../pieces/identifiant/82f04043)
 </details>
 
 ## <a id="BESANC-RAUGEL"></a>2008-03-21 — BESANCENOT — Passation RAUGEL
 <details>
   <summary>Info</summary>
   
-* [piece](../pieces/identifiant/70648ad4/70648ad4.pdf)
+* [piece](../pieces/identifiant/70648ad4)
+</details>
+
+## 2009-01-28 — NICOLAS — BENICHOU
+
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/21b63641)
 </details>
 
 ## 2009-05-13 — BENICHOU — Évaluation professionnelle
 <details>
   <summary>Info</summary>
   
-* [piece](../pieces/identifiant/3cd189d9/3cd189d9.pdf)
+* [piece](../pieces/identifiant/3cd189d9)
+</details>
+
+## 2009-07-28 — NICOLAS — MAE
+
+## 2009-09-15 — LEROY
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/55ba3b60)
 </details>
 
 ## 2009-10-18 — ASSOULINE (Me)
-🚧
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/9925f080)
+</details>
 
 ## 2009-12-14 — BAHUHAUD
-🚧
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/ef3c4d08)
+</details>
 
 ## 2010-01-08 — LEROY
-🚧
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/ef3c4d08)
+</details>
 
 ## 2010-01-05 — 🚧 — Certificat médical
 <details>
@@ -38,7 +67,11 @@
 </details>
 
 ## 2010-01-13 — ADISSIN
-🚧
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/241a304f)
+</details>
 
 ## 2010-01-14 — APITHY (Dr.) — Cerficat médical
 <details>
@@ -78,7 +111,7 @@
 <details>
   <summary>Info</summary>
   
-* [piece](../pieces/identifiant/7caecbb5/7caecbb5.pdf)
+* [piece](../pieces/identifiant/7caecbb5)
 </details>
 
 ## <a id="raptussuic"></a>2015-12-09 — Congé maladie (début)
@@ -106,7 +139,7 @@
 <details>
   <summary>Info</summary>
   
-* [piece](../pieces/identifiant/aab4aae/aab4aae.pdf)
+* [piece](../pieces/identifiant/aab4aae)
 </details>
 
 ## 2017-10-04 — NORTIER (Dr.) — Certificat médical

@@ -23,7 +23,7 @@
 * No. 1808894
 * piece
 
-* [piece](../pieces/identifiant/19b3ac10/19b3ac10.pdf)
+* [piece](../pieces/identifiant/19b3ac10)
 </details>
 
 ### 2020-11-30 — Demandeur — Mémoire
@@ -33,7 +33,7 @@
   <summary>Info</summary>
 
 * No. 19NT03606
-* [piece](../pieces/identifiant/65d1eb75/65d1eb75.pdf)
+* [piece](../pieces/identifiant/65d1eb75)
 </details>
 
 
@@ -42,7 +42,7 @@
   <summary>Info</summary>
   
 * Conseil: ROUSSEAU-TAPIE
-* [piece](../pieces/identifiant/9165d40e/9165d40e.pdf)
+* [piece](../pieces/identifiant/9165d40e)
 </details>
 
 ### 2021-08-30 — Demandeur — mémoire
@@ -51,7 +51,7 @@
   
 * No. 452652
 * Conseil: ROUSSEAU-TAPIE
-* [piece](../pieces/identifiant/2a770bf5/2a770bf5.pdf)
+* [piece](../pieces/identifiant/2a770bf5)
 </details>
 
 #### Faits

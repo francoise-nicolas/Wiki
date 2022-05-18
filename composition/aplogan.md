@@ -9,14 +9,19 @@
 </details>
 
 ### 2011-02-17 — Demandeur — Saisine du procureur
-### 2014-07-16 — Procureur — Avis de classement
-### 2015-07-17 — Demandeur — Saisine du juge d'instruction
 <details>
   <summary>Info</summary>
   
-* Conseil: Me Bleykasten
+* [dossier](../pieces/identifiant/774a6ab9)
+</details>
+### 2014-07-16 — Procureur — Avis de classement
+### 2015-07-17 — Demandeur — Saisine du JI
+<details>
+  <summary>Info</summary>
+  
 * No. 130255
-* [piece](../pieces/identifiant/90f57e28/90f57e28.pdf)
+* Conseil: Me Bleykasten
+* [piece](../pieces/identifiant/90f57e28)
 </details>
 
 ### 2020-02-28 — TJ Nantes — Décision
@@ -24,14 +29,14 @@
   <summary>Info</summary>
   
 * Effet: non-lieu
-* [piece](../pieces/identifiant/27676369/27676369.pdf)
+* [piece](../pieces/identifiant/27676369)
 </details>
 
 ### 2020-03-20 — Demandeur — Requête d'appel
 <details>
   <summary>Info</summary>
   
-* [piece](../pieces/identifiant/5ab77408/5ab77408.pdf)
+* [piece](../pieces/identifiant/5ab77408)
 </details>
 
 ## Droit

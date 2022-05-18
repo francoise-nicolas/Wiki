@@ -16,7 +16,7 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
 <details>
   <summary>Info</summary>
 
-* [document](../pieces/identifiant/acfb12ff/acfb12ff.pdf)
+* [document](../pieces/identifiant/acfb12ff)
 </details>
 
 ### 2022-02-17 — Réponse
@@ -24,7 +24,7 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
   <summary>Info</summary>
 
 * Signé: [Ingrid BELLANDER TODINO](https://op.europa.eu/en/web/who-is-who/person/-/person/COM_000037D403)
-* [document](../pieces/identifiant/114d5f23/114d5f23.pdf)
+* [document](../pieces/identifiant/114d5f23)
 </details>
 
 ## Département d'état🇺🇸
@@ -40,6 +40,6 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
     * Executive Director, Human Rights Watch, Paris branch, [Kenneth Roth](https://twitter.com/KenRoth); 
     * Co-chair, [Tom Lantos Human Rights Commission](https://twitter.com/TLHumanRights), 
 [Hon. Christopher H. Smith](https://chrissmith.house.gov/).
-* [document](../pieces/identifiant/31f73b4d/31f73b4d.pdf)
-* [preuve de dépôt](../pieces/identifiant/6ee9b5eb/6ee9b5eb.png)
+* [document](../pieces/identifiant/31f73b4d)
+* [preuve de dépôt](../pieces/identifiant/6ee9b5eb)
 </details>

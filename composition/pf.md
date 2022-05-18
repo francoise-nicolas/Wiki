@@ -18,7 +18,7 @@ Par une requête enregistrée le 3 juin 2016, Mme Nicolas a demandé à la cour 
 <details>
   <summary>Info</summary>
   
-* [piece](../pieces/identifiant/a368f509/a368f509.pdf)
+* [piece](../pieces/identifiant/a368f509)
 * Autre: via TA Rennes
 </details>
 
@@ -26,7 +26,7 @@ Par une requête enregistrée le 3 juin 2016, Mme Nicolas a demandé à la cour 
 <details>
   <summary>Info</summary>
   
-* [piece](../pieces/identifiant/8b8956dd/8b8956dd.docx)
+* [piece](../pieces/identifiant/8b8956dd)
 </details>
 
 ### 2016-04-05 — TA Nantes — Décision
@@ -34,7 +34,7 @@ Par une requête enregistrée le 3 juin 2016, Mme Nicolas a demandé à la cour 
   <summary>Info</summary>
   
 * No. 1401097
-* [piece](../pieces/identifiant/a8b0afa0/a8b0afa0.pdf)
+* [piece](../pieces/identifiant/a8b0afa0)
 </details>
 
 ### 2016-06-03 — CAA Nantes — Recours
@@ -43,7 +43,7 @@ Par une requête enregistrée le 3 juin 2016, Mme Nicolas a demandé à la cour 
   
 * No. 1401097
 * Conseil: Me BLEYKASTEN
-* [piece](../pieces/identifiant/45ca81e4/45ca81e4.pdf)
+* [piece](../pieces/identifiant/45ca81e4)
 </details>
 
 ### 2017-12-15 — CAA Nantes — Audience
@@ -51,7 +51,7 @@ Par une requête enregistrée le 3 juin 2016, Mme Nicolas a demandé à la cour 
 <details>
   <summary>Info</summary>
 
-* [piece](../pieces/identifiant/c7989b34/c7989b34.pdf)
+* [piece](../pieces/identifiant/c7989b34)
 </details>
 
 ### 2018-01-11 — CAA Nantes — Décision
@@ -59,7 +59,7 @@ Par une requête enregistrée le 3 juin 2016, Mme Nicolas a demandé à la cour 
   <summary>Info</summary>
   
 * No. 16NT01873
-* [piece](../pieces/identifiant/57ed0086/57ed0086.pdf)
+* [piece](../pieces/identifiant/57ed0086)
 * Représentant de la défense: [Samantha MARTEL](https://fr.linkedin.com/in/samantha-martel-506bb858?original_referer=https%3A%2F%2Fwww.google.com%2F)
 * Rapporteur: [Thomas Giraud](https://juricaf.org/recherche/rapporteur:%22M.+Thomas++GIRAUD%22)
 * Rapporteur public: [Durup de Baleine](https://jorfsearch.steinertriples.fr/name/Antoine%20Durup%20de%20Baleine)
@@ -95,7 +95,7 @@ alors que les faits en cause sont anciens, qu’il n’est pas établi que la mi
 <details>
   <summary>Info</summary>
   
-* [piece](../pieces/identifiant/5884d9d2/5884d9d2.pdf)
+* [piece](../pieces/identifiant/5884d9d2)
 </details>
 
 ### 2018-06-07 — Demandeur — Recours
@@ -103,7 +103,7 @@ alors que les faits en cause sont anciens, qu’il n’est pas établi que la mi
   <summary>Info</summary>
   
 * Conseil: Me BLEYKASTEN
-* [piece](../pieces/identifiant/78838c11/78838c11.pdf)
+* [piece](../pieces/identifiant/78838c11)
 </details>
 
 ### 2021-03-16 — CAA Nantes — Décision
@@ -118,7 +118,7 @@ alors que les faits en cause sont anciens, qu’il n’est pas établi que la mi
   <summary>Info</summary>
   
 * Requête: No. 1805251
-* [piece](../pieces/identifiant/72daf38c/72daf38c.pdf)
+* [piece](../pieces/identifiant/72daf38c)
 </details>
 
 ### 2021-05-14 — Demandeur — Mémoire
@@ -126,7 +126,7 @@ alors que les faits en cause sont anciens, qu’il n’est pas établi que la mi
   <summary>Info</summary>
   
 * Requête: No. 1805251
-* [piece](../pieces/identifiant/83ee702e/83ee702e.pdf)
+* [piece](../pieces/identifiant/83ee702e)
 </details>
 
 
@@ -135,7 +135,7 @@ alors que les faits en cause sont anciens, qu’il n’est pas établi que la mi
   <summary>Info</summary>
   
 * No. 1805251
-* [piece](../pieces/identifiant/91b02c80/91b02c80.pdf)
+* [piece](../pieces/identifiant/91b02c80)
 </details>
 
 <details>
