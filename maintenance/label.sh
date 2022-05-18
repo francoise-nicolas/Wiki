@@ -9,11 +9,11 @@
 help()
 {
     printf "%s\n"\
-           "Usage: ./pieces_label.sh"\
-           "Regroupes les dossiers de pièces par label, par exemple, label_CAA Nantes". 
+           "Usage: ./label.sh"\
+           "Regroupe les dossiers de pièces par label, par exemple, label_CAA Nantes". 
 }
 
-[[ $PWD =~ pieces_label ]] || { echo "ERREUR: '$PWD' != 'pieces_label'"; exit 1; }
+[[ $PWD =~ maintenance ]] || { echo "ERREUR: '$PWD' != 'maintenance'"; exit 1; }
 
 symbolique=1
 case ${1} in
@@ -21,33 +21,24 @@ case ${1} in
     --*) printf "ERREUR: option ${1} inconnue"; exit 1;
 esac
 
-label="${1}"
-shift
+cible_racine='../pieces/label'
+find "${cible_racine}" -mindepth 1 |\
+    grep -v "README.md" |\
+    while IFS= read path;
+    do
+        rm "${path}";
+    done
 
-[[ ${label} =~ label ]] || { echo "ERREUR: '$label' != 'label'"; exit 1; }
-
-mkdir -p "${label}"
-
-if
-    [[ -d "${label}" ]]
-then 
-    [[ -z $(ls -A "${label}") ]] || rm -r "${label}"
-fi
-
-find ../pieces -mindepth 2 -maxdepth 2 -type f -size 0 -name "label_*" |\
+find ../pieces -mindepth 3 -type f -size 0 -name "label_*" |\
     while IFS= read label_valeur;
     do
         dossier=$(dirname "${label_valeur}")
-        dossier="${dossier##*/}"
-#        echo "${dossier}"
-#        b=$(basename "${label_valeur}")
-#        code='valeur=$(echo "${b}" | sed '"'"'s/'"$label"'_//'"'"')'
-#        eval "${code}"
-#        cible="${label}/${valeur}"
-#        mkdir -p "${label}"
-#        cible+=".md"
-#        touch "${cible}"
-#        printf "%s\n" "[${dossier}](../../pieces/${dossier})" >> "${cible}"
+        uid="${dossier##*/}"
+        b=$(basename "${label_valeur}")
+        valeur="${b/label_/}"
+        cible="${cible_racine}"/"${valeur}".md
+        touch "${cible}"
+        printf "%s\n" "[${uid}](../pieces/identifiant/${uid})" >> "${cible}"
     done
 
 exit 0
