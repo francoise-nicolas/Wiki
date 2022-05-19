@@ -1,4 +1,5 @@
-![image-mise-en-avant](../_aux/anythingtosay.png)
+![image-mise-en-avant](../_aux/MAE_Commons.png)
+
 
 # Maintenance
 
@@ -42,4 +43,4 @@ find . -type f -name '*md' -print0 | xargs -0 -n1 grep -H '🚧'
 ```
 
 ---
-Photo: ['Anything to say' de Davide Dormino](http://davidedormino.com/2015/05/27/anything-to-say-a-monument-to-courage/#jp-carousel-532)
+Photo: [MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
