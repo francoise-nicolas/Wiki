@@ -53,3 +53,6 @@ Reste la voie à laquelle ce wiki ambitionne de donner sa chance: [sortir de sa 
 
 ## Autre
 Je suis originaire de Saint-Malo, et mère célibataire d'un enfant unique depuis l'âge adulte.  En [1986](../pieces/identifiant/829cbd9) et [1987](../pieces/identifiant/b5b09b6e) j'ai été récompensée par les Fondation de la Vocation et de l'Espace, respetivement, pour mes travaux sur le droit de l'espace. En 2017, j'étais [candidate suppléante](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) pour représenter la 1ère circonscription de Loire-Atlantique à l'Assemblée nationale, aux couleurs de [France Insoumise](https://twitter.com/FranceInsoumise).
+
+---
+Photo: [Françoise Nicolas, meeting LDA, 2015, par Marc Chaumeil](https://www.liberation.fr/resizer/Ygw6gn4dOU3szIG7zi8ZbVTAkFM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/6LH7K6MIGVT62DR63VG463FTWM.jpg)

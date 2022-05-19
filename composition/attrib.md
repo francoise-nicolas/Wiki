@@ -14,3 +14,15 @@ Photo: [Assises de la CA de Rennes](https://fr.wikipedia.org/wiki/Cour_d'assises
 
 ---
 Photo: [Collage place de la pte d'Auteuil](https://fr.wikipedia.org/wiki/Affaire_Sarah_Halimi#/media/Fichier:Collage_Sarah_Halimi,_place_de_la_Porte-d'Auteuil,_Paris_16e.jpg)
+
+---
+Photo: [MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
+
+---
+Photo: ['Anything to say' de Davide Dormino](http://davidedormino.com/2015/05/27/anything-to-say-a-monument-to-courage/#jp-carousel-532)
+
+---
+Photo: [Françoise Nicolas, meeting LDA, 2015, par Marc Chaumeil](https://www.liberation.fr/resizer/Ygw6gn4dOU3szIG7zi8ZbVTAkFM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/6LH7K6MIGVT62DR63VG463FTWM.jpg)
+
+---
+Photo: [Audition φ sur les LDA](https://github.com/francoise-nicolas/audition-phi)

@@ -56,4 +56,4 @@ I am a native of Saint-Malo, and have been a single mother of one since I'm an a
 ) on a [France Insoumise](https://twitter.com/FranceInsoumise) platform.
 
 ---
-[Photo: Marc Chaumeil](https://www.liberation.fr/resizer/Ygw6gn4dOU3szIG7zi8ZbVTAkFM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/6LH7K6MIGVT62DR63VG463FTWM.jpg)
+Photo: [Françoise Nicolas, meeting LDA, 2015, par Marc Chaumeil](https://www.liberation.fr/resizer/Ygw6gn4dOU3szIG7zi8ZbVTAkFM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/6LH7K6MIGVT62DR63VG463FTWM.jpg)
