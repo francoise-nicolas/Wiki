@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/anythingtosay)
+![image-mise-en-avant](../_aux/anythingtosay.png)
 
 # Voir aussi
 
