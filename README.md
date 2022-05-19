@@ -6,22 +6,21 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## Structure
 ### [Composition](./composition/README.md)
-### [Maintenance](./maintenance/README.md)
-### [Pièces](./pieces/README.md)
-
-## Mis en avant
-
-### Affaire Françoise Nicolas
-#### Résumé [🇬🇧](./composition/en.md)[🇫🇷](./composition/fr.md)
-#### [Dossiers](./composition/fn.md)
-
-### Vie publique:
 #### [Affaires](./composition/affaires.md)
+#### [Autre](./composition/autre.md):
 #### [Évènements](./composition/even.md)
 #### [Thèmes](./composition/themes.md)
 #### [Voir aussi](./composition/voiraussi.md)
+### [Maintenance](./maintenance/README.md)
+### [Pièces](./pieces/README.md)
 
-### Autre:
+## Affaire Françoise Nicolas
+### Résumé [🇬🇧](./composition/en.md)[🇫🇷](./composition/fr.md)
+### [Dossiers](./composition/fn.md)
+
+## Visiteurs
 #### [Contribuer au Wiki](./composition/contribuer.md)
 #### [Faire un don](./composition/don.md)
+
+
 
