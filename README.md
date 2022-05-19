@@ -2,9 +2,7 @@
 
 # Françoise Nicolas — Wiki
 
-Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'alerte qui accuse Nathalie Loiseau... » Ce Wiki est dédié à la vie publique en général, mon affaire en constituant un angle privilégié.
-
-## À propos[🇬🇧](./composition/en.md)[🇫🇷](./composition/fr.md)
+Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'alerte qui accuse Nathalie Loiseau... » Ce Wiki est dédié au dévoiement de la démocratie, mon affaire en constituant un angle privilégié.
 
 ## Structure
 ### [Composition](./composition/README.md)
@@ -12,12 +10,17 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ### [Pièces](./pieces/README.md)
 
 ## Mis en avant
+
+### Affaire Françoise Nicolas
+#### Résumé [🇬🇧](./composition/en.md)[🇫🇷](./composition/fr.md)
+#### [Dossiers](./composition/fn.md)
+
 ### Vie publique:
 #### [Affaires](./composition/affaires.md)
-* [Françoise Nicolas](./composition/fn.md)
 #### [Évènements](./composition/even.md)
 #### [Thèmes](./composition/themes.md)
 #### [Voir aussi](./composition/voiraussi.md)
-### Vous, le public:
+
+### Autre:
 #### [Contribuer au Wiki](./composition/contribuer.md)
 #### [Faire un don](./composition/don.md)
