@@ -1,3 +1,4 @@
+![image-mise-en-avant](../_aux/phi-strip.png)
 # Vie publique — évènements
 
 Sont retenus les évènements auquels Françoise Nicolas à participé (depuis l'estrade ou les bancs du public) où ayant été étudié.
@@ -31,3 +32,5 @@ Sont retenus les évènements auquels Françoise Nicolas à participé (depuis l
 [ ] https://twitter.com/FranoiseNicolas/status/1111548694850138112
 </details>
 
+---
+Photo: [Audition φ sur les LDA](https://github.com/francoise-nicolas/audition-phi)

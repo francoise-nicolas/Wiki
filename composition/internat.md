@@ -1,3 +1,5 @@
+![image-mise-en-avant](../_aux/Pleniere.png)
+
 # International
 
 De l'influence de l'intenational sur l'état de droit en France.

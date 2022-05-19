@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/mae.png)
+![image-mise-en-avant](../_aux/francafrique.png)
 
 # Quai d'Orsay-Françafrique
 
