@@ -1,20 +1,20 @@
-# Requête statut lanceur d'alerte
+# Statut de lanceur d'alerte
 
-### 2016-11-05 — DDD — Relance
+### 2016-11-05 — Défenseur des droits — Relance
 <details>
   <summary>Info</summary>
 
 * [piece](../pieces/identifiant/971bb5e0)
 </details>
 
-### 2017-09-20 — DDD — Relance
+### 2017-09-20 — Défenseur des droits — Relance
 <details>
   <summary>Info</summary>
 
 * [piece](../pieces/identifiant/7e00f9e)
 </details>
 
-### 2017-10-06 — DDD — Décision
+### 2017-10-06 — Défenseur des droits — Décision
 <details>
   <summary>Info</summary>
 
@@ -22,7 +22,7 @@
 * [piece](../pieces/identifiant/1e441ef6)
 </details>
 
-### 2017-12-12 — DDD — Mise à jour
+### 2017-12-12 — Défenseur des droits — Mise à jour
 <details>
   <summary>Info</summary>
 
@@ -30,7 +30,7 @@
 * [piece](../pieces/identifiant/daa2a08f)
 </details>
 
-### 2018-03-30 — DDD — Mise à jour
+### 2018-03-30 — Défenseur des droits — Mise à jour
 <details>
   <summary>Info</summary>
 
@@ -44,7 +44,7 @@
 * [piece](../pieces/identifiant/f9f63068)
 </details>
 
-### 2018-10-19 — DDD — Décision
+### 2018-10-19 — Défenseur des droits — Décision
 <details>
   <summary>Info</summary>
 
