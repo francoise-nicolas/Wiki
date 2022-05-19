@@ -8,7 +8,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ### [Contenu](./contenu/README.md)
 * [Affaires](./contenu/affaires.md)
 * [Autre](./contenu/autre.md)
-* [Évènements](./contenu/even.md)
+* [Sujets](./contenu/sujets.md)
 * [Thèmes](./contenu/themes.md)
 * [Tribunes](./contenu/tribunes.md)
 * [Voir aussi](./contenu/voiraussi.md)

@@ -6,7 +6,7 @@
 > L'administration doit protéger l'agent, lui apporter une assistance juridique et réparer les préjudices qu'il a subis. 
 > La demande de protection fonctionnelle doit être formulée par écrit auprès de l'administration employeur à la date des faits en cause.
 
-## Synthèse
+## <a id="synthese"></a>Synthèse
 
 Par une requête enregistrée le 3 juin 2016, Mme Nicolas a demandé à la cour d'enjoindre le Ministère de l'Europe et des Affaires Étrangère, de lui accorder le bénéfice de la protection fonctionnelle, notamment par la prise en charge de ses frais de conseil au titre des plaintes pénales engagées, et l’ouverture d’une enquête administrative sur les faits survenus au mois de janvier 2010 à l’ambassade de France à Cotonou qui l’ont opposée à un autre agent de l’ambassade. En réplique, le MAE s’est fondé sur le motif d’intérêt général tiré de la nécessité pour l’Etat français, de préserver la qualité de ses relations diplomatiques avec les autorités du Bénin, de ne pas prendre parti pour l’un de ses agents expatriés au détriment d’un agent de droit local. Par décision du 11 janvier 2018, la CAA de Nantes a estimé que « le ministre a commis une erreur d’appréciation en estimant que de telles circonstances constituaient un motif d’intérêt général excluant la mise en œuvre de la protection fonctionnelle », annulé la décision antérieure validant la décision implicite du 5 juillet 2013, rejetant le recours gracieux de Mme Nicolas, et enjoint le MAE de procéder au réexamen de sa demande de protection statutaire. Par décision du 26 octobre 2021, la même juridiction a annulé la décision du MAE du 11 avril 2018 enterrinant son refus, et enjoint d'accorder la protection fonctionnelle à Mme Nicolas.
 

@@ -1,8 +1,8 @@
 ![image-mise-en-avant](../_aux/blousebl.png)
 
-# Vie publique — évènements
+# Vie publique — sujets
 
-Évènements pour lesquels une analyse est fournie.
+Sujets sur les lesquels un travail a été fourni (tel que, le verbatim)
 
 ## 2018
 ### [Anticor / Eva Joly](anticor92joly.md)

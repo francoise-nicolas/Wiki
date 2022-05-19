@@ -3,7 +3,7 @@
 ## 📜Chronologie
 ### 2011 [Africa intelligence: Françoise Nicolas remonte sur le ring](https://www.africaintelligence.fr/afrique-ouest-et-centrale_politique/2011/12/01/francoise-nicolas-remonte-sur-le-ring,94999641-art)
 
-### 2016 [Fête de l'huma — témoignage de Françoise Nicolas et Nicolas Faurissier](https://t.co/mSMacDdH9t)
+### 2016 <a id="huma-2016"></a>[Fête de l'huma — témoignage de Françoise Nicolas et Nicolas Faurissier](https://t.co/mSMacDdH9t)
 
 ### 2018
 #### <a id="nicolasVA"></a>[Valeurs Actuelles: La lanceuse d'alerte qui attaque Nathalie Loiseau](../pieces/identifiant/ccac26a8)
