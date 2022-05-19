@@ -1,4 +1,4 @@
-## Vie publique — thème
+## Vie publique — par thème
 ### [Alternatives](democralter.md)
 ### [Capture de l'état](capturetat.md)
 ### [Contrepouvoirs](contrepouvoirs.md)

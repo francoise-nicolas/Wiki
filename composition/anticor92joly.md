@@ -1,4 +1,6 @@
-# Le coût de la corrupion: une conférence de 2018, organizée Anticor 92, avec en vedette Eva Joly 
+![image-mise-en-avant](../_aux/blousebl.png)
+
+# Anticor 92 recevait Eva Joly en 2018 sur le coût de la corrupion
 
 <details>
   <summary>Info</summary>
@@ -9,7 +11,7 @@
     - Jean Garrigues
     - Jean-Yves Cognière (modérateur)
     - Nicole-Marie Meyer (modératrice)
-    - [Annonce](https://www.anticor.org/2018/06/04/compte-rendu-de-la-conference-debat-la-corruption-un-cout-exorbitant-pour-la-societe-francaise/)
+* [Annonce](https://www.anticor.org/2018/06/04/compte-rendu-de-la-conference-debat-la-corruption-un-cout-exorbitant-pour-la-societe-francaise/)
 </details>
 
 <!-- #### <div align="right">00:00:00</div>-->
@@ -587,3 +589,7 @@ COMPLÉTER
 ## Voir aussi
 ### Affaire Elf
 ➔[Dossier](japparences.md#elf)
+
+---
+Photo: [@blouseblanche59](https://twitter.com/blouseblanche59/status/1007355576559562752/photo/1)
+
