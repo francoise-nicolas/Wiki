@@ -8,7 +8,15 @@ Sont retenus les évènements auquels Françoise Nicolas à participé (depuis l
 #### <a id="4econgresethique"></a>4è congrès éthique
 <details><summary>Info</summary>
 
-[dossier](../pieces/identifiant/17dee7ea)
+* Date: 2018-03-30
+* [piece](../pieces/identifiant/e1b9d831)
+
+</details>
+
+<details>
+  <summary>Échange avec Jacques Toubon</summary>
+
+* [piece](../pieces/identifiant/17dee7ea)
 </details>
 
 ## 2020

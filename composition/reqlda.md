@@ -30,14 +30,6 @@
 * [piece](../pieces/identifiant/daa2a08f)
 </details>
 
-### 2018-03-30 — Jacques Toubon
-<details>
-  <summary>Info</summary>
-
-* [Contexte: Congrès éthique / OCDE](../pieces/identifiant/e1b9d831)
-* [piece](../pieces/identifiant/17dee7ea)
-</details>
-
 ### 2018-03-30 — DDD — Mise à jour
 <details>
   <summary>Info</summary>
@@ -59,7 +51,7 @@
 * [piece](../pieces/identifiant/9d15d781)
 </details>
 
-### 2019-02-28 — Jacques Toubon
+### 2019-02-28 — Demandeur — Réclamation
 <details>
   <summary>Info</summary>
 
