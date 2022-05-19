@@ -1,5 +1,3 @@
-![image-mise-en-avant](../_aux/24559402402.png)
-
 # État policier: « vieux comme Max Weber »
 
 ## 📜Chronologie
@@ -53,5 +51,3 @@
 ### <a id="queffelecweber">2019 [France culture: La "violence légitime de l'État" de Max Weber](https://www.franceculture.fr/philosophie/la-violence-legitime-de-letat-de-max-weber)
 
 > 28 juillet 2020, Gérald Darmanin, ministre de l'Intérieur, mentionne la "violence légitime de l'État" de Max Weber. Conceptualisé par le sociologue allemand en 1919, le concept de Max Weber a été détourné de son sens originel. Explication 
----
-Photo: [LBD 40](https://commons.wikimedia.org/wiki/File:Alternative_libertaire_mensuel_(24559402402)_(cropped).jpg)

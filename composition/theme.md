@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/anythingtosay.png)
+![image-mise-en-avant](../_aux/freespeech_Commons.png)
 
 ## Vie publique — par thème
 ### [Alternatives](democralter.md)
@@ -13,4 +13,4 @@
 ### [Robe noire](robenoire.md)
 
 ---
-Photo: ['Anything to say' de Davide Dormino](http://davidedormino.com/2015/05/27/anything-to-say-a-monument-to-courage/#jp-carousel-532)
+Photo: [Drapeau de la LdE](https://en.wikipedia.org/wiki/Freedom_of_information#/media/File:Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg)

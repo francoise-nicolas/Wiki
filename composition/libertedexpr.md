@@ -1,5 +1,3 @@
-![image-mise-en-avant](../_aux/freespeech_Commons.png)
-
 # Liberté d'expression
 
 ## 📚Bibliographie
@@ -62,6 +60,3 @@ le juge peut, méme en référé, ordonner l’insertion dans la publication con
 ### <a id="macrondegageFR3"></a>2018 [Une pancarte Macron dégage masquée sur France 3](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.lemonde.fr%2Fbig-browser%2Farticle%2F2018%2F12%2F16%2Fune-pancarte-macron-degage-masquee-sur-france-3-une-erreur-humaine-selon-la-chaine_5398433_4832693.html)
 
 ### <a id="covidpresse"></a> 2020 [Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)
-
----
-Photo: [Drapeau de la LdE](https://en.wikipedia.org/wiki/Freedom_of_information#/media/File:Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg)

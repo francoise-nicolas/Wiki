@@ -1,5 +1,3 @@
-![image-mise-en-avant](../_aux/Parl_BZH_assises.png)
-
 # Robe noire
 
 > Le droit est, en fait, pénétré du secret, puisque sa matrice, l’État, est elle-même fondée sur celui-ci. Le secret prend alors la forme de la Raison d’État. 
@@ -95,6 +93,3 @@
 </details>
 
 ### <a id="bienv2021magistrats"></a>2021 [Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
-
----
-Photo: [Parlement de Bretagne, Assises](https://fr.wikipedia.org/wiki/Cour_d'assises_(France)#/media/Fichier:Parlement_de_Bretagne_-_Salle_des_Assises_1.jpg)
