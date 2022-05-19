@@ -19,8 +19,6 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ### [Dossiers](./composition/fn.md)
 
 ## Visiteurs
-#### [Contribuer au Wiki](./composition/contribuer.md)
+#### [Contribuer au Wiki](./composition/contrib.md)
 #### [Faire un don](./composition/don.md)
-
-
 
