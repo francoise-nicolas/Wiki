@@ -3,11 +3,11 @@
 # Affaire Françoise Nicolas
 
 ## [Influence](./influence.md)
-## [Médias](./medias.md)
 ## [Procès pénal](./aplogan.md)
 ## [Professionnel et médical](./promed.md)
 ## [Protection fonctionnelle](./pf.md)
 ## [Radiation](./radiation.md)
+## [Relations publiques](./rp.md)
 ## [Statut LDA](./reqlda.md)
 
 ---

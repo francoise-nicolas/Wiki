@@ -395,6 +395,15 @@ Oui, il y a une hypocrisie dans tout ça. On sait que l'opinion ne tolère pas l
 
 <details><summary>🚧 </summary>
 
-
 LA SUITE
 </details>
+
+## Voir aussi
+### [Eva Joly vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
+
+<details><summary>🚧 </summary>
+
+Synthèse
+</details>
+
+

@@ -62,3 +62,6 @@ Le département d’état des É.U. a un bureau dédié aux droits humains qui p
 * [Procédure de requête](https://www.ohchr.org/fr/hr-bodies/hrc/complaint-procedure/hrc-complaint-procedure-index)
 
 ### [Traités ratifiés par la France](https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/countries.aspx?CountryCode=FRA&Lang=FR)
+
+---
+Photo: [Session plènière, CdE](https://fr.wikipedia.org/wiki/Conseil_de_l%27Europe#/media/Fichier:Pleniere.JPG)

@@ -1,3 +1,5 @@
+![image-mise-en-avant](../_aux/CE_AG_Commons.png)
+
 # Radiation de la fonction publique
 <details>
   <summary>Info</summary>
@@ -251,3 +253,5 @@ EN ATTENTE
 ### Code des pensions civiles et militaires
 * Article R. 49 bis: la décision d'admission à la retraite...
 
+---
+Photo: [AG du CE](https://en.wikipedia.org/wiki/Conseil_d%27%C3%89tat_(France)#/media/File:Conseil_d'Etat_-_salle_de_l'assembl%C3%A9e_g%C3%A9n%C3%A9rale_.jpg)

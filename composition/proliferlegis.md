@@ -1,3 +1,5 @@
+![image-mise-en-avant](../_aux/ANhemicycle.png)
+
 # Prolifération législative
 
 ## Rapport
@@ -11,3 +13,6 @@
 ### <a id="candau2016medias"></a>2014 Sur Médiapart: [Réformer une justice malade (2/3). La grande misère de la justice](https://www.dailymotion.com/video/x2spq5t)
 
 > Seules 200 des 15000 infractions sont effectivement utilisés (Yves Charpenel au temps 18:20)
+
+---
+Photo: [Hemicycle de l'AN](https://fr.wikipedia.org/wiki/Assemblée_nationale_(France)#/media/Fichier:Panorama_de_l'hémicyle_de_l'assemblée_nationale.jpg)

@@ -1,3 +1,5 @@
+![image-mise-en-avant](../_aux/freespeech_Commons.png)
+
 # Liberté d'expression
 
 ## 📚Bibliographie
@@ -61,3 +63,5 @@ le juge peut, méme en référé, ordonner l’insertion dans la publication con
 
 ### <a id="covidpresse"></a> 2020 [Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)
 
+---
+Photo: [Drapeau de la LdE](https://en.wikipedia.org/wiki/Freedom_of_information#/media/File:Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg)
