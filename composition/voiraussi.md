@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/anythingtosay.png)
+![image-mise-en-avant](../_aux/Bellefaçadecarlton.png)
 
 # Voir aussi
 
@@ -7,4 +7,4 @@
 * [Déni de justice—pour une réforme de la justice](https://denidejustice.wordpress.com/)
 
 ---
-Photo: ['Anything to say' de Davide Dormino](http://davidedormino.com/2015/05/27/anything-to-say-a-monument-to-courage/#jp-carousel-532)
+Photo: [Façade du Carlton de Lille](https://commons.wikimedia.org/wiki/File:Bellefa%C3%A7adecarlton.jpg)
