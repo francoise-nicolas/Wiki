@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/freespeech_Commons.png)
+![image-mise-en-avant](../_aux/lbd.png)
 
 # Pièces
 
@@ -6,4 +6,4 @@
 ## [Label](./label)
 
 ---
-Photo: [Drapeau de la LdE](https://en.wikipedia.org/wiki/Freedom_of_information#/media/File:Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg)
+Photo: [LBD](https://upload.wikimedia.org/wikipedia/commons/c/c2/Alternative_libertaire_mensuel_(24559402402)_(cropped).jpg)
