@@ -244,5 +244,3 @@ Un gardé à vue qui a su garder ses cartes: 2h30 pour faire une perçée sur le
 
 </details>
 
----
-Photo: [Collage place de la pte d'Auteuil](https://fr.wikipedia.org/wiki/Affaire_Sarah_Halimi#/media/Fichier:Collage_Sarah_Halimi,_place_de_la_Porte-d'Auteuil,_Paris_16e.jpg)

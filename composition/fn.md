@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/MAE_Commons.png)
+![image-mise-en-avant](../_aux/phi-strip.png)
 
 # Affaire Françoise Nicolas
 
@@ -11,4 +11,4 @@
 ## [Statut LDA](./reqlda.md)
 
 ---
-Photo: [MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
+Photo: [Audition φ sur les LDA](https://github.com/francoise-nicolas/audition-phi)

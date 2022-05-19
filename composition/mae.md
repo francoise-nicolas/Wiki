@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/francafrique.png)
+![image-mise-en-avant](../_aux/MAE_Commons.png)
 
 # Quai d'Orsay-Françafrique
 
@@ -11,4 +11,5 @@
 #### <a id="borrel2021empire"></a>2021 📚[Thomas Borrel : L'empire qui ne veut pas mourir—Une histoire de la Françafrique](https://www.seuil.com/ouvrage/l-empire-qui-ne-veut-pas-mourir-collectif/9782021464160)
 
 ---
-Photo: [Quai d'Orsay](https://www.programme.tv/imgre/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FTEL.2Enews.2F2018.2F01.2F11.2Fecab1c79-8423-4c58-ac39-e22e60d33479.2Ejpeg/660x370/quality/80/le-ministere-des-affaires-etrangeres-en-6-informations-insolites.jpg)
+Photo: [MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
+

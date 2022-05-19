@@ -1,3 +1,4 @@
+![image-mise-en-avant](../_aux/SHdeni.png)
 # Déni de justice
 
 >Force est de constater qu’il y a bien une main mise sur l’arsenal judiciaire par certains agents judiciaires qui bloquent les rouages d’une fonction publique, détournent les règles du droit au profit d’une partie, enlisant ainsi le justiciable dans des procédures coûteuses et sans fin. (Rapport commandé par Jean Lassalle, 2014)
@@ -20,3 +21,6 @@
 
 
 <!-- En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-en-Provence aurait financé une partie de la villa de son beau-père, située sur les hauteurs de Saint-Antonin-sur-Bayon, avec l'argent de la municipalité. Le couple Joissains dénonce alors une brigue « politico-médiatique » menée par le clan du maire de Marseille et ministre de l'Intérieur de l'époque, Gaston Defferre. Alain Joissains a été condamné à deux ans de prison avec sursis pour « recel d’abus de biens sociaux » À la suite de la victoire de son épouse, Maryse Joissains-Masini, aux élections municipales de 2001, il est nommé directeur de cabinet du maire d'Aix-en-Provence. Fin 2008, Alain Joissains prend sa retraite, conséquence de l'annulation de son contrat par le tribunal administratif de Marseille pour rémunération excessive. Le 31 décembre 2001, Maryse Joissains-Masini est nommée chevalier dans l'ordre national de la Légion d'honneur pour ses 31 ans d'activités professionnelles et de fonctions électives. En 2020, elle a été condamnée par la Cour d'appel de Montpellier sur renvoi de la Cour de cassation après une première condamnation. Leur fille, Sophie Joissains, est adjointe au maire d'Aix-en-Provence et sénatrice des Bouches-du-Rhône depuis octobre 2008. -->
+
+---
+Photo: [Collage place de la pte d'Auteuil](https://fr.wikipedia.org/wiki/Affaire_Sarah_Halimi#/media/Fichier:Collage_Sarah_Halimi,_place_de_la_Porte-d'Auteuil,_Paris_16e.jpg)
