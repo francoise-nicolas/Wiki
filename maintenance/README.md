@@ -1,5 +1,3 @@
-![image-mise-en-avant](../_aux/lbd.png)
-
 # Maintenance
 
 ## Avertissement
@@ -40,6 +38,3 @@ Toutefois, l'on peut préférer crypter les fichiers qu'ils contiennent, comme s
 ```
 find . -type f -name '*md' -print0 | xargs -0 -n1 grep -H '🚧'
 ```
-
----
-Photo: [LBD](https://upload.wikimedia.org/wikipedia/commons/c/c2/Alternative_libertaire_mensuel_(24559402402)_(cropped).jpg)
