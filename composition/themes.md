@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/freespeech_Commons.png)
+![image-mise-en-avant](../_aux/VeR.png)
 
 ## Vie publique — par thème
 ### [Alternatives](democralter.md)
@@ -13,4 +13,4 @@
 ### [Robe noire](robenoire.md)
 
 ---
-Photo: [Drapeau de la LdE](https://en.wikipedia.org/wiki/Freedom_of_information#/media/File:Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg)
+Photo: [Schéma Vè République](https://fr.wikipedia.org/wiki/Assembl%C3%A9e_nationale_(France)#/media/Fichier:Schema_pouvoirs_Ve_republique_France-vec-final_form-ok.svg)

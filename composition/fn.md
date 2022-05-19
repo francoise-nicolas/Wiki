@@ -11,4 +11,4 @@
 ## [Statut LDA](./reqlda.md)
 
 ---
-Photo: [Audition φ sur les LDA](https://github.com/francoise-nicolas/audition-phi)
+Photo: [Audition φ sur les LDA](https://m.facebook.com/ugobernalicis/videos/audition-%CF%86-lanceurs-dalerte-dans-la-fonction-publique-14-octobre-2020/2815635448757703/)

@@ -10,6 +10,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 #### [Autre](./composition/autre.md)
 #### [Évènements](./composition/even.md)
 #### [Thèmes](./composition/themes.md)
+#### [Tribunes](./composition/tribunes.md)
 #### [Voir aussi](./composition/voiraussi.md)
 ### [Maintenance](./maintenance/README.md)
 ### [Pièces](./pieces/README.md)

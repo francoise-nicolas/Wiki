@@ -27,4 +27,4 @@ Photo: ['Anything to say' de Davide Dormino](http://davidedormino.com/2015/05/27
 Photo: [Françoise Nicolas, meeting LDA, 2015, par Marc Chaumeil](https://www.liberation.fr/resizer/Ygw6gn4dOU3szIG7zi8ZbVTAkFM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/6LH7K6MIGVT62DR63VG463FTWM.jpg)
 
 ---
-Photo: [Audition φ sur les LDA](https://github.com/francoise-nicolas/audition-phi)
+Photo: [Audition φ sur les LDA](https://m.facebook.com/ugobernalicis/videos/audition-%CF%86-lanceurs-dalerte-dans-la-fonction-publique-14-octobre-2020/2815635448757703/)
