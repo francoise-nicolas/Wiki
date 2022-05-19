@@ -1,5 +1,4 @@
-![image-mise-en-avant](../_aux/MAE_Commons.png)
-
+![image-mise-en-avant](../_aux/lbd.png)
 
 # Maintenance
 
@@ -43,4 +42,4 @@ find . -type f -name '*md' -print0 | xargs -0 -n1 grep -H '🚧'
 ```
 
 ---
-Photo: [MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
+Photo: [LBD](https://upload.wikimedia.org/wikipedia/commons/c/c2/Alternative_libertaire_mensuel_(24559402402)_(cropped).jpg)

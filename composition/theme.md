@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/Parl_BZH_assises.png)
+![image-mise-en-avant](../_aux/freespeech_Commons.png)
 
 ## Vie publique — par thème
 ### [Alternatives](democralter.md)
@@ -13,4 +13,4 @@
 ### [Robe noire](robenoire.md)
 
 ---
-Photo: [Assises de la CA de Rennes](https://fr.wikipedia.org/wiki/Cour_d'assises_(France)#/media/Fichier:Parlement_de_Bretagne_-_Salle_des_Assises_1.jpg)
+Photo: [Drapeau de la LdE](https://en.wikipedia.org/wiki/Freedom_of_information#/media/File:Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg)

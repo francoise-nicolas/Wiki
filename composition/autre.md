@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/freespeech_Commons.png)
+![image-mise-en-avant](../_aux/MAE_Commons.png)
 
 # Autre
 
@@ -7,4 +7,4 @@
 ## [Faire un don](don.md)
 
 ---
-Photo: [Drapeau de la LdE](https://en.wikipedia.org/wiki/Freedom_of_information#/media/File:Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg)
+Photo: [MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)

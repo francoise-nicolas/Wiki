@@ -7,7 +7,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ## Structure
 ### [Composition](./composition/README.md)
 #### [Affaires](./composition/affaires.md)
-#### [Autre](./composition/autre.md):
+#### [Autre](./composition/autre.md)
 #### [Évènements](./composition/even.md)
 #### [Thèmes](./composition/themes.md)
 #### [Voir aussi](./composition/voiraussi.md)

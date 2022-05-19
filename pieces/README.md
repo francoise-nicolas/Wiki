@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/lbd.png)
+![image-mise-en-avant](../_aux/SHdeni.png)
 
 # Pièces
 
@@ -6,4 +6,4 @@
 ## [Label](./label)
 
 ---
-Photo: [LBD](https://upload.wikimedia.org/wikipedia/commons/c/c2/Alternative_libertaire_mensuel_(24559402402)_(cropped).jpg)
+Photo: [Collage place de la pte d'Auteuil](https://fr.wikipedia.org/wiki/Affaire_Sarah_Halimi#/media/Fichier:Collage_Sarah_Halimi,_place_de_la_Porte-d'Auteuil,_Paris_16e.jpg)
