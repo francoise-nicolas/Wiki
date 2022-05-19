@@ -1,4 +1,4 @@
-# Relations publiques 
+# Médias
 
 ## 📜Chronologie
 ### 2011 [Africa intelligence: Françoise Nicolas remonte sur le ring](https://www.africaintelligence.fr/afrique-ouest-et-centrale_politique/2011/12/01/francoise-nicolas-remonte-sur-le-ring,94999641-art)
@@ -29,14 +29,15 @@ Françoise Nicolas [en a contesté en ligne la véracité](https://www.liberatio
 ### 2021
 #### <a id="RTnicolas"></a>[📺 Russia Today: Après une violente agression, la lanceur d'alerte Françoise Nicolas se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
 
-#### <a id="fantomesbenin"></a>France Soir: [Dossiers fantômes et détournement de fonds au Bénin](https://www.francesoir.fr/videos-le-defi-de-la-verite/dossiers-fantomes-et-detournements-de-fonds-publics-au-benin)
+#### <a id="FS-fantomesbenin"></a>France Soir: [Dossiers fantômes et détournement de fonds au Bénin](https://www.francesoir.fr/videos-le-defi-de-la-verite/dossiers-fantomes-et-detournements-de-fonds-publics-au-benin)
 
-<!-- #### <a id="fantomesbenin"></a>Nouvelle Tribune: [Dossiers fantômes et détournement de fonds au Bénin](https://lanouvelletribune.info/2021/05/dossiers-fantomes-a-lambassade-de-france-au-benin-lex-employee-demande-de-laide/) -->
+#### <a id="NT-fantomesbenin"></a>Nouvelle Tribune: [Dossiers fantômes et détournement de fonds au Bénin](https://lanouvelletribune.info/2021/05/dossiers-fantomes-a-lambassade-de-france-au-benin-lex-employee-demande-de-laide/)
 
 #### [Netafrique.net: « J’ai défendu les intérêts des Béninois », une ex-diplomate française en détresse crie à l’aide](https://netafrique.net/jai-defendu-les-interets-des-beninois-une-ex-diplomate-francaise-en-detresse-crie-a-laide/)
 
 #### [Le réveil citoyen: agressée pour avoir dénoncé du détournement de fonds publics, Françoise Nicolas témoigne](https://lereveilcitoyen.fr/2021/05/21/agressee-pour-avoir-denonce-du-detournement-de-fonds-publics-francoise-nicolas-temoigne/)
 
 ### 2022
-#### [📺 Qui Veut La Peau de Françoise Nicolas ?—Charles Lacroix](https://www.youtube.com/watch?v=cOagKQBZJ78)
+#### [📺 Qui Veut La Peau de Françoise Nicolas ? — Charles Lacroix](https://www.youtube.com/watch?v=cOagKQBZJ78)
 
+#### [📺 Souffrance au travail; on lâche rien. — Daniel Kupferstein avec ASD-Pro](https://www.youtube.com/watch?v=bIRDokeUETs&t=9s)
