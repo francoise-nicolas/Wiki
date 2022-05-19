@@ -2,7 +2,7 @@
 
 ## Moyens💳
 
-* [Paypal](https://www.paypal.com/paypalme/francoisenicolas)
+### [Paypal](https://www.paypal.com/paypalme/francoisenicolas)
 
 ## 📜Chronologie
 
