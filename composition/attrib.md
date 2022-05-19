@@ -1,4 +1,6 @@
-# Attrib
+# Attributions
+
+Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas.
 
 ---
 Photo: [Schéma Vè République](https://fr.wikipedia.org/wiki/Assembl%C3%A9e_nationale_(France)#/media/Fichier:Schema_pouvoirs_Ve_republique_France-vec-final_form-ok.svg)
@@ -16,7 +18,7 @@ Photo: [Assises de la CA de Rennes](https://fr.wikipedia.org/wiki/Cour_d'assises
 Photo: [Collage place de la pte d'Auteuil](https://fr.wikipedia.org/wiki/Affaire_Sarah_Halimi#/media/Fichier:Collage_Sarah_Halimi,_place_de_la_Porte-d'Auteuil,_Paris_16e.jpg)
 
 ---
-Photo: [MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
+Photo: [Hôtel du MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
 
 ---
 Photo: ['Anything to say' de Davide Dormino](http://davidedormino.com/2015/05/27/anything-to-say-a-monument-to-courage/#jp-carousel-532)

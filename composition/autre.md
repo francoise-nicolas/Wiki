@@ -7,4 +7,4 @@
 ## [Faire un don](don.md)
 
 ---
-Photo: [MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
+Photo: [Hôtel du MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
