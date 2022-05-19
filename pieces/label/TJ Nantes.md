@@ -1,5 +1,2 @@
 [90f57e28](../pieces/identifiant/90f57e28)
-[27676369.poubelle](../pieces/identifiant/27676369.poubelle)
-[5ab77408.poubelle](../pieces/identifiant/5ab77408.poubelle)
-[adf9e63e.poubelle](../pieces/identifiant/adf9e63e.poubelle)
 [774a6ab9](../pieces/identifiant/774a6ab9)

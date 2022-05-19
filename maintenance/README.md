@@ -1,3 +1,5 @@
+![image-mise-en-avant](../_aux/anythingtosay.png)
+
 # Maintenance
 
 ## Avertissement
@@ -38,3 +40,6 @@ Toutefois, l'on peut préférer crypter les fichiers qu'ils contiennent, comme s
 ```
 find . -type f -name '*md' -print0 | xargs -0 -n1 grep -H '🚧'
 ```
+
+---
+Photo: ['Anything to say' de Davide Dormino](http://davidedormino.com/2015/05/27/anything-to-say-a-monument-to-courage/#jp-carousel-532)
