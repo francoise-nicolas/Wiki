@@ -1,4 +1,4 @@
-![mae](../_aux/phi-strip.png)
+![image-mise-en-avant](../_aux/phi-strip.png)
 
 # Affaire Françoise Nicolas
 
