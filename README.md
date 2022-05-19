@@ -6,12 +6,12 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## Structure
 ### [Composition](./composition/README.md)
-#### [Affaires](./composition/affaires.md)
-#### [Autre](./composition/autre.md)
-#### [Évènements](./composition/even.md)
-#### [Thèmes](./composition/themes.md)
-#### [Tribunes](./composition/tribunes.md)
-#### [Voir aussi](./composition/voiraussi.md)
+* [Affaires](./composition/affaires.md)
+* [Autre](./composition/autre.md)
+* [Évènements](./composition/even.md)
+* [Thèmes](./composition/themes.md)
+* [Tribunes](./composition/tribunes.md)
+* [Voir aussi](./composition/voiraussi.md)
 ### [Maintenance](./maintenance/README.md)
 ### [Pièces](./pieces/README.md)
 
@@ -20,6 +20,6 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ### [Dossiers](./composition/fn.md)
 
 ## Visiteurs
-#### [Contribuer au Wiki](./composition/contrib.md)
-#### [Faire un don](./composition/don.md)
+* [Contribuer au Wiki](./composition/contrib.md)
+* [Faire un don](./composition/don.md)
 
