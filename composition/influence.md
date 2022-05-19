@@ -1,4 +1,9 @@
+<!--
+
 ![image-mise-en-avant](../_aux/Lobby-1886.png)
+
+-->
+
 # Influence
 
 Cette page regroupe mes actions ciblées en faveur de l'état de droit.
@@ -63,5 +68,9 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
 * [State DLR - texte](../pieces/identifiant/d7c8696b)
 </details>
 
+<!--
+
 ---
 Photo: [Lobby de la chambre des communes, 1886](https://commons.wikimedia.org/w/index.php?curid=17776637)
+
+-->

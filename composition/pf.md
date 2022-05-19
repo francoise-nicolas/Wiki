@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/CE_Commons.png)
+<!-- ![image-mise-en-avant](../_aux/CE_Commons.png) -->
 # Protection fonctionnelle
 
 [service-public.fr:](https://www.service-public.fr/particuliers/vosdroits/F32574)
@@ -199,5 +199,9 @@ le 14 janvier 2010 à l’ambassade de France à Cotonou est annulée.
 
 > Les fonctionnaires bénéficient, à l'occasion de leurs fonctions et conformément aux règles fixées par le code pénal et les lois spéciales, d'une protection organisée par la collectivité publique qui les emploie à la date des faits en cause ou des faits ayant été imputés de façon diffamatoire au fonctionnaire. » ; qu’aux termes du troisième alinéa de cet article : « La collectivité publique est tenue de protéger les fonctionnaires contre les menaces, violences, voies de fait, injures, diffamations ou outrages dont ils pourraient être victimes à l'occasion de leurs fonctions, et de réparer, le cas échéant, le préjudice qui en est résulté.
 
+<!--
+
 ---
 Photo: [CE](https://en.wikipedia.org/wiki/Conseil_d%27%C3%89tat_(France)#/media/File:Conseil_d'Etat_Paris_WA.jpg)
+
+-->

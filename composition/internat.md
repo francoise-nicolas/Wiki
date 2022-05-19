@@ -1,5 +1,3 @@
-![image-mise-en-avant](../_aux/Pleniere.png)
-
 # International
 
 De l'influence de l'intenational sur l'état de droit en France.
@@ -63,5 +61,3 @@ Le département d’état des É.U. a un bureau dédié aux droits humains qui p
 
 ### [Traités ratifiés par la France](https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/countries.aspx?CountryCode=FRA&Lang=FR)
 
----
-Photo: [Session plènière, CdE](https://fr.wikipedia.org/wiki/Conseil_de_l%27Europe#/media/Fichier:Pleniere.JPG)

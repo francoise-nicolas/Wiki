@@ -1,5 +1,3 @@
-![image-mise-en-avant](../_aux/blousebl.png)
-
 # Anticor 92 recevait Eva Joly en 2018 sur le coût de la corrupion
 
 <details>
@@ -516,7 +514,3 @@ Alors, juste, est-ce que vous auriez un dernier mot? Madame Joly? Monsieur Garri
 ## Voir aussi
 ### Affaire Elf
 ➔[Dossier](japparences.md#elf)
-
----
-Photo: [@blouseblanche59](https://twitter.com/blouseblanche59/status/1007355576559562752/photo/1)
-

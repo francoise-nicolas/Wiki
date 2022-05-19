@@ -1,5 +1,3 @@
-![image-mise-en-avant](../_aux/SHdeni.png)
-
 # Affaire Sarah Halimi
 
 > Un rapport qui louvoie et pratique le déni (Nicolas Bastuck P/ Le Point, 2022)
