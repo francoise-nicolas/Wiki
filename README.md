@@ -2,7 +2,7 @@
 
 # Françoise Nicolas — Wiki
 
-Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'alerte qui accuse Nathalie Loiseau... » Ce Wiki est dédié au dévoiement de la démocratie, mon affaire en constituant un angle privilégié.
+Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'alerte qui accuse Nathalie Loiseau... » Ce Wiki porte sur le dévoiement la démocratie, mon affaire en constituant un angle privilégié.
 
 ## Structure
 ### [Composition](./composition/README.md)
@@ -24,3 +24,4 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ### Autre:
 #### [Contribuer au Wiki](./composition/contribuer.md)
 #### [Faire un don](./composition/don.md)
+
