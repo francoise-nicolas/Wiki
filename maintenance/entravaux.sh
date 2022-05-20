@@ -31,12 +31,14 @@ printf "%s\n"\
        "## Description"\
        "Dresse l'inventaire des pages contenant '🚧'"\
        "## Pages"\
+       "|Fichier                                 |ligne| code                                   |"\
+       "|----------------------------------------|-----|----------------------------------------|"\
 >> "${cible}"
 
 while IFS=$'\n' read line;
 do
     
-    grep -nH '🚧' "${line}" | sed -r 's/^(.+?):.+$/\1/'
+    grep -nH '🚧' "${line}" | sed -r 's/^([^:]+):([^:]+):(.+)$/|[\1](\1)|\2|`\3`|/' >> "${cible}"
     
 done < <(find "${source}" -type f -name '*md' | grep -v "${cible}")
 
