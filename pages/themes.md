@@ -1,6 +1,6 @@
 ![image-mise-en-avant](../_aux/VeR_Commons.png)
 
-## Vie publique — par thème
+## Thèmes
 ### [Alternatives](democralter.md)
 ### [Capture de l'état](capturetat.md)
 ### [Contrepouvoirs](contrepouvoirs.md)
