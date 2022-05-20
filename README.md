@@ -6,7 +6,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## Mis en avant
 ### Affaire Françoise Nicolas
-* Résumé [🇬🇧](./pages/en.md)[🇫🇷](./contenu/fr.md)
+* Résumé [🇬🇧](./pages/en.md)[🇫🇷](./pages/fr.md)
 * [Dossiers](./pages/fn.md)
 
 ## Structure
