@@ -20,6 +20,14 @@
 🚧
 </details>
 
+## J
+### <a id="joly"></a>Eva JOLY
+<details><summary>Fiche</summary>
+
+* [Twitter](https://twitter.com/EvaJoly)
+* [CRIT](https://www.icrict.com/eva-joly) 
+</details>
+
 ## L
 ### <a id="loiseau"></a>Nathalie LOISEAU
 <details><summary>Fiche</summary>
