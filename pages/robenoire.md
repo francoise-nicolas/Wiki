@@ -27,15 +27,15 @@
 > Les Français croient que les décisions de justice sont rendues pour rétablir le droit, 
 > alors que les magistrats sont dès leur plus jeune âge pénétrés de la conviction que leur mission principale est la préservation de l’ordre établi. 
 > Or, « lorsque les magistrats enquêtent sur le pouvoir, ils dérèglent l’ordre des choses13 ».
-> L’ordre public est incontestablement troublé par une infraction commise par la FRANCE « d’en bas » et il convient donc de sanctionner l’infracteur vite et fort. 
-> À l’inverse, lorsque l’indélicat appartient à la FRANCE « d’en haut », 
+> L’ordre public est incontestablement troublé par une infraction commise par la France « d’en bas » et il convient donc de sanctionner l’infracteur vite et fort. 
+> À l’inverse, lorsque l’indélicat appartient à la France « d’en haut », 
 > ce n’est pas l’illégalité commise qui remet en cause l’équilibre de la société que les magistrats ont mission de défendre mais sa sanction. 
 > Il est donc du plus haut intérêt d’innocenter judiciairement l’important. 
 > La question de savoir s’il est ou non coupable des faits délictueux qui lui sont reprochés n’a évidemment,
 > au regard de cet objectif supérieur, aucune importance. 
 > Cette attitude de la justice,
 > qui peut découler de l’opinion que les magistrats ont de leur fonction, 
-> est solidement renforcée en FRANCE par la circonstance que les hommes politiques maîtrisent, 
+> est solidement renforcée en France par la circonstance que les hommes politiques maîtrisent, 
 > non seulement l’ensemble des phases de la procédure pénale grâce au parquet, 
 > mais par les nominations la carrière des magistrats appelés à les juger.
 > Quelle légitimité aurait le jugement de relaxe d’Al Capone rendu par un tribunal composé de juges préalablement nommés par Al Capone ? 
@@ -52,7 +52,7 @@
   <summary>Un obstacle nommé Jacques TOUBON</summary>
 
 > Précisément au moment où les juges d’instruction français et leurs homologues suisses commençaient à révéler l’existence du recours par les partis politiques à des financements occultes aboutissant sur des comptes en Suisse, le ministre de la Justice Jacques TOUBON s'inquiétait auprès de son homologue suisse, Arnold Koller,  de l’usage « excessivement fréquent » de la procédure d’urgence entre les juges d’instruction français et suisses, qui aurait pour effet «de vider les procédures normales de leur pages » et de porter atteinte au « respect des garanties voulues par la convention au bénéfice des justiciables et des droits de la défense ». « Parvenue en Suisse, la lettre surprend et atterrit – miraculeusement – sur le bureau d’un journaliste qui la publie le lendemain.»
-<!-- La correspondance de Jacques TOUBON est d’autant plus consternante que la FRANCE s’est, à l’exemple de la convention de Schengen signée le 19 juin 1990, depuis plusieurs années et dans un souci de simplification des procédures, orientée vers un progressif abandon de la voie ministérielle. Louée et vantée par les différents gouvernements lorsqu’il s’agit de lutter contre l’immigration clandestine, la coopération judiciaire internationale est moins prisée s’agissant de la lutte contre la délinquance en col blanc. -->
+<!-- La correspondance de Jacques TOUBON est d’autant plus consternante que la France s’est, à l’exemple de la convention de Schengen signée le 19 juin 1990, depuis plusieurs années et dans un souci de simplification des procédures, orientée vers un progressif abandon de la voie ministérielle. Louée et vantée par les différents gouvernements lorsqu’il s’agit de lutter contre l’immigration clandestine, la coopération judiciaire internationale est moins prisée s’agissant de la lutte contre la délinquance en col blanc. -->
 > C’est la revendication explicite d’une justice à deux vitesses qui est tout entière pagese dans la missive de Jacques TOUBON du 4 août 1995.
 > Jacques TOUBON a été nommé par François HOLLANDE défenseur des droits. En cette qualité, il a exprimé son inquiétude au lendemain de la première prolongation de l’état d’urgence. Si les Français l’ignorent peut-être, l’Élysée sait qu’il s’agit seulement d’un jeu de rôle. 
 </details>
@@ -92,4 +92,4 @@
 * Recommendation clé: aligner le statut du parquet sur celui du siège
 </details>
 
-### <a id="bienv2021magistrats"></a>2021 [Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/FRANCE/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
+### <a id="bienv2021magistrats"></a>2021 [Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)

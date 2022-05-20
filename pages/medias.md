@@ -8,10 +8,10 @@
 ### 2018
 #### <a id="nicolasVA"></a>[VALEURS ACTUELLES: La lanceuse d'alerte qui attaque Nathalie LOISEAU](../pieces/identifiant/ccac26a8)
 
-#### <a id="mediacites"></a>[MÉDIACITÉS: la LDA du Quai d'Orday poussée vers la sortie](https://www.mediacites.fr/complement-denquete/nantes/2018/10/18/la-lanceuse-dalerte-du-quai-dorsay-poussee-vers-la-sortie/)
+#### <a id="mediacites"></a>[Médiacités: la LDA du Quai d'Orday poussée vers la sortie](https://www.mediacites.fr/complement-denquete/nantes/2018/10/18/la-lanceuse-dalerte-du-quai-dorsay-poussee-vers-la-sortie/)
 
 ### 2019
-#### <a id="lemedianicolas"></a>[📺 LE MÉDIA: La lanceuse d'alerte qui accuse Nathalie LOISEAU](https://www.lemediatv.fr/emissions/les-entretiens/la-lanceuse-dalerte-qui-accuse-nathalie-loiseau-lKSR1V_BSsKkSzrIF8-h6A)
+#### <a id="lemedianicolas"></a>[📺 Le Média: La lanceuse d'alerte qui accuse Nathalie LOISEAU](https://www.lemediatv.fr/emissions/les-entretiens/la-lanceuse-dalerte-qui-accuse-nathalie-loiseau-lKSR1V_BSsKkSzrIF8-h6A)
 
 #### [Mondafrique: Afrique, Nathalie LOISEAU n’aime pas les lanceurs d’alerte](https://mondafrique.com/nathalie-loiseau-tuer/)
 
@@ -29,9 +29,9 @@ Françoise NICOLAS [en a contesté en ligne la véracité](https://www.liberatio
 ### 2021
 #### <a id="RTnicolas"></a>[📺 RUSSIA TODAY: Après une violente agression, la lanceur d'alerte Françoise NICOLAS se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
 
-#### <a id="FS-fantomesbenin"></a>FRANCE SOIR: [Dossiers fantômes et détournement de fonds au BÉNIN](https://www.francesoir.fr/videos-le-defi-de-la-verite/dossiers-fantomes-et-detournements-de-fonds-publics-au-benin)
+#### <a id="FS-fantomesbenin"></a>France SOIR: [Dossiers fantômes et détournement de fonds au Bénin](https://www.francesoir.fr/videos-le-defi-de-la-verite/dossiers-fantomes-et-detournements-de-fonds-publics-au-benin)
 
-#### <a id="NT-fantomesbenin"></a>NOUVELLE TRIBUNE: [Dossiers fantômes et détournement de fonds au BÉNIN](https://lanouvelletribune.info/2021/05/dossiers-fantomes-a-lambassade-de-france-au-benin-lex-employee-demande-de-laide/)
+#### <a id="NT-fantomesbenin"></a>Nouvelle Tribune: [Dossiers fantômes et détournement de fonds au Bénin](https://lanouvelletribune.info/2021/05/dossiers-fantomes-a-lambassade-de-france-au-benin-lex-employee-demande-de-laide/)
 
 #### [Netafrique.net: « J’ai défendu les intérêts des Béninois », une ex-diplomate française en détresse crie à l’aide](https://netafrique.net/jai-defendu-les-interets-des-beninois-une-ex-diplomate-francaise-en-detresse-crie-a-laide/)
 

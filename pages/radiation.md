@@ -49,7 +49,7 @@
 * [piece](../pieces/identifiant/8da78f8e)
 </details>
 
-### 2018-10-15 —  TA NANTES — Décision
+### 2018-10-15 —  TA Nantes — Décision
 <details>
   <summary>Info</summary>
 
@@ -58,7 +58,7 @@
 * [piece](../pieces/identifiant/3410024c)
 </details>
 
-### 2019-07-09 —  TA NANTES — Décision
+### 2019-07-09 —  TA Nantes — Décision
 <details>
   <summary>Info</summary>
 
@@ -89,7 +89,7 @@
 * [piece](../pieces/identifiant/76684f87)
 </details>
 
-### 2021-03-16 —  CAA NANTES — Décision
+### 2021-03-16 —  CAA Nantes — Décision
 <details>
   <summary>Info</summary>
 
@@ -119,11 +119,11 @@
 <details>
   <summary>I</summary>
   
-Mme NICOLAS, secrétaire de chancellerie, a été affectée en juillet 2008 à l'ambassade de FRANCE à Cotonou au BÉNIN.
+Mme NICOLAS, secrétaire de chancellerie, a été affectée en juillet 2008 à l'ambassade de France à Cotonou au Bénin.
 Le 14 janvier 2010, 
 elle a été victime d'une agression physique particulièrement brutale de la part de l'agent de droit local de l'ambassade qui partageait son bureau. 
 Contre toute attente, son agresseur ayant porté plainte à l'encontre de Mme NICOLAS, 
-l'ambassadeur de FRANCE a ordonné le retour en urgence de cette dernière en France dès le 22 janvier suivant.
+l'ambassadeur de France a ordonné le retour en urgence de cette dernière en France dès le 22 janvier suivant.
 Abandonnant sur place tous ses biens et effets personnels, 
 Mme NICOLAS a été affectée à compter de cette même date du 22 janvier 2010 sur des postes en administration centrale à Nantes sans véritables attributions et ne correspondant pas à ses compétences et ce, 
 jusqu en décembre 2015, 

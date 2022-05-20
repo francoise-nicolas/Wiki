@@ -1,6 +1,6 @@
 # International
 
-De l'influence de l'intenational sur l'état de droit en FRANCE.
+De l'influence de l'intenational sur l'état de droit en France.
 
 ## Cour Européenne des Droits de l'Homme
 <details><summary>Recevabilité</summary>
@@ -10,12 +10,12 @@ De l'influence de l'intenational sur l'état de droit en FRANCE.
 
 ### Arrêts
 
-#### Medvedyev contre FRANCE du 29 mars 2010
-#### Moulin c. FRANCE du 23 novembre 2010
+#### Medvedyev contre France du 29 mars 2010
+#### Moulin c. France du 23 novembre 2010
 
 <details><summary>Extrait</summary>
 
-« les membres du ministère public, en FRANCE, ne remplissent pas l'exigence d'indépendance à l'égard de l'exécutif, qui, selon une jurisprudence constante, compte, au même titre que l'impartialité, parmi les garanties inhérentes à la notion autonome de « magistrat » au sens de l'article 5 § 3 » 
+« les membres du ministère public, en France, ne remplissent pas l'exigence d'indépendance à l'égard de l'exécutif, qui, selon une jurisprudence constante, compte, au même titre que l'impartialité, parmi les garanties inhérentes à la notion autonome de « magistrat » au sens de l'article 5 § 3 » 
 </details>
 
 ## Union Européenne🇪🇺
@@ -53,11 +53,11 @@ De l'influence de l'intenational sur l'état de droit en FRANCE.
 ## États-Unis 🇺🇸
 ### <a id="StateDRL"></a> [Department of State — Bureau of Democracy, Human rights & Labor](https://twitter.com/stateDRL)
 
-Le département d’état des É.U. a un bureau dédié aux droits humains qui publie chaque année un rapport mondial. Il y est dit pour la FRANCE, pour les années [2020](https://www.state.gov/wp-content/uploads/2021/03/FRANCE-2020-HUMAN-RIGHTS-REPORT.pdf) et [2021](https://fr.usembassy.gov/wp-content/uploads/sites/50/313615_FRANCE-2021-HUMAN-RIGHTS-REPORT.pdf), « l'impunité n'était pas répandue » ("impunity was not widespread").
+Le département d’état des É.U. a un bureau dédié aux droits humains qui publie chaque année un rapport mondial. Il y est dit pour la France, pour les années [2020](https://www.state.gov/wp-content/uploads/2021/03/FRANCE-2020-HUMAN-RIGHTS-REPORT.pdf) et [2021](https://fr.usembassy.gov/wp-content/uploads/sites/50/313615_FRANCE-2021-HUMAN-RIGHTS-REPORT.pdf), « l'impunité n'était pas répandue » ("impunity was not widespread").
 
-## NATIONS UNIES 🇺🇳
+## Nations Unies 🇺🇳
 ### [Conseil des droits de l'homme](https://www.ohchr.org/fr/hr-bodies/hrc/about-council)
 * [Procédure de requête](https://www.ohchr.org/fr/hr-bodies/hrc/complaint-procedure/hrc-complaint-procedure-index)
 
-### [Traités ratifiés par la FRANCE](https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/countries.aspx?CountryCode=FRA&Lang=FR)
+### [Traités ratifiés par la France](https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/countries.aspx?CountryCode=FRA&Lang=FR)
 

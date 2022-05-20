@@ -10,10 +10,10 @@
 * [Lire](https://www.ohchr.org/FR/NewsEvents/Pages/DisplayNews.aspx?NewsID=24166&LangID=F)
 </details>
 
-####  <a id="CHlbd"></a>Reporterre: La Suisse pourrait interdire la vente de LBD à la FRANCE
+####  <a id="CHlbd"></a>Reporterre: La Suisse pourrait interdire la vente de LBD à la France
 <details><summary>Information</summary>
 
-* [Lire](https://reporterre.net/La-Suisse-pourrait-interdire-la-vente-de-LBD-a-la-FRANCE)
+* [Lire](https://reporterre.net/La-Suisse-pourrait-interdire-la-vente-de-LBD-a-la-France)
 </details>
 
 ####  <a id="CElbd"></a>Le Conseil d’État rejette des demandes relatives aux lanceurs de balle de défense (LBD) lors des manifestations de « gilets jaunes »
@@ -37,9 +37,9 @@
 > "Quand j'entends le mot 'violence policière', moi, personnellement, je m'étouffe.
 > "La police exerce une violence, certes, mais une violence légitime, c'est vieux comme Max Weber."
 
-## Analyse
+## 📚Bibliographie
 
-###  <a id="kieffer2019giletsj"></a>2019 [FRANCE culture: Anniversaire des "gilets jaunes"](https://www.franceculture.fr/emissions/hashtag/anniversaire-des-gilets-jaunes-le-changement-cest-maintenant)
+###  <a id="kieffer2019giletsj"></a>2019 [France culture: Anniversaire des "gilets jaunes"](https://www.franceculture.fr/emissions/hashtag/anniversaire-des-gilets-jaunes-le-changement-cest-maintenant)
 <!--
 <details><summary>Les chiffres</summary>
 -->
@@ -48,6 +48,6 @@
 </details>
 -->
 
-### <a id="queffelecweber">2019 [FRANCE culture: La "violence légitime de l'État" de Max Weber](https://www.franceculture.fr/philosophie/la-violence-legitime-de-letat-de-max-weber)
+### <a id="queffelecweber">2019 [France culture: La "violence légitime de l'État" de Max Weber](https://www.franceculture.fr/philosophie/la-violence-legitime-de-letat-de-max-weber)
 
 > 28 juillet 2020, Gérald DARMANIN, ministre de l'Intérieur, mentionne la "violence légitime de l'État" de Max Weber. Conceptualisé par le sociologue allemand en 1919, le concept de Max Weber a été détourné de son sens originel. Explication 

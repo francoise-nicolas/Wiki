@@ -177,7 +177,7 @@ Obligé de saisir le magistrat. Décision collégiale. Homicide volontaire. Appa
 
 03:11
 
-Enregistrement. J'ai vengé Allah. FRANCE meurtrie par des attantats terroristes.
+Enregistrement. J'ai vengé Allah. France meurtrie par des attantats terroristes.
 
 PÉTRÉ. Je ne suis pas en capacité de vous dire pourquoi le parquet terroriste n'a pas été saisi. Torture et actes. Pas de souvenir de ces auditions. Défenestrée. Stigma. Point juridique. Les tortures pour être distinctes de l'homicide doivent être faites à un temps différent.
 

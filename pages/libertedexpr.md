@@ -51,12 +51,12 @@ le juge peut, méme en référé, ordonner l’insertion dans la publication con
 
 <details><summary>Méconnu</summary>
 
-* Le juge responsable du jugement [deviendrait en 2014 « le plus haut magistrat de FRANCE »](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
+* Le juge responsable du jugement [deviendrait en 2014 « le plus haut magistrat de France »](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
 * C'est ce même premier qui [en 2016 a déclaré « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
 </details>
 
-### <a id="candau2016medias"></a> 2016 [EURACTIV: Le Parlement européen s’inquiète de l’indépendance des médias en FRANCE](https://www.euractiv.fr/section/politique/news/le-parlement-europeen-sinquiete-de-lindependance-des-medias-en-france/)
+### <a id="candau2016medias"></a> 2016 [EURACTIV: Le Parlement européen s’inquiète de l’indépendance des médias en France](https://www.euractiv.fr/section/politique/news/le-parlement-europeen-sinquiete-de-lindependance-des-medias-en-france/)
 
-### <a id="macrondegageFR3"></a>2018 [Une pancarte MACRON dégage masquée sur FRANCE 3](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.lemonde.fr%2Fbig-browser%2Farticle%2F2018%2F12%2F16%2Fune-pancarte-macron-degage-masquee-sur-france-3-une-erreur-humaine-selon-la-chaine_5398433_4832693.html)
+### <a id="macrondegageFR3"></a>2018 [Une pancarte MACRON dégage masquée sur France 3](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.lemonde.fr%2Fbig-browser%2Farticle%2F2018%2F12%2F16%2Fune-pancarte-macron-degage-masquee-sur-france-3-une-erreur-humaine-selon-la-chaine_5398433_4832693.html)
 
 ### <a id="covidpresse"></a> 2020 [Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)

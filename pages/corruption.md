@@ -6,7 +6,7 @@
 
 ### <a id="coignard1999omerta"></a> 1999 [🕮De Sophie COIGNARD et Alexandre WICKHAM, L'omertà française](https://bibliotheques-numeriques.defense.gouv.fr/bibliotheque-ader/document/ac00740d-45fe-4dee-8bdb-20e201bc1178)
 
-### <a id="latour2013corrup"></a> 2013 [Rapport: La lutte contre la corruption en FRANCE](https://www.dlavocats.com/medias/org-4115/shared/la-lutte-contre-la-corruption-en-france---ouvrage-nume--rise--.pdf?utm_source=pocket_mylist)
+### <a id="latour2013corrup"></a> 2013 [Rapport: La lutte contre la corruption en France](https://www.dlavocats.com/medias/org-4115/shared/la-lutte-contre-la-corruption-en-france---ouvrage-nume--rise--.pdf?utm_source=pocket_mylist)
 
 <!--
 ### <a id="abdallah2014"></a> 2014 Royal Society—[Corruption drives the emergence of civil society](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2013.1044?utm_source=pocket_mylist&)x
@@ -27,7 +27,7 @@ En caricaturé: la centralisation de la sanction c'est mieux lorsque ceux qui la
 
 [➔Dossier](anticor92joly.md)
 
-### <a id="coeepinglefr"></a>2020 [Lutte anticorruption et lobbies: la FRANCE épinglée par le Conseil de l'Europe](https://www.rfi.fr/fr/france/20200110-france-corruption-etat-rapport-conseil-europeen-anticor-autorite-anticorruption?utm_source=pocket_mylist)
+### <a id="coeepinglefr"></a>2020 [Lutte anticorruption et lobbies: la France épinglée par le Conseil de l'Europe](https://www.rfi.fr/fr/france/20200110-france-corruption-etat-rapport-conseil-europeen-anticor-autorite-anticorruption?utm_source=pocket_mylist)
 <details><summary>Extrait</summary>
 
 > La particularité de ce rapport, selon Éric ALT, vice-président de l’association ANTICOR, est le fait « qu’il concerne particulièrement l’exécutif ». En effet, sur les 18 recommandations du Greco, 12 concernent la présidence ou les hautes fonctions de l'État. 
@@ -68,3 +68,9 @@ Appellations et variantes:
 > Les naïfs qui ont espéré que la classe politique estimerait nécessaire d’éradiquer la corruption qui sévit à l’état endémique en son sein en seront pour leurs illusions. Les décideurs politiques ont préféré, sur le plan de la communication, nier l’ampleur de la fraude et, sur le plan pratique, se protéger de la justice, au moyen de techniques d’étouffement aujourd’hui éprouvées. L’alliance des deux aboutit à favoriser la perpétuation des mauvaises habitudes et ne peut qu’aggraver la défiance de l’opinion publique vis-à-vis des hommes politiques.
 > ([Vincent LE COQ, 2017](./robenoire.md#lecoq2017justice))
 </details>
+
+<!-- 
+
+En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-en-Provence aurait financé une partie de la villa de son beau-père, située sur les hauteurs de Saint-Antonin-sur-Bayon, avec l'argent de la municipalité. Le couple Joissains dénonce alors une brigue « politico-médiatique » menée par le clan du maire de Marseille et ministre de l'Intérieur de l'époque, Gaston Defferre. Alain Joissains a été condamné à deux ans de prison avec sursis pour « recel d’abus de biens sociaux » À la suite de la victoire de son épouse, Maryse Joissains-Masini, aux élections municipales de 2001, il est nommé directeur de cabinet du maire d'Aix-en-Provence. Fin 2008, Alain Joissains prend sa retraite, conséquence de l'annulation de son contrat par le tribunal administratif de Marseille pour rémunération excessive. Le 31 décembre 2001, Maryse Joissains-Masini est nommée chevalier dans l'ordre national de la Légion d'honneur pour ses 31 ans d'activités professionnelles et de fonctions électives. En 2020, elle a été condamnée par la Cour d'appel de Montpellier sur renvoi de la Cour de cassation après une première condamnation. Leur fille, Sophie Joissains, est adjointe au maire d'Aix-en-Provence et sénatrice des Bouches-du-Rhône depuis octobre 2008. 
+
+-->

@@ -7,13 +7,13 @@
 
 ## <a id="synthese"></a>Synthèse
 
-Par une requête enregistrée le 3 juin 2016, Mme NICOLAS a demandé à la cour d'enjoindre le Ministère de l'Europe et des Affaires Étrangère, de lui accorder le bénéfice de la protection fonctionnelle, notamment par la prise en charge de ses frais de conseil au titre des plaintes pénales engagées, et l’ouverture d’une enquête administrative sur les faits survenus au mois de janvier 2010 à l’ambassade de FRANCE à Cotonou qui l’ont opposée à un autre agent de l’ambassade. En réplique, le MAE s’est fondé sur le motif d’intérêt général tiré de la nécessité pour l’Etat français, de préserver la qualité de ses relations diplomatiques avec les autorités du BÉNIN, de ne pas prendre parti pour l’un de ses agents expatriés au détriment d’un agent de droit local. Par décision du 11 janvier 2018, la CAA de Nantes a estimé que « le ministre a commis une erreur d’appréciation en estimant que de telles circonstances constituaient un motif d’intérêt général excluant la mise en œuvre de la protection fonctionnelle », annulé la décision antérieure validant la décision implicite du 5 juillet 2013, rejetant le recours gracieux de Mme Nicolas, et enjoint le MAE de procéder au réexamen de sa demande de protection statutaire. Par décision du 26 octobre 2021, la même juridiction a annulé la décision du MAE du 11 avril 2018 enterrinant son refus, et enjoint d'accorder la protection fonctionnelle à Mme Nicolas.
+Par une requête enregistrée le 3 juin 2016, Mme NICOLAS a demandé à la cour d'enjoindre le Ministère de l'Europe et des Affaires Étrangère, de lui accorder le bénéfice de la protection fonctionnelle, notamment par la prise en charge de ses frais de conseil au titre des plaintes pénales engagées, et l’ouverture d’une enquête administrative sur les faits survenus au mois de janvier 2010 à l’ambassade de France à Cotonou qui l’ont opposée à un autre agent de l’ambassade. En réplique, le MAE s’est fondé sur le motif d’intérêt général tiré de la nécessité pour l’Etat français, de préserver la qualité de ses relations diplomatiques avec les autorités du Bénin, de ne pas prendre parti pour l’un de ses agents expatriés au détriment d’un agent de droit local. Par décision du 11 janvier 2018, la CAA de Nantes a estimé que « le ministre a commis une erreur d’appréciation en estimant que de telles circonstances constituaient un motif d’intérêt général excluant la mise en œuvre de la protection fonctionnelle », annulé la décision antérieure validant la décision implicite du 5 juillet 2013, rejetant le recours gracieux de Mme Nicolas, et enjoint le MAE de procéder au réexamen de sa demande de protection statutaire. Par décision du 26 octobre 2021, la même juridiction a annulé la décision du MAE du 11 avril 2018 enterrinant son refus, et enjoint d'accorder la protection fonctionnelle à Mme Nicolas.
 
 ## Faits
 
 ### 2013-07-05 — MAE — Décision
 
-### 2014-01-06 —  TA NANTES — Saisine
+### 2014-01-06 —  TA Nantes — Saisine
 
 <details>
   <summary>Info</summary>
@@ -22,14 +22,14 @@ Par une requête enregistrée le 3 juin 2016, Mme NICOLAS a demandé à la cour 
 * Autre: via TA RENNES
 </details>
 
-### 2016-03-08 —  TA NANTES — Audience
+### 2016-03-08 —  TA Nantes — Audience
 <details>
   <summary>Info</summary>
   
 * [piece](../pieces/identifiant/8b8956dd)
 </details>
 
-### 2016-04-05 —  TA NANTES — Décision
+### 2016-04-05 —  TA Nantes — Décision
 <details>
   <summary>Info</summary>
   
@@ -37,7 +37,7 @@ Par une requête enregistrée le 3 juin 2016, Mme NICOLAS a demandé à la cour 
 * [piece](../pieces/identifiant/a8b0afa0)
 </details>
 
-### 2016-06-03 —  CAA NANTES — Recours
+### 2016-06-03 —  CAA Nantes — Recours
 <details>
   <summary>Info</summary>
   
@@ -46,7 +46,7 @@ Par une requête enregistrée le 3 juin 2016, Mme NICOLAS a demandé à la cour 
 * [piece](../pieces/identifiant/45ca81e4)
 </details>
 
-### 2017-12-15 —  CAA NANTES — Audience
+### 2017-12-15 —  CAA Nantes — Audience
 
 <details>
   <summary>Info</summary>
@@ -54,7 +54,7 @@ Par une requête enregistrée le 3 juin 2016, Mme NICOLAS a demandé à la cour 
 * [piece](../pieces/identifiant/c7989b34)
 </details>
 
-### 2018-01-11 —  CAA NANTES — Décision
+### 2018-01-11 —  CAA Nantes — Décision
 <details>
   <summary>Info</summary>
   
@@ -68,9 +68,9 @@ Par une requête enregistrée le 3 juin 2016, Mme NICOLAS a demandé à la cour 
 <details>
   <summary>Requête</summary>
   
-3°) enjoindre à l’administration de lui accorder le bénéfice de la protection fonctionnelle, notamment par la prise en charge de ses frais de conseil au titre des plaintes pénales engagées, et l’ouverture d’une enquête administrative sur les faits survenus au mois de janvier 2010 à l’ambassade de FRANCE à Cotonou qui l’ont opposée à un autre agent de l’ambassade (extrait de la décision de la CA de Nantes de 2018)
+3°) enjoindre à l’administration de lui accorder le bénéfice de la protection fonctionnelle, notamment par la prise en charge de ses frais de conseil au titre des plaintes pénales engagées, et l’ouverture d’une enquête administrative sur les faits survenus au mois de janvier 2010 à l’ambassade de France à Cotonou qui l’ont opposée à un autre agent de l’ambassade (extrait de la décision de la CA de Nantes de 2018)
 
-Elle soutient que les conditions pour retenir un motif d’intérêt général de nature à justifier l’absence de mise en œuvre de la protection fonctionnelle ne sont pas réunies, dès lors que ni l’impartialité de l’Etat français, ni la remise en cause des relations diplomatiques entre la FRANCE et le BÉNIN n’étaient en cause.
+Elle soutient que les conditions pour retenir un motif d’intérêt général de nature à justifier l’absence de mise en œuvre de la protection fonctionnelle ne sont pas réunies, dès lors que ni l’impartialité de l’Etat français, ni la remise en cause des relations diplomatiques entre la France et le Bénin n’étaient en cause.
 
 </details>
 
@@ -79,9 +79,9 @@ Elle soutient que les conditions pour retenir un motif d’intérêt général d
 
 Considérant qu’il ressort de son mémoire de première instance et de ses écritures d’appel que pour rejeter la demande de protection sollicitée par Mme NICOLAS, 
 le ministre des affaires étrangères s’est fondé sur le motif d’intérêt général tiré de la nécessité pour l’Etat français, 
-afin de préserver la qualité de ses relations diplomatiques avec les autorités du BÉNIN, de ne pas prendre parti pour l’un de ses agents expatriés au détriment d’un agent de droit local,
+afin de préserver la qualité de ses relations diplomatiques avec les autorités du Bénin, de ne pas prendre parti pour l’un de ses agents expatriés au détriment d’un agent de droit local,
 alors que les responsabilités n’étaient pas clairement établies et que le risque de récupération par la presse locale était mis en évidence par le pouvoir béninois, compte tenu des liens entretenus par l’agent de droit local avec le pouvoir ; qu’en estimant que de telles circonstances constituaient un motif d’intérêt général excluant la mise en œuvre de la protection fonctionnelle,
-alors que les faits en cause sont anciens, qu’il n’est pas établi que la mise en œuvre de la protection fonctionnelle en FRANCE recevrait à ce jour une large publicité au BÉNIN et que les incertitudes sur les responsabilités respectives des agents ne peuvent par elles-mêmes, sans autres précisions, constituer un motif d’intérêt général, le ministre a commis une erreur d’appréciation ;
+alors que les faits en cause sont anciens, qu’il n’est pas établi que la mise en œuvre de la protection fonctionnelle en France recevrait à ce jour une large publicité au Bénin et que les incertitudes sur les responsabilités respectives des agents ne peuvent par elles-mêmes, sans autres précisions, constituer un motif d’intérêt général, le ministre a commis une erreur d’appréciation ;
 </details>
 
 <details>
@@ -106,7 +106,7 @@ alors que les faits en cause sont anciens, qu’il n’est pas établi que la mi
 * [piece](../pieces/identifiant/78838c11)
 </details>
 
-### 2021-03-16 —  CAA NANTES — Décision
+### 2021-03-16 —  CAA Nantes — Décision
 <details>
   <summary>Info</summary>
   
@@ -130,7 +130,7 @@ alors que les faits en cause sont anciens, qu’il n’est pas établi que la mi
 </details>
 
 
-### 2021-10-26 —  CAA NANTES — Décision
+### 2021-10-26 —  CAA Nantes — Décision
 <details>
   <summary>Info</summary>
   
@@ -141,10 +141,10 @@ alors que les faits en cause sont anciens, qu’il n’est pas établi que la mi
 <details>
 <summary> Motifs </summary>
 
-1. Mme NICOLAS, secrétaire de chancellerie alors affectée au sein du service de coopération et d’action culturelle de l’ambassade de FRANCE à Cotonou (BÉNIN), 
+1. Mme NICOLAS, secrétaire de chancellerie alors affectée au sein du service de coopération et d’action culturelle de l’ambassade de France à Cotonou (Bénin), 
 a été impliquée le 14 janvier 2010, dans une violente altercation l’opposant à un agent de droit local de l’ambassade.
 Le 22 janvier suivant, à la suite d’une plainte déposée à son encontre par l’agent béninois impliqué,
-Mme NICOLAS a été rappelée en FRANCE et affectée en administration centrale à Nantes. 
+Mme NICOLAS a été rappelée en France et affectée en administration centrale à Nantes. 
 Le 5 mai 2013, 
 elle a sollicité le bénéfice de la protection prévue par les dispositions de l’article 11 de la loi du 13 juillet 1983 pour la prise en charge des différentes procédures engagées ou qu’elle souhaitait engager à la suite des faits survenus le 14 janvier 2010. Sa demande ainsi que son recours gracieux ont été implicitement rejetés. Par arrêt du 11 janvier 2018, la cour administrative d’appel de Nantes a annulé la décision implicite par laquelle le ministre des affaires étrangères a rejeté la demande de protection fonctionnelle de Mme NICOLAS ainsi que la décision implicite rejetant son recours gracieux et fait injonction au ministre de l’Europe et des affaires étrangères de procéder au réexamen de la demande de protection statutaire sollicité par Mme Nicolas dans un délai de deux mois à compter de la notification de l’arrêt. Suite à cet arrêt, par décision du 11 avril 2018, 
 le ministre de l’Europe et des affaires étrangères a, de nouveau, 
@@ -175,12 +175,12 @@ survenus sur le lieu et dans le temps de travail.
 Bien au contraire, les conséquences médicales de l’incident litigieux ont été prises en charge par l’administration au titre du régime des accidents de service. 
 Par ailleurs, Mme NICOLAS fait valoir avoir sollicité la protection fonctionnelle afin de bénéficier de la prise en charge des frais d’avocat dans les procédures qu’elle a engagées ; elle justifie notamment avoir déposé plainte, 
 par l’intermédiaire d’un avocat, devant le doyen des juges d’instruction du tribunal de grande instance de Nantes, 
-mais aussi au BÉNIN. Ainsi qu’il a été dit au point 3, la mise en œuvre de la protection fonctionnelle a aussi pour objectif d’assurer à l’agent une réparation adéquate des torts subis, 
+mais aussi au Bénin. Ainsi qu’il a été dit au point 3, la mise en œuvre de la protection fonctionnelle a aussi pour objectif d’assurer à l’agent une réparation adéquate des torts subis, 
 consistant notamment en la prise en charge des frais d’avocat dans les procédures pouvant être engagées. 
 Dans ces conditions, en refusant d’accorder pour les motifs précités, 
 le bénéfice de la protection fonctionnelle, le ministre de l’Europe et des affaires étrangères a entaché sa décision d’une erreur d’appréciation.
 6. Il résulte de ce qui précède, sans qu’il soit besoin de se prononcer sur les autres moyens de la requête, que Mme NICOLAS est bien fondée à demander l’annulation de la décision du ministre de l’Europe et des affaires étrangères du 11 avril 2018.
-7. Sur les conclusions au fins d’injonction : En raison des motifs qui la fonde, l’annulation de la décision attaquée implique nécessairement que le bénéfice de la protection fonctionnelle soit accordé à Mme NICOLAS pour les violences dont elle a été victime le 14 janvier 2010 à l’ambassade de FRANCE à Cotonou. Il y a lieu d’enjoindre au ministre de l’Europe et des affaires étrangères d’accorder à Mme Nicolas le bénéficie de cette protection fonctionnelle, dans un délai de deux mois à compter de la notification du présent jugement.
+7. Sur les conclusions au fins d’injonction : En raison des motifs qui la fonde, l’annulation de la décision attaquée implique nécessairement que le bénéfice de la protection fonctionnelle soit accordé à Mme NICOLAS pour les violences dont elle a été victime le 14 janvier 2010 à l’ambassade de France à Cotonou. Il y a lieu d’enjoindre au ministre de l’Europe et des affaires étrangères d’accorder à Mme Nicolas le bénéficie de cette protection fonctionnelle, dans un délai de deux mois à compter de la notification du présent jugement.
 </details>
 
 <details>
@@ -188,8 +188,8 @@ le bénéfice de la protection fonctionnelle, le ministre de l’Europe et des a
 
 * Article 1 : La décision du 11 avril 2018 par laquelle le ministre de l’Europe et des affaires
 étrangères a refusé le bénéfice de la protection fonctionnelle à Mme NICOLAS pour les faits survenus
-le 14 janvier 2010 à l’ambassade de FRANCE à Cotonou est annulée.
-* Article 2 : Il est enjoint au ministre de l’Europe et des affaires étrangères d’accorder à Mme NICOLAS le bénéfice de la protection fonctionnelle pour les faits survenus le 14 janvier 2010 à l’ambassade de FRANCE à Cotonou et ce, dans le délai de deux mois à compter de la notification du présent jugement.
+le 14 janvier 2010 à l’ambassade de France à Cotonou est annulée.
+* Article 2 : Il est enjoint au ministre de l’Europe et des affaires étrangères d’accorder à Mme NICOLAS le bénéfice de la protection fonctionnelle pour les faits survenus le 14 janvier 2010 à l’ambassade de France à Cotonou et ce, dans le délai de deux mois à compter de la notification du présent jugement.
 </details>
 
 ## Droit

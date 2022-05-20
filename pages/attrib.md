@@ -17,7 +17,7 @@ Pour chaque entrée,
 * [original](https://www.liberation.fr/resizer/Ygw6gn4dOU3szIG7zi8ZbVTAkFM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/6LH7K6MIGVT62DR63VG463FTWM.jpg)
 
 ### <a id="phi"></a> Audition φ sur les LDA
-* De: FRANCE Insoumise
+* De: France Insoumise
 * [original](https://m.facebook.com/ugobernalicis/videos/audition-%CF%86-lanceurs-dalerte-dans-la-fonction-publique-14-octobre-2020/2815635448757703/)
 
 ### <a id="joly92"></a> ANTICOR92 reçoit Eva JOLY 

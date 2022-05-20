@@ -1,6 +1,6 @@
 # Eva JOLY - "Le long combat contre la corruption" 
 
-> Affaire ELF a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées.~Eva JOLY
+> Affaire Elf a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées.~Eva JOLY
 
 <details><summary>Information</summary>
 
@@ -15,20 +15,20 @@
 🚧 SOIGNER
 
 #### Eva JOLY 
-On a vu la lutte dans les pays développés s'organiser. Institutions qui étaient obligatoires selon les conventions internationales: ONU 2003, OCDE, ou UE. Peut à peu, structures se sont mises en place. Est-ce que pour autant cette lutte est efficace? La FRANCE est un cas de figure intéressant
+On a vu la lutte dans les pays développés s'organiser. Institutions qui étaient obligatoires selon les conventions internationales: ONU 2003, OCDE, ou UE. Peut à peu, structures se sont mises en place. Est-ce que pour autant cette lutte est efficace? La France est un cas de figure intéressant
 
 #### Pascal BONIFACE 
 
-Vous avez été une actrice importante pour lutter contre la corruption en FRANCE.
+Vous avez été une actrice importante pour lutter contre la corruption en France.
 
 #### Eva JOLY 
-[...] D'une certaine façon l''[enquête sur l']affaire ELF à laquelle vous pensez a été faite par surprise. C'est à dire qu'à l'époque, ceux qui avaient quelque chose à cacher pensaient que la Suisse était un endroit sûr.
+[...] D'une certaine façon l''[enquête sur l']affaire Elf à laquelle vous pensez a été faite par surprise. C'est à dire qu'à l'époque, ceux qui avaient quelque chose à cacher pensaient que la Suisse était un endroit sûr.
 
 #### Pascal BONIFACE 
  Peut-être qu'ils pensaient que la justice française n'oserait pas s'attaquer à eux
 
 #### Eva JOLY 
-Affaire ELF a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées. Évolution depuis: pas beaucoup d'autres dossiers d'importance.
+Affaire Elf a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées. Évolution depuis: pas beaucoup d'autres dossiers d'importance.
 
 #### Pascal BONIFACE 
  La dissuasion a fonctionné?
