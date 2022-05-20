@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/SHdeni.png)
+![image-mise-en-avant](../_aux/SHdeni_Commons.png)
 
 # Déni de justice
 

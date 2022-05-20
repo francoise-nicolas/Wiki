@@ -27,7 +27,7 @@ Pour chaque entrée,
 ## Wikimedia Commons
 
 ### <a id="VeR"></a> Schéma Vè
-* [original](https://fr.wikipedia.org/wiki/Assembl%C3%A9e_nationale_(FRANCE)#/media/Fichier:Schema_pouvoirs_Ve_republique_France-vec-final_form-ok.svg)
+* [original](https://fr.wikipedia.org/wiki/Assembl%C3%A9e_nationale_(France)#/media/Fichier:Schema_pouvoirs_Ve_republique_France-vec-final_form-ok.svg)
 
 ### <a id="lbd"></a> Tir LBD
 * [original](https://upload.wikimedia.org/wikipedia/commons/c/c2/Alternative_libertaire_mensuel_(24559402402)_(cropped).jpg)
@@ -36,10 +36,10 @@ Pour chaque entrée,
 * [original](https://commons.wikimedia.org/wiki/File:Bellefa%C3%A7adecarlton.jpg)
 
 ### <a id="assises"></a> Assises du parlement de Bretagne
-* [original](https://fr.wikipedia.org/wiki/Cour_d'assises_(FRANCE)#/media/Fichier:Parlement_de_Bretagne_-_Salle_des_Assises_1.jpg)
+* [original](https://fr.wikipedia.org/wiki/Cour_d'assises_(France)#/media/Fichier:Parlement_de_Bretagne_-_Salle_des_Assises_1.jpg)
 
 ### <a id="SHdeni"></a> Collage "Sarah HALIMI Déni de Justice"
-* [original](https://fr.wikipedia.org/wiki/Affaire_Sarah_HALIMI#/media/Fichier:Collage_Sarah_Halimi,_place_de_la_Porte-d'Auteuil,_Paris_16e.jpg)
+* [original](https://fr.wikipedia.org/wiki/Affaire_Sarah_Halimi#/media/Fichier:Collage_Sarah_Halimi,_place_de_la_Porte-d'Auteuil,_Paris_16e.jpg)
 
 ### <a id="HotelMAE"></a> Hôtel MAE
 * [original](https://commons.wikimedia.org/w/index.php?curid=17776637)
