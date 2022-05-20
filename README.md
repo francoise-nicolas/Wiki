@@ -4,6 +4,11 @@
 
 Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'alerte qui accuse Nathalie Loiseau... » Ce Wiki porte sur le dévoiement la démocratie, mon affaire en constituant un angle privilégié.
 
+## Mis en avant
+### Affaire Françoise Nicolas
+* Résumé [🇬🇧](./pages/en.md)[🇫🇷](./contenu/fr.md)
+* [Dossiers](./pages/fn.md)
+
 ## Structure
 ### [Sommaire](./pages/README.md)
 * [Affaires](./pages/affaires.md)
@@ -14,11 +19,6 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Voir aussi](./pages/voiraussi.md)
 ### [Maintenance](./maintenance/README.md)
 ### [Pièces](./pieces/README.md)
-
-## Mis en avant
-### Affaire Françoise Nicolas
-* Résumé [🇬🇧](./pages/en.md)[🇫🇷](./contenu/fr.md)
-* [Dossiers](./pages/fn.md)
 
 ## Visiteurs
 * [Contribuer au Wiki](./pages/contrib.md)
