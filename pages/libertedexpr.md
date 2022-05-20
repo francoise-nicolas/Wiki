@@ -55,7 +55,7 @@ le juge peut, méme en référé, ordonner l’insertion dans la publication con
 * C'est ce même premier qui [en 2016 a déclaré « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
 </details>
 
-### <a id="candau2016medias"></a> 2016 [EURACTIV: Le Parlement européen s’inquiète de l’indépendance des médias en France](https://www.euractiv.fr/section/politique/news/le-parlement-europeen-sinquiete-de-lindependance-des-medias-en-france/)
+### <a id="candau2016medias"></a> 2016 [Euractiv: Le Parlement européen s’inquiète de l’indépendance des médias en France](https://www.euractiv.fr/section/politique/news/le-parlement-europeen-sinquiete-de-lindependance-des-medias-en-france/)
 
 ### <a id="macrondegageFR3"></a>2018 [Une pancarte MACRON dégage masquée sur France 3](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.lemonde.fr%2Fbig-browser%2Farticle%2F2018%2F12%2F16%2Fune-pancarte-macron-degage-masquee-sur-france-3-une-erreur-humaine-selon-la-chaine_5398433_4832693.html)
 

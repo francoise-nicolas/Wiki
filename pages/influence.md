@@ -10,7 +10,7 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
 * [dossier](https://github.com/francoise-nicolas/audition-phi)
 </details>
 
-## DG Justice & Consommateurs🇪🇺
+## [DG Justice & Consommateurs](internat.md#ue)🇪🇺
 
 ### <a id="dg-just-signal"></a>2022-01-30 — Sur la directive LDA
 <details>
@@ -27,7 +27,7 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
 * [document](../pieces/identifiant/114d5f23)
 </details>
 
-## Département d'état (section droit humains) 🇺🇸
+## [Département d'état (section droit humains)](internat.md#StateDRL) 🇺🇸
 
 <details>
   <summary>Destinataires</summary>
@@ -38,7 +38,7 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
 * CC: 
     * Paris Bureau Chief, New York Times, [Roger COHEN](https://climatehub.nytimes.com/speaker/369802/roger-cohen); 
     * Co-chair, Tom Lantos Human Rights Commission, Hon. [James P. MCGOVERN](https://twitter.com/RepMcGovern); 
-    * Executive Director, [Amnesty International USA, Paul O’Brien](https://www.amnestyusa.org/about-us/who-we-are/executive-team/); 
+    * Executive Director, [Amnesty International USA, Paul O'BRIEN](https://www.amnestyusa.org/about-us/who-we-are/executive-team/); 
     * Executive Director, HUMAN RIGHTS WATCH, Paris branch, [Kenneth ROTH](https://twitter.com/KenRoth); 
     * Co-chair, [Tom Lantos Human Rights Commission](https://twitter.com/TLHumanRights), [Hon. Christopher H. SMITH](https://chrissmith.house.gov/).
 </details>
