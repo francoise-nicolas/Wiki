@@ -177,3 +177,13 @@
   
 * [piece](../pieces/identifiant/69d142)
 </details>
+
+<details>
+  <summary>Extrait</summary>
+  
+Le score de 63 obtenu par Mme Nicolas sur l'échelle PCL 5 indique clairement et de façon indiscutable que Mme Nicolas présente un trouble psychotraumatique très sévère en rapport direct et certain avec l'agression subie le 14 janvier 2010.
+Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr Nortier), elle est apte à reprendre son poste, et ce d'autant plus qu'elle pourrait bénéficier d'une thérapie brève, spécialisée, qui devrait améliorer son trouble psychotraumatique
+</details>
+
+
+

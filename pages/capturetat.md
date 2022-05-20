@@ -1139,3 +1139,6 @@ La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée 
 </details>
 
 ### <a id="tourbe2019ordre"></a>2019 [De la Cour des comptes sur l'Ordre des médecins : Abus sexuels non sanctionnés, erreurs dans les comptes...](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
+
+## Voir aussi
+* [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).

@@ -97,9 +97,13 @@
 * Institution: Assemblée Nationale
 * Législature: XVè
 * No. de rapport: 3296
-* Président: Ugo BERNALICIS
+* Président: [Ugo BERNALICIS](whoswho.md#bernalic)
 * Rapporteur: Didier PARIS
 * Recommendation clé: aligner le statut du parquet sur celui du siège
 </details>
 
 #### <a id="bienv2021magistrats"></a>[Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
+
+### Voir aussi
+* [Déni de justice—pour une réforme de la justice](https://denidejustice.wordpress.com/)
+

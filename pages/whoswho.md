@@ -1,5 +1,10 @@
 # Who's who
 
+<details><summary>🚧</summary>
+
+Backlinks
+</details>
+
 ## B
 ### <a id="bernalic"></a>Ugo BERNALICIS
 <details><summary>Fiche</summary>
@@ -46,14 +51,6 @@
 </details>
 
 -->
-
-## N
-### <a id="fn"></a>Françoise NICOLAS
-<details><summary>Fiche</summary>
-
-* [Ce wiki](https://github.com/francoise-nicolas/Wiki)
-* [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
-</details>
 
 ## S
 ### <a id="waserm"></a>Sylvain WASERMAN
