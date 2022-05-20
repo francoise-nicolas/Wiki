@@ -1,7 +1,7 @@
 # Sommaire
 
 ## [Affaires](./affaires.md)
-## [Analyses](./analyses.md)
 ## [Autre](./autre.md)
+## [Débats](./debats.md)
 ## [Thèmes](./themes.md)
 ## [Voir aussi](./voiraussi.md)

@@ -3,6 +3,8 @@
 # Autre
 
 ## [Aide mémoire de 'markdown'](aidemem.md)
+## [Attribution](attrib.md)
+## [Bac à sable](bacasable.md)
 ## [Contribuer au Wiki](contrib.md)
 ## [Faire un don](don.md)
 
