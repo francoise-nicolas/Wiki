@@ -14,6 +14,7 @@ Partout où il est dit « effacer »,  faire exception pour les fichiers `vide-c
        find INBOX -type f -size +0 -print0 | xargs -0 -n1 "$SHELL" -c './identifiant.sh OUTBOX "${1}"' "$SHELL"
        ```
 Si en plus on veut encrypter ces fichiers, 
+
     3. couper-coller les dossiers créés dans `INBOX`
     4. Exécuter `crypter.sh`
 Et enfin,
