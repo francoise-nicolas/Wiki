@@ -47,7 +47,7 @@
 -->
 
 ## S
-### <a id="waserm"></a>Sylvain Waserman
+### <a id="waserm"></a>Sylvain WASERMAN
 <details><summary>Fiche</summary>
 
 * [AN](https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720746)
@@ -61,15 +61,16 @@
 </details>
 
 <details>
-  <summary>[4è congrès éthique](../pieces/identifiant/e1b9d831) — Rencontre avec Françoise Nicolas </summary>
+  <summary>4è congrès éthique — Rencontre avec Françoise Nicolas </summary>
 
 * Date: 2018-03-30
+* [Congrès](../pieces/identifiant/e1b9d831)
 * [Minutes](../pieces/identifiant/17dee7ea)
 </details>
 
 <details>
   <summary>Dans la presse</summary>
 
-* <a id="touboninesp"></a>Dans Libé, en 2019: [« Jacques Toubon: fin de mandat d'un défenseur des droits inespéreé »](https://www.liberation.fr/france/2020/06/30/jacques-toubon-fin-de-mandat-d-un-defenseur-inespere_1792944/)
+* Dans Libé, en 2019: [« Jacques Toubon: fin de mandat d'un défenseur des droits inespéreé »](https://www.liberation.fr/france/2020/06/30/jacques-toubon-fin-de-mandat-d-un-defenseur-inespere_1792944/)
 </details>
 

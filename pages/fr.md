@@ -31,14 +31,14 @@ Ma réfufation a [enregistré 700k vues](https://twitter.com/FranoiseNicolas/sta
 ## Lanceur d'alerte
 
 La protection des lanceurs d'alerte a été un sujet législatif actif dans l'UE/en France ces dernières années.
-J'ai [signalé à plusieurs parties](./influence.md) que le [Défenseur des Droits](https://twitter.com/Defenseurdroits) avait systématiquement blanchi le MAE
+J'ai [signalé à plusieurs parties](./influence.md) que le [Défenseur des Droits](./contrepouvoirs#ddd) avait systématiquement blanchi le MAE
 dans le cadre de 5 requêtes initiées en 2012.
 Le nouveau projet de loi de transposition du droit européen, 
-porté par [Sylvain WASERMAN](https://twitter.com/SylvainWaserman), 
+porté par [Sylvain WASERMAN](./whoswho.md#waserm), 
 lui confère des pouvoirs renforcés. 
-En 2020, le même quotidien que j'ai cité [a salué le défenseur des droits](./whoswho.md#touboninesp).
+En 2020, le même quotidien que j'ai cité [a salué en Jacques TOUBON, « un défenseur des droits inespéré »](./whoswho.md#toubon).
 
-La [corruption](./corruption.md) est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: [les tribunaux](./robenoire.md). Dans ce domaine, ce wiki se penche sur l'[affaire Elf](./elf.md) qui a fait de [Eva JOLY](./whoswho#joly) une icône,  et [celle du Carlton](./carlton.md). Pour ceux qui ne savent pas quoi penser, le sort de Sarkozy après l'élection présidentielle devrait les aider. 
+La [corruption](./corruption.md) est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: [les tribunaux](./robenoire.md). Dans ce domaine, ce wiki se penche sur l'[affaire Elf](./elf.md) qui a fait de [Eva JOLY](./whoswho.md#joly) une icône,  et [celle du Carlton](./carlton.md). Pour ceux qui ne savent pas quoi penser, le sort de Sarkozy après l'élection présidentielle devrait les aider. 
 
 Ce wiki s'intéresse aussi à la [l'état policier](./etatpolicier.md), aux [dénis de justice](./denijust.md), monnaie courante mais tus par les faiseurs d'opinion, et la [capture de l'état](./capturetat.md) derrière les plus grandes fortunes de France.
 

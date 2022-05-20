@@ -10,8 +10,8 @@
 
 > La multiplication des lois, sans chercher à s'assurer de leur efficacité, engendre un désordre législatif préjudiciable. (Badinter, 2007)
 
-## Défenseur des Droit
+## <a id="ddd"></a>Défenseur des Droit
 ### <a id="loidefdroits"></a>2011 [Loi organique du 29 mars relative au défenseur des droits](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023781167/2022-02-16/)
 ### Voir aussi
-* [Jacques TOUBON](whoswho#toubon)
-* [Claire Hédon](whoswho#hedon)
+* [Jacques TOUBON](whoswho.md#toubon)
+* [Claire Hédon](whoswho.md#hedon)
