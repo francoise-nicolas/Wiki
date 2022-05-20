@@ -33,6 +33,7 @@
 <details><summary>Fiche</summary>
 
 * [Europarl](https://www.europarl.europa.eu/meps/fr/197494/NATHALIE_LOISEAU/home)
+* [Wikipedia](https://en.wikipedia.org/wiki/Nathalie_Loiseau)
 </details>
 
 <!-- 
@@ -45,6 +46,14 @@
 </details>
 
 -->
+
+## N
+### <a id="fn"></a>Françoise Nicolas
+<details><summary>Fiche</summary>
+
+* [Ce wiki](https://github.com/francoise-nicolas/Wiki)
+* [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
+</details>
 
 ## S
 ### <a id="waserm"></a>Sylvain WASERMAN
