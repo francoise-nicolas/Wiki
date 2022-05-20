@@ -54,7 +54,7 @@ En caricaturé: la centralisation de la sanction c'est mieux lorsque ceux qui la
 
 > Afin de bénéficier de l’effet de légitimation du droit, le procès pénal d’un homme politique se doit d’épouser strictement les formes d’un procès de droit commun. 
 > Toutes les phases sont formellement respectées, mais c’est pour mieux pervertir chacune d’elles. Le procès dégénère alors en une forme vide, puisque depuis la coulisse le pouvoir politique a l’entière maîtrise de la procédure pénale.
-> ([Vincent Le Coq, 2017](robenoire#lecoq2017justice))
+> ([Vincent Le Coq, 2017](./robenoire.md#lecoq2017justice))
 
 Appellations et variantes:
 * Procès en pointillé
@@ -66,5 +66,5 @@ Appellations et variantes:
 > Toutes les phases sont formellement respectées, mais c’est pour mieux pervertir chacune d’elles. Le procès dégénère alors en une forme vide, puisque depuis la coulisse le pouvoir politique a l’entière maîtrise de la procédure pénale.
 > Les hommes et femmes politiques ont rapidement compris le tort que font par leur répétition même ces « affaires » à la classe politique dans son ensemble. 
 > Les naïfs qui ont espéré que la classe politique estimerait nécessaire d’éradiquer la corruption qui sévit à l’état endémique en son sein en seront pour leurs illusions. Les décideurs politiques ont préféré, sur le plan de la communication, nier l’ampleur de la fraude et, sur le plan pratique, se protéger de la justice, au moyen de techniques d’étouffement aujourd’hui éprouvées. L’alliance des deux aboutit à favoriser la perpétuation des mauvaises habitudes et ne peut qu’aggraver la défiance de l’opinion publique vis-à-vis des hommes politiques.
-> ([Vincent Le Coq, 2017](robenoire#lecoq2017justice))
+> ([Vincent Le Coq, 2017](./robenoire.md#lecoq2017justice))
 </details>

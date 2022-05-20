@@ -2,58 +2,52 @@
 
 # About
 
-For the French audience, "the whistleblower that accuses [Nathalie LOISEAU](https://twitter.com/nathalieloiseau)",
-suffices to pinpoint me.
-For the Anglosphere, here's an introduction.
+## My story
 
-## Story
+I had been an agent of the central administration of the Quai d'Orsay for 8 years,
+when I [was appointed on merit, to a position at the French Embassy in Western Africa](./promed.md#RAINERI-RAUGEL),
+at a time when [Hervé BESANCENOT](./whoswho.md#besanc) was at its head.
+I raised doubts about the accounting for the allocation of scholarships under my responsibility, which earned me pressure.
 
-It begins in 2008 with a [merit based appointment in Western Africa](./pieces/82f04043/82f04043.pdf) as a MFA agent of 8 years.
-In this context, [Hervé BESANCENOT](https://www.whoswho.fr/bio/herve-besancenot_57889) was the person in charge. 
-I raised concern about shoddy accounting in the attribution of grants under my responsibility, and things went from bad to worse.
+The words of the prosecutor in my [2015 adhesion criminal proceeding](./aplogan.md),
+to qualify the attack of 2010 committed by my office colleague,
+are "attempted homicide." The judgment mentions a medical certificate of PTSD following this attack;
+she kept her job at the embassy in regards to her strong connections in the host country.
+This trial was marked by anomalies [whose systemic character are well documented](./denijust.md#jl2014).
+The appeal is on hold.
 
-The terms of the prosecutor in my 2015 [criminal (adhesion) procedure](./demarches/aplogan.md), 
-to qualify the 2010 attack commited by my office-mate, 
-are ‘homicide attempt’. The judgment certifiably establishes I’ve had PTSD from this attack;
-she kept her job at the embassy in consideration of her connection with host country’s establishment
-(which the French state openly admits in court documents). 
-This procedure was marked by inconsistencies in line with [well documented practices](./vp/denijust.md#jl2014). 
-The appeal is pending. 
+Repatriated against my will, I was professionally sidelined,
+which triggered a [cascade of health crises](./promed.md#a999fcb2).
+In 2018, [I was terminated](./deregistration.md). In parallel,
+the MAE has systematically rejected my requests initiated in 2013,
+to be granted [statutory protection](./pf.md). The head of human resources was then [Nathalie LOISEAU](./whoswho.md#loiseau).
+A grueling legal battle followed, ending in 2021 with a judgment in my favor on this particular aspect.
 
-Rapatried against my will, I faced professional sidelining,
-triggering a [cascade of mental health crises](./demarches/autre.md#a999fcb2),
-and [was terminated in 2018](./demarches/radiation.md). In parallel, 
-the MFA pushbacked against my 2013 demand for [“protection fonctionnelle”](./demarches/pf.md). It was then Nathalie LOISEAU, the person in charge.
-A long legal battle followed, ending in 2021 with my vindication (on paper, wait and see) for that particular aspect. 
+In 2019, the newspaper founded by Jean-Paul Sartre, Liberation, published a [fact check of my affair](./medias.md#pezetnicolas),
+stating that "no court decision will qualify her as a victim since each woman accuses the other of being at the origin of the aggression..."
+My refutation has [registered 700k views](https://twitter.com/FranoiseNicolas/status/1115997608533737475?s=20&t=xx9LpTCg5ZYSiw98wwIkgA).
 
-In 2019, the newspaper founded by Jean-Paul Sartre, Libération, published a [fact-check of my story](./demarches/medias.md#pezetnicolas)
-underscoring the fact that "no court decision will qualify her as a victim since each woman accuses the other of being at the origin of the aggression"...
+## Whistleblower
 
-## Advocacy
+Whistleblower protection has been an active legislative topic in the EU/France in recent years.
+I [reported to several parties](./influence.md), that the [ombudsman](./contrepouvoirs.md#ddd) had systematically whitewashed the MFA in the context of 5 requests initiated in 2012.
+The new bill transposing European law,
+sponsored by [Sylvain WASERMAN](./whoswho.md#waserm),
+gives that entity enhanced powers.
+In 2020, the same daily that I quoted [hailed Jacques TOUBON, “a serendipitous ombudsman”](./whoswho.md#toubon).
 
-Whistleblower protection has been a hot legislative topic in the EU/France in the last few years. 
-I [reached out to several parties](./demarches/influence.md) to express my concern about the ombudsman ([Défenseur des Droits](https://twitter.com/Defenseurdroits)), 
-that it whitewashed the MFA in the context of 5 requests, beginning in 2012. 
-The new bill transposing EU law, sponsored by [Sylvain WASERMAN](https://twitter.com/SylvainWaserman), grants it reinforced powers. 
-In 2020, the same daily newspaper that I cited [lauded the ombudsman](./vp/parlement.md#touboninesp).
+[Corruption](./corruption.md) is a literary genre in its own right. With a few notable exceptions, it has a blind spot: [rigged courts](./robenoire.md). In this area, this wiki focuses on the [Elf affair](./elf.md) which made [Eva JOLY](./whoswho.md#joly) an icon, and [that of the Carlton][. /carlton.md) implicating the ex-IMF chief. For those who don't know what to think, [Sarkozy's fate](https://www.nytimes.com/2021/03/01/world/europe/france-sarkozy-trial-guilty.html) after the presidential election should help them.
 
-<!--
-[French corruption](./vp/corruption.md) is a literary genre of its own. But with notable authoritative exceptions, it has a blindspot: the courts. His entire life, 
-a French citizen is told: "when a politician is sentenced, it's good/bad for democracy" depending on whether [a judge](./vp/corruption.md#joly2021revolue) or a politician is speaking. But sentences rarely carry through to judgments of last resort: they're propaganda that go by the name of [_game of appearances_](vp/corruption.md#japparences). Featured in this Wiki are the [Elf affair](./vp/elf.md) that made [Eva Joly](https://twitter.com/EvaJoly) iconic, and the sensational [Carlton affair](./vp/carlton.md). For those unsure what to believe, [Sarkozy's fate](https://www.nytimes.com/2021/03/01/world/europe/france-sarkozy-trial-guilty.html?utm_source=pocket_mylist) post presidential election is a must-watch. 
+This wiki is also interested in the [police state](./etatpolicier.md), [denials of justice](./denijust.md), commonplace but silenced by opinion makers, and the [ capture of the state](./capturetat.md) behind the greatest fortunes of France.
 
-"France is not in Chaos" told [Nathalie LOISEAU to "DW's Conflit Zone" in 2020](https://www.dw.com/en/mep-nathalie-loiseau-france-is-not-in-chaos/a-52083156). The red caps (2014), the yellow vests (2018-2019), and the zadists (1968-2018),
-have in common [low intensity warfare, and the state backing off](./vp/democralter.md#lecoq2018projects).
-But that hasn't disturbed institutionalized deception towards the masses.
-Faced with "no crisis should go to waste", [alternative democracy](./vp/democrater.md) already looks hackneyed.
-Thus the aim of this wiki: moving past the stalemate by [getting curious and engaged](./vp/robenoire.md#carage2015demontg).
-My role vis à vis NGOs and IGOs is clear: to [incite them](./demarches/influence.md) to join. 
-[HRW did its job vis à vis the MFA](./vp/mae.md#HRWfrance), but it has remained under the radar. 
--->
-
+The red caps (2014), the yellow vests (2018-2019), and the zadists (1968-2018),
+have in common [the occupation, and the capitulation of the state](./democralter.md#lecoq2018projects).
+However, this does not disturb the ruling class' deception of the masses.
+Faced with "no crisis should go to waste", [alternative democracy] (./democralter.md) already looks hackneyed.
+There remains the path chosen by this wiki: [to get out of one's sucker's position](./robenoire.md#carage2015demontg).
+ 
 ## Other
-
-I am a native of Saint-Malo, and have been a single mother of one since I'm an adult. In [1986](../pieces/identifiant/829cbd9) and [1987](../pieces/identifiant/b5b09b6e) I was awarded two prestigious prizes for thesis work on space law. In 2017, I was [suppleant candidate](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) to represent the 1st constituency of Loire-Atlantique at the [National Assembly](https://www.yourarticlelibrary.com/essay/the-national-assembly-of-french-parliament/44269
-) on a [France Insoumise](https://twitter.com/FranceInsoumise) platform.
+I am from Saint-Malo where ["A Summer's Tale"](https://www.imdb.com/title/tt0115940/) was filmed, and a single mother of an only child since adulthood. In [1986](../pieces/identifier/829cbd9) and [1987](../pieces/identifier/b5b09b6e) I was awarded prestigious prizes for my thesis work on space law. In 2017, I was [substitute candidate](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats -de-la-france-insoumise-3-5-137.html) to represent a constituency of Nantes in the National Assembly, on a [France Insoumise](https://twitter.com/FranceInsoumise) platform.
 
 ---
-Photo: [Françoise Nicolas, meeting LDA, 2015, par Marc Chaumeil](https://www.liberation.fr/resizer/Ygw6gn4dOU3szIG7zi8ZbVTAkFM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/6LH7K6MIGVT62DR63VG463FTWM.jpg)
+Photo: [Françoise Nicolas, LDA meeting, 2015](./attrib.md#marc-chaumeil)

@@ -1,6 +1,6 @@
 # En travaux
 ## Description
-Dresse l'inventaire des pages contenant '🚧'
+Inventaire des pages contenant '🚧'
 ## Pages
 |Fichier                                 |ligne| code                                   |
 |----------------------------------------|-----|----------------------------------------|

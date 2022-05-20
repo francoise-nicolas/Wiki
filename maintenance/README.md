@@ -26,3 +26,9 @@ Partout où il est dit « effacer »,  faire exception pour les fichiers `vide-c
 * objet: pour chaque identifiant, inventorier les pages de [`../pages`](../contenu) qui la citent
 * marche à suivre:
     1. Exécuter `./cite.sh`
+
+<!--
+
+$ find pages -type f -name '*md' | while IFS= read path; do sed -i -E 's/\(corruption#([^)]+)\)/(.\/corruption.md#\1)/' "${path}"; done | grep 'lecoq2'
+
+-->

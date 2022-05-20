@@ -31,7 +31,7 @@ Ma réfufation a [enregistré 700k vues](https://twitter.com/FranoiseNicolas/sta
 ## Lanceur d'alerte
 
 La protection des lanceurs d'alerte a été un sujet législatif actif dans l'UE/en France ces dernières années.
-J'ai [signalé à plusieurs parties](./influence.md) que le [Défenseur des Droits](./contrepouvoirs#ddd) avait systématiquement blanchi le MAE
+J'ai [signalé à plusieurs parties](./influence.md) que le [Défenseur des Droits](./contrepouvoirs.md#ddd) avait systématiquement blanchi le MAE
 dans le cadre de 5 requêtes initiées en 2012.
 Le nouveau projet de loi de transposition du droit européen, 
 porté par [Sylvain WASERMAN](./whoswho.md#waserm), 

@@ -512,5 +512,4 @@ Alors, juste, est-ce que vous auriez un dernier mot? Madame Joly? Monsieur Garri
 </details>
 
 ## Voir aussi
-### Affaire Elf
-➔[Dossier](japparences.md#elf)
+### [Affaire Elf](elf.md)

@@ -1,4 +1,4 @@
-# Affaire Elf : [procès en pointillé](corruption#japparences.md)?
+# Affaire Elf : [procès en pointillé](./corruption.md#japparences.md)?
 
 ## Synthèse
 
@@ -11,7 +11,7 @@ Le magistrat instructeur de cette affaire devenue eurodéputée EELV a fait figu
 
 <details><summary>Eva Joly et Laurence Vichnievsky sont allées...</summary>
 
-Tiré de [Impunités de Vincent Le Coq](bibliographie#vlcj2v)
+Tiré de [Impunités de Vincent Le Coq](./robenoire.md#vlcj2v)
 
 >    Eva Joly et Laurence Vichnievsky sont allées personnellement chercher, sous
 >    de fausses identités, Alfred Sirven jusqu’en Afrique du Sud, où il n’était pas,
@@ -43,7 +43,7 @@ Un grand nombre de personnes au sein de l'État étaient parfaitement au courant
 
 <details><summary>La Justice française ne s’est guère montrée curieuse</summary>
 
-Tiré de [Denoël et Garrigues, 2014](./bibliographie#secreteVe)
+Tiré de [Denoël et Garrigues, 2014](./robenoire.md#secreteVe)
 
 >    La Justice française ne s’est guère montrée curieuse. « Le tribunal
 >    veut-il des noms ? » lançait en 2003 Le Floch-Prigent à la barre du

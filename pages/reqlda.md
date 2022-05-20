@@ -61,4 +61,4 @@
 
 ## Droit
 
-### [Loi organique du 29 mars relative au défenseur des droits](./contrepouvoirs#loidefdroits)
+### [Loi organique du 29 mars relative au défenseur des droits](./contrepouvoirs.md#loidefdroits)
