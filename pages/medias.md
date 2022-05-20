@@ -6,7 +6,7 @@
 ### 2016 <a id="huma-2016"></a>[Fête de l'huma — témoignage de Françoise NICOLAS et Nicolas FAURISSIER](https://t.co/mSMacDdH9t)
 
 ### 2018
-#### <a id="nicolasVA"></a>[VALEURS ACTUELLES: La lanceuse d'alerte qui attaque Nathalie LOISEAU](../pieces/identifiant/ccac26a8)
+#### <a id="nicolasVA"></a>[Valeurs Actuelles: La lanceuse d'alerte qui attaque Nathalie LOISEAU](../pieces/identifiant/ccac26a8)
 
 #### <a id="mediacites"></a>[Médiacités: la LDA du Quai d'Orday poussée vers la sortie](https://www.mediacites.fr/complement-denquete/nantes/2018/10/18/la-lanceuse-dalerte-du-quai-dorsay-poussee-vers-la-sortie/)
 
@@ -27,7 +27,7 @@ Françoise NICOLAS [en a contesté en ligne la véracité](https://www.liberatio
 ####  <a id="cgt-leaks"></a>UGCIT:  [« We Are The Leaks : 7 lanceurs d'alerte témoignent »](https://web.archive.org/web/20201221122852/http://www.ugict.cgt.fr/articles/actus/we-are-the-leaks-7-lanceurs-dalerte-temoignent)
 
 ### 2021
-#### <a id="RTnicolas"></a>[📺 RUSSIA TODAY: Après une violente agression, la lanceur d'alerte Françoise NICOLAS se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
+#### <a id="RTnicolas"></a>[📺 RT: Après une violente agression, la lanceur d'alerte Françoise NICOLAS se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
 
 #### <a id="FS-fantomesbenin"></a>France SOIR: [Dossiers fantômes et détournement de fonds au Bénin](https://www.francesoir.fr/videos-le-defi-de-la-verite/dossiers-fantomes-et-detournements-de-fonds-publics-au-benin)
 
@@ -40,4 +40,7 @@ Françoise NICOLAS [en a contesté en ligne la véracité](https://www.liberatio
 ### 2022
 #### <a id="quiveutlapeau"></a>[📺 Qui Veut La Peau de Françoise NICOLAS ? — Charles LACROIX](https://www.youtube.com/watch?v=cOagKQBZJ78)
 
-#### [📺 Souffrance au travail; on lâche rien. — Daniel KUPFERSTEIN avec ASD-PRO](https://www.youtube.com/watch?v=bIRDokeUETs&t=9s)
+#### <a id="kupers">[📺 Souffrance au travail; on lâche rien. — Daniel KUPFERSTEIN avec ASD-PRO](https://www.daniel-kupferstein.com/8-documentaires/261-souffrance-au-travail-on-lache-rien?ml=1)
+
+#### <a id="jac-K">[📺 Françoise Nicolas, une lanceuse d'alerte dans la Fonction publique d'Etat  — Canal JAC-K](https://www.youtube.com/watch?v=Q0k5mT60Fqw)
+
