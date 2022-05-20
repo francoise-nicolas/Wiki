@@ -2,7 +2,7 @@
 
 <details><summary>(🚧 REDACTION) <summary>
 
-[ ] Compléter le contenu
+[ ] Compléter le pages
 [ ] Calquer modèle des autres verbatim
 [ ] Intégrer dans vp/parlement.md
 </details>

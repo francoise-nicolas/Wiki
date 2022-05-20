@@ -23,11 +23,6 @@ Partout où il est dit « effacer »,  faire exception pour les fichiers `vide-c
     1. Exécuter `./label.sh`
 
 ## [Cite](../pieces/cite.md)
-* objet: pour chaque identifiant, inventorier les pages de [`../contenu`](../contenu) qui la citent
+* objet: pour chaque identifiant, inventorier les pages de [`../pages`](../contenu) qui la citent
 * marche à suivre:
     1. Exécuter `./cite.sh`
-
-## Travaux en cours
-
-* Signalitique: 🚧
-* Recherche: `find . -type f -name '*md' -print0 | xargs -0 -n1 grep -H '🚧'`

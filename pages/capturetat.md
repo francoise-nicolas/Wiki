@@ -718,7 +718,7 @@ La crainte du gouvernement de Vichy était que l’initiative allemande n’abou
 
 Le gouvernement une fois convaincu par les assurances allemandes de pouvoir placer pour l’essentiel des administrateurs provisoires français dans les « entreprises juives[106] », le général de La Laurencie, « maréchaliste et anticollaborationniste[107] », adressa le 5 novembre 1940 une nouvelle circulaire aux préfets de la zone occupée, les rassurant sur les intentions des autorités allemandes[108].
 
-Deux jours avant sa promulgation, la « première ordonnance relative aux mesures contre les Juifs » du 27 septembre 1940 fit l’objet de critiques de la part de Vichy. « Les objections qui s’y trouvaient ne concernaient pas le contenu antisémite de l’ordonnance, mais le fait qu’en l’appliquant les bureaux allemands créeraient une situation particulière dans la zone occupée, ce qui mettrait en question l’unité de l’administration de la France et en outre dépasserait les compétences de l’administration militaire[109]. »
+Deux jours avant sa promulgation, la « première ordonnance relative aux mesures contre les Juifs » du 27 septembre 1940 fit l’objet de critiques de la part de Vichy. « Les objections qui s’y trouvaient ne concernaient pas le pages antisémite de l’ordonnance, mais le fait qu’en l’appliquant les bureaux allemands créeraient une situation particulière dans la zone occupée, ce qui mettrait en question l’unité de l’administration de la France et en outre dépasserait les compétences de l’administration militaire[109]. »
 
 Le choix du régime de Vichy d’inscrire l’ensemble de sa politique dans un strict formalisme juridique place mécaniquement les juristes dans une position singulière et interroge nécessairement leur responsabilité propre dans la banalisation de « l’anti-droit ».
 
@@ -730,7 +730,7 @@ Page 27:
 
 Afin de mesurer le caractère proliférant du droit antisémite, il est possible d’avancer deux chiffres : « 109 lois et décrets antijuifs [sont] parus au Journal officiel en un peu plus d’un an, d’octobre 1940 à décembre 1941[112] ». Le total des textes adoptés entre 1940 et 1944 atteindrait le nombre considérable de 1 768[113]. Le droit antisémite est ainsi peu à peu devenu une véritable discipline, « officiellement consacrée, avec ses spécialistes, ses controverses doctrinales, son répertoire de problèmes et de solutions jurisprudentielles[114] », à l’égal de toute autre.
 
-En faisant le choix de fonder sa politique d’aryanisation sur le droit, Vichy a fait peser sur les juristes une responsabilité particulière. En regard, force est de constater que les juristes ont majoritairement appliqué le droit antisémite « comme l’on fait du droit civil ou du droit administratif, classifiant, distinguant, et interprétant des normes en faisant totalement abstraction de son contenu[115] ».
+En faisant le choix de fonder sa politique d’aryanisation sur le droit, Vichy a fait peser sur les juristes une responsabilité particulière. En regard, force est de constater que les juristes ont majoritairement appliqué le droit antisémite « comme l’on fait du droit civil ou du droit administratif, classifiant, distinguant, et interprétant des normes en faisant totalement abstraction de son pages[115] ».
 
 Au sortir de la guerre, s’inscrivant dans le contexte « résistancialiste » de l’époque, les représentants des différentes professions juridiques ont immédiatement revendiqué une attitude héroïque, qu’il s’agisse de la magistrature judiciaire, des membres du Conseil d’État ou encore du barreau. Avec un temps de retard, le notariat n’a pas fait exception en s’engageant dans cet exercice d’autocélébration.
 
@@ -1100,7 +1100,7 @@ Page 42:
 
 Page 43:
 
-175. « Vous avez bien voulu appeler mon attention sur les difficultés que rencontre la Mission d’étude que vous présidez pour prendre connaissance des données contenues dans les archives notariales relatives aux biens juifs [sic] spoliés pendant l’occupation. » Réponse lénifiante d’Élisabeth Guigou, garde des Sceaux, à Jean Mattéoli, 16 juillet 1999, AN, F/60MLI/158.
+175. « Vous avez bien voulu appeler mon attention sur les difficultés que rencontre la Mission d’étude que vous présidez pour prendre connaissance des données pageses dans les archives notariales relatives aux biens juifs [sic] spoliés pendant l’occupation. » Réponse lénifiante d’Élisabeth Guigou, garde des Sceaux, à Jean Mattéoli, 16 juillet 1999, AN, F/60MLI/158.
 
 176. Jurisprudentes, « Où trouver les actes notariés de la période 1940-1944 ? » (en ligne), jurisprudentes. net, 14 avril 2011.
 
