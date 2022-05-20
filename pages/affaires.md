@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/Bellefaçadecarlton.png)
+![image-mise-en-avant](../_aux/Carlton_Commons.png)
 
 # [Affaires](affaires)
 ## [Carlon](carlton.md)
@@ -7,4 +7,4 @@
 ## [Sarah Halimi](shalimi.md)
 
 ---
-Photo: [Façade du Carlton de Lille](https://commons.wikimedia.org/wiki/File:Bellefa%C3%A7adecarlton.jpg)
+Photo: [Carlton de Lille](attrib.md#Carlton)

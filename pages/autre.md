@@ -7,6 +7,7 @@
 ## [Bac à sable](bac-a-sable.md)
 ## [Contribuer au Wiki](contrib.md)
 ## [Faire un don](don.md)
+## [Who's who](whoswho.md)
 
 ---
-Photo: [Hôtel du MAE](https://commons.wikimedia.org/w/index.php?curid=17776637)
+Photo: [Hôtel du MAE](attrib.md#HotelMAE)

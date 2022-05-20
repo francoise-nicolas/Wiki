@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/blousebl.png)
+![image-mise-en-avant](../_aux/joly92.png)
 
 # Débats 
 
@@ -14,4 +14,4 @@ Débats ou entretiens pour les lesquels un travail a été fourni (tel que, le v
 ### [Boniface reçoit Eva Joly](jolyboniface.md)
 
 ---
-Photo: [@blouseblanche59](https://twitter.com/blouseblanche59/status/1007355576559562752/photo/1)
+Photo: [Anticor 92 reçoit Eva Joly](attrib.md#joly92)

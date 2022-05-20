@@ -4,14 +4,14 @@
 
 # Professionnel et médical
 
-## <a id="RAINER-RAUGEL"></a>2008-01-11 — RAINERI — Passation RAUGEL
+## <a id="RAINERI-RAUGEL"></a>2008-01-11 — RAINERI — Passation RAUGEL
 <details>
   <summary>Info</summary>
   
 * [piece](../pieces/identifiant/82f04043)
 </details>
 
-## <a id="BESANC-RAUGEL"></a>2008-03-21 — BESANCENOT — Passation RAUGEL
+## <a id="BESANC-RAUGEL"></a>2008-03-21 — [BESANCENOT](whoswho#besanc) — Passation RAUGEL
 <details>
   <summary>Info</summary>
   

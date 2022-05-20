@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/VeR.png)
+![image-mise-en-avant](../_aux/VeR_Commons.png)
 
 ## Vie publique — par thème
 ### [Alternatives](democralter.md)
@@ -13,4 +13,4 @@
 ### [Robe noire](robenoire.md)
 
 ---
-Photo: [Schéma Vè République](https://fr.wikipedia.org/wiki/Assembl%C3%A9e_nationale_(France)#/media/Fichier:Schema_pouvoirs_Ve_republique_France-vec-final_form-ok.svg)
+Photo: [Schéma des institutions de la Vè République](attrib.md#VeR)
