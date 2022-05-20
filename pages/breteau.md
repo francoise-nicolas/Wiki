@@ -1,12 +1,11 @@
-#Audition du lanceur d'alerte Denis Breteau
+# Audition du lanceur d'alerte Denis Breteau devant l'AN
 
-<details><summary>(🚧 REDACTION) <summary>
+<details><summary> Rédaction </summary>
 
-[ ] Compléter le pages
-[ ] Calquer modèle des autres verbatim
-[ ] Intégrer dans vp/parlement.md
+[ ] Synthèse
+[ ] Verbatim
+[ ] Ajouter à la page [Débats](debats.md)
 </details>
-
 
 ## Information ##
 
@@ -15,18 +14,11 @@
 * Cadre: la [loi Sapin 2](https://www.assemblee-nationale.fr/14/dossiers/transparence_lutte_corruption_economie.asp)
 * [Lien de l'audition](https://shorturl.me/jHBHC)
 
-## Synthèse ## 
-🚧
-
-## Discussion ##
-🚧
+## Synthèse ##
 
 ## Verbatim ##
 
-<details><summary>🚧 REDACTION</summary>
-[ ] Compléter, et
-[ ] Pour la former se calquer sur les verbatims terminés
-
+<details><summary> 🚧 </summary>
 Donc voilà, après cet accompagnement graduel du LDA, la questions pose est-ce que lLDA
 
 , le DDD

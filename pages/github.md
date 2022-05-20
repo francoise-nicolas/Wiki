@@ -1,12 +1,12 @@
 # github
 
-Idées d'amélioration du dépôt.
+Idées et projets sur le dépôt.
 
-## TODO 
+## À faire
 - Boutons de navigation dans les pages
 - Statistiques de trafic (Google analytics?)
 - [Site web à part entière](https://jekyllrb.com/)
 
-## IN PROGRESS
+## En cours
 
-## DONE
+## Terminé
