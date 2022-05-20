@@ -1,4 +1,4 @@
-# Affaire ELF : [procès en pointillé](./corruption.md#japparences.md)?
+# Affaire ELF : [procès en pointillé](./corruption.md#japparences)?
 
 ## Synthèse
 
