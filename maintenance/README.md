@@ -13,12 +13,12 @@ Partout où il est dit « effacer »,  faire exception pour les fichiers `vide-c
        ```
        find INBOX -type f -size +0 -print0 | xargs -0 -n1 "$SHELL" -c './identifiant.sh OUTBOX "${1}"' "$SHELL"
        ```
-    3. couper-coller les dossiers créés dans `INBOX`
-    4. Exécuter `crypter.sh`
-Et enfin,
+    3. optionellement, couper-coller les dossiers créés dans `INBOX`, et
+    4. Exécuter `crypter.sh`. Et enfin,
     5. copier les dossiers de `OUTBOX` vers [`../pieces/indentifiant`](../pieces/indentifiant)
 
 ## [Label](../pieces/label)
+
     * objet: regrouper les identifiants par label
     * marche à suivre:
         1. Exécuter `./label.sh`
