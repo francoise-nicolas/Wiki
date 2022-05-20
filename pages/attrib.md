@@ -20,7 +20,7 @@ Pour chaque entrée,
 * De: France Insoumise
 * [original](https://m.facebook.com/ugobernalicis/videos/audition-%CF%86-lanceurs-dalerte-dans-la-fonction-publique-14-octobre-2020/2815635448757703/)
 
-### <a id="joly92"></a> ANTICOR92 reçoit Eva JOLY 
+### <a id="joly92"></a> Anticor92 reçoit Eva JOLY 
 * De: @blouseblanche59
 * [original](https://twitter.com/blouseblanche59/status/1007355576559562752/photo/1)
 

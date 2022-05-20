@@ -39,7 +39,7 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
     * Paris Bureau Chief, New York Times, [Roger COHEN](https://climatehub.nytimes.com/speaker/369802/roger-cohen); 
     * Co-chair, Tom Lantos Human Rights Commission, Hon. [James P. MCGOVERN](https://twitter.com/RepMcGovern); 
     * Executive Director, [Amnesty International USA, Paul O'BRIEN](https://www.amnestyusa.org/about-us/who-we-are/executive-team/); 
-    * Executive Director, HUMAN RIGHTS WATCH, Paris branch, [Kenneth ROTH](https://twitter.com/KenRoth); 
+    * Executive Director, Human Rights Watch, Paris branch, [Kenneth ROTH](https://twitter.com/KenRoth); 
     * Co-chair, [Tom Lantos Human Rights Commission](https://twitter.com/TLHumanRights), [Hon. Christopher H. SMITH](https://chrissmith.house.gov/).
 </details>
 

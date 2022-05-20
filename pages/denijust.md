@@ -16,7 +16,7 @@
 * [Source](../pieces/identifiant/56739858)
 </details>
 
-## Cas
+## Dossiers
 ### 2022 Sarah HALIMI : « un rapport qui louvoie »
 ➔[Dossier](shalimi.md)
 

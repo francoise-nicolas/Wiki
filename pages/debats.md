@@ -5,7 +5,7 @@
 Débats ou entretiens pour les lesquels un travail a été fourni (tel que, le verbatim)
 
 ## 2018
-### [ANTICOR / Eva JOLY](anticor92joly.md)
+### [Anticor / Eva JOLY](anticor92joly.md)
 
 ## 2020
 ### [Audition φ sur les LDA](https://github.com/francoise-nicolas/audition-phi)
@@ -14,4 +14,4 @@ Débats ou entretiens pour les lesquels un travail a été fourni (tel que, le v
 ### [Boniface reçoit Eva JOLY](jolyboniface.md)
 
 ---
-Photo: [ANTICOR 92 reçoit Eva JOLY](attrib.md#joly92)
+Photo: [Anticor 92 reçoit Eva JOLY](attrib.md#joly92)
