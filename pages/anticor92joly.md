@@ -1,4 +1,4 @@
-# ANTICOR 92 recevait Eva JOLY en 2018 sur le coût de la corrupion
+# 2018 — ANTICOR 92 reçoit Eva JOLY — Coût de la corrupion
 
 <details>
   <summary>Info</summary>
@@ -12,7 +12,11 @@
 * [Annonce](https://www.anticor.org/2018/06/04/compte-rendu-de-la-conference-debat-la-corruption-un-cout-exorbitant-pour-la-societe-francaise/)
 </details>
 
-<!-- #### <div align="right">00:00:00</div>-->
+## Synthèse 
+🚧
+
+## Verbatim
+
 <details>
   <summary>00:00:00</summary>
 

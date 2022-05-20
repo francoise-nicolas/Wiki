@@ -48,7 +48,7 @@ En caricaturé: la centralisation de la sanction c'est mieux lorsque ceux qui la
 
 [➔Dossier](jolyboniface.md)
 
-## Démystification
+## Analyses
 
 ### <a id="japparences"></a>Le jeu des apparences
 

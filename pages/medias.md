@@ -33,7 +33,7 @@ Françoise NICOLAS [en a contesté en ligne la véracité](https://www.liberatio
 
 #### <a id="NT-fantomesbenin"></a>NOUVELLE TRIBUNE: [Dossiers fantômes et détournement de fonds au BÉNIN](https://lanouvelletribune.info/2021/05/dossiers-fantomes-a-lambassade-de-france-au-benin-lex-employee-demande-de-laide/)
 
-#### [Netafrique.net: « J’ai défendu les intérêts des BÉNINois », une ex-diplomate française en détresse crie à l’aide](https://netafrique.net/jai-defendu-les-interets-des-beninois-une-ex-diplomate-francaise-en-detresse-crie-a-laide/)
+#### [Netafrique.net: « J’ai défendu les intérêts des Béninois », une ex-diplomate française en détresse crie à l’aide](https://netafrique.net/jai-defendu-les-interets-des-beninois-une-ex-diplomate-francaise-en-detresse-crie-a-laide/)
 
 #### [Le réveil citoyen: agressée pour avoir dénoncé du détournement de fonds publics, Françoise NICOLAS témoigne](https://lereveilcitoyen.fr/2021/05/21/agressee-pour-avoir-denonce-du-detournement-de-fonds-publics-francoise-nicolas-temoigne/)
 

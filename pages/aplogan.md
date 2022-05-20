@@ -1,6 +1,6 @@
 # Dossier pénal
 
-## Procédure
+## Faits
 <details>
   <summary>Parties</summary>
   
@@ -14,12 +14,14 @@
   
 * [dossier](../pieces/identifiant/774a6ab9)
 </details>
+
 ### 2014-07-16 — Procureur — Avis de classement
 <details>
   <summary>Info</summary>
   
 * [dossier](../pieces/identifiant/18c1da54)
 </details>
+
 ### 2015-07-17 — Demandeur — Saisine du JI
 <details>
   <summary>Info</summary>
