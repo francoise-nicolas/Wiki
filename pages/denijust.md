@@ -13,7 +13,7 @@
 
 * Sponsor: [le député Jean Lassalle](https://twitter.com/jeanlassalle)
 * Auteur: Nadya Saidi & [Antoine Fontaine](https://antoinefontaine.re/)
-* [Source](../pieces/identifiant/56739858)
+* [pdf](../pieces/identifiant/56739858)
 </details>
 
 ## Dossiers

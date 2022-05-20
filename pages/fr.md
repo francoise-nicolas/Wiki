@@ -40,7 +40,7 @@ En 2020, le même quotidien que j'ai cité [a salué en Jacques TOUBON, « un d�
 
 La [corruption](./corruption.md) est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: [les tribunaux](./robenoire.md). Dans ce domaine, ce wiki se penche sur l'[affaire Elf](./elf.md) qui a fait de [Eva JOLY](./whoswho.md#joly) une icône,  et [celle du Carlton](./carlton.md). Pour ceux qui ne savent pas quoi penser, le sort de SARKOZY après l'élection présidentielle devrait les aider. 
 
-Ce wiki s'intéresse aussi à la [l'état policier](./etatpolicier.md), aux [dénis de justice](./denijust.md), monnaie courante mais tus par les faiseurs d'opinion, et la [capture de l'état](./capturetat.md) derrière les plus grandes fortunes de France.
+Ce wiki s'intéresse aussi à la [l'état policier](./etat-policier.md), aux [dénis de justice](./denijust.md), monnaie courante mais tus par les faiseurs d'opinion, et la [capture de l'état](./capturetat.md) derrière les plus grandes fortunes de France.
 
 Les bonnets rouges (2014), les gilets jaunes (2018-2019), et les zadistes (1968-2018),
 ont pour point commun [l'occupation, et la capitulation de l'état](./democralter.md#lecoq2018projets).

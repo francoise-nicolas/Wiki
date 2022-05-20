@@ -38,7 +38,7 @@ In 2020, the same daily that I quoted [hailed Jacques TOUBON, “a serendipitous
 
 [Corruption](./corruption.md) is a literary genre in its own right. With a few notable exceptions, it has a blind spot: [rigged courts](./robenoire.md). In this area, this wiki focuses on the [Elf affair](./elf.md) which made [Eva JOLY](./whoswho.md#joly) an icon, and [that of the Carlton][. /carlton.md) implicating the ex-IMF chief. For those who don't know what to think, [SARKOZY's fate](https://www.nytimes.com/2021/03/01/world/europe/france-sarkozy-trial-guilty.html) after the presidential election should help them.
 
-This wiki is also interested in the [police state](./etatpolicier.md), [denials of justice](./denijust.md), commonplace but silenced by opinion makers, and the [ capture of the state](./capturetat.md) behind the greatest fortunes of France.
+This wiki is also interested in the [police state](./etat-policier.md), [denials of justice](./denijust.md), commonplace but silenced by opinion makers, and the [ capture of the state](./capturetat.md) behind the greatest fortunes of France.
 
 The red caps (2014), the yellow vests (2018-2019), and the zadists (1968-2018),
 have in common [the occupation, and the capitulation of the state](./democralter.md#lecoq2018projects).
