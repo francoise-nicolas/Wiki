@@ -8,7 +8,6 @@
 ## [Contribuer au Wiki](contrib.md)
 ## [En travaux](entravaux.md)
 ## [Faire un don](don.md)
-## [Who's who](whoswho.md)
 
 ---
 Photo: [Hôtel du MAE](attrib.md#HotelMAE)
