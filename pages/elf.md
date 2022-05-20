@@ -1,59 +1,59 @@
-# Affaire Elf : [procès en pointillé](./corruption.md#japparences.md)?
+# Affaire ELF : [procès en pointillé](./corruption.md#japparences.md)?
 
 ## Synthèse
 
-En 2001, Loïk LeFloch-Prigeant déclarait: « L'affaire Elf ne porte pas sur les années 1989-1993 mais sur la période 1973-2001. » Un jugement est intervenu en 2003, le déclarant coupable d’abus de biens sociaux. <!-- à laquelle a succédé la société Total Lubrifiants, à hauteur de 95 000 000 FF, soit 14 482 656 euros. Sur les intérêts civils, M. X a été condamné solidairement avec plusieurs autres personnes à payer à la société Total Lubrifiants la somme principale de 13 795 541 euros, outre intérêts au taux légal, capitalisation des intérêts et indemnités de procédure.--> À la même époque,  Thierry Jean-Pierre:  « l'affaire n'est pas allée à son terme ». Et d'après Denoël et Garrigues (2014), « la justice ne s'est pas montrée curieuse. »
+En 2001, Loïk LeFloch-Prigeant déclarait: « L'affaire ELF ne porte pas sur les années 1989-1993 mais sur la période 1973-2001. » Un jugement est intervenu en 2003, le déclarant coupable d’abus de biens sociaux. <!-- à laquelle a succédé la société Total Lubrifiants, à hauteur de 95 000 000 FF, soit 14 482 656 euros. Sur les intérêts civils, M. X a été condamné solidairement avec plusieurs autres personnes à payer à la société Total Lubrifiants la somme principale de 13 795 541 euros, outre intérêts au taux légal, capitalisation des intérêts et indemnités de procédure.--> À la même époque,  Thierry JEAN-PIERRE:  « l'affaire n'est pas allée à son terme ». Et d'après DENOËL et GUARRIGUES (2014), « la justice ne s'est pas montrée curieuse. »
 
-Le magistrat instructeur de cette affaire devenue eurodéputée EELV a fait figure de [ténor du parlement européen sur la lutte c. la corruption](https://www.icrict.com/icrict-in-thenews/2019/5/21/fighting-for-a-europe-of-tax-justice). En 2021, elle [affirmait devant Pascal Boniface](https://blogs.mediapart.fr/pascalboniface/blog/210421/clm-s432-eva-joly-le-long-combat-contre-la-corruption)<!-- FAIRE: remplacer lorsqu'il sera prêt, par boniface-joly.md -->,  « L'Affaire Elf a montré que la justice pouvait porter ces dossiers énormes. » La controverse sur un procès en pointillé n'était pas au programme de la [conférence Anticor de 2018](anticor92joly.md), portant sur « le coût de la corruption, » avec pour invités Eva Joly et Jean Garrigues par qui l'on en connaît l'existence. 
+Le magistrat instructeur de cette affaire devenue eurodéputée EELV a fait figure de [ténor du parlement européen sur la lutte c. la corruption](https://www.icrict.com/icrict-in-thenews/2019/5/21/fighting-for-a-europe-of-tax-justice). En 2021, elle [affirmait devant Pascal BONIFACE](https://blogs.mediapart.fr/pascalboniface/blog/210421/clm-s432-eva-joly-le-long-combat-contre-la-corruption)<!-- FAIRE: remplacer lorsqu'il sera prêt, par boniface-joly.md -->,  « L'Affaire ELF a montré que la justice pouvait porter ces dossiers énormes. » La controverse sur un procès en pointillé n'était pas au programme de la [conférence ANTICOR de 2018](anticor92joly.md), portant sur « le coût de la corruption, » avec pour invités Eva JOLY et Jean GUARRIGUES par qui l'on en connaît l'existence. 
 
 ## 📜Chronique
 ### 1999 « Cherchez la femme »
 
-<details><summary>Eva Joly et Laurence Vichnievsky sont allées...</summary>
+<details><summary>Eva JOLY et Laurence VICHNIEVSKY sont allées...</summary>
 
-Tiré de [Impunités de Vincent Le Coq](./robenoire.md#vlcj2v)
+Tiré de [Impunités de Vincent LE COQ](./robenoire.md#vlcj2v)
 
->    Eva Joly et Laurence Vichnievsky sont allées personnellement chercher, sous
->    de fausses identités, Alfred Sirven jusqu’en Afrique du Sud, où il n’était pas,
->    tout en négligeant la piste de sa compagne, Vilma, son ancienne gouvernante.
+>    Eva JOLY et Laurence VICHNIEVSKY sont allées personnellement chercher, sous
+>    de fausses identités, Alfred SIRVEN jusqu’en Afrique du Sud, où il n’était pas,
+>    tout en négligeant la piste de sa compagne, VILMA, son ancienne gouvernante.
 >    Cherchez la femme est, paraît-il, le b-a ba du métier d’enquêteur. Les pieds
 >    nickelés étaient trois. En plus c’étaient des garçons, donc cela n’a rien à voir.
->    Le Monde du 5 janvier 1999 ayant révélé que « l’homme-clé de l’affaire Elf
+>    Le Monde du 5 janvier 1999 ayant révélé que « l’homme-clé de l’affaire ELF
 >    n’est recherché à l’étranger que depuis un mois » en raison d’une mauvaise
->    gestion des mandats d’arrêt internationaux, Eva Joly
+>    gestion des mandats d’arrêt internationaux, Eva JOLY
 </details>
 
-### 2001 ITW de [Loïc Le Floch Prigent](https://www.challenges.fr/entreprise/l-affaire-elf-en-resume_388898)
+### 2001 ITW de [Loïc LE FLOCH PRIGENT](https://www.challenges.fr/entreprise/l-affaire-elf-en-resume_388898)
 
-<details><summary>L'affaire Elf ne porte pas sur les années 1989-1993 mais sur la période 1973-2001</summary>
+<details><summary>L'affaire ELF ne porte pas sur les années 1989-1993 mais sur la période 1973-2001</summary>
 
-> En créant Elf à côté de Total, les gaullistes voulaient un véritable bras séculier d'État, en particulier en Afrique (...). 
-> Une sorte d'officine de renseignements dans les pays pétroliers. Sous la présidence de François Mitterrand, le système est resté managé par André Tarallo (P-DG d'Elf Gabon), en liaison avec les milieux gaullistes (...). Les deux têtes de pont étaient Jacques Chirac et Charles Pasqua (...). <!-- L'argent du pétrole est là, il y en a pour tout le monde. (...)
+> En créant ELF à côté de Total, les gaullistes voulaient un véritable bras séculier d'État, en particulier en Afrique (...). 
+> Une sorte d'officine de renseignements dans les pays pétroliers. Sous la présidence de François Mitterrand, le système est resté managé par André TARALLO (P-DG d'ELF Gabon), en liaison avec les milieux gaullistes (...). Les deux têtes de pont étaient Jacques CHIRAC et Charles PASQUA (...). <!-- L'argent du pétrole est là, il y en a pour tout le monde. (...)
 Un grand nombre de personnes au sein de l'État étaient parfaitement au courant des sommes en jeu et des dangers de cette procédure. Tous les présidents de la République, tous les secrétaires généraux étaient informés des montants et des pays destinataires. Les ministres des Finances étaient également au courant des détails les plus importants. --> 
 > Au final, pour chaque opération, une quarantaine de personnes savaient tout, et en temps réel (...). Sur ce sujet, pas un homme politique, pas un, ne peut jouer les Saint-Just. Ça suffit. (...)
-> L'affaire Elf ne porte pas sur les années 1989-1993 mais sur la période 1973-2001. On ne peut réellement le comprendre qu'à la lumière des relations complexes entre la société pétrolière, le pouvoir politique en place et les différents États concernés. 
+> L'affaire ELF ne porte pas sur les années 1989-1993 mais sur la période 1973-2001. On ne peut réellement le comprendre qu'à la lumière des relations complexes entre la société pétrolière, le pouvoir politique en place et les différents États concernés. 
 > Complexité réelle, mais dont la finalité est simple en ce qui concerne le continent africain : 
-> Elf fut et reste une pièce essentielle du dispositif néo-colonial mis en place par Paris, 
+> ELF fut et reste une pièce essentielle du dispositif néo-colonial mis en place par Paris, 
 > quelques années après les indépendances, 
 > afin de maintenir sa tutelle économique et politique sur les pays de son ancien pré carré formellement émancipés. 
-> Les "soleils des indépendances", pour reprendre le titre de l'écrivain africain Ahmadou Kourouma, étaient par avance brouillés.
+> Les "soleils des indépendances", pour reprendre le titre de l'écrivain africain Ahmadou KOURAMA, étaient par avance brouillés.
 </details>
 
 ### 2003 Le Floch-Prigent: « Le tribunal veut-il des noms? »
 
 <details><summary>La Justice française ne s’est guère montrée curieuse</summary>
 
-Tiré de [Denoël et Garrigues, 2014](./robenoire.md#secreteVe)
+Tiré de [DENOËL et GUARRIGUES, 2014](./robenoire.md#secreteVe)
 
 >    La Justice française ne s’est guère montrée curieuse. « Le tribunal
 >    veut-il des noms ? » lançait en 2003 Le Floch-Prigent à la barre du
 >    tribunal correctionnel. « Nous n’entendons pas aller au-delà », brise
 >    alors son président. La piste africaine ? « Tout sauf l’Afrique, ricane
->    alors Alfred Sirven. Mon Dieu, qu’est-ce qu’ils ont protégé et
->    protègent encore ! » Il vise particulièrement Philippe Jaffré, partie
->    civile dans l’affaire Elf, et la juge d’instruction Eva Joly, initialement
+>    alors Alfred SIRVEN. Mon Dieu, qu’est-ce qu’ils ont protégé et
+>    protègent encore ! » Il vise particulièrement PHILIPPE JAFFRÉ, partie
+>    civile dans l’affaire ELF, et la juge d’instruction Eva JOLY, initialement
 >    en charge du dossier, en vue de circonscrire l’incendie à une affaire
->    Le Floch-Sirven. Faute de pouvoir ou vouloir en dire plus, les deux héros
+>    Le Floch-SIRVEN. Faute de pouvoir ou vouloir en dire plus, les deux héros
 >    malheureux ont été condamnés pour le tout à titre personnel. Outre
 >    des peines de prison ferme, 250 millions d’euros de dommages et
 >    intérêts à verser sur leurs propres deniers. « Il est peut-être possible
@@ -61,31 +61,31 @@ Tiré de [Denoël et Garrigues, 2014](./robenoire.md#secreteVe)
 >    partis politiques, français ou étrangers, énonce le jugement. Mais le
 >    tribunal, qui juge sur des éléments de preuve tangible, ne peut se
 >    contenter de seules allégations. » L’important patrimoine personnel
->    accumulé par le trio Le Floch-Sirven-Tarallo, 100 millions de francs
+>    accumulé par le trio Le Floch-SIRVEN-TARALLO, 100 millions de francs
 >    chacun, suffit à la Justice pour dénoncer leur prévarication.
 </details>
 
-### 2003 [Thierry Jean-Pierre à Thierry Ardison : « L'affaire [Elf] aurait dû être une grosse affaire si elle avait été à son terme »](https://www.ina.fr/video/I09006953)
+### 2003 [Thierry JEAN-PIERRE à Thierry ARDISON : « L'affaire [ELF] aurait dû être une grosse affaire si elle avait été à son terme »](https://www.ina.fr/video/I09006953)
 
 ### 2007 [Arrêt de la cour de cassation, no 02-85.089 05-82.671](https://www.legifrance.gouv.fr/juri/id/JURITEXT000017927432/)
 
-### 2014 [Sur France Inter : quand l’instruction éclabousse la classe politique](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-29-octobre-2019)
+### 2014 [Sur FRANCE INTER : quand l’instruction éclabousse la classe politique](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-29-octobre-2019)
 
 <details><summary>Verbatim 🚧 </summary>
 
-Alfred Sirven ex n° 2 d'Elf- la méthode: celui par qui passe les transactions ofcultes. 
+Alfred SIRVEN ex n° 2 d'ELF- la méthode: celui par qui passe les transactions ofcultes. 
 
 25:00
 
-Eva Joly, mandat d'arrêt international. 18 mois pour que le signalement parvienne à Interpol via la direction centrale de la PJ. À ce moment là, Alfred Sirven est très loin.
+Eva JOLY, mandat d'arrêt international. 18 mois pour que le signalement parvienne à Interpol via la direction centrale de la PJ. À ce moment là, Alfred SIRVEN est très loin.
 
-André Tarallo. Lorsqu'elle le convoque en 1997, Eva Joly souhaite le mettre en examen. Sa hiérarchie lui faire comprendre ... Procureur Jean-Claude Marin: « Si Tarallo n'est pas libéré, Elf-Gabon sera nationalisé. »
+André TARALLO. Lorsqu'elle le convoque en 1997, Eva JOLY souhaite le mettre en examen. Sa hiérarchie lui faire comprendre ... Procureur Jean-Claude MARIN: « Si Tarallo n'est pas libéré, ELF-Gabon sera nationalisé. »
 
 [intermission]
 
 29:00
 
-Volet Dumas devant le tribunal correctionnel en 2001; présent sa démission du Conseil constitutionnel. Avocat de Deviers-Joncourt: Elf sert de leurre à l'affaire des frégates. 300 M euros de détournement. 30 des 37 prévenus condamnés. 
+Volet DUMAS devant le tribunal correctionnel en 2001; présent sa démission du Conseil constitutionnel. Avocat de DEVIERS-JONCOURT: ELF sert de leurre à l'affaire des frégates. 300 M euros de détournement. 30 des 37 prévenus condamnés. 
 
 </details>
 
@@ -168,7 +168,7 @@ XXX
 
 Représentant : Me Martine DUPUIS de la SELARL LEXAVOUE PARIS-VERSAILLES, Postulant, avocat au barreau de VERSAILLES, vestiaire : 625 – N° du dossier 1453773
 
-Représentant : Me Philippe BRUNSWICK, Plaidant, avocat au barreau de PARIS et Me VERSINI-CAMPINCHI, Plaidant, avocat au barreau de PARIS
+Représentant : Me PHILIPPE BRUNSWICK, Plaidant, avocat au barreau de PARIS et Me VERSINI-CAMPINCHI, Plaidant, avocat au barreau de PARIS
 
 APPELANT
 
@@ -210,13 +210,13 @@ Greffier, lors des débats : Madame Maguelone PELLETERET
 
 FAITS ET PROCÉDURE
 
-Par arrêt de la cour d’appel de Paris du 31 mars 2005, confirmant un jugement du tribunal correctionnel de Paris du 12 novembre 2003, M. Z X a été déclaré coupable de complicité de l’abus de biens sociaux commis au préjudice de la Société des Lubrifiants Elf Aquitaine (SLEA), à laquelle a succédé la société Total Lubrifiants, à hauteur de 95 000 000 FF, soit 14 482 656 euros. Sur les intérêts civils, M. X a été condamné solidairement avec plusieurs autres personnes à payer à la société Total Lubrifiants la somme principale de 13 795 541 euros, outre intérêts au taux légal, capitalisation des intérêts et indemnités de procédure.
+Par arrêt de la cour d’appel de Paris du 31 mars 2005, confirmant un jugement du tribunal correctionnel de Paris du 12 novembre 2003, M. Z X a été déclaré coupable de complicité de l’abus de biens sociaux commis au préjudice de la Société des Lubrifiants ELF Aquitaine (SLEA), à laquelle a succédé la société Total Lubrifiants, à hauteur de 95 000 000 FF, soit 14 482 656 euros. Sur les intérêts civils, M. X a été condamné solidairement avec plusieurs autres personnes à payer à la société Total Lubrifiants la somme principale de 13 795 541 euros, outre intérêts au taux légal, capitalisation des intérêts et indemnités de procédure.
 
 Le pourvoi formé par M. X à l’encontre de cet arrêt a été rejeté par arrêt de la chambre criminelle de la Cour de Cassation du 31 janvier 2007.
 
 Les faits, tels qu’ils résultent de ces décisions peuvent être résumés comme suit :
 
-La Société des Lubrifiants Elf Aquitaine (SLEA) dont l’activité devait être transférée dans le quartier de la Défense, a conclu, le 13 décembre 1990, pour le prix de 200 000 000 FF, une promesse de vente avec une société Thinet, portant sur les terrains, d’une superficie de 31 962 m2, dont elle était propriétaire sur la commune d’lssy-les-Moulineaux. Après la vente intervenue le 25 juillet 1991 au prix convenu, la société Thinet a revendu, le 31 juillet suivant, à la SEM 92, ce terrain au prix de 295 000 000 FF, réalisant ainsi une plus-value de 95 000 000 FF.
+La Société des Lubrifiants ELF Aquitaine (SLEA) dont l’activité devait être transférée dans le quartier de la Défense, a conclu, le 13 décembre 1990, pour le prix de 200 000 000 FF, une promesse de vente avec une société Thinet, portant sur les terrains, d’une superficie de 31 962 m2, dont elle était propriétaire sur la commune d’lssy-les-Moulineaux. Après la vente intervenue le 25 juillet 1991 au prix convenu, la société Thinet a revendu, le 31 juillet suivant, à la SEM 92, ce terrain au prix de 295 000 000 FF, réalisant ainsi une plus-value de 95 000 000 FF.
 
 Une partie de cette plus-value a permis de dédommager la société Thinet des commissions occultes qu’elle avait dû verser, entre les 17 décembre 1990 et 15 mars 1991, à des cadres de la SLEA ainsi qu’à des intermédiaires, pour un montant de 59 000 000 FF. La société Thinet éprouvant des difficultés pour honorer financièrement l’engagement qu’elle avait pris de verser ces commissions, avait sollicité la participation de deux promoteurs immobiliers, Z X, dirigeant d’une société Coprim Holding, et B C, dirigeant d’une société Gepa, qui avaient versé, les 26 février, 5 et 25 mars 1991, chacun la somme de 22 000 000 FF, les versements étant justifiés par la cession partielle, le 5 mars 1991, par la société Thinet Cie à la SNC Coprim Développement et Cie, représentée par son gérant, la SNC Coprim et Cie, elle-même représentée par son gérant, M. Z X, de la promesse de vente SLEA/Thinet, cession annulée après la vente à la SEM 92, la société Thinet remboursant, alors, les sommes avancées par les deux prévenus (MM X et C). La résolution de cet acte de cession partielle est intervenue suivant protocole d’accord conclu entre ces mêmes parties le 30 juillet 1991, lequel prévoyait 'la société Thinet s’engage expressément à ce que la société Coprim Développement et Cie ou toute société du groupe Coprim SA qu’elle se substituerait, bénéficie de 40% des droits à construire cédés par l’aménageur, dans le cadre du périmètre de la ZAC… Cette clause est une clause essentielle sans laquelle la société Coprim et Cie n’aurait pas accepté de renoncer au bénéfice de la cession partielle de promesse, ce que reconnaît la société Thinet'.
 
@@ -236,9 +236,9 @@ M. X a interjeté appel de cette décision et, aux termes de conclusions du 17 m
 
 subsidiairement, juger qu’il a agi en qualité de représentant légal des sociétés précitées et notamment de Coprim Développement SNC, aux droits de laquelle se trouve aujourd’hui Sogeprom Entreprises laquelle est civilement responsable des actes accomplis en son nom et pour son compte par son dirigeant mandataire social,
 
-juger en tout état de cause que, par application des articles 1382 et 1983 du code civil, Sogeprom Entreprises est personnellement tenue à la dette contractée envers Total-Elf,
+juger en tout état de cause que, par application des articles 1382 et 1983 du code civil, Sogeprom Entreprises est personnellement tenue à la dette contractée envers Total-ELF,
 
-dire qu’il est subrogé dans les droits de Total-Elf à l’égard de Sogeprom Entreprises et en conséquence condamner Sogeprom Entreprises à lui payer la somme de 4.600.000 euros en remboursement des sommes qu’il a été contraint de verser à la société des Lubrifiants Elf Aquitaine, devenue aujourd’hui Total Lubrifiants,
+dire qu’il est subrogé dans les droits de Total-ELF à l’égard de Sogeprom Entreprises et en conséquence condamner Sogeprom Entreprises à lui payer la somme de 4.600.000 euros en remboursement des sommes qu’il a été contraint de verser à la société des Lubrifiants Elf Aquitaine, devenue aujourd’hui Total Lubrifiants,
 
 condamner Sogeprom Entreprises à lui payer la somme de 150.000 euros en remboursement des frais qu’il a dû engager pour les besoins de sa défense,
 
@@ -294,7 +294,7 @@ Rappelant que la notion de faute détachable du dirigeant n’est destinée qu�
 
 Pour illustrer son propos M. Y signale que c’est ce qu’enseigne la doctrine en matière de recours entre préposé et commettant.
 
-En toute hypothèse, il appartient à M. X de rapporter la preuve de ce que la société Coprim Développement a elle-même commis une faute à l’origine du préjudice en cause et qui lui permettrait de ne pas supporter les conséquences civiles de l’infraction. Or, il est de principe que la faute pénale intentionnelle du dirigeant constitue ipso facto une faute détachable des fonctions, en sorte que M. X ayant été définitivement jugé coupable de complicité d’abus de biens sociaux au préjudice de la société Elf, il ne peut se retourner contre la société Coprim pour lui faire supporter in fine les conséquences de sa faute, celle-ci, de nature pénale étant par essence contraire à l’intérêt social et ce quel que soit l’avantage qu’a pu en retirer la personne morale, puisqu’il est en l’espèce avéré qu’in fine le groupe Coprim a effectivement tiré avantage des faits commis par M. X pour avoir, grâce à ceux-ci, acquis 40% des droits à construire sur les terrains vendus. Il faut cependant tempérer ce propos en rappelant qu’en tant qu’actionnaire majoritaire du groupe Coprim, M. X a également tiré profit de cette situation via la valorisation de ses actions, laquelle était acquise lorsqu’il les a cédées, même si l’opération immobilière n’était pas achevée.
+En toute hypothèse, il appartient à M. X de rapporter la preuve de ce que la société Coprim Développement a elle-même commis une faute à l’origine du préjudice en cause et qui lui permettrait de ne pas supporter les conséquences civiles de l’infraction. Or, il est de principe que la faute pénale intentionnelle du dirigeant constitue ipso facto une faute détachable des fonctions, en sorte que M. X ayant été définitivement jugé coupable de complicité d’abus de biens sociaux au préjudice de la société ELF, il ne peut se retourner contre la société Coprim pour lui faire supporter in fine les conséquences de sa faute, celle-ci, de nature pénale étant par essence contraire à l’intérêt social et ce quel que soit l’avantage qu’a pu en retirer la personne morale, puisqu’il est en l’espèce avéré qu’in fine le groupe Coprim a effectivement tiré avantage des faits commis par M. X pour avoir, grâce à ceux-ci, acquis 40% des droits à construire sur les terrains vendus. Il faut cependant tempérer ce propos en rappelant qu’en tant qu’actionnaire majoritaire du groupe Coprim, M. X a également tiré profit de cette situation via la valorisation de ses actions, laquelle était acquise lorsqu’il les a cédées, même si l’opération immobilière n’était pas achevée.
 
 Si le principe selon lequel la faute pénale intentionnelle du dirigeant est par essence détachable des fonctions a effectivement été dégagé par la jurisprudence dans l’intérêt des tiers victimes de cet agissement, il n’en demeure pas moins que la faute pénale qui implique un usage illicite des biens de la société (consistant en l’espèce à rémunérer des commissions occultes avec le patrimoine de Coprim), est un acte personnel du dirigeant dont il doit seul assumer les conséquences, que ce soit vis-à-vis des tiers ou de la société au nom de laquelle il a cru devoir agir.
 
@@ -336,12 +336,12 @@ Le Greffier, Le Président,
 
 </details>
 
-### 2021 Eva Joly à Pascal Boniface: « L'Affaire Elf a montré que la justice pouvait porter ces dossiers énormes »
+### 2021 Eva JOLY à Pascal BONIFACE: « L'Affaire ELF a montré que la justice pouvait porter ces dossiers énormes »
 <details><summary>Information</summary>
 
 * [Écouter](https://blogs.mediapart.fr/pascalboniface/blog/210421/clm-s432-eva-joly-le-long-combat-contre-la-corruption)
 
-> Partout, les scandales liés à la corruption continuent de susciter l’indignation et la lutte contre la corruption est plus que jamais un facteur de mobilisation et de révolte dans de nombreux pays. Pour en discuter, [Pascal Boniface](https://twitter.com/PascalBoniface) reçoi[t] Eva Joly, ancienne juge d’instruction spécialisée dans la lutte contre la corruption.
+> Partout, les scandales liés à la corruption continuent de susciter l’indignation et la lutte contre la corruption est plus que jamais un facteur de mobilisation et de révolte dans de nombreux pays. Pour en discuter, [Pascal BONIFACE](https://twitter.com/PascalBoniface) reçoi[t] Eva JOLY, ancienne juge d’instruction spécialisée dans la lutte contre la corruption.
 </details>
 
 <details><summary>00:00:00 🚧</summary>
@@ -350,44 +350,44 @@ Le Greffier, Le Président,
 <div align="right">00:00:00</div>
 -->
 
-##### Eva Joly
-On a vu la lutte dans les pays développés s'organiser. Institutions qui étaient obligatoires selon les conventions internationales: ONU 2003, OCDE, ou UE. Peut à peu, structures se sont mises en place. Est-ce que pour autant cette lutte est efficace? La France est un cas de figure intéressant
+##### Eva JOLY
+On a vu la lutte dans les pays développés s'organiser. Institutions qui étaient obligatoires selon les conventions internationales: ONU 2003, OCDE, ou UE. Peut à peu, structures se sont mises en place. Est-ce que pour autant cette lutte est efficace? La FRANCE est un cas de figure intéressant
 
-##### Pascal Boniface
+##### Pascal BONIFACE
 
-Vous avez été une actrice importante pour lutter contre la corruption en France.
+Vous avez été une actrice importante pour lutter contre la corruption en FRANCE.
 
-##### Eva Joly
+##### Eva JOLY
 
-[...] D'une certaine façon l''[enquête sur l']affaire Elf à laquelle vous pensez a été faite par surprise. C'est à dire qu'à l'époque, ceux qui avaient quelque chose à cacher pensaient que la Suisse était un endroit sûr.
+[...] D'une certaine façon l''[enquête sur l']affaire ELF à laquelle vous pensez a été faite par surprise. C'est à dire qu'à l'époque, ceux qui avaient quelque chose à cacher pensaient que la Suisse était un endroit sûr.
 
-##### Pascal Boniface
+##### Pascal BONIFACE
 
  Peut-être qu'ils pensaient que la justice française n'oserait pas s'attaquer à eux
 
-##### Eva Joly
+##### Eva JOLY
 
- Affaire Elf a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées. Évolution depuis: pas beaucoup d'autres dossiers d'importance.
+ Affaire ELF a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées. Évolution depuis: pas beaucoup d'autres dossiers d'importance.
 
-##### Pascal Boniface
+##### Pascal BONIFACE
  La dissuasion a fonctionné?
 
-##### Eva Joly
+##### Eva JOLY
 
- Non, les délinquants sont plus sophistiqués. C'est surtout qu'on a désarmé les institutions. La brigade financière, ou l'office central de la répression de la grande délinquance financière et fiscale. Effectif diminué. Mais surtout, après Cahuzac, il y a eu un réveil à raison de l'indignation populaire. François Hollande n'a pas eu le choix, il a créé la haute autorité de la transparence de la vie publique (présidé JL Nadal, qui a bien animé cette institution), avec obligation pour la classe politique de déclarer leur conflits d'intérêts, assortis de sanctions. Sur l'impulsion de l'OCDE, le parquet national financier. Éliane Houlette. Cas intéressant: enquête sur Fillon a déclenché un procès d'intention contre le PNF. La classe politique n'accepte pas l'équité devant la justice. C'est pour ça que l'actuel ministre cherche à jeter le discrédit sur l'institution judiciaire. C'est intolérable.
+ Non, les délinquants sont plus sophistiqués. C'est surtout qu'on a désarmé les institutions. La brigade financière, ou l'office central de la répression de la grande délinquance financière et fiscale. Effectif diminué. Mais surtout, après CAHUZAC, il y a eu un réveil à raison de l'indignation populaire. François HOLLANDE n'a pas eu le choix, il a créé la haute autorité de la transparence de la vie publique (présidé JL Nadal, qui a bien animé cette institution), avec obligation pour la classe politique de déclarer leur conflits d'intérêts, assortis de sanctions. Sur l'impulsion de l'OCDE, le parquet national financier. Éliane Houlette. Cas intéressant: enquête sur Fillon a déclenché un procès d'intention contre le PNF. La classe politique n'accepte pas l'équité devant la justice. C'est pour ça que l'actuel ministre cherche à jeter le discrédit sur l'institution judiciaire. C'est intolérable.
 
-##### Pascal Boniface
+##### Pascal BONIFACE
  Dont il est le garant normalement.
 
-##### Eva Joly
+##### Eva JOLY
 
 Comme le président de la RF, pourtant tous les deux oeuvrent à son affaiblissement.
 
-##### Pascal Boniface
+##### Pascal BONIFACE
 
 D'un côté de nouvelles institutions, mais réduction des moyens?
 
-##### Eva Joly
+##### Eva JOLY
 
 Oui, il y a une hypocrisie dans tout ça. On sait que l'opinion ne tolère pas la corruption, mais on veut protéger les siens.
 
@@ -399,7 +399,7 @@ LA SUITE
 </details>
 
 ## Voir aussi
-### [Eva Joly vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
+### [Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
 
 <details><summary>🚧 </summary>
 

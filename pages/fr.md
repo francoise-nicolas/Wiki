@@ -5,11 +5,11 @@
 ## Récit
 
 J'avais été un agent de l'administration centrale du Quai d'Orsay pendant 8 ans,
-quand j'ai [été nommée au mérite, à un poste à l'ambassade de France au Bénin](./promed.md#RAINERI-RAUGEL),
+quand j'ai [été nommée au mérite, à un poste à l'ambassade de FRANCE au BÉNIN](./promed.md#RAINERI-RAUGEL),
 à une époque où  [Hervé BESANCENOT](./whoswho.md#besanc) était à sa tête.
 J'ai soulevé des doutes sur la comptabilité de l'attribution des bourses sous ma responsabilité, qui m'ont valu des pressions.
 
-Les termes du procureur dans ma [constitution de partie civile de 2015](./aplogan.md),
+Les termes du procureur dans ma [constitution de partie civile de 2015](./aplogan.md#decision-1),
 pour qualifier l'agression de 2010 commise par mon collègue de bureau,
 sont « tentative d'homicide. » Le jugement s'appuie sur un certificat médical de SSPT consécutif à cette attaque;
 elle, a conservé son emploi à l'ambassade compte tenu de son lien avec l'établissement du pays d'accueil.
@@ -30,7 +30,7 @@ Ma réfufation a [enregistré 700k vues](https://twitter.com/FranoiseNicolas/sta
 
 ## Lanceur d'alerte
 
-La protection des lanceurs d'alerte a été un sujet législatif actif dans l'UE/en France ces dernières années.
+La protection des lanceurs d'alerte a été un sujet législatif actif dans l'UE/en FRANCE ces dernières années.
 J'ai [signalé à plusieurs parties](./influence.md) que le [Défenseur des Droits](./contrepouvoirs.md#ddd) avait systématiquement blanchi le MAE
 dans le cadre de 5 requêtes initiées en 2012.
 Le nouveau projet de loi de transposition du droit européen, 
@@ -38,9 +38,9 @@ porté par [Sylvain WASERMAN](./whoswho.md#waserm),
 lui confère des pouvoirs renforcés. 
 En 2020, le même quotidien que j'ai cité [a salué en Jacques TOUBON, « un défenseur des droits inespéré »](./whoswho.md#toubon).
 
-La [corruption](./corruption.md) est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: [les tribunaux](./robenoire.md). Dans ce domaine, ce wiki se penche sur l'[affaire Elf](./elf.md) qui a fait de [Eva JOLY](./whoswho.md#joly) une icône,  et [celle du Carlton](./carlton.md). Pour ceux qui ne savent pas quoi penser, le sort de Sarkozy après l'élection présidentielle devrait les aider. 
+La [corruption](./corruption.md) est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: [les tribunaux](./robenoire.md). Dans ce domaine, ce wiki se penche sur l'[affaire ELF](./elf.md) qui a fait de [Eva JOLY](./whoswho.md#joly) une icône,  et [celle du Carlton](./carlton.md). Pour ceux qui ne savent pas quoi penser, le sort de SARKOZY après l'élection présidentielle devrait les aider. 
 
-Ce wiki s'intéresse aussi à la [l'état policier](./etatpolicier.md), aux [dénis de justice](./denijust.md), monnaie courante mais tus par les faiseurs d'opinion, et la [capture de l'état](./capturetat.md) derrière les plus grandes fortunes de France.
+Ce wiki s'intéresse aussi à la [l'état policier](./etatpolicier.md), aux [dénis de justice](./denijust.md), monnaie courante mais tus par les faiseurs d'opinion, et la [capture de l'état](./capturetat.md) derrière les plus grandes fortunes de FRANCE.
 
 Les bonnets rouges (2014), les gilets jaunes (2018-2019), et les zadistes (1968-2018),
 ont pour point commun [l'occupation, et la capitulation de l'état](./democralter.md#lecoq2018projets).
@@ -49,7 +49,7 @@ Face à sa capacité de récupération de crise, la [démocratie alternative](./
 Reste la voie retenue par ce wiki: [sortir de sa position de pigeon](./robenoire.md#carage2015demontg).
  
 ## Autre
-Je suis originaire de Saint-Malo, et mère célibataire d'un enfant unique depuis l'âge adulte.  En [1986](../pieces/identifiant/829cbd9) et [1987](../pieces/identifiant/b5b09b6e) j'ai été récompensée par les Fondation de la Vocation et de l'Espace, respectivement, pour mon travail de thèse sur le droit de l'espace. En 2017, j'étais [candidate suppléante](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) pour représenter la 1ère circonscription de Loire-Atlantique à l'Assemblée nationale, aux couleurs de [France Insoumise](https://twitter.com/FranceInsoumise).
+Je suis originaire de Saint-Malo, et mère célibataire d'un enfant unique depuis l'âge adulte.  En [1986](../pieces/identifiant/829cbd9) et [1987](../pieces/identifiant/b5b09b6e) j'ai été récompensée par les Fondation de la Vocation et de l'Espace, respectivement, pour mon travail de thèse sur le droit de l'espace. En 2017, j'étais [candidate suppléante](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) pour représenter la 1ère circonscription de Loire-Atlantique à l'Assemblée nationale, aux couleurs de [FRANCE Insoumise](https://twitter.com/FranceInsoumise).
 
 ---
-Photo: [Françoise Nicolas, rencontre LDA, 2015](attrib.md#marc-chaumeil)
+Photo: [Françoise NICOLAS, rencontre LDA, 2015](attrib.md#marc-chaumeil)

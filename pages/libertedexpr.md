@@ -2,7 +2,7 @@
 
 ## 📚Bibliographie
 
-### <a id="mlrassat"></a> 1993 Ce rapport commandé par Jacques Toubon « pour rogner les espaces de liberté laissés à la presse »
+### <a id="mlrassat"></a> 1993 Ce rapport commandé par Jacques TOUBON « pour rogner les espaces de liberté laissés à la presse »
 
 Tiré de [l'omertà française](corruption.md#coignard1999omerta)
 
@@ -11,7 +11,7 @@ Tiré de [l'omertà française](corruption.md#coignard1999omerta)
 > La constante augmentation des contentieux avec des organes d'information n’arrange rien. 
 > Car les juges appliquent les textes avec une sévérité croissante qui tient beaucoup au contexte. 
 > Or, le « contexte », justement, ne les incite guére, depuis quelques années, à la tolérance. 
-> Parmi les multiples études savantes inspirées par les gouvernements successifs,  les diverses propositions parlementaires destinées 4 étouffer les affaires politico-financiéres, citons simplement le rapport commandé par le garde des sceaux Jacques Toubon à l'universitaire Michéle-Laure Rassat. 
+> Parmi les multiples études savantes inspirées par les gouvernements successifs,  les diverses propositions parlementaires destinées 4 étouffer les affaires politico-financiéres, citons simplement le rapport commandé par le garde des sceaux Jacques TOUBON à l'universitaire Michéle-Laure Rassat. 
 > L’esprit cahier des charges — en termes clairs : rogner les espaces de liberté laissés à la presse — a été respecté à lettre par l’auteur. 
 > « Le but poursuivi, écrivait cette professeur de droit, n’est pas de géner la presse,  mais de la garder prudente. » 
 > Prudente ? 
@@ -30,8 +30,8 @@ Enfin, et nous quittonsla la simple coercition pourflirter avec le burlesque,
 Mme Rassat proposait une sorte de mention prophylactique pour accompagner tout article ayant trait a une affaire en instance, 
 insistant sur le fait que les informations publiées n’engageaient que leur auteur et n’étaient pas a prendre pour argent comptant !
 
-Devant les commentaires incrédules de la presse, qui ne se priva pas de relater les passages les plus tragi-comiques du projet, Toubon,alors garde des Sceaux, a calé.
-Cet accés tardif de vertu aura donc permis aux Francais de prendre connaissance du dossier de M. Dumas et des aventures bruxelloises de Mme Cresson. Sinon, seuls les
+Devant les commentaires incrédules de la presse, qui ne se priva pas de relater les passages les plus tragi-comiques du projet, TOUBON,alors garde des Sceaux, a calé.
+Cet accés tardif de vertu aura donc permis aux Francais de prendre connaissance du dossier de M. DUMAS et des aventures bruxelloises de Mme Cresson. Sinon, seuls les
 autres Européens y auraient eu droit. Cette grotesque initiative a échoué. Pourl’instant. 
 -->
 
@@ -51,12 +51,12 @@ le juge peut, méme en référé, ordonner l’insertion dans la publication con
 
 <details><summary>Méconnu</summary>
 
-* Le juge responsable du jugement [deviendrait en 2014 « le plus haut magistrat de France »](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
+* Le juge responsable du jugement [deviendrait en 2014 « le plus haut magistrat de FRANCE »](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
 * C'est ce même premier qui [en 2016 a déclaré « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
 </details>
 
-### <a id="candau2016medias"></a> 2016 [Euractiv: Le Parlement européen s’inquiète de l’indépendance des médias en France](https://www.euractiv.fr/section/politique/news/le-parlement-europeen-sinquiete-de-lindependance-des-medias-en-france/)
+### <a id="candau2016medias"></a> 2016 [EURACTIV: Le Parlement européen s’inquiète de l’indépendance des médias en FRANCE](https://www.euractiv.fr/section/politique/news/le-parlement-europeen-sinquiete-de-lindependance-des-medias-en-france/)
 
-### <a id="macrondegageFR3"></a>2018 [Une pancarte Macron dégage masquée sur France 3](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.lemonde.fr%2Fbig-browser%2Farticle%2F2018%2F12%2F16%2Fune-pancarte-macron-degage-masquee-sur-france-3-une-erreur-humaine-selon-la-chaine_5398433_4832693.html)
+### <a id="macrondegageFR3"></a>2018 [Une pancarte MACRON dégage masquée sur FRANCE 3](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.lemonde.fr%2Fbig-browser%2Farticle%2F2018%2F12%2F16%2Fune-pancarte-macron-degage-masquee-sur-france-3-une-erreur-humaine-selon-la-chaine_5398433_4832693.html)
 
 ### <a id="covidpresse"></a> 2020 [Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)

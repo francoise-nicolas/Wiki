@@ -33,14 +33,14 @@ Cette page regroupe mes actions ciblées en faveur de l'état de droit.
   <summary>Destinataires</summary>
 
 * À
-    * Ambassadeur des É.U. à Paris, [Denise Campbell-Bauer](https://frenchmorning.com/lambassadrice-denise-campbell-bauer-confirmee-pour-paris/)
-    * Head of the [Bureau of Democracy, Human Rights & Labor](https://twitter.com/StateDRL), Assistant Secretary Lisa Peterson 
+    * Ambassadeur des É.U. à Paris, [Denise CAMPBELL-BAUER](https://frenchmorning.com/lambassadrice-denise-campbell-bauer-confirmee-pour-paris/)
+    * Head of the [Bureau of Democracy, Human Rights & Labor](https://twitter.com/StateDRL), Assistant Secretary Lisa PETERSON 
 * CC: 
-    * Paris Bureau Chief, New York Times, [Roger Cohen](https://climatehub.nytimes.com/speaker/369802/roger-cohen); 
-    * Co-chair, Tom Lantos Human Rights Commission, Hon. [James P. McGovern](https://twitter.com/RepMcGovern); 
+    * Paris Bureau Chief, New York Times, [Roger COHEN](https://climatehub.nytimes.com/speaker/369802/roger-cohen); 
+    * Co-chair, Tom Lantos Human Rights Commission, Hon. [James P. MCGOVERN](https://twitter.com/RepMcGovern); 
     * Executive Director, [Amnesty International USA, Paul O’Brien](https://www.amnestyusa.org/about-us/who-we-are/executive-team/); 
-    * Executive Director, Human Rights Watch, Paris branch, [Kenneth Roth](https://twitter.com/KenRoth); 
-    * Co-chair, [Tom Lantos Human Rights Commission](https://twitter.com/TLHumanRights), [Hon. Christopher H. Smith](https://chrissmith.house.gov/).
+    * Executive Director, HUMAN RIGHTS WATCH, Paris branch, [Kenneth ROTH](https://twitter.com/KenRoth); 
+    * Co-chair, [Tom Lantos Human Rights Commission](https://twitter.com/TLHumanRights), [Hon. Christopher H. SMITH](https://chrissmith.house.gov/).
 </details>
 
 ### 2022-02-01 — Signalement

@@ -41,7 +41,7 @@
 
 <details><summary>Dans la presse</summary>
 
-* [Nathalie Loiseau protège l'Organisation pour l'interdiction des armes chimiques au mépris de la transparence](https://thewallwillfall.org/2021/04/19/protecting-the-opcw-against-transparency-who-is-nathalie-loiseau/)
+* [Nathalie LOISEAU protège l'Organisation pour l'interdiction des armes chimiques au mépris de la transparence](https://thewallwillfall.org/2021/04/19/protecting-the-opcw-against-transparency-who-is-nathalie-loiseau/)
 </details>
 
 -->
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-  <summary>4è congrès éthique — Rencontre avec Françoise Nicolas </summary>
+  <summary>4è congrès éthique — Rencontre avec Françoise NICOLAS </summary>
 
 * Date: 2018-03-30
 * [Congrès](../pieces/identifiant/e1b9d831)
@@ -71,6 +71,6 @@
 <details>
   <summary>Dans la presse</summary>
 
-* Dans Libé, en 2019: [« Jacques Toubon: fin de mandat d'un défenseur des droits inespéreé »](https://www.liberation.fr/france/2020/06/30/jacques-toubon-fin-de-mandat-d-un-defenseur-inespere_1792944/)
+* Dans Libé, en 2019: [« Jacques TOUBON: fin de mandat d'un défenseur des droits inespéreé »](https://www.liberation.fr/france/2020/06/30/jacques-toubon-fin-de-mandat-d-un-defenseur-inespere_1792944/)
 </details>
 

@@ -4,7 +4,7 @@
 <details>
   <summary>Parties</summary>
   
-* Demandeur: Françoise Nicolas
+* Demandeur: Françoise NICOLAS
 * Défendeur: Armelle APLOGAN épouse ADECHY
 </details>
 
@@ -25,7 +25,7 @@
   <summary>Info</summary>
   
 * No. 130255
-* Conseil: Me Bleykasten
+* Conseil: Me BLEYKASTEN
 * [piece](../pieces/identifiant/90f57e28)
 </details>
 

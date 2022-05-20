@@ -1,8 +1,8 @@
 ![image-mise-en-avant](_aux/francafrique.png)
 
-# Françoise Nicolas — Wiki
+# Françoise NICOLAS — Wiki
 
-Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'alerte qui accuse Nathalie Loiseau... » Ce Wiki porte sur le dévoiement la démocratie, mon affaire en constituant un angle privilégié.
+Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'alerte qui accuse Nathalie LOISEAU... » Ce Wiki porte sur le dévoiement la démocratie, mon affaire en constituant un angle privilégié.
 
 ## [Sommaire](./pages/README.md)
 * [Affaires](./pages/affaires.md)
@@ -13,7 +13,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Voir aussi](./pages/voiraussi.md)
 
 ## Mis en avant
-### Affaire Françoise Nicolas
+### Affaire Françoise NICOLAS
 * Résumé [🇬🇧](./pages/en.md)[🇫🇷](./pages/fr.md)
 * [Dossiers](./pages/fn.md)
 ### Visiteurs

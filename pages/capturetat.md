@@ -1,6 +1,6 @@
 # Capture de l'état
 
-> Qui sont les plus grandes fortunes de France ? Celles de la grande distribution.~Vincent Le Coq
+> Qui sont les plus grandes fortunes de FRANCE ? Celles de la grande distribution.~Vincent LE COQ
 
 ## 📚Bibliographie
 
@@ -9,17 +9,17 @@
 ### <a id="maurel1998tribcomm"></a>1998 [Corruption et malversations aux tribunaux de commerce](https://www.leparisien.fr/faits-divers/corruption-et-malversations-aux-tribunaux-de-commerce-30-07-1998-2000182509.php)
 <details><summary>Extrait</summary>
 
-TROIS semaines après la publication d´un rapport au vitriol sur les tribunaux de commerce, les membres de la commission d´enquête parlementaire dénoncent à la justice une série d´« infractions pénales graves » commises au sein de ces juridictions. Le président et le rapporteur de la commission d´enquête, les députés socialistes François Colombet (Allier) et Arnaud Montebourg (Saône-et-Loire), ont donc transmis aux procureurs de la République concernés les faits découverts au fil de leur enquête susceptibles de donner lieu à des poursuites. Les députés ont visité huit tribunaux de commerce en six mois d´un travail qui s´est révélé fructueux puisqu´ils saisissent aujourd´hui la justice de pas moins de neuf dossiers. Il s´agit, à Rennes, de « malversation présumée » et à Agen de « trafic d´influence », ces deux affaires concernant des mandataires de justice. A Pau, les deux députés ont saisi le parquet de faits qualifiables selon eux de « corruption active ». A Dijon, ils préconisent des sanctions disciplinaires contre un mandataire de justice.
+TROIS semaines après la publication d´un rapport au vitriol sur les tribunaux de commerce, les membres de la commission d´enquête parlementaire dénoncent à la justice une série d´« infractions pénales graves » commises au sein de ces juridictions. Le président et le rapporteur de la commission d´enquête, les députés socialistes François COLOMBET (Allier) et Arnaud MONTEBOURG (Saône-et-Loire), ont donc transmis aux procureurs de la République concernés les faits découverts au fil de leur enquête susceptibles de donner lieu à des poursuites. Les députés ont visité huit tribunaux de commerce en six mois d´un travail qui s´est révélé fructueux puisqu´ils saisissent aujourd´hui la justice de pas moins de neuf dossiers. Il s´agit, à Rennes, de « malversation présumée » et à Agen de « trafic d´influence », ces deux affaires concernant des mandataires de justice. A Pau, les deux députés ont saisi le parquet de faits qualifiables selon eux de « corruption active ». A Dijon, ils préconisent des sanctions disciplinaires contre un mandataire de justice.
 </details>
 
-### <a id="lecoq2011manifeste"></a>2011 [🕮De Vincent Le Coq, Manifeste c. les notaires](https://maxmilo.com/products/manifeste-contre-les-notaires)
+### <a id="lecoq2011manifeste"></a>2011 [🕮De Vincent LE COQ, Manifeste c. les notaires](https://maxmilo.com/products/manifeste-contre-les-notaires)
 
 <details><summary>Méconnu</summary>
 
-[Le pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) attaque un arrêt favorable aux auteurs du manifeste. Il a été initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droits » (Marie-Laure Delorme pour Le Point, 2020)](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). Le jugement ne rapporte pas de conclusions des seconds...
+[Le pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) attaque un arrêt favorable aux auteurs du manifeste. Il a été initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droits » (Marie-Laure Delorme pour LE POINT, 2020)](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). Le jugement ne rapporte pas de conclusions des seconds...
 </details>
 
-### <a id="lecoq2012moinscher"></a>2011 [🕮De Vincent Le Coq, Le « toujours moins cher » : à quel prix ?](https://www.yvesmichel.org/livre/le-toujours-moins-cher-a-quel-prix-2/)
+### <a id="lecoq2012moinscher"></a>2011 [🕮De Vincent LE COQ, Le « toujours moins cher » : à quel prix ?](https://www.yvesmichel.org/livre/le-toujours-moins-cher-a-quel-prix-2/)
 
 <details><summary>Verso de couverture</summary>
 
@@ -32,7 +32,7 @@ En contrepartie, celle-ci l’a favorisée systématiquement au détriment des p
 
 ### <a id="garconelite"></a> 2016 [Des élites fondamentalement féodales et de surcroît incompétentes » - Entretien avec Dr. François Garçon](https://www.linkedin.com/pulse/des-%C3%A9lites-fondamentalement-f%C3%A9odales-et-de-surcro%C3%AEt-fiorina)
 
-### <a id="lecoq2017vichy"></a>2017 [🕮De Vincent Le Coq, les notaires sous l'occupation](https://www.tribunejuive.info/2017/10/17/shoah-les-notaires-spoliateurs-des-biens-juifs/)
+### <a id="lecoq2017vichy"></a>2017 [🕮De Vincent LE COQ, les notaires sous l'occupation](https://www.tribunejuive.info/2017/10/17/shoah-les-notaires-spoliateurs-des-biens-juifs/)
 
 <details><summary>Aperçu Amazon</summary>
 
@@ -54,7 +54,7 @@ Dépôt légal : octobre 2015
 
 Page de titre
 
-Vincent Le Coq
+Vincent LE COQ
 
 Anne-Sophie Poiroux
 
@@ -67,7 +67,7 @@ Acteurs de la spoliation des juifs
 
 nouveaumondeéditions
 
-« Pardonner à ses propres bourreaux, c’est atteindre la suprême grandeur. Pardonner aux bourreaux des autres, c’est commettre un crime contre la justice. »
+« PARDOnner à ses propres bourreaux, c’est atteindre la suprême grandeur. Pardonner aux bourreaux des autres, c’est commettre un crime contre la justice. »
 
 Affiche placardée sur les murs de Paris
 en 19451.
@@ -106,7 +106,7 @@ Page 4:
 
 5. Victor Klemperer, Journal, t. 2, Paris, Éditions du Seuil, 2000, p. 84.
 
-6. « Le substantif aryanisation et le verbe qui en découle n’existent pas dans la langue française […]. D’importation germanique – il semblerait que le terme provienne de la traduction de l’allemandArierung –, aryaniser signifie rendre aryen ou encore déjudaïser. » Philippe Verheyde, Les mauvais comptes de Vichy : l’aryanisation des entreprises juives, Paris, Perrin, 1999, p. 18.
+6. « Le substantif aryanisation et le verbe qui en découle n’existent pas dans la langue française […]. D’importation germanique – il semblerait que le terme provienne de la traduction de l’allemandArierung –, aryaniser signifie rendre aryen ou encore déjudaïser. » PHILIPPE Verheyde, Les mauvais comptes de Vichy : l’aryanisation des entreprises juives, Paris, Perrin, 1999, p. 18.
 
 7. Henry Rousso dénonce à juste raison l’ambivalence de l’État vis-à-vis des archives publiques dans Le syndrome de Vichy de 1944 à nos jours (1re édition 1987), Paris, Points Histoire, 1990, p. 299 et dans Vichy : l’événement, la mémoire, l’histoire, Paris, Gallimard, « Folio », 2001.
 
@@ -142,15 +142,15 @@ AMGOT : Allied Military Government of Occupied Territories
 
 AN : Archives nationales
 
-ANNF : Association nationale des notaires de France
+ANNF : Association nationale des notaires de FRANCE
 
 AP : administrateur provisoire
 
 APP : archives de la préfecture de police de Paris
 
-BMBF : Beauftragter des Militärbefehlshabers in Frankreich (Service de contrôle délégué du commandant militaire en France)
+BMBF : Beauftragter des Militärbefehlshabers in Frankreich (Service de contrôle délégué du commandant militaire en FRANCE)
 
-BNF : Bibliothèque nationale de France
+BNF : Bibliothèque nationale de FRANCE
 
 BNCI : Banque nationale pour le commerce et l’industrie
 
@@ -170,7 +170,7 @@ CNARJ : certificat de non-appartenance à la race juive
 
 CNIP : Centre national des indépendants et paysans
 
-CRIF : Conseil représentatif des institutions juives de France
+CRIF : Conseil représentatif des institutions juives de FRANCE
 
 CRQJ : commissariat régional aux questions juives
 
@@ -244,7 +244,7 @@ PPF : Parti populaire français
 
 PQJ : police des questions juives
 
-RDP : Revue du droit public et de la science politique en France et à l’étranger
+RDP : Revue du droit public et de la science politique en FRANCE et à l’étranger
 
 RG : Renseignements généraux
 
@@ -278,9 +278,9 @@ SS : Schutztaffel (section spéciale, à l’origine groupes de protection)
 
 UFDR : Union française pour la défense de la race
 
-UGIF : Union générale des israélites de France
+UGIF : Union générale des israélites de FRANCE
 
-VOBIF : Verordnungsblatt der Militärbefehlshaber in Frankreich (Journal officiel des commandants militaires en France)
+VOBIF : Verordnungsblatt der Militärbefehlshaber in Frankreich (Journal officiel des commandants militaires en FRANCE)
 
 ZNO : zone non occupée
 
@@ -302,7 +302,7 @@ Brève présentation de la profession
 
 Les champs d’intervention des notaires
 
-La place du notariat contemporain, pourtant relativement faible au regard du PIB de la France11, est en revanche stratégique sur le plan économique. Nul n’ignore la place traditionnelle du notaire dans les champs du droit de la famille et du droit immobilier. En droit de la famille, les notaires bénéficient d’un monopole pour rédiger les contrats de mariage et les testaments, mais également pour procéder à la liquidation des patrimoines à la suite d’un divorce. Ils gèrent également le règlement des successions et formalisent les donations. En droit immobilier, les notaires interviennent en matière de vente d’immeuble. À l’époque qui nous intéresse, cependant, les notaires ne disposaient pas encore du monopole qui leur sera attribué à compter du 1er janvier 1956 par le décret du 4 janvier 1955.
+La place du notariat contemporain, pourtant relativement faible au regard du PIB de la FRANCE11, est en revanche stratégique sur le plan économique. Nul n’ignore la place traditionnelle du notaire dans les champs du droit de la famille et du droit immobilier. En droit de la famille, les notaires bénéficient d’un monopole pour rédiger les contrats de mariage et les testaments, mais également pour procéder à la liquidation des patrimoines à la suite d’un divorce. Ils gèrent également le règlement des successions et formalisent les donations. En droit immobilier, les notaires interviennent en matière de vente d’immeuble. À l’époque qui nous intéresse, cependant, les notaires ne disposaient pas encore du monopole qui leur sera attribué à compter du 1er janvier 1956 par le décret du 4 janvier 1955.
 
 Le rôle des notaires en droit des sociétés est moins connu. S’il est aujourd’hui résiduel, il convient de conserver en mémoire que les notaires intervenaient, à cette époque, dans la plupart des actes majeurs de la vie des affaires (constitutions de sociétés et cessions de parts sociales ou ventes de fonds de commerce). Si leur activité n’a cessé de décliner dans ce domaine, pendant l’Occupation, les notaires étaient encore en charge de nombreux pans du droit des affaires.
 
@@ -397,13 +397,13 @@ Quatre études ont dû être pourvues d’un administrateur provisoire, à la su
 
 Étant donné le rôle important que joue le notariat dans l’économie générale du pays, il m’a paru intéressant d’essayer de rechercher les causes et les remèdes d’un malaise qui mérite de retenir votre haute attention.
 
-Le haut magistrat pointe au titre des causes des désordres constatés le fait que « beaucoup ont une tendance […] à négliger de tenir une comptabilité et à confondre les fonds appartenant à leurs clients avec leurs fonds propres. […] Comme je vous l’ai signalé dans un rapport spécial en date du 2 mars dernier, la perspective de recevoir un intérêt supérieur à celui que leur versent la Banque de France ou la Caisse des Dépôts et Consignations a déterminé nombre de ces officiers publics à avoir dans des Caisses régionales de Crédit agricole des dépôts trop élevés29 ».
+Le haut magistrat pointe au titre des causes des désordres constatés le fait que « beaucoup ont une tendance […] à négliger de tenir une comptabilité et à confondre les fonds appartenant à leurs clients avec leurs fonds propres. […] Comme je vous l’ai signalé dans un rapport spécial en date du 2 mars dernier, la perspective de recevoir un intérêt supérieur à celui que leur versent la Banque de FRANCE ou la Caisse des Dépôts et Consignations a déterminé nombre de ces officiers publics à avoir dans des Caisses régionales de Crédit agricole des dépôts trop élevés29 ».
 
 Devant la récurrence et l’importance des scandales financiers qui affectent la profession notariale, le rapport parlementaire d’Émile Bender avait envisagé, dès 1910, la mise en place d’une garantie collective.
 
 Page 13:
 
-Il faut toutefois attendre un nouveau scandale, celui dit « de Lasternas30 », pour qu’en 1934 le ministère de la Justice fasse « voter une disposition déclarant solidaires tous les notaires de France. [… Sont créées à cet effet une] Caisse Régionale de Garantie, à laquelle participent chaque année, au moyen de versements, tous les notaires d’une même Cour d’appel [et une] Caisse Centrale de Garantie, à laquelle participent, au moyen d’un autre versement, tous les notaires de France31 ». Cette responsabilité collective existe encore de nos jours. Il est singulier qu’une profession préfère, littéralement, payer pour pouvoir préserver en son sein les brebis galeuses, plutôt que de les écarter. Le notariat est parvenu à faire admettre aux pouvoirs publics que « la solidarité justifie une certaine cooptation32 ».
+Il faut toutefois attendre un nouveau scandale, celui dit « de Lasternas30 », pour qu’en 1934 le ministère de la Justice fasse « voter une disposition déclarant solidaires tous les notaires de FRANCE. [… Sont créées à cet effet une] Caisse Régionale de Garantie, à laquelle participent chaque année, au moyen de versements, tous les notaires d’une même Cour d’appel [et une] Caisse Centrale de Garantie, à laquelle participent, au moyen d’un autre versement, tous les notaires de France31 ». Cette responsabilité collective existe encore de nos jours. Il est singulier qu’une profession préfère, littéralement, payer pour pouvoir préserver en son sein les brebis galeuses, plutôt que de les écarter. Le notariat est parvenu à faire admettre aux pouvoirs publics que « la solidarité justifie une certaine cooptation32 ».
 
 La situation atteint à la veille du conflit un tel niveau d’irrégularités que le président de la chambre de discipline de l’Ariège finit par alerter les plus hautes autorités politiques sur la nécessité d’une intervention de la part des pouvoirs publics pour assainir la profession :
 
@@ -423,7 +423,7 @@ Voici, décrit de l’intérieur de la profession, l’état de délabrement mor
 
 Une grande proximité avec les pouvoirs publics
 
-Le notariat, en France, présente ce paradoxe apparent d’être une profession affectée, tout au long de son histoire, par les scandales et, dans le même temps, de bénéficier continûment d’une très grande proximité avec les pouvoirs publics34. Jean Rioufol et Françoise Rico se réjouissent qu’il « fonctionne aussi bien dans des régimes totalitaires que dans des régimes libéraux35 ». La raison de cette adaptation réside dans la circonstance que les notaires ont systématiquement fait le choix du gouvernement en place, quel qu’il soit. C’est ainsi que les notaires prendront attache avec le nouveau pouvoir dès les premières heures de Vichy et, plus tard, identiquement, à peine la Libération intervenue.
+Le notariat, en FRANCE, présente ce paradoxe apparent d’être une profession affectée, tout au long de son histoire, par les scandales et, dans le même temps, de bénéficier continûment d’une très grande proximité avec les pouvoirs publics34. Jean Rioufol et Françoise Rico se réjouissent qu’il « fonctionne aussi bien dans des régimes totalitaires que dans des régimes libéraux35 ». La raison de cette adaptation réside dans la circonstance que les notaires ont systématiquement fait le choix du gouvernement en place, quel qu’il soit. C’est ainsi que les notaires prendront attache avec le nouveau pouvoir dès les premières heures de Vichy et, plus tard, identiquement, à peine la Libération intervenue.
 
 Nous pourrons nous convaincre de cette réalité : les relations nouées par les notaires avec l’appareil d’État traversent sans en être affectées les époques et les régimes politiques. C’est ainsi que, le 16 novembre 1944, le président du Conseil supérieur du notariat (CSN) s’assure auprès d
 
@@ -436,7 +436,7 @@ Après une brève station à Tours et au château de Cangé en Touraine (10 juin
 
 Une délégation de notaires de province, à laquelle s’est joint maître Charles Collet, futur président de la chambre des notaires de Paris, est reçue deux jours plus tôt par le nouveau garde des Sceaux. « Ils rapportent de leur réception une bonne impression, M. Alibert40, quoique en possession de son fauteuil ministériel depuis seulement cinq ou six jours, leur a dit que le statut actuel du Notariat ne serait pas modifié par les projets en cours d’examen41… »
 
-La bonne impression des représentants du notariat, provincial de même que parisien, est donc imprimée par un homme « connu pour son attitude expressément antisémite et proche de l’Action française, mouvement d’extrême droite, royaliste, nationaliste et antisémite42 » qui se trouve être l’un des auteurs du premier statut des juifs43. Ajoutons, avec « Philippe Serre, l’un des courageux opposants au régime, [qu’]“Alibert44 était un juriste remarquable qui a très mal agi […]. Il était un des fripons de Vichy”45 ». Ce dont finira d’ailleurs par convenir le maréchal Pétain lui-même46.
+La bonne impression des représentants du notariat, provincial de même que parisien, est donc imprimée par un homme « connu pour son attitude expressément antisémite et proche de l’Action française, mouvement d’extrême droite, royaliste, nationaliste et antisémite42 » qui se trouve être l’un des auteurs du premier statut des juifs43. Ajoutons, avec « PHILIPPE Serre, l’un des courageux opposants au régime, [qu’]“Alibert44 était un juriste remarquable qui a très mal agi […]. Il était un des fripons de Vichy”45 ». Ce dont finira d’ailleurs par convenir le maréchal Pétain lui-même46.
 
 La préservation de l’excellence de ces relations au lendemain du rétablissement de la légalité républicaine
 
@@ -452,7 +452,7 @@ En 1946, le notariat peut se prévaloir de l’appréciation élogieuse du garde
 
 Formellement, lorsque les représentants du notariat désirent un rendez-vous à la Chancellerie, ils n’hésitent pas à en proposer eux-mêmes la date53. Cette pratique pourrait paraître anecdotique si elle ne révélait le type singulier des relations entretenues par les notaires avec les pouvoirs publics. Le CSN ne se prive pas de réclamer au ministère de la Justice un compte-rendu de l’avancée de ses travaux : « Nous vous serions obligés de bien vouloir nous faire connaître la suite que vous entendez réserver à l’envoi que nous vous avons fait le 7 août 1950 du projet de Décret54. »
 
-Les années ont passé sans que rien ne change. Le notariat en tant que profession sait de nos jours encore pouvoir compter sur le soutien inconditionnel de la classe politique (voir ci-après, « Les notaires et les politiques »), notamment pour neutraliser la volonté de réforme de Bruxelles55. Éric de Montgolfier évoque avec ironie « les propos ministériels tenus lors [des congrès annuels des notaires,] assez révélateurs, donnant souvent aux autorités gouvernementales l’occasion de savoureuses capitulations devant une profession réunie pour les recueillir56 ».
+Les années ont passé sans que rien ne change. Le notariat en tant que profession sait de nos jours encore pouvoir compter sur le soutien inconditionnel de la classe politique (voir ci-après, « Les notaires et les politiques »), notamment pour neutraliser la volonté de réforme de Bruxelles55. Éric DE MONTGOLFIER évoque avec ironie « les propos ministériels tenus lors [des congrès annuels des notaires,] assez révélateurs, donnant souvent aux autorités gouvernementales l’occasion de savoureuses capitulations devant une profession réunie pour les recueillir56 ».
 
 Les notaires et les politiques
 
@@ -515,9 +515,9 @@ Notes
 
 8. Le 27 août 1944, « à l’Hôtel de Ville, le président du Conseil national de la résistance, Georges Bidault, demande au général de paraître à un balcon et de proclamer la République : “Non, répond le général, la République n’a jamais cessé d’exister.” ». Robert Aron, Histoire de Vichy, 1940-1944, t. 2 (1re édition 1954), Paris, Le Livre de poche, 1973, p. 438.
 
-9. « Toute l’histoire de la France de Vichy ne commence certainement pas en juin 1940 et, l’observation vaut dans les deux sens, tout ce qui lui appartient ne s’arrête pas en août 1944. », Pierre Laborie,L’opinion française sous Vichy : les Français et la crise d’identité nationale, 1936-1944 (1re édition 1990), Paris, Points, 2001, p. 35.
+9. « Toute l’histoire de la FRANCE de Vichy ne commence certainement pas en juin 1940 et, l’observation vaut dans les deux sens, tout ce qui lui appartient ne s’arrête pas en août 1944. », Pierre Laborie,L’opinion française sous Vichy : les Français et la crise d’identité nationale, 1936-1944 (1re édition 1990), Paris, Points, 2001, p. 35.
 
-10. « Aux États-Unis, 1 transaction immobilière sur 3 fait l’objet d’un contentieux. En France, grâce aux notaires, seulement 1 sur 1 100. L’augmentation considérable des contentieux entraînerait un besoin important de juges qui alourdirait le budget du ministère de la Justice. » CSN, « Projet de réforme du notariat : les notaires tirent la sonnette d’alarme » (en ligne), defrenois. fr, 12 septembre 2014.
+10. « Aux États-Unis, 1 transaction immobilière sur 3 fait l’objet d’un contentieux. En FRANCE, grâce aux notaires, seulement 1 sur 1 100. L’augmentation considérable des contentieux entraînerait un besoin important de juges qui alourdirait le budget du ministère de la Justice. » CSN, « Projet de réforme du notariat : les notaires tirent la sonnette d’alarme » (en ligne), defrenois. fr, 12 septembre 2014.
 
 Cette approche ignore volontairement la fonction de rétablissement du droit qui incombe au juge. Tout infracteur a à l’évidence intérêt à ce que la justice ne soit pas saisie.
 
@@ -532,7 +532,7 @@ Page 19:
 
 14. Christian Thuderoz, « Notaires et huissiers de justice : du patrimoine à l’entreprise », Revue française de sociologie, vol. 32, n° 2, 1991, p. 223.
 
-15. Raoul de La Grasserie, L’état actuel de la réforme du notariat en France, Paris, A. Fontemoing, 1898, p. 156.
+15. Raoul de La Grasserie, L’état actuel de la réforme du notariat en FRANCE, Paris, A. Fontemoing, 1898, p. 156.
 
 16. AN, BB 19950407/81, lettre de M. Chevallier, député-maire d’Orléans, au garde des Sceaux, 8 avril 1947.
 
@@ -586,11 +586,11 @@ Page 20:
 
 37. AN, BB 20030223/23, lettre du président du CSN au directeur des Affaires civiles, 16 novembre 1944.
 
-38. Redevenue pour quelques jours la « capitale tragique » de la France.
+38. Redevenue pour quelques jours la « capitale tragique » de la FRANCE.
 
 39. Charles Collet, André Oudard, L’activité de la chambre des notaires de Paris au cours de la guerre 1939-1945, Paris, Litec, 1965, p. 30-32.
 
-40. Philippe Pétain avait recouru à Raphaël Alibert vers 1930 pour se faire initier à la politique. La brochure C’est Pétain qu’il nous faut !, publiée en 1935 par Gustave Hervé, qui annonce les mesures autoritaires que le gouvernement du Maréchal prendra en 1940, avait été rédigée « sous l’influence d’Alibert ». Robert Aron, Histoire de Vichy, op. cit., t. 1, p. 41-42.
+40. PHILIPPE Pétain avait recouru à Raphaël Alibert vers 1930 pour se faire initier à la politique. La brochure C’est Pétain qu’il nous faut !, publiée en 1935 par Gustave Hervé, qui annonce les mesures autoritaires que le gouvernement du Maréchal prendra en 1940, avait été rédigée « sous l’influence d’Alibert ». Robert Aron, Histoire de Vichy, op. cit., t. 1, p. 41-42.
 
 « Dans un article paru en 1935 dans la Revue de droit constitutionnel, Alibert avait défini un projet de réforme constitutionnelle : c’est celui qu’il applique à Vichy. » Ibid., p. 302.
 
@@ -606,7 +606,7 @@ On retrouve sous la plume de maîtres Collet et Oudard la même formulation neut
 
 « Le 13 août [1940] Alibert propose au Conseil des ministres la dissolution des principales loges : “Le Grand Orient, la Grande Loge, le Droit Humain”. » Robert Aron, Histoire de Vichy, op. cit., t. 1, p. 309.
 
-44. « Membre du CSAR sous le matricule 231. » Philippe Bourdrel,Les cagoulards dans la guerre, Paris, Albin Michel, 2009, p. 58-59.
+44. « Membre du CSAR sous le matricule 231. » PHILIPPE Bourdrel,Les cagoulards dans la guerre, Paris, Albin Michel, 2009, p. 58-59.
 
 45. Richard Weisberg, Vichy, la justice et les Juifs, Amsterdam, Archives contemporaines, 1998, p. 45.
 
@@ -634,9 +634,9 @@ Page 22:
 
 55. Le 31 août 2012, le Sénat a approuvé les objectifs de la proposition de nouvelle directive européenne sur la reconnaissance des qualifications professionnelles. Le Sénat souscrit pleinement à cet objectif pour toutes les professions. Toutes, sauf une… celle de notaire, à laquelle est au surplus consacré un paragraphe spécial. Voir, sur le site officiel du Sénat, « Résolution européenne sur la reconnaissance des qualifications professionnelles » (en ligne), senat. fr.
 
-56. Éric de Montgolfier, Une morale pour les aigles, une autre pour les pigeons, Paris, Michel Lafon, 2014, p. 146.
+56. Éric DE MONTGOLFIER, Une morale pour les aigles, une autre pour les pigeons, Paris, Michel Lafon, 2014, p. 146.
 
-57. Robert Badinter soulignait que le droit de présentation est « juridiquement chargé d’incertitude ». Discours de Robert Badinter, ministre de la Justice, devant le congrès des notaires de France, le 25 mai 1984, p. 3, cité par Ezra Suleiman, Les notaires, op. cit., p. 232.
+57. Robert BADINTER soulignait que le droit de présentation est « juridiquement chargé d’incertitude ». Discours de Robert BADINTER, ministre de la Justice, devant le congrès des notaires de FRANCE, le 25 mai 1984, p. 3, cité par Ezra Suleiman, Les notaires, op. cit., p. 232.
 
 58. Articles 1er et 6.
 
@@ -646,9 +646,9 @@ Page 22:
 
 61. Discours de M. Darmon, directeur des Affaires civiles, cité in Ezra Suleiman, Les notaires, op. cit., p. 225.
 
-62. « [L]a République issue des Lumières s’est construite contre les charges que l’on achetait. » Eva Joly,Est-ce dans ce monde-là que nous voulons vivre ?, Paris, Les Arènes, 2003, p. 261.
+62. « [L]a République issue des Lumières s’est construite contre les charges que l’on achetait. » Eva JOLY,Est-ce dans ce monde-là que nous voulons vivre ?, Paris, Les Arènes, 2003, p. 261.
 
-63. La perspective économique aboutit au constat que le « droit de présentation » nuit incontestablement à la compétitivité économique du site France. Dans un style imagé, Warren Buffett juge absurde de « choisir l’équipe olympique de 2020 en sélectionnant les fils aînés des médaillés d’or des jeux de l’an 2000 ». Guillemette Faure, « Crise à Wall Street ? Warren Buffet fait ses courses » (en ligne), Eco. Rue89.com, 4 octobre 2008.
+63. La perspective économique aboutit au constat que le « droit de présentation » nuit incontestablement à la compétitivité économique du site FRANCE. Dans un style imagé, Warren Buffett juge absurde de « choisir l’équipe olympique de 2020 en sélectionnant les fils aînés des médaillés d’or des jeux de l’an 2000 ». Guillemette Faure, « Crise à Wall Street ? Warren Buffet fait ses courses » (en ligne), Eco. Rue89.com, 4 octobre 2008.
 
 Chiffrant cette réalité, Thomas Philippon expose qu’« en moyenne, la performance de l’entreprise chute de 20 % après une transition familiale ». Thomas Philippon, Le capitalisme d’héritiers, Paris, Éditions du Seuil, 2007, p. 65.
 
@@ -664,11 +664,11 @@ Chapitre 1
 
 La position problématique de Vichy
 
-« En France, le régime d’occupation allemand se vit confronté à une situation particulière. Car, à la différence de la Belgique et des Pays-Bas, un traité d’armistice assurait au gouvernement français une certaine autonomie[68]. » La présence à Paris d’un ambassadeur allemand correspond à la volonté d’Hitler de poser les bases d’une possibilité de normalisation future. Cette ambassade signifiait que la France n’était pas seulement une puissance soumise mais également un partenaire[69]. À Vichy se trouve un consul général du Reich, tandis qu’à Paris est présent un représentant diplomatique auprès du commandement militaire allemand, l’ambassadeur Fernand de Brinon[70]. « Le régime de Vichy avait été reconnu par presque tous les États du monde à l’exception de l’Angleterre, mais y compris la Russie soviétique et les États-Unis[71]. » Cette confirmation internationale de l’existence en France d’un gouvernement ne préjuge toutefois aucunement de son degré réel d’autonomie.
+« En FRANCE, le régime d’occupation allemand se vit confronté à une situation particulière. Car, à la différence de la Belgique et des Pays-Bas, un traité d’armistice assurait au gouvernement français une certaine autonomie[68]. » La présence à Paris d’un ambassadeur allemand correspond à la volonté d’Hitler de poser les bases d’une possibilité de normalisation future. Cette ambassade signifiait que la France n’était pas seulement une puissance soumise mais également un partenaire[69]. À Vichy se trouve un consul général du Reich, tandis qu’à Paris est présent un représentant diplomatique auprès du commandement militaire allemand, l’ambassadeur Fernand de Brinon[70]. « Le régime de Vichy avait été reconnu par presque tous les États du monde à l’exception de l’Angleterre, mais y compris la Russie soviétique et les États-Unis[71]. » Cette confirmation internationale de l’existence en France d’un gouvernement ne préjuge toutefois aucunement de son degré réel d’autonomie.
 
 Page 23:
 
-La France vaincue demeure en effet formellement un État « souverain » et à ce titre créateur de droit même si la notion de souveraineté est dès 1940 grandement affaiblie[72] et, à compter de l’invasion de la zone sud en novembre 1942, de plus en plus largement illusoire[73].
+La FRANCE vaincue demeure en effet formellement un État « souverain » et à ce titre créateur de droit même si la notion de souveraineté est dès 1940 grandement affaiblie[72] et, à compter de l’invasion de la zone sud en novembre 1942, de plus en plus largement illusoire[73].
 
 Afin de se différencier d’un régime totalitaire et de conserver autant que possible les apparences d’un État de droit, le régime de Vichy a fait le choix d’inscrire l’ensemble de sa politique dans un strict formalisme juridique. Dans la zone occupée, la hiérarchie des normes se complique par l’obligation faite aux lois françaises de respecter les ordonnances allemandes.
 
@@ -688,7 +688,7 @@ Page 24:
 
 Dans le sillage de la geste gaulliste et communiste des années de guerre se développe au sein même de la communauté juive, dans l’immédiat après-guerre, une présentation du droit antisémite nourrie de l’idéologie « résistancialiste[82] » et probablement conforme à la perception qu’en avaient ses victimes sous l’Occupation. C’est-à-dire des mesures imposées par les Allemands à une poignée de traîtres français[83]. En 1946, Jacques Polonski consacre une étude à la presse et la propagande antisémites sous l’Occupation. Il expose que « l’opinion publique et les générations futures n’ont pas le droit d’ignorer à quel degré d’abaissement moral et spirituel une minorité active, mise au service de l’idéologie nazie, a pu réduire un peuple d’une aussi vieille civilisation que la nation française[84] ». L’année suivante, Roger Berg soutient encore que « Vichy, antisémite par principe, n’agissait contre les Israélites que sur l’instigation et après avis des autorités d’occupation[85] ». Ce courant d’opinion peut s’expliquer par un refus de voir la réalité en face : « Beaucoup de Juifs ont fait porter la responsabilité de ce qui arrivait à l’Allemagne, parce que, au fond, ils désiraient qu’il en fût ainsi[86]. »
 
-Le 22 octobre 1940, le grand rabbin Isaïe Schwartz adresse une longue déclaration au chef de l’État. Il exprime la « consternation » suscitée chez les juifs par l’adoption du statut, dont il précise que les « principes [sont] nés hors de nos frontières[87] ». À la veille de l’adoption du second statut du 2 juin 1941, le Consistoire central israélite de France adresse aux autorités une protestation demandant que le droit antisémite adopté par Vichy soit à tout le moins présenté comme répondant à une exigence allemande[88].
+Le 22 octobre 1940, le grand rabbin Isaïe Schwartz adresse une longue déclaration au chef de l’État. Il exprime la « consternation » suscitée chez les juifs par l’adoption du statut, dont il précise que les « principes [sont] nés hors de nos frontières[87] ». À la veille de l’adoption du second statut du 2 juin 1941, le Consistoire central israélite de FRANCE adresse aux autorités une protestation demandant que le droit antisémite adopté par Vichy soit à tout le moins présenté comme répondant à une exigence allemande[88].
 
 « Dans les années 80, l’ouverture des archives, le recul historique et aussi l’évolution idéologique de la société française contribuent à un changement radical de perspective[89]. » Il est désormais parfaitement établi par les historiens que le premier statut des juifs n’a pas été imposé par les Allemands. « Vichy a inauguré sa propre politique antisémite avant la publication du premier texte allemand, et sans avoir reçu d’ordres directs des Allemands[90]. »
 
@@ -698,7 +698,7 @@ Page 25:
 
 Lorsque Raphaël Alibert fut jugé en 1947, le procureur général renonça au chef d’accusation d’intelligence avec l’ennemi, car il avait été établi par l’instruction qu’il n’avait, dans l’exercice de ses fonctions de garde des Sceaux de juillet 1940 à janvier 1941, entretenu aucune relation avec les Allemands[94]. Répondant au président de la Haute Cour, Louis Noguères, Xavier Vallat, le premier commissaire général aux questions juives, devait également revendiquer l’initiative française de cette législation[95].
 
-Le droit antisémite de Vichy s’inscrit à l’intérieur du projet plus vaste de la Révolution nationale dans le domaine de la politique interne et, sur le plan international, dans l’ambition d’insérer la France dans l’Europe de l’après-guerre. Une Europe dans laquelle les mesures à l’encontre des juifs ont d’ores et déjà tendance à se banaliser[96].
+Le droit antisémite de Vichy s’inscrit à l’intérieur du projet plus vaste de la Révolution nationale dans le domaine de la politique interne et, sur le plan international, dans l’ambition d’insérer la FRANCE dans l’Europe de l’après-guerre. Une Europe dans laquelle les mesures à l’encontre des juifs ont d’ores et déjà tendance à se banaliser[96].
 
 Il convient certes de nuancer l’affirmation d’un droit purement français, par le constat que l’origine française du droit antisémite n’empêchait pas l’existence d’un contrôle allemand[97]. Celui-ci ne signifie pourtant pas que l’influence ait été unilatérale. Se réalise en effet une véritable hybridation du droit antisémite.
 
@@ -710,7 +710,7 @@ Si, avec de nombreuses nuances, il est donc possible de soutenir la thèse
 
 Page 26:
 
-Chronologiquement, jusqu’au milieu de l’année 1941, « l’aryanisation économique » fut avant tout réglée par des ordonnances allemandes et de ce fait appliquée d’abord dans la zone occupée[101]. Plus largement, en matière d’exclusion économique des « juifs », « chaque mesure française a un précédent allemand : de l’exclusion de la fonction publique à l’aryanisation des commerces et industries en passant par l’amende d’un milliard imposée aux Juifs de France constitués en « communauté », comme celle d’un milliard de marks avait été imposée à la communauté allemande après le pogrom de la nuit de Cristal du 9 novembre 1938[102] ».
+Chronologiquement, jusqu’au milieu de l’année 1941, « l’aryanisation économique » fut avant tout réglée par des ordonnances allemandes et de ce fait appliquée d’abord dans la zone occupée[101]. Plus largement, en matière d’exclusion économique des « juifs », « chaque mesure française a un précédent allemand : de l’exclusion de la fonction publique à l’aryanisation des commerces et industries en passant par l’amende d’un milliard imposée aux Juifs de FRANCE constitués en « communauté », comme celle d’un milliard de marks avait été imposée à la communauté allemande après le pogrom de la nuit de Cristal du 9 novembre 1938[102] ».
 
 Le 18 octobre 1940, la « deuxième ordonnance sur les mesures antijuives[103] » exige la déclaration, avant le 31 octobre suivant, de tout bien ou entreprise « juive ». Elle définit l’entreprise juive comme celle qui a un gérant « juif » ou plus d’un tiers de « juifs » dans son conseil d’administration. Elle prévoit la vente de ces biens et entreprises avec l’accord des autorités allemandes[104].
 
@@ -718,7 +718,7 @@ La crainte du gouvernement de Vichy était que l’initiative allemande n’abou
 
 Le gouvernement une fois convaincu par les assurances allemandes de pouvoir placer pour l’essentiel des administrateurs provisoires français dans les « entreprises juives[106] », le général de La Laurencie, « maréchaliste et anticollaborationniste[107] », adressa le 5 novembre 1940 une nouvelle circulaire aux préfets de la zone occupée, les rassurant sur les intentions des autorités allemandes[108].
 
-Deux jours avant sa promulgation, la « première ordonnance relative aux mesures contre les Juifs » du 27 septembre 1940 fit l’objet de critiques de la part de Vichy. « Les objections qui s’y trouvaient ne concernaient pas le pages antisémite de l’ordonnance, mais le fait qu’en l’appliquant les bureaux allemands créeraient une situation particulière dans la zone occupée, ce qui mettrait en question l’unité de l’administration de la France et en outre dépasserait les compétences de l’administration militaire[109]. »
+Deux jours avant sa promulgation, la « première ordonnance relative aux mesures contre les Juifs » du 27 septembre 1940 fit l’objet de critiques de la part de Vichy. « Les objections qui s’y trouvaient ne concernaient pas le pages antisémite de l’ordonnance, mais le fait qu’en l’appliquant les bureaux allemands créeraient une situation particulière dans la zone occupée, ce qui mettrait en question l’unité de l’administration de la FRANCE et en outre dépasserait les compétences de l’administration militaire[109]. »
 
 Le choix du régime de Vichy d’inscrire l’ensemble de sa politique dans un strict formalisme juridique place mécaniquement les juristes dans une position singulière et interroge nécessairement leur responsabilité propre dans la banalisation de « l’anti-droit ».
 
@@ -752,7 +752,7 @@ Le barreau
 
 Page 29:
 
-En présence des personnalités les plus éminentes du monde judiciaire – le garde des Sceaux Pierre-Henri Teitgen, le vice-président du Conseil d’État, René Cassin, le premier président de la Cour de cassation, Mongibeaux –, le nouveau bâtonnier, Marcel Poignard, prononça un discours de près de deux heures. Il déclara notamment : « Nulle part en France même, l’indignation n’a été plus vive qu’au sein de notre barreau, rempart suprême des libertés. Ce fut en tout temps la règle de notre Ordre que le rejet de toute différence entre des confrères qui prêtent le même serment, revêtent la même robe, se consacrent au même service de la Justice et au même culte du Droit[127]. » Un barreau presque unanimement au service de la liberté est également la version retenue par le bâtonnier Jacques Charpentier, lui-même incontestable résistant, au sortir de la guerre[128].
+En présence des personnalités les plus éminentes du monde judiciaire – le garde des Sceaux Pierre-Henri Teitgen, le vice-président du Conseil d’État, René Cassin, le premier président de la Cour de cassation, Mongibeaux –, le nouveau bâtonnier, Marcel Poignard, prononça un discours de près de deux heures. Il déclara notamment : « Nulle part en FRANCE même, l’indignation n’a été plus vive qu’au sein de notre barreau, rempart suprême des libertés. Ce fut en tout temps la règle de notre Ordre que le rejet de toute différence entre des confrères qui prêtent le même serment, revêtent la même robe, se consacrent au même service de la Justice et au même culte du Droit[127]. » Un barreau presque unanimement au service de la liberté est également la version retenue par le bâtonnier Jacques Charpentier, lui-même incontestable résistant, au sortir de la guerre[128].
 
 Le notariat
 
@@ -780,9 +780,9 @@ Cette première version de l’histoire du second conflit mondial, exonérant co
 
 La douloureuse réévaluation
 
-Depuis la publication, en 1973, de l’ouvrage inaugural La France de Vichy : 1940-1944[134], le regard porté sur l’attitude des Français durant l’Occupation s’est sensiblement modifié. Robert Paxton démontre que, contrairement à ce qui avait paru solidement établi, le maréchal Pétain et son gouvernement, tablant sur la victoire allemande, se sont d’emblée engagés dans la voie d’une collaboration d’État volontariste, notamment dans les domaines de l’économie et de la répression antisémite[135].
+Depuis la publication, en 1973, de l’ouvrage inaugural La FRANCE de Vichy : 1940-1944[134], le regard porté sur l’attitude des Français durant l’Occupation s’est sensiblement modifié. Robert Paxton démontre que, contrairement à ce qui avait paru solidement établi, le maréchal Pétain et son gouvernement, tablant sur la victoire allemande, se sont d’emblée engagés dans la voie d’une collaboration d’État volontariste, notamment dans les domaines de l’économie et de la répression antisémite[135].
 
-Lorsque le CDJC organise en mars 1979 un colloque intitulé La France et la question juive : 1940/1944, « le cadre est nettement tracé dans son énoncé. Il s’agit d’étudier l’attitude des différentes catégories de Français non juifs devant la persécution des Juifs en France pendant la période de l’Occupation ». Partant du constat qu’« il n’existe pas d’étude approfondie systématique concernant l’attitude des différentes couches de la population française non juive face à la persécution des Juifs[136] », les organisateurs du colloque ont articulé l’examen de cette question en trois parties : l’État et les institutions, les Églises, les mouvements de résistance. Ainsi, six années après l’ouvrage de Robert Paxton, la société civile et, au sein de celle-ci, les professions du droit ne font pas l’objet d’études particulières.
+Lorsque le CDJC organise en mars 1979 un colloque intitulé La FRANCE et la question juive : 1940/1944, « le cadre est nettement tracé dans son énoncé. Il s’agit d’étudier l’attitude des différentes catégories de Français non juifs devant la persécution des Juifs en France pendant la période de l’Occupation ». Partant du constat qu’« il n’existe pas d’étude approfondie systématique concernant l’attitude des différentes couches de la population française non juive face à la persécution des Juifs[136] », les organisateurs du colloque ont articulé l’examen de cette question en trois parties : l’État et les institutions, les Églises, les mouvements de résistance. Ainsi, six années après l’ouvrage de Robert Paxton, la société civile et, au sein de celle-ci, les professions du droit ne font pas l’objet d’études particulières.
 
 Le renouveau de l’histoire du régime de Vichy[137] débouche, quelques années plus tard, sur la production d’études interrogeant nombre d’institutions françaises sur leur attitude passée, lesquelles ont abouti à la publication d’ouvrages généraux[138] ou de monographies consacrées tour à tour à la justice[139], aux professions judiciaires[140], à la magistrature judiciaire[141], au Conseil d’État[142], à l’Université[143] ou encore au barreau[144].
 
@@ -810,7 +810,7 @@ Page 32:
 
 On constate un quasi-doublement du chiffre d’affaires des notaires qui se réalise, au surplus, dans un contexte d’économie de pénurie[155]. En d’autres termes, une population composée selon le décompte avancé par Xavier Vallat d’environ 60 000 à 70 000 personnes, soit 0,15 % à 0,175 %[156] d’un pays de 40 millions d’habitants, a fourni aux notaires 50 % de leur chiffre d’affaires, en supposant constant le chiffre d’affaires tiré de leur activité purement « aryenne ».
 
-Le rapport rédigé par la Mission d’étude sur la spoliation des Juifs de France met en évidence la place éminente de « l’aryanisation » au sein de la politique antisémite de Vichy[157].
+Le rapport rédigé par la Mission d’étude sur la spoliation des Juifs de FRANCE met en évidence la place éminente de « l’aryanisation » au sein de la politique antisémite de Vichy[157].
 
 Les historiens qui ont étudié l’aryanisation se sont efforcés d’en dresser le bilan à partir des statistiques du CGQJ, pour la zone nord, la seule pour laquelle elles aient été dressées, notamment à partir d’un tableau établi au 30 juin 1944[158]. Elles font apparaître d’abord l’ampleur de l’entreprise de spoliation : un peu plus de 31 000 dossiers pour le département de la Seine, un peu plus de 11 000 pour les autres départements de la zone occupée : ce sont des chiffres considérables. Si l’on ajoute les aryanisations entreprises en zone non occupée, dont le nombre probable se situe autour de 7 000 à 8 000, on peut estimer à 50 000 environ le nombre de biens, entreprises, immeubles, pour lesquels un dossier a été ouvert et un administrateur nommé[159].
 
@@ -832,21 +832,21 @@ Le difficile accès aux sources
 
 La difficulté d’accès aux sources constitue un autre facteur technique contribuant à tenir le notariat éloigné des recherches historiographiques.
 
-Introduisant son propos sur les sources sur la spoliation des biens dans le département des Bouches-du-Rhône, le professeur Renée Dray-Bensoussan souligne « qu’il faut aussi compter sur les archives notariales dont l’accès n’est pas encore autorisé par la loi165 ». Un article du Nouvel Observateur rendant compte de cette étude précise qu’il ne s’agit pas seulement d’une difficulté à trouver des pièces, mais de mauvaise volonté de la part des acteurs sollicités. « Les banques, notaires et assurances ont refusé l’accès à leur documentation arguant d’un manque de temps, contraignant les historiens à limiter leurs recherches aux archives nationales et départementales166. » Une situation identique se rencontre à Grenoble, lorsque la nouvelle municipalité décide la constitution d’une commission municipale à l’initiative des dirigeants locaux du Conseil représentatif des institutions juives de France (CRIF).
+Introduisant son propos sur les sources sur la spoliation des biens dans le département des Bouches-du-Rhône, le professeur Renée Dray-Bensoussan souligne « qu’il faut aussi compter sur les archives notariales dont l’accès n’est pas encore autorisé par la loi165 ». Un article du Nouvel Observateur rendant compte de cette étude précise qu’il ne s’agit pas seulement d’une difficulté à trouver des pièces, mais de mauvaise volonté de la part des acteurs sollicités. « Les banques, notaires et assurances ont refusé l’accès à leur documentation arguant d’un manque de temps, contraignant les historiens à limiter leurs recherches aux archives nationales et départementales166. » Une situation identique se rencontre à Grenoble, lorsque la nouvelle municipalité décide la constitution d’une commission municipale à l’initiative des dirigeants locaux du Conseil représentatif des institutions juives de FRANCE (CRIF).
 
 Georges Lachkar, ex-président du CRIF et adjoint au maire, déplore que des institutions locales aient refusé de participer : « Qui, mieux qu’une chambre des notaires, peut être témoin des mutations immobilières ? Qui mieux que les banques peut témoigner de la mise en déshérence des biens ? » Avec celle de la chambre de commerce, cette absence suscite l’indignation de Michel Bénichou : « Soixante ans après, des institutions continuent de couvrir des faits répréhensibles. Faut-il que la vérité reste bloquée ? »[167].
 
 Page 34:
 
-À Bordeaux, les représentants de la profession n’ont prêté leur concours que pour tenter, non sans succès, d’égarer les historiens[168]. La situation se reproduit, cette fois sur le plan national, lorsque le CSN est sollicité par la Mission d’étude sur la spoliation des Juifs de France.
+À Bordeaux, les représentants de la profession n’ont prêté leur concours que pour tenter, non sans succès, d’égarer les historiens[168]. La situation se reproduit, cette fois sur le plan national, lorsque le CSN est sollicité par la Mission d’étude sur la spoliation des Juifs de FRANCE.
 
 Le lobby des notaires est parvenu à retarder l’accès aux dossiers tenus par la profession durant la période de l’Occupation, au moment précis où l’ouverture des archives était encouragée par les plus hautes autorités de l’État. Le 20 juillet 1997, dans le discours qu’il prononçait à l’occasion de la commémoration du cinquante-cinquième anniversaire de la rafle du « Vel’ d’Hiv », le Premier ministre Lionel Jospin devait déclarer :
 
 Nous savons à quel point le travail des historiens est essentiel. Ce sont eux qui, jour après jour, par leurs recherches et leurs publications, livrent un combat fondamental pour la vérité, contre les « assassins de la mémoire ». L’accès aux archives constitue pour les historiens une source irremplaçable. C’est dans cet esprit que j’entends faire modifier la loi du 3 janvier 1979 sur les archives, afin que l’accès à celles-ci pour les travaux d’intérêt historique soit facilité[169].
 
-Alors que la tendance générale de la loi s’est traduite par la réduction du délai de communicabilité des documents, l’accès aux archives des notaires est reporté d’une génération et la loi dote sur ce point la France d’un des régimes les plus restrictifs d’Europe[170]. Malgré l’arrêté du 13 mai 1998 relatif à l’ouverture de fonds d’archives publiques concernant la période 1940-1944, les documents émanant des notaires ne sont toujours pas accessibles. Cette farouche volonté du notariat contemporain de faire obstacle à la connaissance du passé et de masquer le rôle des notaires sous Vichy a efficacement entravé le travail des chercheurs.
+Alors que la tendance générale de la loi s’est traduite par la réduction du délai de communicabilité des documents, l’accès aux archives des notaires est reporté d’une génération et la loi dote sur ce point la FRANCE d’un des régimes les plus restrictifs d’Europe[170]. Malgré l’arrêté du 13 mai 1998 relatif à l’ouverture de fonds d’archives publiques concernant la période 1940-1944, les documents émanant des notaires ne sont toujours pas accessibles. Cette farouche volonté du notariat contemporain de faire obstacle à la connaissance du passé et de masquer le rôle des notaires sous Vichy a efficacement entravé le travail des chercheurs.
 
-Dans son rapport d’étape daté de décembre 1997, la Mission d’étude sur la spoliation des Juifs de France soulignait la nécessité d’avoir accès aux sources documentaires en possession des instances notariales.
+Dans son rapport d’étape daté de décembre 1997, la Mission d’étude sur la spoliation des Juifs de FRANCE soulignait la nécessité d’avoir accès aux sources documentaires en possession des instances notariales.
 
 Les archives des chambres syndicales, et notamment de la chambre syndicale des notaires, peuvent concerner les produits de l’aryanisation économique conservés jusqu’à la Libération et les biens et successions en déshérence.
 
@@ -856,7 +856,7 @@ Le 10 juin 1998, le président de la Mission d’étude sur la spoliation
 
 Page 35:
 
-Pour assurer leur succès, ces démarches officielles avaient été précédées de tractations officieuses. Une note, manifestement destinée à demeurer secrète, du 8 juin 1998 à l’attention du président Mattéoli, cosignée par Claire Andrieu et Patrick de Canecaude, expose que le président du CSN, l’ancien ministre Alain Lambert, ne s’oppose pas à la création de cette commission. Il « souhaite toutefois que son existence ne soit pas […] rendue publique[174] ». Travestie en « respect du secret professionnel », la mauvaise volonté des notaires ne devait pas tarder à se faire jour, conduisant Jean Mattéoli à protester officiellement, mais sans efficacité, auprès du garde des Sceaux[175].
+Pour assurer leur succès, ces démarches officielles avaient été précédées de tractations officieuses. Une note, manifestement destinée à demeurer secrète, du 8 juin 1998 à l’attention du président MATTÉOLI, cosignée par Claire Andrieu et Patrick de Canecaude, expose que le président du CSN, l’ancien ministre Alain Lambert, ne s’oppose pas à la création de cette commission. Il « souhaite toutefois que son existence ne soit pas […] rendue publique[174] ». Travestie en « respect du secret professionnel », la mauvaise volonté des notaires ne devait pas tarder à se faire jour, conduisant Jean Mattéoli à protester officiellement, mais sans efficacité, auprès du garde des Sceaux[175].
 
 Devenu avocat après avoir longtemps exercé la fonction de notaire, maître Pierre Redoutey se remémore « [avoir lui]-même constaté les très grandes difficultés à faire sortir les actes et autorisations de l’époque de l’occupation[176] ». Le fait n’est pas contestable : les actes notariés reçus ainsi que les registres et documents comptables et financiers établis entre 1941 et 1944 sont rendus par la profession elle-même d’accès difficile.
 
@@ -870,7 +870,7 @@ Quand bien même la comptabilité de certains offices aurait disparu par faits d
 
 La cristallisation de la recherche historique
 
-Une opinion plutôt favorable à l’égard du notariat est émise par Joseph Billig en 1960[180], c’est-à-dire, et ce point est évidemment décisif, à une époque où les sources n’étaient guère accessibles, et par un chercheur dont le sujet d’étude n’était pas le notariat. Son appréciation a pourtant cristallisé la position de nombreux historiens. Ainsi, à partir des travaux précurseurs de Joseph Billig, Claire Andrieu, en charge d’un rapport rédigé dans le cadre de la Mission d’étude sur la spoliation des Juifs de France, considère que le notariat a été « la seule [profession] qui ait tenté ouvertement de freiner l’action du Commissariat général aux questions juives181 ». C’est encore à l’opinion de Joseph Billig que Gwenaëlle Bazire se réfère en 2001, dans sa contribution au rapport de la Caisse des dépôts et consignations (CDC)[182].
+Une opinion plutôt favorable à l’égard du notariat est émise par Joseph Billig en 1960[180], c’est-à-dire, et ce point est évidemment décisif, à une époque où les sources n’étaient guère accessibles, et par un chercheur dont le sujet d’étude n’était pas le notariat. Son appréciation a pourtant cristallisé la position de nombreux historiens. Ainsi, à partir des travaux précurseurs de Joseph Billig, Claire Andrieu, en charge d’un rapport rédigé dans le cadre de la Mission d’étude sur la spoliation des Juifs de FRANCE, considère que le notariat a été « la seule [profession] qui ait tenté ouvertement de freiner l’action du Commissariat général aux questions juives181 ». C’est encore à l’opinion de Joseph Billig que Gwenaëlle Bazire se réfère en 2001, dans sa contribution au rapport de la Caisse des dépôts et consignations (CDC)[182].
 
 Dans un texte de 2009, Claire Andrieu nuance toutefois sa présentation initiale[183] et reconnaît que la profession de notaire mériterait d’être examinée. Interrogée par les auteurs du présent ouvrage, elle laisse désormais ouverte la conclusion à laquelle pourrait conduire l’étude du notariat durant l’Occupation[184].
 
@@ -882,13 +882,13 @@ Notes
 
 68. Martin Jungius, Un vol organisé, op. cit., p. 13.
 
-69. Au moins en apparence, si l’on en juge par la place qu’Adolf Hitler réservait à la France dans une Europe allemande.
+69. Au moins en apparence, si l’on en juge par la place qu’Adolf Hitler réservait à la FRANCE dans une Europe allemande.
 
 70. Qui a le titre de « Délégué général du Gouvernement français dans les Territoires occupés ». Gilbert Joseph, Fernand de Brinon, l’aristocrate de la collaboration, Paris, Albin Michel, 2002.
 
-71. Eberhard Jäckel, La France dans l’Europe de Hitler, Paris, Fayard, 1968, p. 128.
+71. Eberhard Jäckel, La FRANCE dans l’Europe de Hitler, Paris, Fayard, 1968, p. 128.
 
-72. La désorganisation administrative redoublait l’amoindrissement politique par la division en quatre grandes zones : la ligne de démarcation séparait la zone libre (appelée zone sud à partir de novembre 1942) de la zone occupée (appelée zone nord à partir de novembre 1942). En outre, l’est de la France correspondait aux départements annexés par le Reich et les deux départements du nord de la France avaient été placés sous l’administration militaire (allemande) de la Belgique. Il existait également une bande de 50 kilomètres de large le long de la frontière italienne, délimitée par la « ligne violette », convertie en zone démilitarisée, et la zone côtière interdite à partir d’avril 1941.
+72. La désorganisation administrative redoublait l’amoindrissement politique par la division en quatre grandes zones : la ligne de démarcation séparait la zone libre (appelée zone sud à partir de novembre 1942) de la zone occupée (appelée zone nord à partir de novembre 1942). En outre, l’est de la FRANCE correspondait aux départements annexés par le Reich et les deux départements du nord de la France avaient été placés sous l’administration militaire (allemande) de la Belgique. Il existait également une bande de 50 kilomètres de large le long de la frontière italienne, délimitée par la « ligne violette », convertie en zone démilitarisée, et la zone côtière interdite à partir d’avril 1941.
 
 Page 37:
 
@@ -898,7 +898,7 @@ La zone de « peuplement allemand », où le retour des réfugiés était interd
 
 74. Le 9 août 1941, le CGQJ, sollicité par les services de la Chancellerie, à la demande du président de la chambre des notaires du Loiret, répond que « les ordonnances Allemandes des 26 Avril et 28 Mai 1941 contiennent des dispositions catégoriques sur le blocage entre les mains des débiteurs ou détenteurs des avoirs appartenant à des Juifs ou à des entreprises Juives ». AN, BB 19950407/390. Cette lettre montre incidemment que, contrairement à la version officielle élaborée au lendemain de la guerre, selon laquelle les notaires n’avait jamais mis en œuvre que le droit français, ceux-ci ont parfois bel et bien appliqué les ordonnances allemandes.
 
-75. Mission d’étude sur la spoliation des Juifs de France, Rapport d’étape, avril-décembre 1997, 31 décembre 1997, p. 8.
+75. Mission d’étude sur la spoliation des Juifs de FRANCE, Rapport d’étape, avril-décembre 1997, 31 décembre 1997, p. 8.
 
 76. Les Allemands ont, pour ce qui les concerne, annoncé depuis le 7 septembre que des mesures ayant trait à l’aryanisation étaient en préparation s’agissant de la zone occupée.
 
@@ -918,7 +918,7 @@ La zone de « peuplement allemand », où le retour des réfugiés était interd
 
 84. Jacques Polonski, La presse, la propagande et l’opinion publique sous l’Occupation, Vichy, Éditions du Centre, 1946, p. 13-14.
 
-85. Roger Berg, Crimes ennemis en France : la persécution raciale, Paris, Service d’information des crimes de guerre/Office français d’édition, 1947, p. 7.
+85. Roger Berg, Crimes ennemis en FRANCE : la persécution raciale, Paris, Service d’information des crimes de guerre/Office français d’édition, 1947, p. 7.
 
 86. Claude Bochurberg, Entretiens avec Serge Klarsfeld, op. cit., p. 155.
 
@@ -932,7 +932,7 @@ Page 38:
 
 90. Michael R. Marrus, Robert O. Paxton, Vichy et les Juifs, op. cit., p. 20.
 
-Il est particulièrement surprenant de trouver en 2004 sous la plume de Bernard Ullmann l’affirmation que les « lois d’exclusion [étaient] dictées par le nazisme triomphant » (Lisette de Brinon, ma mère, Bruxelles, Complexe, 2004, p. 40) ou de lire en 2010 que « le premier Statut des juifs […] donne une traduction juridique au texte allemand, à quelques nuances près » (André Halimi, La délation sous l’Occupation, Paris, Le Cherche Midi, 2010, p. 91-92).
+Il est particulièrement surprenant de trouver en 2004 sous la plume de Bernard Ullmann l’affirmation que les « lois d’exclusion [étaient] dictées par le nazisme triomphant » (Lisette de Brinon, ma mère, Bruxelles, Complexe, 2004, p. 40) ou de lire en 2010 que « le premier Statut des juifs […] donne une traduction juridique au texte allemand, à quelques nuances près » (André HALIMI, La délation sous l’Occupation, Paris, Le Cherche Midi, 2010, p. 91-92).
 
 91. Henri Du Moulin de Labarthète, Le temps des illusions : souvenirs, juillet 1940-avril 1942, Genève, Éditions du Cheval ailé, 1947, p. 280.
 
@@ -950,15 +950,15 @@ Il est particulièrement surprenant de trouver en 2004 sous la plume de Bernard 
 
 98. Michael R. Marrus, Robert O. Paxton, Vichy et les Juifs, op. cit., p. 25.
 
-99. Philippe Verheyde, Les mauvais comptes de Vichy, op. cit., p. 27.
+99. PHILIPPE Verheyde, Les mauvais comptes de Vichy, op. cit., p. 27.
 
 100. AN, AJ38 119. En application du premier statut, 2 910 juifs furent congédiés des ministères, selon la statistique établie par Xavier Vallat à la demande des autorités allemandes, 2 avril 1942.
 
 Page 39:
 
-101. « Dans ce domaine, les autorités d’occupation ont manifestement l’initiative, ce qui explique que l’aryanisation ait commencé en zone occupée bien avant la loi du 22 juillet 1941 qui l’organise en zone libre. D’où, entre ces deux parties de la France, un décalage chronologique et des différences importante. » Antoine Prost, Rémi Skoutelsky, Sonia Étienne, Aryanisation économique et restitution : mission d’étude sur la spoliation des Juifs de France, Paris, La Documentation française, 2000, p. 13-14.
+101. « Dans ce domaine, les autorités d’occupation ont manifestement l’initiative, ce qui explique que l’aryanisation ait commencé en zone occupée bien avant la loi du 22 juillet 1941 qui l’organise en zone libre. D’où, entre ces deux parties de la FRANCE, un décalage chronologique et des différences importante. » Antoine Prost, Rémi Skoutelsky, Sonia Étienne, Aryanisation économique et restitution : mission d’étude sur la spoliation des Juifs de France, Paris, La Documentation française, 2000, p. 13-14.
 
-102. Mission d’étude sur la spoliation des Juifs de France, Rapport général, Paris, La Documentation française, 2000, p. 40.
+102. Mission d’étude sur la spoliation des Juifs de FRANCE, Rapport général, Paris, La Documentation française, 2000, p. 40.
 
 103. VOBIF, 20 octobre 1940, p. 112-114.
 
@@ -968,19 +968,19 @@ Page 39:
 
 106. Assurances données au général de La Laurencie par Westfall et Blanke (CDJC, CCXLVI-19) et réitérées dans un commentaire annexé à l’ordonnance du 18 octobre 1940. Joseph Billig, Le Commissariat général aux questions juives, 1941-1944, t. 3, Vichy, Éditions du Centre, 1960, p. 71.
 
-107. Jacques Soustelle, Envers et contre tout, t. 1. De Londres à Alger : souvenirs et documents sur la France libre, 1940-1942, Paris, Robert Laffont, 1947, p. 71, note.
+107. Jacques Soustelle, Envers et contre tout, t. 1. De Londres à Alger : souvenirs et documents sur la FRANCE libre, 1940-1942, Paris, Robert Laffont, 1947, p. 71, note.
 
 108. CDJC, XXXIV-1, circulaire du général de La Laurencie aux préfets de la zone occupée, 5 novembre 1940.
 
 109. Martin Jungius, Un vol organisé, op. cit., p. 43.
 
-110. Mission d’étude sur la spoliation des Juifs de France, Rapport d’étape, op. cit., p. 8.
+110. Mission d’étude sur la spoliation des Juifs de FRANCE, Rapport d’étape, op. cit., p. 8.
 
 111. Michael R. Marrus, Robert O. Paxton, Vichy et les Juifs, op. cit., p. 18.
 
-112. Mission d’étude sur la spoliation des Juifs de France, Rapport d’étape, op. cit., p. 8.
+112. Mission d’étude sur la spoliation des Juifs de FRANCE, Rapport d’étape, op. cit., p. 8.
 
-113. Claire Andrieu (dir.), La persécution des Juifs de France, 1940-1944, et le rétablissement de la légalité républicaine : recueil de textes officiels, 1940-1999, Paris, Mission d’étude sur la spoliation des Juifs de France/La Documentation française, 2000, p. 17.
+113. Claire Andrieu (dir.), La persécution des Juifs de FRANCE, 1940-1944, et le rétablissement de la légalité républicaine : recueil de textes officiels, 1940-1999, Paris, Mission d’étude sur la spoliation des Juifs de France/La Documentation française, 2000, p. 17.
 
 114. Danièle Lochak, préface à Richard Weisberg, Vichy, la justice et les Juifs, op. cit., p. 11.
 
@@ -990,7 +990,7 @@ Page 39:
 
 117. Cité in Pierre Assouline, L’épuration des intellectuels, Bruxelles, Complexe, 1985, p. 137.
 
-118. Cité in Philippe Fabre, Le Conseil d’État et Vichy : le contentieux de l’antisémitisme, Paris, Publications de la Sorbonne, 2001, p. 327, n° 411.
+118. Cité in PHILIPPE Fabre, Le Conseil d’État et Vichy : le contentieux de l’antisémitisme, Paris, Publications de la Sorbonne, 2001, p. 327, n° 411.
 
 Page 40:
 
@@ -1002,15 +1002,15 @@ Page 40:
 
 122. Bernard Chenot, « Le Conseil d’État dans les tempêtes de l’histoire », Les petites affiches n° 6-13, janvier 1989, p. 17.
 
-123. « Restant tout naturellement fidèle aux principes que sa jurisprudence avait dégagés sur la base des idées de 1789 et des articles de la Déclaration, il trouva […] dans l’exercice du contrôle juridictionnel des actes d’un pouvoir autoritaire l’occasion d’invoquer plus explicitement ces principes traditionnels de notre droit public pour en censurer la violation lorsque des mesures contraires aux Droits de l’homme lui furent déférées. » Cité in Philippe Fabre, Le Conseil d’État et Vichy, op. cit., p. 344, n° 431.
+123. « Restant tout naturellement fidèle aux principes que sa jurisprudence avait dégagés sur la base des idées de 1789 et des articles de la Déclaration, il trouva […] dans l’exercice du contrôle juridictionnel des actes d’un pouvoir autoritaire l’occasion d’invoquer plus explicitement ces principes traditionnels de notre droit public pour en censurer la violation lorsque des mesures contraires aux Droits de l’homme lui furent déférées. » Cité in PHILIPPE Fabre, Le Conseil d’État et Vichy, op. cit., p. 344, n° 431.
 
 124. Nous exposerons infra les conditions dans lesquelles a été rendu cet arrêt intéressant un membre de l’OAS.
 
 125. Le Monde, 31 octobre 1962, cité in Olivier Dupeyroux, « L’indépendance du Conseil d’État statuant au contentieux », RDP, 1983, p. 608.
 
-126. Robert Badinter, Un antisémitisme ordinaire : Vichy et les avocats juifs (1940-1944), Paris, Fayard, 1997, p. 14.
+126. Robert BADINTER, Un antisémitisme ordinaire : Vichy et les avocats juifs (1940-1944), Paris, Fayard, 1997, p. 14.
 
-127. Discours prononcé le 11 juillet 1946, par Monsieur Marcel Poignard, bâtonnier de l’Ordre des avocats, à la mémoire des avocats à la cour de Paris morts pour la France, 1939-1945, Imprimerie du Palais, 1946, p. 29.
+127. Discours prononcé le 11 juillet 1946, par Monsieur Marcel Poignard, bâtonnier de l’Ordre des avocats, à la mémoire des avocats à la cour de Paris morts pour la FRANCE, 1939-1945, Imprimerie du Palais, 1946, p. 29.
 
 128. Jacques Charpentier, Au service de la liberté, op. cit.
 
@@ -1020,17 +1020,17 @@ Page 40:
 
 131. Charles Collet, André Oudard, L’activité de la chambre des notaires de Paris, op. cit., p. 57.
 
-132. Le livre antérieur d’Eberhard Jäckel, publié en 1968, La France dans l’Europe de Hitler, n’avait pas eu le même retentissement.
+132. Le livre antérieur d’Eberhard Jäckel, publié en 1968, La FRANCE dans l’Europe de Hitler, n’avait pas eu le même retentissement.
 
 133. Propos de Robert O. Paxton, cité in Henry Rousso, Vichy, l’événement, la mémoire, l’histoire, op. cit., p. 459.
 
-134. Robert O. Paxton, La France de Vichy : 1940-1944 (1re édition 1973), Paris, Éditions du Seuil, 1997.
+134. Robert O. Paxton, La FRANCE de Vichy : 1940-1944 (1re édition 1973), Paris, Éditions du Seuil, 1997.
 
 Page 41:
 
 135. Dans L’Aurore, Dominique Jamet conteste les compétences du pourtant éminent historien américain : « Il paraît que M. Robert Paxton enseigne actuellement à l’université de Columbia. On peine à le croire. » Cité in Henry Rousso, Le syndrome de Vichy, op. cit., p. 290.
 
-136. Collectif, La France et la question juive, 1940-1944, Paris, Sylvie Messinger, 1981, p. 7-8.
+136. Collectif, La FRANCE et la question juive, 1940-1944, Paris, Sylvie Messinger, 1981, p. 7-8.
 
 137. Dont la critique est aujourd’hui à son tour critiquée comme étant par trop simplificatrice. François Bloch-Lainé, Claude Gruson, Hauts fonctionnaires sous l’Occupation, Paris, Odile Jacob, 1996, p. 10-11.
 
@@ -1042,15 +1042,15 @@ Page 41:
 
 141. Collectif, « Juger sous Vichy », Le genre humainn° 28, 1994. Ce volume constitue la reproduction des actes d’un colloque tenu à Bordeaux, il faut le signaler, sous les auspices de l’École nationale de la magistrature.
 
-142. Pour les études réalisées par les membres de l’institution : Jean Massot, « Le Conseil d’État et le régime de Vichy », Vingtième Siècle n° 58, avril-juin 1998. Pour les études universitaires : Olivier Dupeyroux, « L’indépendance du Conseil d’État », op. cit., p. 565 ; Jean Marcou, Le Conseil d’État sous Vichy (1940-1944) (document dactylographié), thèse soutenue à Grenoble, 1984 ; Philippe Fabre, Le Conseil d’État et Vichy, op. cit.
+142. Pour les études réalisées par les membres de l’institution : Jean Massot, « Le Conseil d’État et le régime de Vichy », Vingtième Siècle n° 58, avril-juin 1998. Pour les études universitaires : Olivier Dupeyroux, « L’indépendance du Conseil d’État », op. cit., p. 565 ; Jean Marcou, Le Conseil d’État sous Vichy (1940-1944) (document dactylographié), thèse soutenue à Grenoble, 1984 ; PHILIPPE Fabre, Le Conseil d’État et Vichy, op. cit.
 
 143. Danièle Lochak, « La doctrine sous Vichy ou les mésaventures du positivisme », op. cit., p. 252 ; Claude Singer, Vichy,l’Université et les juifs, op. cit.
 
-144. Pour une approche générale, voir Robert Badinter, Un antisémitisme ordinaire, op. cit. Pour une monographie régionale, voir Catherine Fillon, Le barreau de Lyon dans la tourmente : de l’Occupation à la Libération, Lyon, Aléas éditeur, 2003.
+144. Pour une approche générale, voir Robert BADINTER, Un antisémitisme ordinaire, op. cit. Pour une monographie régionale, voir Catherine Fillon, Le barreau de Lyon dans la tourmente : de l’Occupation à la Libération, Lyon, Aléas éditeur, 2003.
 
 145. Collectif, « Le droit antisémite de Vichy », Le genre humain n° 30-31, 1996, p. 9.
 
-146. Selon le témoignage direct de Bernard Trigallou, ancien notaire, dans cette exposition le visiteur ne pouvait trouver aucune trace de documents se rapportant à la période 1940-1944.
+146. Selon le témoignage direct de Bernard TRIGALLOU, ancien notaire, dans cette exposition le visiteur ne pouvait trouver aucune trace de documents se rapportant à la période 1940-1944.
 
 147. L’on apprend ainsi que « c’est en Italie, à Gênes, […] qu’il faut chercher le plus ancien témoin de la production des notaires qui nous soit parvenu (il date de 1154) ». Chambre des notaires de Paris, Les Archives nationales, des minutes qui font l’histoire : cinq siècles d’archives notariales de Paris, Paris, Somogy éditions d’art, 2012, p. 13.
 
@@ -1074,11 +1074,11 @@ Page 42:
 
 156. Si l’on retient le décompte établi par Xavier Vallat après guerre dans Le nez de Cléopâtre, op. cit., p. 230-231.
 
-157. Mission d’étude sur la spoliation des Juifs de France, Rapport général, op. cit., p. 56.
+157. Mission d’étude sur la spoliation des Juifs de FRANCE, Rapport général, op. cit., p. 56.
 
 158. Reproduit in Antoine Prost, Rémi Skoutelsky, Sonia Étienne, Aryanisation économique et restitution, op. cit., p. 40.
 
-159. Mission d’étude sur la spoliation des Juifs de France, Rapport général, op. cit., p. 56.
+159. Mission d’étude sur la spoliation des Juifs de FRANCE, Rapport général, op. cit., p. 56.
 
 160. Danièle Lochak, préface à Richard Weisberg, Vichy, la justice et les Juifs, op. cit., p. 11.
 
@@ -1100,7 +1100,7 @@ Page 42:
 
 Page 43:
 
-175. « Vous avez bien voulu appeler mon attention sur les difficultés que rencontre la Mission d’étude que vous présidez pour prendre connaissance des données pageses dans les archives notariales relatives aux biens juifs [sic] spoliés pendant l’occupation. » Réponse lénifiante d’Élisabeth Guigou, garde des Sceaux, à Jean Mattéoli, 16 juillet 1999, AN, F/60MLI/158.
+175. « Vous avez bien voulu appeler mon attention sur les difficultés que rencontre la Mission d’étude que vous présidez pour prendre connaissance des données pageses dans les archives notariales relatives aux biens juifs [sic] spoliés pendant l’occupation. » Réponse lénifiante d’Élisabeth Guigou, garde des Sceaux, à Jean MATTÉOLI, 16 juillet 1999, AN, F/60MLI/158.
 
 176. Jurisprudentes, « Où trouver les actes notariés de la période 1940-1944 ? » (en ligne), jurisprudentes. net, 14 avril 2011.
 
@@ -1118,7 +1118,7 @@ Le répertoire est un registre sur lequel est noté, par ordre chronologique, ch
 
 182. « À l’exemple de nombreuses professions, les notaires n’ont pas eu un comportement unique ; néanmoins, Joseph Billig, dans son ouvrage sur le Commissariat général aux questions juives, évoque l’attitude réticente des notaires à la mise en place de la politique d’aryanisation économique. » Gwenaëlle Bazire, « Les notaires et la Caisse des dépôts et consignations, 1939-1947 »,in Caisse des dépôts et consignations, La spoliation antisémite, op. cit., p. 216.
 
-183. « Le notariat est la seule profession qui ait, dans certains départements, protesté en tant que telle contre la spoliation », mais elle ajoute aussitôt : « Était-ce la voix de ses intérêts ? Peut-être, dans la mesure où les procédures nouvelles lui ôtaient le monopole de la gestion des droits de propriété, mais ce n’est pas certain car la perspective d’un grand transfert de propriétés à l’échelle nationale pouvait aussi intéresser la profession. » Claire Andrieu, « Écrire l’histoire des spoliations antisémites (France, 1940-1944) », Histoire@Politique. Politique, culture, société n° 9, septembre-décembre 2009, p. 15.
+183. « Le notariat est la seule profession qui ait, dans certains départements, protesté en tant que telle contre la spoliation », mais elle ajoute aussitôt : « Était-ce la voix de ses intérêts ? Peut-être, dans la mesure où les procédures nouvelles lui ôtaient le monopole de la gestion des droits de propriété, mais ce n’est pas certain car la perspective d’un grand transfert de propriétés à l’échelle nationale pouvait aussi intéresser la profession. » Claire Andrieu, « Écrire l’histoire des spoliations antisémites (FRANCE, 1940-1944) », Histoire@Politique. Politique, culture, société n° 9, septembre-décembre 2009, p. 15.
 
 184. Échange de mails avec les auteurs.
 
@@ -1127,7 +1127,7 @@ Le répertoire est un registre sur lequel est noté, par ordre chronologique, ch
 
 <details><summary>Méconnu</summary>
 
-La commission Mattéoli sur la spoliation des biens juifs avait été ordonnée par Alain Juppé suite au discours de Jacques Chirac du 16 juillet 1995 sur la responsabilité du régime de Vichy dans la déportation des juifs. Le dit Mattéoli, était le président d'honneur d'une organisation de résistant, partie civile au procès Papon. Lui, en revanche, a [témoigné au soutien de la défense](https://www.lemonde.fr/disparitions/article/2008/02/02/jean-matteoli_1006692_3382.html).
+La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée par Alain Juppé suite au discours de Jacques CHIRAC du 16 juillet 1995 sur la responsabilité du régime de Vichy dans la déportation des juifs. Le dit Mattéoli, était le président d'honneur d'une organisation de résistant, partie civile au procès Papon. Lui, en revanche, a [témoigné au soutien de la défense](https://www.lemonde.fr/disparitions/article/2008/02/02/jean-matteoli_1006692_3382.html).
 
     [Audition d'un expert devant le congrès américain en 1999](https://archives-financialservices.house.gov/banking/91499awi.shtml):
 > La République française qualifie ce rapport de "massivement approfondi". 

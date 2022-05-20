@@ -2,9 +2,9 @@
 
 # [Affaires](affaires)
 ## [Carlon](carlton.md)
-## [Elf](elf.md)
-## [Françoise Nicolas](fn.md)
-## [Sarah Halimi](shalimi.md)
+## [ELF](elf.md)
+## [Françoise NICOLAS](fn.md)
+## [Sarah HALIMI](shalimi.md)
 
 ---
 Photo: [Carlton de Lille](attrib.md#Carlton)

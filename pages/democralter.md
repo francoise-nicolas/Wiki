@@ -2,7 +2,7 @@
 
 ## 📚Bibliographie
 
-### <a id="lecoq2018projets"></a>2018 [🕮De Vincent Le Coq, Projets publics, intérêt privés](https://libre-solidaire.fr/epages/e02491b5-ce3a-4c00-b187-dc9ff39194fc.sf/fr_FR/?ObjectPath=/Shops/e02491b5-ce3a-4c00-b187-dc9ff39194fc/Products/47)
+### <a id="lecoq2018projets"></a>2018 [🕮De Vincent LE COQ, Projets publics, intérêt privés](https://libre-solidaire.fr/epages/e02491b5-ce3a-4c00-b187-dc9ff39194fc.sf/fr_FR/?ObjectPath=/Shops/e02491b5-ce3a-4c00-b187-dc9ff39194fc/Products/47)
 
 <details><summary>Verso de couverture</summary>
 

@@ -1,6 +1,6 @@
 ![image-mise-en-avant](../_aux/phi.png)
 
-# Affaire Françoise Nicolas
+# Affaire Françoise NICOLAS
 
 ## [Influence](./influence.md)
 ## [Medias](./medias.md)

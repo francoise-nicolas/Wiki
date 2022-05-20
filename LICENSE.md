@@ -1,6 +1,6 @@
 # Textuel
 
-Copyright 2022 Françoise Nicolas
+Copyright 2022 Françoise NICOLAS
 
 CC BY-NC-ND 4.0
 

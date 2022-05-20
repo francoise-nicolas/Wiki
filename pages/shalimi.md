@@ -1,6 +1,6 @@
-# Affaire Sarah Halimi
+# Affaire Sarah HALIMI
 
-> Un rapport qui louvoie et pratique le déni (Nicolas Bastuck P/ Le Point, 2022)
+> Un rapport qui louvoie et pratique le déni (Nicolas BASTUCK P/ LE POINT, 2022)
 
 ## 📜Chronologie
 
@@ -13,13 +13,15 @@
 
 ### 2021 [Mobilisation internationale](https://justiceforsarah.combatantisemitism.org/)
 
-### 2021 [Audition de Mme Anne Ihuellou, magistrat, vice-présidente de l’instruction](https://videos.assemblee-nationale.fr/video.11564277_619e4378170dc.dysfonctionnements-de-la-justice-et-de-la-police-dans-l-affaire-dite-sarah-halimi--auditions-divers-24-novembre-2021)
+### 2021 [Audition de Mme Anne IHUELLOU, magistrat, vice-présidente de l’instruction](https://videos.assemblee-nationale.fr/video.11564277_619e4378170dc.dysfonctionnements-de-la-justice-et-de-la-police-dans-l-affaire-dite-sarah-halimi--auditions-divers-24-novembre-2021)
 
-<details><summary>Verbatim 🚧</summary>
+<details><summary>Verbatim</summary>
+
+🚧 SOIGNER
 
 01:15:00 « stricte application de la loi »
 
-01:29:00 L: la reconstitution ne concerne que les faits. a toujours reconnu sans faillir qu'il avait tué Mme Halimi. Dès sa 1ère audition.
+01:29:00 L: la reconstitution ne concerne que les faits. a toujours reconnu sans faillir qu'il avait tué Mme HALIMI. Dès sa 1ère audition.
 
 ? Vous pouvez comprendre qu'on est un peu troublé. Expert psychiatre dit on peut faire la reconstitution. Vous
 
@@ -32,11 +34,11 @@ L: c'est un acte qui ne nous a pas été demandé, et utile pour nous. les faits
 
 01:33
 
-01:33:00 Mme Berger: « modifications au code de procédure pénale » « plutôt que refaire l'instruction, pas l'objet ici ». Mme Ihuellou « on est limité par le budget ... je n'ai pas le droit d'interférer avec le législatif » Mme Berger sort.
+01:33:00 Mme Berger: « modifications au code de procédure pénale » « plutôt que refaire l'instruction, pas l'objet ici ». Mme IHUELLOU « on est limité par le budget ... je n'ai pas le droit d'interférer avec le législatif » Mme Berger sort.
 
 L: À titre liminaire rappeller que ce dossier a bénéficieé de tous les moyens dont on peut disposer ne matière d'instruction criminelle. Limité par la charge et le budget alloué. Souhait à titre personnel. À l'intérieur d'une commission, je n'ai pas à interférer sur le pouvoir législatif. 
 
-01:35:00 Didier Paris. « Propos tenus par Traoré peu de doute sur antisémitisme. [...] 1ère Q. Georges Fenec. Votre saisine in rem vous permet de requalifier. 1ère mise en examen, aviez vous la possibilité juridique de requalifier. Et sinon, pourquoi ne pas l'avoir sollicité? » Mmm L. Saisi sans circonstances aggravantes. Soit on considère que le procureur a limité la saisine. Soit qu'on est saisi du tout. M. Traoré par entendu. Moi et ma collègue. On est resté sur la saisine initiale. Sans avoir la version du mis en examen.
+01:35:00 Didier PARIS. « Propos tenus par Traoré peu de doute sur antisémitisme. [...] 1ère Q. Georges Fenec. Votre saisine in rem vous permet de requalifier. 1ère mise en examen, aviez vous la possibilité juridique de requalifier. Et sinon, pourquoi ne pas l'avoir sollicité? » Mmm L. Saisi sans circonstances aggravantes. Soit on considère que le procureur a limité la saisine. Soit qu'on est saisi du tout. M. Traoré par entendu. Moi et ma collègue. On est resté sur la saisine initiale. Sans avoir la version du mis en examen.
 
 
 01:40:27 « Des échanges avec mes collègues de co-saisine il y en a eu, mais je ne peux pas en faire état »
@@ -71,7 +73,7 @@ Maillard. Quelle est la complexité de ce dossier. Dans la mesure où il a recon
 
 Lhuellou. Si complexe a nécessité de multiples actes d'instruction.
 
-02:06:03 Le grip. Ni avocate ni magistrate. Très attachés à la séparation des pouvoirs. On ne va pas refaire l'instruction. Temps très long à retenir la qualification d'antisémitisme. Vous vous êtes sentie corseté par le code de procédure pénale. Pardon, c'est un sentiment d'une incohérence entre dossier compliqué et dans le même temps vous ne faites pas de reconstitution, etc. Les chose sont lisses. Vous avez répondu là dessus. Incompréhension. Le côté droit dans mes bottes difficile à intégrer. De nature à
+02:06:03 Le grip. Ni avocate ni magistrate. Très attachés à la séparation des pouvoirs. On ne va pas refaire l'instruction. Temps très long à retenir la qualification d'antisémitisme. Vous vous êtes sentie corseté par le code de procédure pénale. PARDOn, c'est un sentiment d'une incohérence entre dossier compliqué et dans le même temps vous ne faites pas de reconstitution, etc. Les chose sont lisses. Vous avez répondu là dessus. Incompréhension. Le côté droit dans mes bottes difficile à intégrer. De nature à
 
 Lhuellou. Quelle est votre question.
 
@@ -161,13 +163,13 @@ L: L'importance de cette question. LA loi ne distingue pas selon la religion. So
 Habib: il a été choqué.
 </details>
 
-#### 2021 Audition de Mme Julie Pétré, magistrat 
+#### 2021 Audition de Mme Julie PÉTRÉ, magistrat 
 
 <details><summary>Verbatim 🚧</summary>
 
 03:00
 
-Mme Julie Pétré
+Mme Julie PÉTRÉ
 
 Obligé de saisir le magistrat. Décision collégiale. Homicide volontaire. Appartenance à religion. ... Priorité détention provisoire. J'avais lu l'ensemble des procès verbaux des enquêteurs. À la suite. Toute qualification.
 
@@ -175,13 +177,13 @@ Obligé de saisir le magistrat. Décision collégiale. Homicide volontaire. Appa
 
 03:11
 
-Enregistrement. J'ai vengé Allah. France meurtrie par des attantats terroristes.
+Enregistrement. J'ai vengé Allah. FRANCE meurtrie par des attantats terroristes.
 
-Pétré. Je ne suis pas en capacité de vous dire pourquoi le parquet terroriste n'a pas été saisi. Torture et actes. Pas de souvenir de ces auditions. Défenestrée. Stigma. Point juridique. Les tortures pour être distinctes de l'homicide doivent être faites à un temps différent.
+PÉTRÉ. Je ne suis pas en capacité de vous dire pourquoi le parquet terroriste n'a pas été saisi. Torture et actes. Pas de souvenir de ces auditions. Défenestrée. Stigma. Point juridique. Les tortures pour être distinctes de l'homicide doivent être faites à un temps différent.
 
 03:32 Réquisitoire supplétif.
 
-Pétré: je n'intervenais plus dans le dossier. Difficultés matérielles à entendre Traoré. Les magistrats ne sont pas déconnectés. Excellente formation où ces sujets sont évoqués.
+PÉTRÉ: je n'intervenais plus dans le dossier. Difficultés matérielles à entendre Traoré. Les magistrats ne sont pas déconnectés. Excellente formation où ces sujets sont évoqués.
 
 03:34
 ?? On voit bien compte tenu de la loi actuelle de reconnaîter caractère antisémite. Présomption d'antisémitisme, faire évoluer la loi.
@@ -226,19 +228,19 @@ On est très sensibilisé à toute forme de discrimination.
 
 </details>
 
-#### 2021 <a id="bastuck2021halimi"></a>[Nicolas Bastuck P/ Le Point: « Sarah Halimi: la juge d'instruction en GAV »](https://www.tribunejuive.info/2021/11/27/nicolas-bastuck-sarah-halimi-la-juge-dinstruction-en-garde-a-vue-a-lassemblee/)
+#### 2021 <a id="bastuck2021halimi"></a>[Nicolas BASTUCK P/ LE POINT: « Sarah HALIMI: la juge d'instruction en GAV »](https://www.tribunejuive.info/2021/11/27/nicolas-bastuck-sarah-halimi-la-juge-dinstruction-en-garde-a-vue-a-lassemblee/)
 <details><summary>Commentaire</summary>
 
 Un gardé à vue qui a su garder ses cartes: 2h30 pour faire une perçée sur le réquisitoire supplétif (circ. aggravante d'antisémitisme), soit 10m avant la fin.
 </details>
 
-#### 2022 <a id="bastuck2022deni"></a>[Nicolas Bastuck P/ Le Point : « Sarah Halimi: Un rapport qui louvoie et pratique le déni »](https://infojmoderne.com/2022/01/13/affaire-sarah-halimi-un-rapport-qui-louvoie-et-pratique-le-deni/)
+#### 2022 <a id="bastuck2022deni"></a>[Nicolas BASTUCK P/ LE POINT : « Sarah HALIMI: Un rapport qui louvoie et pratique le déni »](https://infojmoderne.com/2022/01/13/affaire-sarah-halimi-un-rapport-qui-louvoie-et-pratique-le-deni/)
 
 <details><summary>Extrait</summary>
 
-> Le 19 décembre 2019, la chambre de l’instruction de la cour d’appel de Paris a « imputé » à Kobili Traoré le « meurtre » de Sarah Halimi, tout en le déclarant pénalement irresponsable, sur le fondement de l’article 122-1 du Code pénal et sur la base de deux expertises psychiatriques – celle du Dr Zagury, la première à avoir été ordonnée, avait conclu au contraire à une simple altération de son discernement, ce qui aurait pu ouvrir la voie à un procès.
+> Le 19 décembre 2019, la chambre de l’instruction de la cour d’appel de Paris a « imputé » à Kobili Traoré le « meurtre » de Sarah HALIMI, tout en le déclarant pénalement irresponsable, sur le fondement de l’article 122-1 du Code pénal et sur la base de deux expertises psychiatriques – celle du Dr Zagury, la première à avoir été ordonnée, avait conclu au contraire à une simple altération de son discernement, ce qui aurait pu ouvrir la voie à un procès.
 
-> François Pupponi, député (MoDem) du Val-d’Oise et ancien maire de Sarcelles, lui aussi présent à la conférence de presse, évoque à son tour « toute une liste d’oublis et d’inexactitudes » dans le rapport final, dont la première préconisation est de limiter les pouvoirs des… commissions d’enquête parlementaire. 
+> François PUPPONI, député (MODEM) du Val-d’Oise et ancien maire de Sarcelles, lui aussi présent à la conférence de presse, évoque à son tour « toute une liste d’oublis et d’inexactitudes » dans le rapport final, dont la première préconisation est de limiter les pouvoirs des… commissions d’enquête parlementaire. 
 
 </details>
 

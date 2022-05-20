@@ -1,11 +1,9 @@
-<!-- ![image-mise-en-avant](../_aux/CE_AG_Commons.png) -->
-
 # Radiation de la fonction publique
 <details>
   <summary>Info</summary>
 
-* Demandeur: FN
-* Défendeur: Défenseur
+* Demandeur: Françoise NICOLAS
+* Défendeur: MAE
 </details>
 
 ## Faits
@@ -51,7 +49,7 @@
 * [piece](../pieces/identifiant/8da78f8e)
 </details>
 
-### 2018-10-15 — TA Nantes — Décision
+### 2018-10-15 —  TA NANTES — Décision
 <details>
   <summary>Info</summary>
 
@@ -60,7 +58,7 @@
 * [piece](../pieces/identifiant/3410024c)
 </details>
 
-### 2019-07-09 — TA Nantes — Décision
+### 2019-07-09 —  TA NANTES — Décision
 <details>
   <summary>Info</summary>
 
@@ -91,7 +89,7 @@
 * [piece](../pieces/identifiant/76684f87)
 </details>
 
-### 2021-03-16 — CAA Nantes — Décision
+### 2021-03-16 —  CAA NANTES — Décision
 <details>
   <summary>Info</summary>
 
@@ -121,17 +119,17 @@
 <details>
   <summary>I</summary>
   
-Mme Nicolas, secrétaire de chancellerie, a été affectée en juillet 2008 à l'ambassade de France à Cotonou au Bénin.
+Mme NICOLAS, secrétaire de chancellerie, a été affectée en juillet 2008 à l'ambassade de FRANCE à Cotonou au BÉNIN.
 Le 14 janvier 2010, 
 elle a été victime d'une agression physique particulièrement brutale de la part de l'agent de droit local de l'ambassade qui partageait son bureau. 
-Contre toute attente, son agresseur ayant porté plainte à l'encontre de Mme Nicolas, 
-l'ambassadeur de France a ordonné le retour en urgence de cette dernière en France dès le 22 janvier suivant.
+Contre toute attente, son agresseur ayant porté plainte à l'encontre de Mme NICOLAS, 
+l'ambassadeur de FRANCE a ordonné le retour en urgence de cette dernière en France dès le 22 janvier suivant.
 Abandonnant sur place tous ses biens et effets personnels, 
-Mme Nicolas a été affectée à compter de cette même date du 22 janvier 2010 sur des postes en administration centrale à Nantes sans véritables attributions et ne correspondant pas à ses compétences et ce, 
+Mme NICOLAS a été affectée à compter de cette même date du 22 janvier 2010 sur des postes en administration centrale à Nantes sans véritables attributions et ne correspondant pas à ses compétences et ce, 
 jusqu en décembre 2015, 
 date à laquelle elle a été victime d'un raptus suicidaire qui a nécessité son placement en arrêt maladie.
 Durant les cinq années de son affectation à Nantes, 
-Mme Nicolas a présenté,
+Mme NICOLAS a présenté,
 sans succès, 
 sa candidature à soixante-seize postes correspondant à ses compétences et à sa formation.
 </details>
@@ -139,7 +137,7 @@ sa candidature à soixante-seize postes correspondant à ses compétences et à 
   <summary>II</summary>
 
 Par une décision du 19 avril 2011, le ministre chargé des affaires étrangères
-a reconnu l'imputabilité au service des arrêts de travail de Mme Nicolas.
+a reconnu l'imputabilité au service des arrêts de travail de Mme NICOLAS.
 Sa demande de protection fonctionnelle a en revanche été rejetée à deux reprises.
 Le 30 janvier 2018, la commission de réforme a estimé que l'état de santé de l'intéressée était consolidé au 4 octobre 2017, a fixé son taux d'incapacité partielle
 permanente (IPP) à 20 %, l'a déclarée définitivement inapte à toutes fonctions et a émis
@@ -147,9 +145,9 @@ un avis favorable à son placement à la retraite pour invalidité.
 Par un arrêté du 25 juillet 2018, le ministre de l'Europe et des affaires
 étrangères l'a placée en retraite pour invalidité.
 
-Mme Nicolas a demandé au tribunal administratif de Nantes d'annuler cet arrêté. 
+Mme NICOLAS a demandé au tribunal administratif de Nantes d'annuler cet arrêté. 
 Par un jugement du 9 juillet 2019, le tribunal a rejeté sa demande.
-Mme Nicolas a fait appel.
+Mme NICOLAS a fait appel.
 Par un arrêt du 16 mars 2021, la cour administrative d'appel de Nantes a rejeté sa requête.
 C'est l'arrêt attaqué.
 </details>
@@ -202,7 +200,7 @@ cas de contestation par l administration ou l intéressé, au comité médical s
 <details>
   <summary>V</summary>
 
-Au cas présent, par un courrier du 20 novembre 2017, Mme Nicolas a
+Au cas présent, par un courrier du 20 novembre 2017, Mme NICOLAS a
 sollicité le bénéfice d'un congé de longue durée, demande à laquelle son administration
 n avait jamais répondu autrement que par la décision attaquée du 25 juillet 2018 (mémoire
 du 8 février 2021, p. 158 du dossier officiel de procédure et production n° 31 ; p. 171 du
@@ -212,11 +210,11 @@ n avait pas encore rendu son avis constatant la prétendue « inaptitude totale 
 à toutes fonctions », de sorte que le ministre ne pouvait s abstenir de faire droit à la
 demande de congé longue durée sollicitée, ou à tout le moins, de saisir le comité médical
 de cette demande, d'autant que cette période de congé longue durée aurait probablement
-permis à Mme Nicolas de bénéficier d'un suivi psychiatrique de nature à envisager par la
+permis à Mme NICOLAS de bénéficier d'un suivi psychiatrique de nature à envisager par la
 suite une reprise d'activité sur un poste correspondant à ses compétences.
 La cour s est non seulement abstenue de répondre à ce moyen, mais n en a
 pas même fait état, y compris dans les visas de sa décision, alors même que la circonstance
-que Mme Nicolas ait été ultérieurement déclarée définitivement inapte ne permettait pas
+que Mme NICOLAS ait été ultérieurement déclarée définitivement inapte ne permettait pas
 d'écarter ce moyen sans l examiner.
 Ce faisant, la cour a manifestement entaché son arrêt d'une insuffisance de
 motivation, exposant son arrêt à une censure certaine.
@@ -252,11 +250,3 @@ EN ATTENTE
 * Article 35: Pour obtenir un congé de longue maladie...
 ### Code des pensions civiles et militaires
 * Article R. 49 bis: la décision d'admission à la retraite...
-
-
-<!--
-
----
-Photo: [AG du CE](https://en.wikipedia.org/wiki/Conseil_d%27%C3%89tat_(France)#/media/File:Conseil_d'Etat_-_salle_de_l'assembl%C3%A9e_g%C3%A9n%C3%A9rale_.jpg)
-
--->

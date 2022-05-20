@@ -29,16 +29,16 @@ My refutation has [registered 700k views](https://twitter.com/FranoiseNicolas/st
 
 ## Whistleblower
 
-Whistleblower protection has been an active legislative topic in the EU/France in recent years.
+Whistleblower protection has been an active legislative topic in the EU/FRANCE in recent years.
 I [reported to several parties](./influence.md), that the [ombudsman](./contrepouvoirs.md#ddd) had systematically whitewashed the MFA in the context of 5 requests initiated in 2012.
 The new bill transposing European law,
 sponsored by [Sylvain WASERMAN](./whoswho.md#waserm),
 gives that entity enhanced powers.
 In 2020, the same daily that I quoted [hailed Jacques TOUBON, “a serendipitous ombudsman”](./whoswho.md#toubon).
 
-[Corruption](./corruption.md) is a literary genre in its own right. With a few notable exceptions, it has a blind spot: [rigged courts](./robenoire.md). In this area, this wiki focuses on the [Elf affair](./elf.md) which made [Eva JOLY](./whoswho.md#joly) an icon, and [that of the Carlton][. /carlton.md) implicating the ex-IMF chief. For those who don't know what to think, [Sarkozy's fate](https://www.nytimes.com/2021/03/01/world/europe/france-sarkozy-trial-guilty.html) after the presidential election should help them.
+[Corruption](./corruption.md) is a literary genre in its own right. With a few notable exceptions, it has a blind spot: [rigged courts](./robenoire.md). In this area, this wiki focuses on the [ELF affair](./elf.md) which made [Eva JOLY](./whoswho.md#joly) an icon, and [that of the Carlton][. /carlton.md) implicating the ex-IMF chief. For those who don't know what to think, [SARKOZY's fate](https://www.nytimes.com/2021/03/01/world/europe/france-sarkozy-trial-guilty.html) after the presidential election should help them.
 
-This wiki is also interested in the [police state](./etatpolicier.md), [denials of justice](./denijust.md), commonplace but silenced by opinion makers, and the [ capture of the state](./capturetat.md) behind the greatest fortunes of France.
+This wiki is also interested in the [police state](./etatpolicier.md), [denials of justice](./denijust.md), commonplace but silenced by opinion makers, and the [ capture of the state](./capturetat.md) behind the greatest fortunes of FRANCE.
 
 The red caps (2014), the yellow vests (2018-2019), and the zadists (1968-2018),
 have in common [the occupation, and the capitulation of the state](./democralter.md#lecoq2018projects).
@@ -47,7 +47,7 @@ Faced with "no crisis should go to waste", [alternative democracy] (./democralte
 There remains the path chosen by this wiki: [to get out of one's sucker's position](./robenoire.md#carage2015demontg).
  
 ## Other
-I am from Saint-Malo where ["A Summer's Tale"](https://www.imdb.com/title/tt0115940/) was filmed, and a single mother of an only child since adulthood. In [1986](../pieces/identifier/829cbd9) and [1987](../pieces/identifier/b5b09b6e) I was awarded prestigious prizes for my thesis work on space law. In 2017, I was [substitute candidate](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats -de-la-france-insoumise-3-5-137.html) to represent a constituency of Nantes in the National Assembly, on a [France Insoumise](https://twitter.com/FranceInsoumise) platform.
+I am from Saint-Malo where ["A Summer's Tale"](https://www.imdb.com/title/tt0115940/) was filmed, and a single mother of an only child since adulthood. In [1986](../pieces/identifier/829cbd9) and [1987](../pieces/identifier/b5b09b6e) I was awarded prestigious prizes for my thesis work on space law. In 2017, I was [substitute candidate](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats -de-la-france-insoumise-3-5-137.html) to represent a constituency of Nantes in the National Assembly, on a [FRANCE Insoumise](https://twitter.com/FranceInsoumise) platform.
 
 ---
-Photo: [Françoise Nicolas, LDA meeting, 2015](./attrib.md#marc-chaumeil)
+Photo: [Françoise NICOLAS, LDA meeting, 2015](./attrib.md#marc-chaumeil)

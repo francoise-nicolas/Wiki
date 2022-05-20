@@ -7,7 +7,7 @@
 ## 📜Chronologie
 
 ### 2021
-#### [Pot de départ des Affaires étrangères de Françoise Nicolas](https://www.lepotcommun.fr/pot/at9hbqo5)
+#### [Pot de départ des Affaires étrangères de Françoise NICOLAS](https://www.lepotcommun.fr/pot/at9hbqo5)
 
 Cette cagnote a permis de financer mon pourvoi devant le CE c. [radiation de la Fonction Publique](./demarches/radiation.md). J'en ai produit [la facture](https://twitter.com/FranoiseNicolas/status/1497559486395031553/photo/1).
 

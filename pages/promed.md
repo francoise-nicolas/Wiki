@@ -1,7 +1,3 @@
-<!-- 
-![image-mise-en-avant](../_aux/FO8dc0sWYAsF0oz.png)
--->
-
 # Professionnel et médical
 
 ## <a id="RAINERI-RAUGEL"></a>2008-01-11 — RAINERI — Passation RAUGEL
@@ -181,10 +177,3 @@
   
 * [piece](../pieces/identifiant/69d142)
 </details>
-
-<!--
-
----
-Photo: collection personnelle, de 2008
-
--->

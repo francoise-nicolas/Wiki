@@ -19,7 +19,7 @@
 <details>
   <summary>Info</summary>
 
-* Interlocuteur: Matthieu Philippe
+* Interlocuteur: Matthieu PHILIPPE
 * [piece](../pieces/identifiant/1e441ef6)
 </details>
 
@@ -27,7 +27,7 @@
 <details>
   <summary>Info</summary>
 
-* Interlocuteur: Matthieu Philippe
+* Interlocuteur: Matthieu PHILIPPE
 * [piece](../pieces/identifiant/daa2a08f)
 </details>
 
