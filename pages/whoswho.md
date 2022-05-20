@@ -48,7 +48,7 @@
 -->
 
 ## N
-### <a id="fn"></a>Françoise Nicolas
+### <a id="fn"></a>Françoise NICOLAS
 <details><summary>Fiche</summary>
 
 * [Ce wiki](https://github.com/francoise-nicolas/Wiki)
