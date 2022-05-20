@@ -15,15 +15,15 @@ Partout où il est dit « effacer »,  faire exception pour les fichiers `vide-c
        ```
     3. optionellement, couper-coller les dossiers créés dans `INBOX`;
     4. exécuter `crypter.sh`. Et enfin,
-    5. copier les dossiers de `OUTBOX` vers [`../pieces/indentifiant`](../pieces/indentifiant)
+    5. copier les dossiers de `OUTBOX` vers [`../pieces/identifiant`](../pieces/indentifiant)
 
 ## [Label](../pieces/label)
-* objet: regrouper les identifiants par label
+* objet: màj [`../pieces/label`](../pieces/label)
 * marche à suivre:
     1. Exécuter `./label.sh`
 
 ## [Cite](../pieces/cite.md)
-* objet: pour chaque pièce, inventorier les pages de [`../contenu`](../contenu) qui la citent
+* objet: pour chaque identifiant, inventorier les pages de [`../contenu`](../contenu) qui la citent
 * marche à suivre:
     1. Exécuter `./cite.sh`
 
