@@ -464,5 +464,5 @@ Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr N
 </details>
 
 ## Voir aussi
-### [Mutation](mutation.md)
-### [Radiation](radiation.md)
+### [Litiges de droit public](litigesp.md)
+
