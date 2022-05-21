@@ -1,8 +1,9 @@
 # Signalitique
 
-    | Symbole | Signification | 
-    |++++++++|+++++++++++++++|
-    | 📚     | Bibliographie |
-    | ⚖      | Droit         | 
-    | 🚧     | En travaux  |
-    | 📜     | Chron -ique -ologie |
+| Symbole | Signification | 
+|++++++++|+++++++++++++++|
+| 📚     | Bibliographie |
+| 📜     | Chron -ique -ologie |
+| ⚖      | Droit         | 
+| 🚧     | En travaux  |
+| 🕮 | Livre |

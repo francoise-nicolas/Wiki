@@ -1,18 +1,14 @@
-# Denis BRÉTEAU devant l'AN
+# Denis BRÉTEAU, lanceur d'alerte de la SNCF, devant l'AN
 
-<details><summary> Rédaction </summary>
+Le 2021-05-20, Denis Bréteau,  lanceur d'alerte de la SNCF, était [auditionné à l'Assemblée Nationale](https://shorturl.me/jHBHC) dans le cadre de la [Loi Sapin 2](corruption#sapin2)
+
+<details><summary> 🚧 </summary>
 
 [ ] Synthèse
 [ ] Verbatim
 [ ] Ajouter à la page [Débats](debats.md)
 </details>
 
-## Information ##
-
-* Date: 2021-05-20
-* Institution: Assemblée Nationale
-* Cadre: la [loi Sapin 2](https://www.assemblee-nationale.fr/14/dossiers/transparence_lutte_corruption_economie.asp)
-* [Lien de l'audition](https://shorturl.me/jHBHC)
 
 ## Synthèse ##
 
