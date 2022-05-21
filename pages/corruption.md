@@ -18,7 +18,7 @@
 
 ### 2012-2017
 * <a id="gonzales2017hatvp"></a>[Jean-Louis NADAL: Haute autorité pour la transparence: "La lutte contre la corruption est trop morcelée"](https://www.lefigaro.fr/actualite-france/2017/07/09/01016-20170709ARTFIG00146-nadal-la-lutte-contre-la-corruption-est-trop-morcelee.php)
-* <a id="joly2018"></a>Organisée par Anticor 92, avec Eva JOLY sur le coût de la corruption
+* <a id="joly2018"></a>Anticor 92 reçoit Eva JOLY sur le coût de la corruption
     * [➔Dossier](anticor92joly.md)
     
 ### 2017-2022
@@ -29,13 +29,18 @@
     </details>
 
 * <a id="piel2021dumas"></a>[Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de Balladur](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
+    <details><summary>Extrait</summary>
 
-> La récente ouverture d’archives de l’institution confirme que les entorses à la loi étaient connues et que la voix de son président, Roland DUMAS, a été prépondérante pour fermer les yeux sur ces irrégularités de la présidentielle de 19 95.
+    > La récente ouverture d’archives de l’institution confirme que les entorses à la loi étaient connues et que la voix de son président, Roland DUMAS, a été prépondérante pour fermer les yeux sur ces irrégularités de la présidentielle de 19 95.
+    </details>
 
 * <a id="jolymoretti"></a>[Eva JOLY: la perquisition de DUPOND-MORETTI montre la pertinence du travail d'Anticor](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
 
 * <a id="joly2021revolue"></a>[Eva JOLY: Une époque inquiétante où les puissants étaient protégés, semble enfin révolue](https://www.liberation.fr/societe/police-justice/eva-joly-une-epoque-inquietante-ou-les-puissants-etaient-proteges-semble-enfin-revolue-20210301_RRGTVPALDZGUJCNJEX3AXPNHEA/)
-> Pour l’ancienne eurodéputée, la condamnation de l’ancien président Nicolas SARKOZY est le signe «que nos institutions fonctionnent».
+    <details><summary>Extrait</summary>
+
+    > Pour l’ancienne eurodéputée, la condamnation de l’ancien président Nicolas SARKOZY est le signe «que nos institutions fonctionnent».
+    </details>
 
 * <a id="joly2021boniface"></a>[Pascal BONIFACE reçoit Eva JOLY](jolyboniface.md)
 
