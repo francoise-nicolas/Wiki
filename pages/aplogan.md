@@ -1,4 +1,4 @@
-# [Affaire Françoise NICOLAS](fn.md) — Plainte pour tentative d'homicide️
+# [Affaire Françoise NICOLAS](fn.md) — Plainte c. APLOGAN
 
 <details>
   <summary>Parties</summary>

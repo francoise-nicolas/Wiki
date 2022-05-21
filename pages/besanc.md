@@ -1,7 +1,5 @@
 # [Affaire Françoise NICOLAS](fn.md) — Citation de SOUQUIÈRE & [BESANCENOT](./whoswho#besanc)
 
-## Citation de SOUQUIÈRE & [BESANCENOT](./whoswho#besanc)
-
 ### 2017-11-30 Plainte
 <details>
   <summary>Info</summary>

@@ -314,7 +314,7 @@ Le 14 janvier dernier, grave incident ayant opposé deux agents [...] Raisons qu
 * Établissement: CHU Nantes
 </details>
 
-### <a id="indemnrecours"></a>2010-12-15 — NICOLAS — Recours indemnitaire
+### <a id="indemnrecours"></a>2010-10-1Q — NICOLAS — Recours indemnitaire
 <details>
   <summary>Info</summary>
   
