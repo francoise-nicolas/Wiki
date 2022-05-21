@@ -244,7 +244,7 @@ La situation est la suivante:
 * [dossier](../pieces/identifiant/35d3dae9)
 </details>
 
-<details>
+</details>
 
 ### <a id="rappel"><a>2010-01-22 — BESANCENOT — Rappel de NICOLAS
 <details>
