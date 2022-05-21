@@ -1,6 +1,15 @@
 # Influence
 
-Cette page regroupe mon lobbying auprès d'institutions en faveur de l'état de droit.
+Cette page regroupe mes actions auprès d'institutions en faveur de l'état de droit.
+
+## [Service Central de Prévention de la corruption — Signalement](https://www.vie-publique.fr/rapport/36128-service-central-de-prevention-de-la-corruption-rapport-pour-lannee-20)
+
+### 2013-08-02 — Procureur — Avis de classement
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/184486ac)
+</details>
 
 ## Assemblée Nationale🇫🇷
 ### <a id="qag32447q"></a>[2020-09-29 — QAG no 32447 —  Question de Ugo Bernalicis](https://questions.assemblee-nationale.fr/q15/15-32447QE.htm)

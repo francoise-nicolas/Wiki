@@ -3,7 +3,7 @@
 # Affaire Françoise NICOLAS
 
 ## Dossiers
-### [Autre](./fnautre.md)
+### [Diffamation publique](./diffam.md)
 ### [Influence](./influence.md)
 ### [Medias](./medias.md)
 ### [Procès pénal](./aplogan.md)
