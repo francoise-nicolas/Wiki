@@ -1,6 +1,6 @@
 # Affaire Françoise NICOLAS — [UE](internat.md#ue)
 
-## 📜Chronologie
+## 📜
 
 ### <a id="dg-just-signal"></a>2022-01-30 — NICOLAS  — Directive LDA
 <details>
@@ -18,7 +18,7 @@
 * [document](../pieces/identifiant/114d5f23)
 </details>
 
-## Droit
+## ⚖️
 ### Porter plainte
 <details><summary>Information</summary>
 

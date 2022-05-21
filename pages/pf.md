@@ -192,7 +192,7 @@ le 14 janvier 2010 à l’ambassade de France à Cotonou est annulée.
 * Article 2 : Il est enjoint au ministre de l’Europe et des affaires étrangères d’accorder à Mme NICOLAS le bénéfice de la protection fonctionnelle pour les faits survenus le 14 janvier 2010 à l’ambassade de France à Cotonou et ce, dans le délai de deux mois à compter de la notification du présent jugement.
 </details>
 
-## Droit
+## ⚖️
 ### [Loi n° 83-634 portant droits et obligations des fonctionnaires](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068812)
 * Article 11: 
 

@@ -1,8 +1,8 @@
-# [Affaire Françoise NICOLAS](fn.md) — Cour Européenne des Droits de l'Homme
+# [Affaire Françoise NICOLAS](fn.md) — Cour Européenne des ⚖️s de l'Homme
 
 Aucune action pour le moment.
 
-## Droit
+## ⚖️
 ### Requête
 * [Guide pratique](https://echr.coe.int/Documents/Admissibility_guide_FRA.pdf)
 

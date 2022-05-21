@@ -4,7 +4,7 @@
 
 ### [Paypal](https://www.paypal.com/paypalme/francoisenicolas)
 
-## 📜Chronologie
+## 📜
 
 ### 2021
 #### [Pot de départ des Affaires étrangères de Françoise NICOLAS](https://www.lepotcommun.fr/pot/at9hbqo5)

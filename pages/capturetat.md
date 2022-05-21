@@ -1,8 +1,8 @@
 # Capture de l'état
 
-> Qui sont les plus grandes fortunes de France ? Celles de la grande distribution.~Vincent LE COQ
+> Qui sont les plus grandes fortunes de France ? Celles de la grande distribution.~[Vincent LE COQ](whoswho#lecoq)
 
-## 📚Bibliographie
+## 📚
 
 ### <a id="monteb1998tribcomm"></a>1998 [Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
 
@@ -464,7 +464,7 @@ Page 16:
 
 Lors du CIIIe congrès des notaires, Rachida Dati devait assurer le notariat que les services de la Chancellerie étaient « aux côtés des notaires aussi bien à Bruxelles qu’à Paris ».
 
-Source : Droit & Patrimoine n° 171, juin 2008, p. 16.
+Source : ⚖️ & Patrimoine n° 171, juin 2008, p. 16.
 
 « Soyez assurés que rien ne saurait ébranler ma confiance dans l’avenir du notariat », n’hésite pas à affirmer Michèle Alliot-Marie lors de la séance d’ouverture du CVIe congrès des notaires.
 
@@ -604,7 +604,7 @@ On retrouve sous la plume de maîtres Collet et Oudard la même formulation neut
 
 43. « Maurrassien et antisémite notoire, Alibert aurait, dès juin 1940 selon certains, envisagé un statut des juifs. » Claude Singer, Vichy,l’Université et les juifs : les silences et la mémoire, Paris, Les Belles Lettres, 1992, p. 89.
 
-« Le 13 août [1940] Alibert propose au Conseil des ministres la dissolution des principales loges : “Le Grand Orient, la Grande Loge, le Droit Humain”. » Robert Aron, Histoire de Vichy, op. cit., t. 1, p. 309.
+« Le 13 août [1940] Alibert propose au Conseil des ministres la dissolution des principales loges : “Le Grand Orient, la Grande Loge, le ⚖️ Humain”. » Robert Aron, Histoire de Vichy, op. cit., t. 1, p. 309.
 
 44. « Membre du CSAR sous le matricule 231. » PHILIPPE Bourdrel,Les cagoulards dans la guerre, Paris, Albin Michel, 2009, p. 58-59.
 
@@ -744,7 +744,7 @@ Page 28:
 
 Lors de l’installation de René Cassin dans ses fonctions de vice-président du Conseil d’État, le 23 décembre 1944, le garde des Sceaux François de Menthon rappela aux membres du Conseil d’État qu’ils étaient « les gardiens de la légalité républicaine » et déclara que « le Conseil a[vait] réalisé avec une science accomplie et une parfaite indépendance son rôle contentieux[118] ». Élaborée au sein de l’institution, la « doctrine Bouffandeau[119]» affirmait dès 1947 que le Conseil d’État avait sous l’Occupation été le gardien vigilant des principes républicains[120]. Cette version de l’histoire du Conseil d’État a été reprise par les œuvres doctrinales de plusieurs générations de juges du Palais-Royal. Les journées d’études organisées en juin 1950 à l’occasion des cent cinquante ans du Conseil d’État ont fait l’objet d’une publication en 1952, dans un Livre jubilaire. L’allocution inaugurale de René Cassin réduit à une rapide notation la période de l’Occupation : « Pendant la plus récente des tragédies nationales, le gouvernement du Général de Gaulle qui, de Londres puis d’Alger, a continué la guerre entre 1940 et 1945 jusqu’à la victoire et qui était privé de la présence de toute représentation nationale régulière, a obéi à d’impérieuses nécessités et est resté dans l’esprit de la légalité républicaine, lorsqu’il a créé divers organes chargés d’exercer provisoirement les attributions du Conseil d’État[121]. »
 
-Vice-président du Conseil d’État de 1971 à 1979 et gaulliste convaincu, Bernard Chenot nous apprend encore dans le discours de rentrée prononcé en novembre 1988 lors de la séance solennelle de l’Académie des sciences morales et politiques, que « le Conseil d’État était présidé par un homme sage et juste, Alfred Porché, qui mit son talent à le tenir à l’écart des agitations de l’époque. Pourtant, il fallait bien appliquer la loi. Du cruel statut des Juifs et des lois qui ont suivi, il était difficile de neutraliser les effets. Le Conseil d’État s’y employa pourtant, allant jusqu’à la limite du refus de la loi[122] ». Ses collègues François Gazier, Michel Gentot et Bruno Genevois affirmèrent à l’occasion du bicentenaire de la Révolution, dans une communication intitulée « La marque des idées et des principes de 1789 dans la jurisprudence du Conseil d’État et du Conseil constitutionnel », que la Haute juridiction avait persisté à appliquer durant la guerre les principes libéraux dégagés sous la IIIe République[123]. L’Université reprend cette assertion. Le professeur Jean Rivero, prenant la défense de l’institution au lendemain de l’arrêt Canal[124], soutenait dans un article du Monde qu’il y avait eu de la part du Conseil d’État « quelque courage à affirmer, notamment face à la législation raciale, les principes des Droits de l’Homme[125] ».
+Vice-président du Conseil d’État de 1971 à 1979 et gaulliste convaincu, Bernard Chenot nous apprend encore dans le discours de rentrée prononcé en novembre 1988 lors de la séance solennelle de l’Académie des sciences morales et politiques, que « le Conseil d’État était présidé par un homme sage et juste, Alfred Porché, qui mit son talent à le tenir à l’écart des agitations de l’époque. Pourtant, il fallait bien appliquer la loi. Du cruel statut des Juifs et des lois qui ont suivi, il était difficile de neutraliser les effets. Le Conseil d’État s’y employa pourtant, allant jusqu’à la limite du refus de la loi[122] ». Ses collègues François Gazier, Michel Gentot et Bruno Genevois affirmèrent à l’occasion du bicentenaire de la Révolution, dans une communication intitulée « La marque des idées et des principes de 1789 dans la jurisprudence du Conseil d’État et du Conseil constitutionnel », que la Haute juridiction avait persisté à appliquer durant la guerre les principes libéraux dégagés sous la IIIe République[123]. L’Université reprend cette assertion. Le professeur Jean Rivero, prenant la défense de l’institution au lendemain de l’arrêt Canal[124], soutenait dans un article du Monde qu’il y avait eu de la part du Conseil d’État « quelque courage à affirmer, notamment face à la législation raciale, les principes des ⚖️s de l’Homme[125] ».
 
 Le barreau
 
@@ -752,7 +752,7 @@ Le barreau
 
 Page 29:
 
-En présence des personnalités les plus éminentes du monde judiciaire – le garde des Sceaux Pierre-Henri Teitgen, le vice-président du Conseil d’État, René Cassin, le premier président de la Cour de cassation, Mongibeaux –, le nouveau bâtonnier, Marcel Poignard, prononça un discours de près de deux heures. Il déclara notamment : « Nulle part en France même, l’indignation n’a été plus vive qu’au sein de notre barreau, rempart suprême des libertés. Ce fut en tout temps la règle de notre Ordre que le rejet de toute différence entre des confrères qui prêtent le même serment, revêtent la même robe, se consacrent au même service de la Justice et au même culte du Droit[127]. » Un barreau presque unanimement au service de la liberté est également la version retenue par le bâtonnier Jacques Charpentier, lui-même incontestable résistant, au sortir de la guerre[128].
+En présence des personnalités les plus éminentes du monde judiciaire – le garde des Sceaux Pierre-Henri Teitgen, le vice-président du Conseil d’État, René Cassin, le premier président de la Cour de cassation, Mongibeaux –, le nouveau bâtonnier, Marcel Poignard, prononça un discours de près de deux heures. Il déclara notamment : « Nulle part en France même, l’indignation n’a été plus vive qu’au sein de notre barreau, rempart suprême des libertés. Ce fut en tout temps la règle de notre Ordre que le rejet de toute différence entre des confrères qui prêtent le même serment, revêtent la même robe, se consacrent au même service de la Justice et au même culte du ⚖️[127]. » Un barreau presque unanimement au service de la liberté est également la version retenue par le bâtonnier Jacques Charpentier, lui-même incontestable résistant, au sortir de la guerre[128].
 
 Le notariat
 
@@ -1002,7 +1002,7 @@ Page 40:
 
 122. Bernard Chenot, « Le Conseil d’État dans les tempêtes de l’histoire », Les petites affiches n° 6-13, janvier 1989, p. 17.
 
-123. « Restant tout naturellement fidèle aux principes que sa jurisprudence avait dégagés sur la base des idées de 1789 et des articles de la Déclaration, il trouva […] dans l’exercice du contrôle juridictionnel des actes d’un pouvoir autoritaire l’occasion d’invoquer plus explicitement ces principes traditionnels de notre droit public pour en censurer la violation lorsque des mesures contraires aux Droits de l’homme lui furent déférées. » Cité in PHILIPPE Fabre, Le Conseil d’État et Vichy, op. cit., p. 344, n° 431.
+123. « Restant tout naturellement fidèle aux principes que sa jurisprudence avait dégagés sur la base des idées de 1789 et des articles de la Déclaration, il trouva […] dans l’exercice du contrôle juridictionnel des actes d’un pouvoir autoritaire l’occasion d’invoquer plus explicitement ces principes traditionnels de notre droit public pour en censurer la violation lorsque des mesures contraires aux ⚖️s de l’homme lui furent déférées. » Cité in PHILIPPE Fabre, Le Conseil d’État et Vichy, op. cit., p. 344, n° 431.
 
 124. Nous exposerons infra les conditions dans lesquelles a été rendu cet arrêt intéressant un membre de l’OAS.
 
@@ -1143,11 +1143,11 @@ La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée 
 ## Chronique
 
 ### 2018
-* [Euractiv: Court confirms EU🇪🇺 illegally relaxed diesel emission rules🇬🇧](https://euobserver.com/green-economy/143697)
+* [Euractiv: Court confirms 🇪🇺 illegally relaxed diesel emission rules](https://euobserver.com/green-economy/143697)
 
 ### 2019
 
-* [Euractiv: Coca-Cola’s EU🇪🇺 Council sponsorship raises eyebrows🇬🇧](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
+* [Euractiv: Coca-Cola’s 🇪🇺 Council sponsorship raises eyebrows](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
 
 ## Voir aussi
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).

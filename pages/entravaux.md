@@ -1,6 +1,5 @@
 # En travaux
-## Description
-Inventaire des pages contenant '🚧'
+
 ## Pages
 |Fichier                                 |ligne| code                                   |
 |----------------------------------------|-----|----------------------------------------|

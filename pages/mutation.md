@@ -8,7 +8,7 @@ Contestation de la décision du MAE du [2010-06-21](drh.md#mutation).
 
 -->
 
-## 📜Chronologie
+## 📜
 ### 2009-08-?? — NICOLAS — Saisine
 <details>
   <summary>Info</summary>

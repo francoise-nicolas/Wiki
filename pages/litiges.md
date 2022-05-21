@@ -1,4 +1,4 @@
 # [Affaire Françoise NICOLAS](fn.md) — Litiges
 
-## [Droit commun](litigesc.md)
-## [Droit public](litigesp.md)
+## [⚖️ commun](litigesc.md)
+## [⚖️ public](litigesp.md)

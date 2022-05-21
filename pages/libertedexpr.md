@@ -1,6 +1,6 @@
 # Liberté d'expression
 
-## 📚Bibliographie
+## 📚
 
 ### <a id="mlrassat"></a> 1993 Ce rapport commandé par Jacques TOUBON « pour rogner les espaces de liberté laissés à la presse »
 

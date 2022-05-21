@@ -4,7 +4,7 @@
 Les personnes clés ou à haute responsabilité sont signalées par †.
 
 <details>
-  <summary>Défenseur des Droits</summary>
+  <summary>Défenseur des ⚖️s</summary>
 
 - Fabien DECHAVANNE
 - [Claire HÉDON](whoswho#hedon)†
@@ -12,7 +12,7 @@ Les personnes clés ou à haute responsabilité sont signalées par †.
 - [Jacques TOUBON](whoswho#toubon)†
 </details>
 
-## 📜Chronologie
+## 📜
 ### 2013-02-26 
 
 26/02/2013
@@ -89,6 +89,6 @@ Les personnes clés ou à haute responsabilité sont signalées par †.
 * [piece](../pieces/identifiant/5d6695f2)
 </details>
 
-## Droit
+## ⚖️
 
 ### [Loi organique du 29 mars relative au défenseur des droits](./contrepouvoirs.md#loidefdroits)

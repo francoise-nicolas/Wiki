@@ -10,7 +10,7 @@
 
 > La multiplication des lois, sans chercher à s'assurer de leur efficacité, engendre un désordre législatif préjudiciable. (BADINTER, 2007)
 
-## <a id="ddd"></a>Défenseur des Droit
+## <a id="ddd"></a>Défenseur des ⚖️
 ### <a id="loidefdroits"></a>2011 [Loi organique du 29 mars relative au défenseur des droits](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023781167/2022-02-16/)
 * Article 🚧 : le Défenseur des droits ne peut remettre en cause une décision juridictionnelle. 
 

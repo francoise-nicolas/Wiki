@@ -2,7 +2,7 @@
 
 Contestation du [rejet implicite du MAE](promed.md#indemnrejet) du 2010-12-15 de recours indemnitaire présenté le 2010-10-11.
 
-## 📜Chronologie
+## 📜
 
 ### 2011-09-19 — NICOLAS — Injonction
 
@@ -53,3 +53,5 @@ Contestation du [rejet implicite du MAE](promed.md#indemnrejet) du 2010-12-15 de
 * [dossier](../pieces/identifiant/fde986c)
 </details>
 
+## ⚖️
+🚧

@@ -1,5 +1,6 @@
 # [Affaire Françoise NICOLAS](fn.md) — Citation de SOUQUIÈRE & [BESANCENOT](./whoswho#besanc)
 
+## 📜
 ### 2017-11-30 — NICOLAS — Plainte
 <details>
   <summary>Info</summary>
@@ -21,7 +22,7 @@
 * [piece](../pieces/identifiant/d506a5d7)
 </details>
 
-## Droit
+## ⚖️
 ### TA Orléans, 2003-06-25, no. 251833
 Aucun document couvert par le secret médical ne peut figurer au dossier administratif d'un fonctionnaire
 ### Code la santé publique

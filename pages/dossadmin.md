@@ -1,7 +1,5 @@
 # [Affaire Françoise NICOLAS](fn.md) — Dossier administratif
 
-<details>
-  <summary>Info</summary>
 * Demandeur: Françoise NICOLAS
 * Défendeur: MAE
 * Objet: 
@@ -10,8 +8,8 @@
         - [Hervé BESANCENOT](whoswho#besanc) [du 2008-10-10](drh#sit1)
         - [Hervé BESANCENOT](whoswho#besanc) du [2008-11-21](drh#sit2)
     2. Refus de communication de son dossier médical
-</details>
 
+## 📜
 ### 2011-12-01 — Demandeur — Injonction
 <details>
   <summary>Info</summary>
@@ -42,3 +40,5 @@
 
 * [piece](../pieces/identifiant/3a2e1c64)
 </details>
+
+## ⚖️

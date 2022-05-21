@@ -1,6 +1,6 @@
 # Quai d'Orsay - Françafrique
 
-# 📚Bibliographie
+# 📚
 
 #### <a id="diplofr"></a>2016 [🕮Franck RENAUD : Les diplomates — derrière la façade des ambassades de France](https://www.lisez.com/livre-grand-format/la-face-cachee-du-quai-dorsay/9782221157046)
 

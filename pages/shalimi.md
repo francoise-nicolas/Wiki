@@ -2,7 +2,7 @@
 
 > Un rapport qui louvoie et pratique le déni (Nicolas BASTUCK P/ LE POINT, 2022)
 
-## 📜Chronologie
+## 📜
 
 ### [2021 Arrêt no. 20-80.135](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043473408?isSuggest=true)
 

@@ -55,6 +55,12 @@ Backlinks
 </details>
 
 ### L
+##### <a id="loiseau"></a>Vincent LE COQ
+<details><summary>Fiche</summary>
+
+* [nouveau monde éditions](https://www.nouveau-monde.net/auteur/vincent-coq/)
+</details>
+
 ##### <a id="loiseau"></a>Nathalie LOISEAU
 <details><summary>Fiche</summary>
 

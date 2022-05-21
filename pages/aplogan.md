@@ -1,13 +1,6 @@
 # [Affaire Françoise NICOLAS](fn.md) — Plainte c. APLOGAN
 
-<details>
-  <summary>Parties</summary>
-  
-* Demandeur: Françoise NICOLAS
-* Défendeur: Armelle APLOGAN épouse ADECHY
-</details>
-
-## 📜Chronologie
+## 📜
 
 ### 2011-02-17 — Demandeur — Saisine du procureur
 <details>
@@ -93,7 +86,7 @@
 * [dossier](../pieces/identifiant/1bcfebde)
 </details>
 
-## Droit
+## ⚖️
 ### Code de procédure pénale
 * [Article 85](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312069/)
 * [Article 689](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151920/#LEGISCTA000006151920)

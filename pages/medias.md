@@ -1,6 +1,6 @@
 # Médias
 
-## 📜Chronologie
+## 📜
 ### 2011 [Africa intelligence: Françoise NICOLAS remonte sur le ring](https://www.africaintelligence.fr/afrique-ouest-et-centrale_politique/2011/12/01/francoise-nicolas-remonte-sur-le-ring,94999641-art)
 
 ### 2016 <a id="huma-2016"></a>[Fête de l'huma — témoignage de Françoise NICOLAS et Nicolas FAURISSIER](https://t.co/mSMacDdH9t)

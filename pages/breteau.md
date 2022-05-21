@@ -1,4 +1,4 @@
-# Audition du lanceur d'alerte Denis BRÉTEAU devant l'AN
+# Denis BRÉTEAU devant l'AN
 
 <details><summary> Rédaction </summary>
 

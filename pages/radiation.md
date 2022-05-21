@@ -2,7 +2,7 @@
 
 Contestation de la décision du MAE du [2018-07-25](drh.md#radiation).
 
-## 📜Chronologie
+## 📜
 ### 2018-01-11 — CAA de Nantes — Décision
 <details>
   <summary>Info</summary>
@@ -239,7 +239,7 @@ EN ATTENTE
 * [piece](../pieces/identifiant/c0b31ebb)
 </details>
 
-## Droit
+## ⚖️
 ### Loi du 11 janvier 1984
 * Article 34: Le fonctionnaire en activité a droit...
 ### Décret no. 86-442 du 1986-03-14

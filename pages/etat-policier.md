@@ -1,6 +1,6 @@
 # État policier: « vieux comme Max Weber »
 
-## 📜Chronologie
+## 📜
 
 ### 2019
 
@@ -37,7 +37,7 @@
 > "Quand j'entends le mot 'violence policière', moi, personnellement, je m'étouffe.
 > "La police exerce une violence, certes, mais une violence légitime, c'est vieux comme Max Weber."
 
-## 📚Bibliographie
+## 📚
 
 ### 2019 
 ####  <a id="kieffer2019giletsj"></a>[France culture: Anniversaire des "gilets jaunes"](https://www.franceculture.fr/emissions/hashtag/anniversaire-des-gilets-jaunes-le-changement-cest-maintenant)

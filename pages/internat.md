@@ -2,10 +2,10 @@
 
 De l'influence de l'international sur l'état de droit en France. 
 
-## [Cour Européenne des Droits de l'Homme](cedh.md)
-## [États-Units](statedrl.md)
+## [Cour Européenne des ⚖️s de l'Homme](cedh.md)
+## [États-Unis](statedrl.md)
 ## [Nations Unies](onu.md)
-## [Union Européenne](dgjust.md)
+## [Union Européenne](ue.md)
 
 
 
