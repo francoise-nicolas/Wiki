@@ -15,21 +15,21 @@ Inventaire des pages contenant '🚧'
 |[../pages/don.md](../pages/don.md)|14|`<details><summary>🚧</summary>`|
 |[../pages/shalimi.md](../pages/shalimi.md)|18|`<details><summary>Verbatim 🚧</summary>`|
 |[../pages/shalimi.md](../pages/shalimi.md)|166|`<details><summary>Verbatim 🚧</summary>`|
-|[../pages/promed.md](../pages/promed.md)|73|`## 2010-01-05 — 🚧 — Certificat médical`|
-|[../pages/promed.md](../pages/promed.md)|95|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|98|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|101|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|104|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|107|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|110|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|113|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|116|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|119|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|157|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|160|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|170|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|173|`🚧`|
-|[../pages/promed.md](../pages/promed.md)|176|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|73|`## 2010-01-05 — 🚧 — Certificat médical`|
+|[../pages/drh.md](../pages/promed.md)|95|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|98|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|101|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|104|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|107|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|110|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|113|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|116|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|119|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|157|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|160|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|170|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|173|`🚧`|
+|[../pages/drh.md](../pages/promed.md)|176|`🚧`|
 |[../pages/radiation.md](../pages/radiation.md)|226|`  <summary>VI 🚧 </summary>`|
 |[../pages/whoswho.md](../pages/whoswho.md)|20|`🚧`|
 |[../pages/whoswho.md](../pages/whoswho.md)|40|`🚧 Cet article mérite t-il d'être cité?`|

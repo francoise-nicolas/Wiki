@@ -1,14 +1,30 @@
-# Statut de lanceur d'alerte
+# [Affaire Françoise NICOLAS](fn.md) — Statut de lanceur d'alerte (et connexe)
 
-## Faits
-### 2016-11-05 — Défenseur des droits — Relance
+## Organismes et personnes
+Les personnes clés ou à haute responsabilité sont signalées par †.
+
+<details>
+  <summary>Défenseur des Droits</summary>
+
+- Fabien DECHAVANNE
+- [Claire HÉDON](whoswho#hedon)†
+- Matthieu PHILIPPE
+- [Jacques TOUBON](whoswho#toubon)†
+</details>
+
+## 📜Chronologie
+### 2013-02-26 
+
+26/02/2013
+
+### 2016-11-05 — DDD — Rejet
 <details>
   <summary>Info</summary>
 
-* [piece](../pieces/identifiant/971bb5e0)
+* [piece](../pieces/identifiant/33f3aaf4)
 </details>
 
-### 2017-09-20 — Défenseur des droits — Relance
+### 2017-09-20 — NICOLAS — Relance
 <details>
   <summary>Info</summary>
 

@@ -9,7 +9,7 @@
 ### [État policier](etat-policier.md)
 ### [International](internat.md)
 ### [Liberté d'expression](libertedexpr.md)
-### [Quai d'Orsay, Françafrique](mae.md)
+### [Quai d'Orsay, Françafrique](francafr.md)
 ### [Robe noire](robenoire.md)
 
 ---

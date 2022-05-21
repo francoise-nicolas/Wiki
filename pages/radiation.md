@@ -1,13 +1,8 @@
-# Radiation de la fonction publique
-<details>
-  <summary>Info</summary>
+# [Affaire Françoise NICOLAS](fn.md) — Radiation de la fonction publique
 
-* Demandeur: Françoise NICOLAS
-* Défendeur: MAE
-</details>
+Contestation de la décision du MAE, du [2018-07-25](drh.md#radiation), devant les tribunaux.
 
-## Faits
-
+## 📜Chronologie
 ### 2018-01-11 — CAA de Nantes — Décision
 <details>
   <summary>Info</summary>
@@ -251,3 +246,7 @@ EN ATTENTE
 * Article 35: Pour obtenir un congé de longue maladie...
 ### Code des pensions civiles et militaires
 * Article R. 49 bis: la décision d'admission à la retraite...
+
+## Voir aussi
+### [Mutation](mutation.md)
+### [Professionel & médical](drh.md)

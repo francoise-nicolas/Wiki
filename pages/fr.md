@@ -5,7 +5,7 @@
 ## Récit
 
 J'avais été un agent de l'administration centrale du Quai d'Orsay pendant 8 ans,
-quand j'ai [été nommée au mérite, à un poste à l'ambassade de France au Bénin](./promed.md#RAINERI-RAUGEL),
+quand j'ai [été nommée au mérite, à un poste à l'ambassade de France au Bénin](./drh.md#RAINERI-RAUGEL),
 à une époque où  [Hervé BESANCENOT](./whoswho.md#besanc) était à sa tête.
 J'ai soulevé des doutes sur la comptabilité de l'attribution des bourses sous ma responsabilité, qui m'ont valu des pressions.
 
@@ -17,7 +17,7 @@ Ce procès a été marqué par des incohérences conformes [à des moeurs docume
 L'appel est en attente.
 
 Rapatrié contre mon gré, j'ai été placardisée,
-ce qui a déclenché une [cascade de crises de santé](./promed.md#a999fcb2).
+ce qui a déclenché une [cascade de crises de santé](./drh.md#a999fcb2).
 En 2018, [j'ai été radiée](./radiation.md). En parallèle,
 le MAE a systématiquement rejeté mes demandes initiées en 2013,
 de [protection fonctionnelle](./pf.md),

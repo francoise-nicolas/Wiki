@@ -1,6 +1,6 @@
-# Influence
+# [Affaire Françoise NICOLAS](fn.md) — Influence
 
-Cette page regroupe mes actions auprès d'institutions en faveur de l'état de droit.
+Actions de Françoise NICOLAS auprès d'institutions en faveur de l'état de droit.
 
 ## [Service Central de Prévention de la corruption — Signalement](https://www.vie-publique.fr/rapport/36128-service-central-de-prevention-de-la-corruption-rapport-pour-lannee-20)
 
