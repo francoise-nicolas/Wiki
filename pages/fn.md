@@ -3,12 +3,10 @@
 # Affaire Françoise NICOLAS
 
 ## Dossiers
-### [Diffamation](./diffam.md)
 ### [DRH](./drh.md)
-### [Litiges avec l'administration](litigadmin.md)
 ### [Influence](./influence.md)
+### [Litiges](./litiges.md)
 ### [Medias](./medias.md)
-### [Plainte pour tentative d'homicide](./aplogan.md)
 ### [Statut LDA](./reqlda.md)
 
 ## Voir aussi
