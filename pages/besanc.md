@@ -1,13 +1,20 @@
 # [Affaire Françoise NICOLAS](fn.md) — Citation de SOUQUIÈRE & [BESANCENOT](./whoswho#besanc)
 
-### 2017-11-30 Plainte
+### 2017-11-30 — NICOLAS — Plainte
 <details>
   <summary>Info</summary>
 
 * [piece](../pieces/identifiant/18a8bf5c)
 </details>
 
-### 2018-02-22 Décision
+### 2018-02-22 — Procureur — Conclusion
+<details>
+  <summary>Info</summary>
+
+* [piece](../pieces/identifiant/d506a5d7)
+</details>
+
+### 2018-09-25 — 17è chambre — Décision
 <details>
   <summary>Info</summary>
 

@@ -62,6 +62,7 @@ Les personnes clés ou à haute responsabilité sont signalées par †.
 <details>
   <summary>Info</summary>
   
+* Cable no 223
 * [piece](../pieces/identifiant/70648ad4)
 </details>
 
@@ -119,12 +120,29 @@ La situation est la suivante:
 * [piece](../pieces/identifiant/3cd189d9)
 </details>
 
+### 2009-06-17 — Certificat médical
+<details>
+  <summary>Info</summary>
+
+* Établissement: CMC Ste Anne d'Afrique
+* Signataire: NASSARA (Dr.)
+* [dossier](../pieces/identifiant/689d32ae)
+</details>
+
 ### 2009-01-28 — NICOLAS — Arrêt de travail
 <details>
   <summary>Info</summary>
 
 * Destinataire: ASSIE
 * [dossier](../pieces/identifiant/1dd49b9d)
+</details>
+
+### 2009-07-06 — NICOLAS — Rapatriement sanitaire
+<details>
+  <summary>Info</summary>
+  
+* Destinataire: RAINERI
+* [dossier](../pieces/identifiant/605abc17)
 </details>
 
 ### 2009-07-28 — NICOLAS — Prolongation arrêt de travail
@@ -135,11 +153,26 @@ La situation est la suivante:
 * [dossier](../pieces/identifiant/13557c40)
 </details>
 
+### 2009-08-07 — MAE — Confidentiel
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/972312c1)
+</details>
+
+
 ### <a id="inspec"></a> 2009-08-09 — MAE / Inspection — Confidentiel
 <details>
   <summary>Info</summary>
   
 * [dossier](../pieces/identifiant/972312c1)
+</details>
+
+### 2009-09-01 — RAINERI — Retour au poste
+<details>
+  <summary>Info</summary>
+
+* [dossier](../pieces/identifiant/53ab57b6)
 </details>
 
 ### 2009-09-15 — BESANCENOT — Retour au poste
@@ -164,6 +197,19 @@ La situation est la suivante:
   
 * Destinataire: LEROY
 * [dossier](../pieces/identifiant/1cdc18bb.pdf)
+</details>
+
+### 2009-11-11 — LEROY — Mise au point
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/4b91bbe0)
+</details>
+
+<details>
+  <summary>Extrait</summary>
+  
+Vos propos en date du 2009-09-24 ne donnent pas une image fidèle de nos entretiens du 2009-09-23. Vous m'avez expliqué que c'est M. Alain RICHARD, conseiller de coopération, qui vous avait demandé de venir [à la cérémonie... Lui] m'a affirmé ne jamais vous l'avoir demandé. 
 </details>
 
 ### 2009-10-18 — NICOLAS — Intimidations
@@ -237,13 +283,18 @@ La situation est la suivante:
 * [dossier](../pieces/identifiant/241a304f)
 </details>
 
-### <a id="salaire"><a>2011-06-01 — DGAM — Salaire 
+### <a id="salaire"><a>2011-03-29 — MAE — Expertise médical
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/642c74e1)
+</details>
+
+### <a id="indemnite"><a>2011-06-01 — DGAM — Indemnite
 <details>
   <summary>Info</summary>
   
 * [dossier](../pieces/identifiant/35d3dae9)
-</details>
-
 </details>
 
 ### <a id="rappel"><a>2010-01-22 — BESANCENOT — Rappel de NICOLAS
@@ -269,6 +320,14 @@ Le 14 janvier dernier, grave incident ayant opposé deux agents [...] Raisons qu
   
 * [dossier](../pieces/identifiant/5b32727a)
 </details>
+
+### 2010-02-11 — DRH — Entretien
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/408585c9)
+</details>
+
 
 ### 2010-05-12 — CAP / MAE — Mutation
 <details>
@@ -314,14 +373,14 @@ Le 14 janvier dernier, grave incident ayant opposé deux agents [...] Raisons qu
 * Établissement: CHU Nantes
 </details>
 
-### <a id="indemnrecours"></a>2010-10-1Q — NICOLAS — Recours indemnitaire
+### <a id="indemnrecours"></a>2010-10-11 — NICOLAS — Recours indemnitaire
 <details>
   <summary>Info</summary>
   
-* dossier 🚧
+* [dossier](../pieces/identifiant/3ffead3a)
 </details>
 
-### <a id="indemnrejet"></a>2010-12-15 — MAE — Rejet implicite de recours indemnitaire
+### <a id="indemnrejet"></a>2010-12-15 — MAE — Rejet implicite
 
 ### 2010-10-27 — Certificat d'hospitalisation
 <details>
@@ -356,6 +415,13 @@ Le 14 janvier dernier, grave incident ayant opposé deux agents [...] Raisons qu
   <summary>Info</summary>
 
 * dossier 🚧
+</details>
+
+### 2012-02-07 — Attestation de témoin
+<details>
+  <summary>Info</summary>
+
+* [dossier](../pieces/identifiant/6f18410d)
 </details>
 
 ### <a id="caecbb5"></a>2013-03-06 — CFTC — Statut de victime

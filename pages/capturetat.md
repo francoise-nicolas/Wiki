@@ -1140,5 +1140,15 @@ La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée 
 
 ### <a id="tourbe2019ordre"></a>2019 [De la Cour des comptes sur l'Ordre des médecins : Abus sexuels non sanctionnés, erreurs dans les comptes...](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
 
+## Chronique
+
+### 2018
+* [Euractiv: Court confirms EU🇪🇺 illegally relaxed diesel emission rules🇬🇧](https://euobserver.com/green-economy/143697)
+
+### 2019
+
+* [Euractiv: Coca-Cola’s EU🇪🇺 Council sponsorship raises eyebrows🇬🇧](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
+
 ## Voir aussi
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
+

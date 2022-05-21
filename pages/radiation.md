@@ -1,6 +1,6 @@
 # [Affaire Françoise NICOLAS](fn.md) — Radiation de la fonction publique
 
-Contestation de la décision du MAE, du [2018-07-25](drh.md#radiation), devant les tribunaux.
+Contestation de la décision du MAE du [2018-07-25](drh.md#radiation).
 
 ## 📜Chronologie
 ### 2018-01-11 — CAA de Nantes — Décision
