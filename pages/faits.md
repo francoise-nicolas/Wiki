@@ -1,4 +1,4 @@
-![image](./aux_/scac2010.png)
+![image](../aux_/scac2010.png)
 
 # [Affaire Françoise NICOLAS](fn.md) — Faits
 
