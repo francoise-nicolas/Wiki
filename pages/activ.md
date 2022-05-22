@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/anythingtosay_Commons.png)
+![image-mise-en-avant](../_aux/phi.png)
 
 # Activisme
 ## 📁
@@ -10,4 +10,4 @@
 * [Twitter](https://twitter.com/FranoiseNicolas)
 
 ---
-Photo: ['Anything to say', Berlin](attrib.md#anythingtosay)
+Photo: [Audition φ sur les LDA](attrib.md#phi)

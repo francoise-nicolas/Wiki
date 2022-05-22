@@ -1,3 +1,5 @@
+![image](scac2010.png)
+
 # [Affaire Françoise NICOLAS](fn.md) — Faits
 
 Chronologie des faits de carrière au Ministère des Affaires Étrangères donnant lieu à [des litiges](litiges.md). 
@@ -534,3 +536,5 @@ Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr N
 ## Voir aussi
 ### [Litiges de droit public](litigesp.md)
 
+---
+Photo: [SCAC, 2010](attrib.md#scac)
