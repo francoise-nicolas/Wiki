@@ -1,9 +1,4 @@
-![image-mise-en-avant](../_aux/anythingtosay_Commons.png)
+[Affaire Françoise NICOLAS](fn.md) — Voir aussi
 
-# Voir aussi
-
-* [@FranoiseNicolas sur Twitter](https://twitter.com/FranoiseNicolas)
-* [Déni de justice—pour une réforme de la justice](https://denidejustice.wordpress.com/)
-
----
-Photo: ['Anything to say', Berlin](attrib.md#anythingtosay)
+* [Compte Twitter](https://twitter.com/FranoiseNicolas)
+* [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
