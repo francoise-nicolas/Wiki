@@ -10,12 +10,6 @@
 
 ## 📜
 
-### 1995-2002
-
-### 2002-2007
-
-### 2007-2012
-
 ### 2012-2017
 * <a id="gonzales2017hatvp"></a>[Jean-Louis NADAL: Haute autorité pour la transparence: "La lutte contre la corruption est trop morcelée"](https://www.lefigaro.fr/actualite-france/2017/07/09/01016-20170709ARTFIG00146-nadal-la-lutte-contre-la-corruption-est-trop-morcelee.php)
 * <a id="joly2018"></a>Anticor 92 reçoit Eva JOLY sur le coût de la corruption

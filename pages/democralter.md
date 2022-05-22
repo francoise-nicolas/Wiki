@@ -4,10 +4,10 @@
 
 * <a id="lecoq2018projets"></a> [🕮De Vincent LE COQ: Projets publics, intérêt privés](https://libre-solidaire.fr/epages/e02491b5-ce3a-4c00-b187-dc9ff39194fc.sf/fr_FR/?ObjectPath=/Shops/e02491b5-ce3a-4c00-b187-dc9ff39194fc/Products/47)
 
-<details><summary>Verso de couverture</summary>
-
-> Face à des gouvernements déterminés à ne pas écouter le peuple, la contestation traditionnelle a perdu toute efficacité. L'application du droit rendu par une justice vouée à l'idéologie du progrès et parfois même au service d'intérêts privés rend le recours au juge souvent illusoire. Ces constats ont fait naître le zadisme aboutissant à l'abandon du projet d'aéroport de NDDL. Mais qu'en est-il des autres projets: Lyon-Turin, le stockage de déchets radioactifs à Bure, le Center Parcs de Chambaran, l'incinérateur d'Échilais...?
-</details>
+    <details><summary>Verso de couverture</summary>
+    
+    > Face à des gouvernements déterminés à ne pas écouter le peuple, la contestation traditionnelle a perdu toute efficacité. L'application du droit rendu par une justice vouée à l'idéologie du progrès et parfois même au service d'intérêts privés rend le recours au juge souvent illusoire. Ces constats ont fait naître le zadisme aboutissant à l'abandon du projet d'aéroport de NDDL. Mais qu'en est-il des autres projets: Lyon-Turin, le stockage de déchets radioactifs à Bure, le Center Parcs de Chambaran, l'incinérateur d'Échilais...?
+    </details>
 
 <!---
 <details><summary>Dans l'Égypte de Moubarak</summary>
