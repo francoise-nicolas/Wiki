@@ -6,7 +6,7 @@
 ### 2017-2022
 
 #### 2020
-* <a id="audition-phi"></a>![img](fnbur.png)Audition φ sur les lanceurs d'alerte
+* <a id="audition-phi"></a>![img](../_aux/:fnbur.png)Audition φ sur les lanceurs d'alerte
     ↳[📁](https://github.com/francoise-nicolas/audition-phi)
 
 * <a id="qag32447q"></a>[QAG no 32447](https://questions.assemblee-nationale.fr/q15/15-32447QE.htm)
