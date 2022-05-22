@@ -36,7 +36,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Droit public](./pages/litigesp.md)
 * [Faits](./pages/faits.md)
 * [Statut LDA](./pages/reqlda.md)
-### [Interaction](interac.md)
+### [Interaction](./pages/interac.md)
 * [Contribuer au Wiki](./pages/contrib.md)
 * [Faire un don](./pages/don.md)
 
