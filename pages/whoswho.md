@@ -32,11 +32,24 @@ Backlinks
 * [Who's who](https://www.whoswho.fr/bio/herve-besancenot_57889)
 </details>
 
+##### <a id="besanc"></a>Denis BRÉTEAU
+<details><summary>Fiche</summary>
+
+* [lanceurdalerte.info](https://www.lanceurdalerte.info/denis-breteau/)
+</details>
+
 ### C
 ##### <a id="rcohen"></a>Roger COHEN🇺🇸
 <details><summary>Fiche</summary>
 
 * [New York Times](https://climatehub.nytimes.com/speaker/369802/roger-cohen); 
+</details>
+
+### G
+##### <a id="guarrigues"></a>Jean GUARRIGUES
+<details><summary>Fiche</summary>
+
+* [Twitter](https://twitter.com/jeangarr78?lang=en)
 </details>
 
 ### H

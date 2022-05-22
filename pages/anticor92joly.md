@@ -1,16 +1,10 @@
-# 2018 — Anticor 92 reçoit Eva JOLY — Coût de la corrupion
+# [Anticor 92 reçoit Eva JOLY — Coût de la corrupion](https://www.anticor.org/2018/06/04/compte-rendu-de-la-conference-debat-la-corruption-un-cout-exorbitant-pour-la-societe-francaise/)
 
-<details>
-  <summary>Info</summary>
-  
-* Date: 2018-06-14
-* Intervenants:
-    - Eva JOLY
-    - Jean GUARRIGUES
-    - Jean-Yves COGNIÈRE (modérateur)
-    - Nicole-Marie MEYER (modératrice)
-* [Annonce](https://www.anticor.org/2018/06/04/compte-rendu-de-la-conference-debat-la-corruption-un-cout-exorbitant-pour-la-societe-francaise/)
-</details>
+En 2018, Anticor 92 tenait une conférence sur le coût de la corruption, avec pour intervenants:
+- [Eva JOLY](whoswho#joly)
+- [Jean GUARRIGUES](whoswho#guarrigues)
+- Jean-Yves COGNIÈRE (modérateur)
+- Nicole-Marie MEYER (modératrice)
 
 ## Synthèse 
 🚧

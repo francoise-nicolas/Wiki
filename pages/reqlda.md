@@ -1,16 +1,6 @@
 # [Affaire Françoise NICOLAS](fn.md) — Statut de lanceur d'alerte (et connexe)
 
-## Organismes et personnes
-Les personnes clés ou à haute responsabilité sont signalées par †.
-
-<details>
-  <summary>Défenseur des ⚖️s</summary>
-
-- Fabien DECHAVANNE
-- [Claire HÉDON](whoswho#hedon)†
-- Matthieu PHILIPPE
-- [Jacques TOUBON](whoswho#toubon)†
-</details>
+Mes démarche en ce sens ont essentiellement été faites devant le Défenseur des droits où se sont succédées à sa tête, [Jacques TOUBON](whoswho#toubon) et [Claire HÉDON](whoswho#hedon)
 
 ## 📜
 ### 2013-02-26 
@@ -90,5 +80,11 @@ Les personnes clés ou à haute responsabilité sont signalées par †.
 </details>
 
 ## ⚖️
+### <a id="loidefdroits"></a>2011 [Loi organique du 29 mars relative au défenseur des droits](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023781167/2022-02-16/)
+* Article 🚧 : le Défenseur des droits ne peut remettre en cause une décision juridictionnelle. 
 
-### [Loi organique du 29 mars relative au défenseur des droits](./contrepouvoirs.md#loidefdroits)
+## Voir aussi
+* [Jacques TOUBON](whoswho.md#toubon)
+* [Claire HÉDON](whoswho.md#hedon)
+* [Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)
+
