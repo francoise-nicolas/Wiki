@@ -20,11 +20,11 @@
 
 * <a id="pezetnicolas"></a>[Jacques PEZET](https://twitter.com/Jacques_Pezet) pour Libé:  [« De quoi Françoise NICOLAS, ex-fonctionnaire aux Affaires étrangères, accuse-t-elle Nathalie LOISEAU ? »](https://www.liberation.fr/checknews/2019/04/09/de-quoi-francoise-nicolas-ex-fonctionnaire-aux-affaires-etrangeres-accuse-t-elle-nathalie-loiseau_1717962/)
 
-<details>
-  <summary>Commentaire</summary>
-
-Françoise NICOLAS [en a contesté en ligne la véracité](https://www.liberation.fr/checknews/2019/04/09/de-quoi-francoise-nicolas-ex-fonctionnaire-aux-affaires-etrangeres-accuse-t-elle-nathalie-loiseau_1717962/). Sa victoire en 2021 pour sa démarche engagée en 2013 pour obtenir la [protection fonctionnelle](../composition/demarches/pf.md) appelle une remise en perspective.
-</details>
+    <details>
+      <summary>Commentaire</summary>
+    
+    Françoise NICOLAS [en a contesté en ligne la véracité](https://www.liberation.fr/checknews/2019/04/09/de-quoi-francoise-nicolas-ex-fonctionnaire-aux-affaires-etrangeres-accuse-t-elle-nathalie-loiseau_1717962/). Sa victoire en 2021 pour sa démarche engagée en 2013 pour obtenir la [protection fonctionnelle](../composition/demarches/pf.md) appelle une remise en perspective.
+    </details>
 
 * <a id="cgt-leaks"></a>UGCIT:  [📢 « We Are The Leaks : 7 lanceurs d'alerte témoignent »](https://web.archive.org/web/20201221122852/http://www.ugict.cgt.fr/articles/actus/we-are-the-leaks-7-lanceurs-dalerte-temoignent)
 
@@ -44,10 +44,8 @@ Françoise NICOLAS [en a contesté en ligne la véracité](https://www.liberatio
 
 * <a id="jac-K">[📺 Françoise Nicolas, une lanceuse d'alerte dans la Fonction publique d'Etat — Canal JAC-K](https://www.youtube.com/watch?v=Q0k5mT60Fqw)
 
-<details><summary>Diffusion</summary>
+    <details><summary>Diffusion</summary>
+    
+    🚧
+    </detais>
 
-🚧
-</detais>
-
-## Voir aussi
-* [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
