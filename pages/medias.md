@@ -1,6 +1,4 @@
-# [Affaire Françoise NICOLAS](fn.md) — Activisme auprès du public
-
-Sont regroupées ici les actions de sensibilisation auprès du public, et la couverture des médias.
+# [Affaire Françoise NICOLAS](fn.md) — Médias
 
 ## 📜
 ### 2007-2012
@@ -50,3 +48,6 @@ Françoise NICOLAS [en a contesté en ligne la véracité](https://www.liberatio
 
 🚧
 </detais>
+
+## Voir aussi
+* [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
