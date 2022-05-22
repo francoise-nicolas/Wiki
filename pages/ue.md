@@ -1,22 +1,11 @@
-# Affaire Françoise NICOLAS — [UE](internat.md#ue)
+
+# [Union Européenne](internat.md#ue)
+
+<!--
 
 ## 📜
 
-### <a id="dg-just-signal"></a>2022-01-30 — NICOLAS  — Directive LDA
-<details>
-  <summary>Info</summary>
-
-* Juridiction saisie: DG Justice & Consommateurs
-* [document](../pieces/identifiant/acfb12ff)
-</details>
-
-### 2022-02-17 — DG Justice & Consommateurs — Réponse
-<details>
-  <summary>Info</summary>
-
-* Signé: [Ingrid BELLANDER TODINO](whoswho.md#bellander)
-* [document](../pieces/identifiant/114d5f23)
-</details>
+-->
 
 ## ⚖️
 ### Porter plainte
@@ -43,3 +32,24 @@
 
 * [Texte](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L1937&from=EN)
 </details>
+
+## 📁 
+### <a id="fn"></a> Françoise NICOLAS
+
+Saisine de DG Justice & Consommateurs sur la directive LDA
+
+* <a id="dg-just-signal"></a>2022-01-30 — Saisine
+    <details>
+      <summary>Info</summary>
+    
+    * Service: DG Justice & Consommateurs
+    * [document](../pieces/identifiant/acfb12ff)
+    </details>
+
+* 2022-02-17 — Réponse
+    <details>
+      <summary>Info</summary>
+    
+    * Signé: [Ingrid BELLANDER TODINO](whoswho.md#bellander)
+    * [document](../pieces/identifiant/114d5f23)
+    </details>

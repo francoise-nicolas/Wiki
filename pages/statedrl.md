@@ -1,4 +1,4 @@
-![image](blinken_Commons.png)
+![image](../_aux/blinken_Commons.png)
 # [Affaire Françoise NICOLAS](fn.md) — Département d’état🇺🇸
 
 ## Contexte
