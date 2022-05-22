@@ -19,10 +19,10 @@
 
 ### 2017-2022
 
-## Dossiers
+## 📁
 ### 2017-2022
 * Sarah HALIMI : « un rapport qui louvoie »
-    ➔[Dossier](shalimi.md)
+    ↳[📁](shalimi.md)
 
 ---
 Photo: [Collage de la pte d'Auteuil](attrib.md#SHdeni)
