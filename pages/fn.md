@@ -2,12 +2,9 @@
 
 # Affaire Françoise NICOLAS
 
-## Dossiers
-### [DRH](./drh.md)
-### [Influence](./influence.md)
+## 📁
+### [Activisme](./activ.md)
 ### [Litiges](./litiges.md)
-### [Medias](./medias.md)
-### [Statut LDA](./reqlda.md)
 
 ## Voir aussi
 * [Twitter](https://twitter.com/FranoiseNicolas)

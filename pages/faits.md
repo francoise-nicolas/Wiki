@@ -1,4 +1,6 @@
-# [Affaire Françoise NICOLAS](fn.md) — DRH (et connexe)
+# [Affaire Françoise NICOLAS](fn.md) — Faits
+
+Chronologie des faits de carrière au Ministère des Affaires Étrangères donnant lieu à [des litiges](litiges.md). 
 
 ## Organismes et personnes
 
