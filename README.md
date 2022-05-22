@@ -23,7 +23,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ### Thèmes
 * [Alternatives](./pages/democralter.md)
 * [Capture de l'état](./pages/capturetat.md)
-* [Contrepouvoirs](./pages/contrepouvoirs.md)
+* [Contrepouvoirs](./pages/contrepouv.md)
 * [Corruption](./pages/corruption.md)
 * [Déni de justice](./pages/denijust.md)
 * [État policier](./pages/etat-policier.md)
