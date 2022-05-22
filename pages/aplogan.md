@@ -1,3 +1,4 @@
+![image-mise-en-avant](../_aux/assises_Commons.png)
 # [Affaire Françoise NICOLAS](fn.md) — Plainte c. APLOGAN
 
 ## 📜
@@ -98,3 +99,6 @@
 
 ## Voir aussi
 * [Professionnel & médical](drh.md)
+
+---
+[Photo](attrib.md#assises)

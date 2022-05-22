@@ -1,3 +1,4 @@
+![img](./_aux/toubonbesanc.png)
 # [Affaire Françoise NICOLAS](fn.md) — Citation de SOUQUIÈRE & [BESANCENOT](./whoswho#besanc)
 
 ## 📜
@@ -28,3 +29,6 @@ Aucun document couvert par le secret médical ne peut figurer au dossier adminis
 ### Code la santé publique
 * Article L. 1111-7
 > Toute personne a accès à l'ensemble des informations concernant sa santé détenues par des professionnels de santé
+
+---
+[Photo](attrib.md#toubonbesanc)

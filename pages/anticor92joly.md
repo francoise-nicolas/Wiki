@@ -1,3 +1,4 @@
+![img](../_aux/joly92.png)
 # [Anticor 92 reçoit Eva JOLY — Coût de la corrupion](https://www.anticor.org/2018/06/04/compte-rendu-de-la-conference-debat-la-corruption-un-cout-exorbitant-pour-la-societe-francaise/)
 
 En 2018, Anticor 92 tenait une conférence sur le coût de la corruption, avec pour intervenants:
@@ -511,3 +512,6 @@ Alors, juste, est-ce que vous auriez un dernier mot? Madame Joly? Monsieur GUARR
 
 ## Voir aussi
 ### [Affaire Elf](elf.md)
+
+---
+[Photo](attrib.md#joly92)

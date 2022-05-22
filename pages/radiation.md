@@ -1,3 +1,5 @@
+![image-mise-en-avant](../_aux/MAE_Commons.png)
+
 # [Affaire Françoise NICOLAS](fn.md) — Radiation de la fonction publique
 
 Contestation de la décision du MAE du [2018-07-25](drh.md#radiation).
@@ -250,3 +252,6 @@ EN ATTENTE
 ## Voir aussi
 ### [Mutation](mutation.md)
 ### [Professionel & médical](drh.md)
+
+---
+Photo: [Hôtel du MAE](attrib.md#HotelMAE)

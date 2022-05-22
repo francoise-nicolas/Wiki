@@ -1,3 +1,4 @@
+![image](../_aux/lemediatv.png)
 # [Affaire Françoise NICOLAS](fn.md) — Médias
 
 ## 📜
@@ -41,11 +42,13 @@
 * <a id="quiveutlapeau"></a>[📺 Qui Veut La Peau de Françoise NICOLAS ? — Charles LACROIX](https://www.youtube.com/watch?v=cOagKQBZJ78)
 
 * <a id="kupers">[📺 Souffrance au travail; on lâche rien. — Daniel KUPFERSTEIN avec ASD-PRO](https://www.daniel-kupferstein.com/8-documentaires/261-souffrance-au-travail-on-lache-rien?ml=1)
+    <details><summary>Diffusion</summary>
+    
+    * [Angers, les 400 coups](https://www.les400coups.org/mobile/prochainement.php?film=21060)
+    </detais>
 
 * <a id="jac-K">[📺 Françoise Nicolas, une lanceuse d'alerte dans la Fonction publique d'Etat — Canal JAC-K](https://www.youtube.com/watch?v=Q0k5mT60Fqw)
 
-    <details><summary>Diffusion</summary>
-    
-    🚧
-    </detais>
 
+---
+[Photo](attrib.md#lemediatv)

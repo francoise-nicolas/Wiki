@@ -1,3 +1,5 @@
+![image-mise-en-avant](../_aux/Carlton_Commons.png)
+
 # Procès du Carlon: [jeu des apparences](./corruption.md#japparences)?
 
 ## 📜
@@ -14,3 +16,6 @@
     
     > « C’est bien d’être connu et pour un patron d’avoir accès à la présidence. Eiffage aurait pu proposer notamment des projets comme des PPP ». Toujours selon David Roquet, sa direction était au courant des avantages en natures octroyés à l'accusé, et leur avait même donné son aval. Mais la justice a préféré la qualification de proxénétisme, manifestement plus délicate à établir. 
     </details>
+
+---
+Photo: [Carlton de Lille](attrib.md#Carlton)

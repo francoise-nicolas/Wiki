@@ -6,14 +6,21 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## À propos[🇬🇧](./pages/en.md)[🇫🇷](./pages/fr.md)
 
-## [Sommaire](./pages/README.md)
-### [Affaires](./pages/affaires.md)
+## Sommaire
+### Affaires
 * [Carlton](carlton.md)
 * [Elf](elf.md)
 * [Françoise NICOLAS](fn.md)
 * [Sarah HALIMI](shalimi.md)
-### [Autre](./pages/autre.md)
-### [Thèmes](./pages/themes.md)
+### Autre
+* [Attribution](attrib.md)
+* [Bac à sable](bac-a-sable.md)
+* [En travaux](entravaux.md)
+* [Interaction](interac.md)
+* [Markdown](md.md)
+* [Signalitique](signal.md)
+* [Who's who](whoswho.md)
+### Thèmes
 * [Alternatives](./pages/democralter.md)
 * [Capture de l'état](./pages/capturetat.md)
 * [Contrepouvoirs](./pages/contrepouvoirs.md)

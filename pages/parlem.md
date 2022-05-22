@@ -1,3 +1,5 @@
+![image-mise-en-avant](../_aux/VeR_Commons.png)
+
 # Parlement
 
 ## 📜
@@ -10,3 +12,6 @@
 ### Prolifération législative
 
 > La multiplication des lois, sans chercher à s'assurer de leur efficacité, engendre un désordre législatif préjudiciable. (BADINTER, 2007)
+
+---
+Photo: [Schéma des institutions de la Vè République](attrib.md#VeR)

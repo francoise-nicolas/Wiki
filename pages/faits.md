@@ -534,7 +534,7 @@ Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr N
 </details>
 
 ## Voir aussi
-### [Litiges de droit public](litigesp.md)
+### [Litiges](litiges.md)
 
 ---
 Photo: [SCAC, 2010](attrib.md#scac)

@@ -1,3 +1,4 @@
+![img](Say_no_Commons.png)
 # Corruption
 
 >  « Les élus sont dans leur majorité honnêtes » ~ [Yvonnick DENOËL](#denoel2014histoire)
@@ -74,3 +75,6 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 ## ⚖
 ### <a id="sapin2"></a>Loi Sapin 2
 * [AN](https://www.assemblee-nationale.fr/14/dossiers/transparence_lutte_corruption_economie.asp)
+
+---
+[Photo](attrib.md#sayno)

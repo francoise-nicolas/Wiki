@@ -1,3 +1,4 @@
+![image](blinken_Commons.png)
 # [Affaire Françoise NICOLAS](fn.md) — Département d’état🇺🇸
 
 ## Contexte
@@ -24,3 +25,5 @@ Le département d’état des É.U. a un bureau dédié à la démocratie, aux d
 * [PJ no. 1](../pieces/identifiant/bf8eea58)
 </details>
 
+---
+[Photo](attrib.md#blinken)

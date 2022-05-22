@@ -1,3 +1,4 @@
+![image-mise-en-avant](../_aux/phi.png)
 # [Affaire Françoise NICOLAS](fn.md) — Assemblée Nationale
 
 ## 📜
@@ -20,3 +21,6 @@ La loi du 9 décembre 2016, dite « loi Sapin 2 » a introduit la possibilité p
 
 #### <a id="audition-phi"></a>Audition φ sur les lanceurs d'alerte
 ↳[📁](https://github.com/francoise-nicolas/audition-phi)
+
+---
+[Photo](attrib.md#phi)

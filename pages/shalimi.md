@@ -1,3 +1,4 @@
+![image-mise-en-avant](../_aux/SHdeni_Commons.png)
 # Affaire Sarah HALIMI
 
 > Un rapport qui louvoie et pratique le déni (Nicolas BASTUCK P/ LE POINT, 2022)
@@ -243,4 +244,7 @@ Un gardé à vue qui a su garder ses cartes: 2h30 pour faire une perçée sur le
 > François PUPPONI, député (MODEM) du Val-d’Oise et ancien maire de Sarcelles, lui aussi présent à la conférence de presse, évoque à son tour « toute une liste d’oublis et d’inexactitudes » dans le rapport final, dont la première préconisation est de limiter les pouvoirs des… commissions d’enquête parlementaire. 
 
 </details>
+
+---
+Photo: [Collage de la pte d'Auteuil](attrib.md#SHdeni)
 
