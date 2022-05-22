@@ -33,17 +33,17 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Robe noire](./pages/robenoire.md)
 
 ## Mis en avant
-### [Affaire Françoise NICOLAS](./pages/fn.md)
-#### [Activisme](./pages/activ.md)
+### Affaire Françoise NICOLAS
+#### Activisme
 * [Institutionnel](./pages/instit.md)
 * [Médias](./pages/medias.md)
 * [Tribunes](./pages/tribunes.md)
-#### [Litiges](./pages/litiges.md)
+#### Litiges
 * [Droit️ commun](./pages/litigesc.md)
 * [Droit public](./pages/litigesp.md)
 * [Faits](./pages/faits.md)
 * [Statut LDA](./pages/reqlda.md)
-### [Interaction](./pages/interac.md)
+### Interaction
 * [Contribuer au Wiki](./pages/contrib.md)
 * [Faire un don](./pages/don.md)
 
