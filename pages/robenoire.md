@@ -12,7 +12,7 @@
 * 2007-2012 <a id="lecoq2017justice"></a>2017 [🕮Vincent LE COQ : « Impunités: justice à deux vitesses »](https://www.nouveau-monde.net/catalogue/impunites/)
 
     <details>
-      <summary><a id="nullement"></a>Les magistrats sont de simples exécutants, nullement les décideurs</summary>
+      <summary><a id="nullement"></a>Les magistrats sont de simples exécutants</summary>
     
     > Il existe un profond malentendu entre les justiciables et les magistrats dont s’honore notre pays sur la mission de ces derniers. 
     > Les Français croient que les décisions de justice sont rendues pour rétablir le droit, 
@@ -37,16 +37,36 @@
     >  L’annonce du renvoi d’un ancien président de la République intervient certes à la veille de la primaire à droite, 
     > mais aussi pile au moment où un ancien ministre du Budget doit répondre de fraude fiscale. N’est-ce pas la preuve la plus manifeste de l’indépendance de la justice ?
     </details>
+
+    <details><summary><a id="japparences"></a>Le jeu des apparences</summary>
+
+    > Afin de bénéficier de l’effet de légitimation du droit, le procès pénal d’un homme politique se doit d’épouser strictement les formes d’un procès de droit commun. 
+    > Toutes les phases sont formellement respectées, mais c’est pour mieux pervertir chacune d’elles. Le procès dégénère alors en une forme vide, puisque depuis la coulisse le pouvoir politique a l’entière maîtrise de la procédure pénale.
+    > ([Vincent LE COQ, 2017](./robenoire.md#lecoq2017justice))
     
-    <a id="obstacle-toubon"></a>
-    <details>
-      <summary>Un obstacle nommé Jacques TOUBON</summary>
+    Appellations et variantes:
+    * Procès en pointillé
+    * Jeu de bonneteau
+    * Foire d'empoigne
+    
+    > Toutes les phases sont formellement respectées, mais c’est pour mieux pervertir chacune d’elles. Le procès dégénère alors en une forme vide, puisque depuis la coulisse le pouvoir politique a l’entière maîtrise de la procédure pénale.
+    > Les hommes et femmes politiques ont rapidement compris le tort que font par leur répétition même ces « affaires » à la classe politique dans son ensemble. 
+    > Les naïfs qui ont espéré que la classe politique estimerait nécessaire d’éradiquer la corruption qui sévit à l’état endémique en son sein en seront pour leurs illusions. Les décideurs politiques ont préféré, sur le plan de la communication, nier l’ampleur de la fraude et, sur le plan pratique, se protéger de la justice, au moyen de techniques d’étouffement aujourd’hui éprouvées. L’alliance des deux aboutit à favoriser la perpétuation des mauvaises habitudes et ne peut qu’aggraver la défiance de l’opinion publique vis-à-vis des hommes politiques.
+    </details>
+
+    <details><summary><a id="obstacle-toubon"></a>Un obstacle nommé Jacques TOUBON</summary>
     
     > Précisément au moment où les juges d’instruction français et leurs homologues suisses commençaient à révéler l’existence du recours par les partis politiques à des financements occultes aboutissant sur des comptes en Suisse, le ministre de la Justice Jacques TOUBON s'inquiétait auprès de son homologue suisse, Arnold Koller,  de l’usage « excessivement fréquent » de la procédure d’urgence entre les juges d’instruction français et suisses, qui aurait pour effet «de vider les procédures normales de leur pages » et de porter atteinte au « respect des garanties voulues par la convention au bénéfice des justiciables et des droits de la défense ». « Parvenue en Suisse, la lettre surprend et atterrit – miraculeusement – sur le bureau d’un journaliste qui la publie le lendemain.»
     <!-- La correspondance de Jacques TOUBON est d’autant plus consternante que la France s’est, à l’exemple de la convention de Schengen signée le 19 juin 1990, depuis plusieurs années et dans un souci de simplification des procédures, orientée vers un progressif abandon de la voie ministérielle. Louée et vantée par les différents gouvernements lorsqu’il s’agit de lutter contre l’immigration clandestine, la coopération judiciaire internationale est moins prisée s’agissant de la lutte contre la délinquance en col blanc. -->
     > C’est la revendication explicite d’une justice à deux vitesses qui est tout entière pagese dans la missive de Jacques TOUBON du 4 août 1995.
     > Jacques TOUBON a été nommé par François HOLLANDE défenseur des droits. En cette qualité, il a exprimé son inquiétude au lendemain de la première prolongation de l’état d’urgence. Si les Français l’ignorent peut-être, l’Élysée sait qu’il s’agit seulement d’un jeu de rôle. 
     </details>
+
+<!-- 
+
+En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-en-Provence aurait financé une partie de la villa de son beau-père, située sur les hauteurs de Saint-Antonin-sur-Bayon, avec l'argent de la municipalité. Le couple Joissains dénonce alors une brigue « politico-médiatique » menée par le clan du maire de Marseille et ministre de l'Intérieur de l'époque, Gaston Defferre. Alain Joissains a été condamné à deux ans de prison avec sursis pour « recel d’abus de biens sociaux » À la suite de la victoire de son épouse, Maryse Joissains-Masini, aux élections municipales de 2001, il est nommé directeur de cabinet du maire d'Aix-en-Provence. Fin 2008, Alain Joissains prend sa retraite, conséquence de l'annulation de son contrat par le tribunal administratif de Marseille pour rémunération excessive. Le 31 décembre 2001, Maryse Joissains-Masini est nommée chevalier dans l'ordre national de la Légion d'honneur pour ses 31 ans d'activités professionnelles et de fonctions électives. En 2020, elle a été condamnée par la Cour d'appel de Montpellier sur renvoi de la Cour de cassation après une première condamnation. Leur fille, Sophie Joissains, est adjointe au maire d'Aix-en-Provence et sénatrice des Bouches-du-Rhône depuis octobre 2008. 
+
+-->
 
 * <a id="lacan2018magis"></a>🕮Jean-François LACAN et Jehanne COLLARD, [« Ces magistrats qui tuent la justice »](https://www.albin-michel.fr/ces-magistrats-qui-tuent-la-justice-9782226330871)
 
@@ -113,7 +133,7 @@
 
 * <a id="bienv2021magistrats"></a>[Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
 
-### Voir aussi
+### 🌐
 * [Déni de justice—pour une réforme de la justice](https://denidejustice.wordpress.com/)
 
 ---
