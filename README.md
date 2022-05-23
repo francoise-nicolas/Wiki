@@ -33,7 +33,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Robe noire](./pages/robenoire.md)
 
 ## Mis en avant
-### Affaire Françoise NICOLAS
+### Affaire NICOLAS
 #### <a id="activisme"></a>Activisme
 * [Institutionnel](./pages/instit.md)
 * [Médias](./pages/medias.md)
@@ -43,10 +43,12 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Droit public](./pages/litigesp.md)
 * [Faits](./pages/faits.md)
 * [Statut LDA](./pages/reqlda.md)
-### <a id="interact"></a>Interaction
+
+### Autre
+#### <a id="interact"></a>Interaction
 * [Contribuer au Wiki](./pages/contrib.md)
 * [Faire un don](./pages/don.md)
 
-## <a id="voiraussi"></a>🌐
+### <a id="voiraussi"></a>🌐
 * [Twitter](https://twitter.com/FranoiseNicolas)
 * [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
