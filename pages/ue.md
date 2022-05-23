@@ -1,4 +1,4 @@
-
+![img](facadeberlay.png)
 # [Union Européenne](internat.md#ue)
 
 <!--
@@ -53,3 +53,6 @@ Saisine de DG Justice & Consommateurs sur la directive LDA
     * Signé: [Ingrid BELLANDER TODINO](whoswho.md#bellander)
     * [document](../pieces/identifiant/114d5f23)
     </details>
+
+---
+[Photo](attrib.md#facedeberlay)

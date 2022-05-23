@@ -39,7 +39,7 @@ Pour chaque entrée,
 ### <a id="freespeech"></a> Free Speech Flag, protesting the suppression of an HD-DVD encryption key 
 * [source](https://commons.wikimedia.org/wiki/File:Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg)
 
-### <a id="freespeech"></a> Secretary of State Antony Blinken delivers remarks with President Joe Biden and Vice President Kamala Harris at the State Department headquarters, February 2021
+### <a id="blinken"></a> Secretary of State Antony Blinken delivers remarks with President Joe Biden and Vice President Kamala Harris at the State Department headquarters, February 2021
 * [source](https://commons.wikimedia.org/wiki/File:Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg)
 
 ### <a id="sayno"></a> Say no to bribes (probably in Chipata), Zambia
@@ -53,6 +53,9 @@ Pour chaque entrée,
 
 ### <a id="ric"></a> Référundum d'initiative citoyenne, Gilets jaunes. 
 * [source](https://commons.wikimedia.org/wiki/File:RIC_CARL.jpg)
+
+### <a id="ric"></a> Colonne de drapeaux devant la commission européenne à Bruxelles
+* [source](https://commons.wikimedia.org/wiki/File:Drapeaux_devant_la_commission_europ%C3%A9enne.jpg)
 
 ## Autre
 
