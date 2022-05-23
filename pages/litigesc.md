@@ -1,4 +1,4 @@
-[image-mise-en-avant](../_aux/assises_Commons.png)
+![image-mise-en-avant](../_aux/assises_Commons.png)
 
 # [Affaire Françoise NICOLAS](fn.md) — Litiges de droit commun
 

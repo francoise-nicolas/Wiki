@@ -1,4 +1,4 @@
-![img](../_aux/HotelMAE.png)
+![img](../_aux/MAE_Commons.png)
 # Quai d'Orsay - Françafrique
 
 ## 📚
