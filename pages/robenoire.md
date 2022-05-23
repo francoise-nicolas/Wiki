@@ -1,3 +1,4 @@
+![image-mise-en-avant](../_aux/assises_Commons.png)
 # Robe noire
 
 > Le droit est, en fait, pénétré du secret, puisque sa matrice, l’État, est elle-même fondée sur celui-ci. Le secret prend alors la forme de la Raison d’État. 
@@ -114,3 +115,7 @@
 
 ### Voir aussi
 * [Déni de justice—pour une réforme de la justice](https://denidejustice.wordpress.com/)
+
+---
+[Photo](attrib#assises)
+
