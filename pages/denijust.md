@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/yvani_Commons.png)
+![image-mise-en-avant](../_aux/yvan_Commons.png)
 
 # Déni de justice
 
