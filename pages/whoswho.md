@@ -110,21 +110,7 @@ Backlinks
 ##### <a id="toubon"></a>Jacques TOUBON
 <details><summary>Fiche</summary>
 
-🚧
-</details>
-
-<details>
-  <summary>4è congrès éthique — Rencontre avec Françoise NICOLAS </summary>
-
-* Date: 2018-03-30
-* [Congrès](../pieces/identifiant/e1b9d831)
-* [Minutes](../pieces/identifiant/17dee7ea)
-</details>
-
-<details>
-  <summary>Dans la presse</summary>
-
-* Dans Libé, en 2019: [« Jacques TOUBON: fin de mandat d'un défenseur des droits inespéreé »](https://www.liberation.fr/france/2020/06/30/jacques-toubon-fin-de-mandat-d-un-defenseur-inespere_1792944/)
+* [Wikipedia](https://en.wikipedia.org/wiki/Jacques_Toubon)
 </details>
 
 ---

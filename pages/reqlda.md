@@ -1,11 +1,14 @@
 # [Affaire Françoise NICOLAS](fn.md) — Statut de lanceur d'alerte (et connexe)
 
-Mes démarche en ce sens ont essentiellement été faites devant le Défenseur des droits où se sont succédées à sa tête, [Jacques TOUBON](whoswho#toubon) et [Claire HÉDON](whoswho#hedon)
+Requête devant le Défenseur des droits.
 
 ## 📜
 ### 2013-02-26 
+<details>
+  <summary>Info</summary>
 
-26/02/2013
+* piece 🚧
+</details>
 
 ### 2016-11-05 — DDD — Rejet
 <details>
@@ -79,12 +82,18 @@ Mes démarche en ce sens ont essentiellement été faites devant le Défenseur d
 * [piece](../pieces/identifiant/5d6695f2)
 </details>
 
-## ⚖️
-### <a id="loidefdroits"></a>2011 [Loi organique du 29 mars relative au défenseur des droits](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023781167/2022-02-16/)
-* Article 🚧 : le Défenseur des droits ne peut remettre en cause une décision juridictionnelle. 
+## Autre
+<details>
+  <summary>4è congrès éthique — Rencontre avec Jacques TOUBON </summary>
+
+* Date: 2018-03-30
+* [Congrès](../pieces/identifiant/e1b9d831)
+* [Minutes](../pieces/identifiant/17dee7ea)
+</details>
 
 ## Voir aussi
+* [Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)
+* [Défenseur des Droits](ddd.md)
 * [Jacques TOUBON](whoswho.md#toubon)
 * [Claire HÉDON](whoswho.md#hedon)
-* [Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)
 

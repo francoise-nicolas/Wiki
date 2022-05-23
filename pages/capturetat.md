@@ -1,4 +1,4 @@
-![img](../_aux/crrfy.png)
+![img](../_aux/crrfy_Commons.png)
 # Capture de l'état
 
 > Qui sont les plus grandes fortunes de France ? Celles de la grande distribution.~[Vincent LE COQ](whoswho#lecoq)

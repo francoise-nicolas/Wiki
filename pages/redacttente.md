@@ -3,5 +3,5 @@
 ## Élements de page
 
 ## Page à part
-
-* [Denis Bréteau devant l'AN](breteau.md)
+* [Denis Bréteau](breteau.md)
+* [Boniface reçoit Joly](jolyboniface.md)
