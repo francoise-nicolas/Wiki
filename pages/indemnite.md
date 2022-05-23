@@ -1,6 +1,6 @@
 # [Affaire Françoise NICOLAS](fn.md) — Indemnité
 
-Contestation du [rejet implicite du MAE](promed.md#indemnrejet) du 2010-12-15 de recours indemnitaire présenté le 2010-10-11.
+Contestation du [rejet implicite du MAE](faits.md#indemnrejet) du 2010-12-15 de recours indemnitaire présenté le 2010-10-11.
 
 ## 📜
 
