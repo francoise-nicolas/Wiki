@@ -79,8 +79,8 @@
 * <a id="trevert2014ronsin"></a>[Xavier RONSIN: L'École nationale de la magistrature n'est pas une fabrique à robots!](https://www.lepoint.fr/societe/xavier-ronsin-l-ecole-nationale-de-la-magistrature-n-est-pas-une-fabrique-a-robots-26-03-2014-1805656_23.php)
 
 * <a id="carage2015demontg"></a>[DE MONTGOLFIER, pas un pigeon](https://www.ledauphine.com/ardeche/2015/02/02/de-montgolfier-pas-un-pigeon)
-> Pour enrayer cette corruption, Éric DE MONTGOLFIER souhaite simplifier les règles « trop complexes » de la justice. 
-> « Ceux qui ont le pouvoir veulent le conserver, et rendent la justice occulte. » Pour lui, la population doit « se sortir de cette position de pigeon, sans toutefois devenir un aigle »
+    > Pour enrayer cette corruption, Éric DE MONTGOLFIER souhaite simplifier les règles « trop complexes » de la justice. 
+    > « Ceux qui ont le pouvoir veulent le conserver, et rendent la justice occulte. » Pour lui, la population doit « se sortir de cette position de pigeon, sans toutefois devenir un aigle »
 
 * <a id="demontg2016independ"></a>[Éric DE MONTGOLFIER - L'indépendance des juges, cette Arlésienne de la République](https://www.lepoint.fr/invites-du-point/eric-de-montgolfier/de-montgolfier-l-independance-des-juges-cette-arlesienne-de-la-republique-02-04-2016-2029548_1451.php)
 
