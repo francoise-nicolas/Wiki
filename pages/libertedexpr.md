@@ -63,4 +63,4 @@ le juge peut, méme en référé, ordonner l’insertion dans la publication con
 ### <a id="covidpresse"></a> 2020 [Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)
 
 --- 
-Photo: [Drapeau de la LdE](attrib.md#freepseech)
+[Photo](attrib.md#freepseech)

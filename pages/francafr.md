@@ -1,3 +1,4 @@
+![img](../_aux/francafr.png)
 # Quai d'Orsay - Françafrique
 
 # 📚
@@ -16,3 +17,6 @@
 #### <a id="HRWfrance"></a> 2020 [Human Rights Watch: La France à la traîne au Conseil des droits de l'homme des Nations Unies](https://www.hrw.org/fr/news/2020/10/08/la-france-la-traine-au-conseil-des-droits-de-lhomme-des-nations-unies)
 
 #### <a id="borrel2021empire"></a>2021 🕮[Thomas BORREL : L'empire qui ne veut pas mourir—Une histoire de la Françafrique](https://www.seuil.com/ouvrage/l-empire-qui-ne-veut-pas-mourir-collectif/9782021464160)
+
+---
+[Photo](attrib.md#francafr)

@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/assises_Commons.png)
+![image-mise-en-avant](../_aux/scac2010.png)
 # [Affaire Françoise NICOLAS](fn.md) — Plainte c. APLOGAN
 
 ## 📜
@@ -101,4 +101,4 @@
 * [Professionnel & médical](drh.md)
 
 ---
-[Photo](attrib.md#assises)
+[Photo](attrib.md#scac)

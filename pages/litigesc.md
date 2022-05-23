@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/assises_Commons.png)
+(../_aux/![image-mise-en-avant](../_aux/assises_Commons.png)
 
 # [Affaire Françoise NICOLAS](fn.md) — Litiges de droit commun
 
@@ -6,4 +6,4 @@
 * [Plainte de BESANCENOT](./besanc.md)
 
 ---
-Photo: [Assises du parlement de Bretagne](attrib#assises)
+[Photo](attrib#assises)

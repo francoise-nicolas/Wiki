@@ -8,7 +8,7 @@
 ### 1995-2002
 * [CE: le droit souple](https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000280.pdf)
 
-## 📜
+## 📰
 
 #### 2002-2017
 * <a id="badinter2007therapie"></a>2007 [Robert BADINTER : "Ne pas confondre justice et thérapie"](https://www.lemonde.fr/societe/article/2007/09/08/robert-badinter-ne-pas-confondre-justice-et-therapie_952825_3224.html)

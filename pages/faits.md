@@ -1,4 +1,4 @@
-![image](../_aux/scac2010.png)
+![image](../_aux/mae.png)
 
 # [Affaire Françoise NICOLAS](fn.md) — Faits
 
@@ -537,4 +537,4 @@ Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr N
 ### [Litiges](litiges.md)
 
 ---
-Photo: [SCAC, 2010](attrib.md#scac)
+[Photo](attrib.md#HotelMAE)

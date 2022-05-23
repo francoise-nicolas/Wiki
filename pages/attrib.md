@@ -78,3 +78,6 @@ Pour chaque entrée,
 
 * <a id="lemediatv"></a> [Jacques TOUBON](whoswho#toubon) et [Hervé BESANCENOT](whoswho#toubon), en 2018
     * [source](https://twitter.com/FranoiseNicolas/status/1524654704478806017)
+
+* <a id="francafr"></a> Drapeau de la Françafrique
+    * [source](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Freseauinternational.net%2Fwp-content%2Fuploads%2F2014%2F02%2Fdrapeau-fr-1728x800_c.jpg&f=1&nofb=1)

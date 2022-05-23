@@ -10,10 +10,8 @@
 > le Défenseur des droits ne peut remettre en cause une décision juridictionnelle. 
 
 ## 📁
-### [Françoise NICOLAS](reqlda.md)
-
-## Voir aussi
-* [Denis Bréteau devant l'AN](breteau.md)
+* [Françoise NICOLAS (statut LDA)](reqlda.md)
+* [Denis BRÉTEAU](breteau.md)
+* [Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)
 * [Jacques TOUBON](whoswho.md#toubon)
 * [Claire HÉDON](whoswho.md#hedon)
-* [Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)

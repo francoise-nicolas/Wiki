@@ -1,5 +1,5 @@
 ![image-mise-en-avant](../_aux/phi.png)
-# [Affaire Françoise NICOLAS](fn.md) — Activisme institutionnel
+# [Affaire Françoise NICOLAS](fn.md) — Institutions
 
 Actions de Françoise NICOLAS auprès d'institutions en faveur de l'état de droit.
 

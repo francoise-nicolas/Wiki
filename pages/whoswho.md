@@ -92,6 +92,13 @@ Backlinks
 
 -->
 
+### P
+#### <a id="kroth"></a>Jacques PEZET
+<details><summary>Fiche</summary>
+
+[Libé](https://www.liberation.fr/auteur/jacques-pezet/)
+</details>
+
 ### R
 ##### <a id="kroth"></a>Kenneth ROTH🇺🇸
 <details><summary>Fiche</summary>

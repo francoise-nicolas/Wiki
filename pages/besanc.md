@@ -1,4 +1,4 @@
-![img](./_aux/toubonbesanc.png)
+![img](../_aux/toubonbesanc.png)
 # [Affaire Françoise NICOLAS](fn.md) — Citation de SOUQUIÈRE & [BESANCENOT](./whoswho#besanc)
 
 ## 📜
