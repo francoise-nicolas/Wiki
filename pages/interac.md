@@ -1,3 +1,3 @@
 # Interaction
-* [Contribuer au Wiki](./pages/contrib.md)
-* [Faire un don](./pages/don.md)
+* [Contribuer au Wiki](./contrib.md)
+* [Faire un don](./don.md)

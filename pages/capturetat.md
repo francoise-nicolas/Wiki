@@ -27,9 +27,6 @@
     </details>
 
 ### 2012-2017
-* <a id="deputesmed"></a>[Les députés médecins, enquête dans un petit monde](https://www.lexpress.fr/actualite/politique/les-deputes-medecins-enquete-dans-un-petit-monde_1288775.html?utm_source=pocket_mylist)
-
-* <a id="garconelite"></a> [Des élites fondamentalement féodales et de surcroît incompétentes » - Entretien avec Dr. François Garçon](https://www.linkedin.com/pulse/des-%C3%A9lites-fondamentalement-f%C3%A9odales-et-de-surcro%C3%AEt-fiorina)
 
 ### <a id="lecoq2017vichy"></a>2017 [🕮De Vincent LE COQ, les notaires sous l'occupation](https://www.tribunejuive.info/2017/10/17/shoah-les-notaires-spoliateurs-des-biens-juifs/)
 
@@ -1137,7 +1134,7 @@ La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée 
 
 </details>
 
-## 📜
+## 📰
 
 ### 1995-2002
 
@@ -1149,6 +1146,7 @@ La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée 
     </details>
 
 ### 2012-2017
+* <a id="deputesmed"></a>[Les députés médecins, enquête dans un petit monde](https://www.lexpress.fr/actualite/politique/les-deputes-medecins-enquete-dans-un-petit-monde_1288775.html?utm_source=pocket_mylist)
 
 * <a id="bercychoc"><a> [Les Échos — Professions réglementées : le rapport choc de Bercy](https://www.lesechos.fr/2014/07/professions-reglementees-le-rapport-choc-de-bercy-306721)
 
@@ -1158,6 +1156,8 @@ La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée 
     
      Plus grave peut-être, le service au client, souvent mis en avant par certaines professions réglementées pour justifier leur niveau de prix, est sérieusement remis en cause par les utilisateurs. D’après un sondage réalisé par l’IGF, un Français sur deux a déjà eu recours à un avocat mais seulement 23 % d’entre deux estiment que le service est de qualité. Pour les administrateurs et mandataires judiciaires, le nombre des clients insatisfait grimpe à plus d’un sur deux.
     </details>
+
+* <a id="garconelite"></a> [Des élites fondamentalement féodales et de surcroît incompétentes » - Entretien avec Dr. François Garçon](https://www.linkedin.com/pulse/des-%C3%A9lites-fondamentalement-f%C3%A9odales-et-de-surcro%C3%AEt-fiorina)
 
 ### 2017-2022
 

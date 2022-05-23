@@ -3,10 +3,10 @@
 ## Liste
 
 | Symbol | Signification | 
-|++++++++|+++++++++++++++|
+|--------|---------------|
 | 📚     | Bibliographie |
-| 📜     | Chron -ique -ologie |
-| 📁 | Dossier|
+| 📜     | Chronique     |
+| 📁      | Dossier|
 | 📺 | Média télévisuel |
 | ⚖      | Droit         | 
 | 🚧     | En travaux  |

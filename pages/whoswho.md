@@ -130,6 +130,6 @@ Backlinks
 ---
 
 <details>
-  <summary>🚧 En attente</summary>
+  <summary>En attente🚧</summary>
 
 </details>
