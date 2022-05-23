@@ -1166,7 +1166,7 @@ La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée 
 
 * <a id="omsyndic"></a>[Des syndicats de patients demandent la suppression de l'ordre des médecins](https://www.ouest-france.fr/sante/des-syndicats-et-patients-demandent-la-dissolution-de-l-ordre-des-medecins-7180685)
 
-## Voir aussi
+## 🌐
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
 
 ---

@@ -7,10 +7,13 @@
 | 📚     | Bibliographie |
 | 📜     | Chronique     |
 | 📁      | Dossier|
-| 📺 | Média télévisuel |
+| 🌐 | Internet |
+| 📺 | Média |
 | ⚖      | Droit         | 
 | 🚧     | En travaux  |
 | 📰 Presse |
 | 🕮 | Livre |
-|📢 | Prise de parole |
+| 🗣️ | Parle |
+|📢 | Alerte |
 | ↳ | Renvoi |
+

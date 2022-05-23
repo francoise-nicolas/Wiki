@@ -47,6 +47,6 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Contribuer au Wiki](./pages/contrib.md)
 * [Faire un don](./pages/don.md)
 
-## <a id="voiraussi"></a>Voir aussi
+## <a id="voiraussi"></a>🌐
 * [Twitter](https://twitter.com/FranoiseNicolas)
 * [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
