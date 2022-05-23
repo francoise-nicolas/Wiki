@@ -29,7 +29,7 @@
 
 ### 2012-2017
 
-### <a id="lecoq2017vichy"></a>2017 [🕮De Vincent LE COQ, les notaires sous l'occupation](https://www.tribunejuive.info/2017/10/17/shoah-les-notaires-spoliateurs-des-biens-juifs/)
+### <a id="lecoq2017vichy"></a>[🕮Vincent LE COQ: les notaires sous l'occupation](https://www.tribunejuive.info/2017/10/17/shoah-les-notaires-spoliateurs-des-biens-juifs/)
 
 <details><summary>Aperçu Amazon</summary>
 
@@ -1164,9 +1164,7 @@ La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée 
 
 * <a id="tourbe2019ordre"></a>[Abus sexuels non sanctionnés, erreurs dans les comptes: ce rapport qui accable l'ordre des médecins](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
 
-* [Euractiv: Court confirms 🇪🇺 illegally relaxed diesel emission rules](https://euobserver.com/green-economy/143697)
-
-* [Euractiv: Coca-Cola’s 🇪🇺 Council sponsorship raises eyebrows](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
+* <a id="omsyndic"></a>[Des syndicats de patients demandent la suppression de l'ordre des médecins](https://www.ouest-france.fr/sante/des-syndicats-et-patients-demandent-la-dissolution-de-l-ordre-des-medecins-7180685)
 
 ## Voir aussi
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).

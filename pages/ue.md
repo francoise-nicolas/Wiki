@@ -1,11 +1,13 @@
 ![img](../_aux/facadeberlay_Commons.png)
 # [Union Européenne](internat.md#ue)
 
-<!--
 
-## 📜
+## 📰
+### 2017-2022
 
--->
+* [Euractiv: Court confirms 🇪🇺 illegally relaxed diesel emission rules](https://euobserver.com/green-economy/143697)
+
+* [Euractiv: Coca-Cola’s 🇪🇺 Council sponsorship raises eyebrows](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
 
 ## ⚖️
 * Porter plainte
