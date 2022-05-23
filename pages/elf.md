@@ -1,4 +1,5 @@
-# Affaire Elf : [procès en pointillé](./corruption.md#japparences)?
+![img](../_aux/pointilles.png)
+# Affaire Elf
 
 ## Synthèse
 

@@ -1,8 +1,8 @@
 ![image-mise-en-avant](../_aux/Carlton_Commons.png)
 
-# Procès du Carlon: [jeu des apparences](./corruption.md#japparences)?
+# Procès du Carlon
 
-## 📜
+## 📰
 
 ### 2012-2017
 
@@ -18,4 +18,4 @@
     </details>
 
 ---
-Photo: [Carlton de Lille](attrib.md#Carlton)
+[Photo](attrib.md#carlton)

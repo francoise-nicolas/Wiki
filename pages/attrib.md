@@ -13,7 +13,7 @@ Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas.
 * <a id="lbd"></a> Un homme prêt à tirer avec un LBD 40 (LL06) en 2009.
     * [source](https://upload.wikimedia.org/wikipedia/commons/c/c2/Alternative_libertaire_mensuel_(24559402402)_(cropped).jpg)
 
-* <a id="Carlton"></a> Photo façade Carlton
+* <a id="carlton"></a> Photo façade Carlton
     * [source](https://commons.wikimedia.org/wiki/File:Bellefa%C3%A7adecarlton.jpg)
 
 * <a id="assises"></a> Assises du parlement de Bretagne
