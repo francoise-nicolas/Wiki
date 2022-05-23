@@ -261,10 +261,10 @@ Le magistrat instructeur de cette affaire devenue eurodéputée EELV a fait figu
 ### 2007-2012 
 * [Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
 
-<details><summary>🚧 </summary>
-
-Synthèse
-</details>
+   <details><summary>Synthèse </summary>
+   
+   🚧
+   </details>
 
 ### 2012-2017
 * [Impunités de Vincent LE COQ](./robenoire.md#vlcj2v)
@@ -328,7 +328,7 @@ Synthèse
 
 * [Thierry JEAN-PIERRE à Thierry ARDISON : « L'affaire [Elf] aurait dû être une grosse affaire si elle avait été à son terme »](https://www.ina.fr/video/I09006953)
 
-* [Sur France INTER : quand l’instruction éclabousse la classe politique](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-29-octobre-2019)
+* [Sur France Inter : quand l’instruction éclabousse la classe politique](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-29-octobre-2019)
 
     <details><summary>Verbatim 🚧 </summary>
     
