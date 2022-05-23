@@ -1,5 +1,5 @@
 ![img](../_aux/crrfy_Commons.png)
-# Capture de l'état
+# Corporatisme
 
 > Qui sont les plus grandes fortunes de France ? Celles de la grande distribution.~[Vincent LE COQ](whoswho#lecoq)
 

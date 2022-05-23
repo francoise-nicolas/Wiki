@@ -9,7 +9,12 @@
 ### 2002-2007
 * <a id="halphen2002sept"></a> [🕮Eric HALPHEN: Sept ans de solitude](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-documents/Sept-ans-de-solitude)
 
-* 2007-2012 <a id="lecoq2017justice"></a>2017 [🕮Vincent LE COQ : « Impunités: justice à deux vitesses »](https://www.nouveau-monde.net/catalogue/impunites/)
+### 2012-2017
+
+* <a id="demontg2014morale"></a>[🕮Éric DE MONTGOLFIER: Une morale pour les aigles, une autre pour les pigeons](http://michel-lafon.fr/livre/1450-Une_morale_pour_les_aigles_une_autre_pour_les_pigeons.html)
+
+### 2017-2022
+* <a id="lecoq2017justice"></a>[🕮Vincent LE COQ : Impunités: justice à deux vitesses](https://www.nouveau-monde.net/catalogue/impunites/)
 
     <details>
       <summary><a id="nullement"></a>Les magistrats sont de simples exécutants</summary>
@@ -68,11 +73,9 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 -->
 
-* <a id="lacan2018magis"></a>🕮Jean-François LACAN et Jehanne COLLARD, [« Ces magistrats qui tuent la justice »](https://www.albin-michel.fr/ces-magistrats-qui-tuent-la-justice-9782226330871)
+* <a id="lacan2018magis"></a>🕮Jean-François LACAN et Jehanne COLLARD: [ Ces magistrats qui tuent la justice](https://www.albin-michel.fr/ces-magistrats-qui-tuent-la-justice-9782226330871)
 
 * <a id="pardo2018superch"></a>🕮Ernest PARDO, [La supercherie judiciaire: de la criminalité en col blanc à la criminalité en robe noire](https://www.unanymous.fr/post/6-ways-to-use-instagram-for-ecommerce-marketing)
-
-### 2017-2022
 
 * <a id="an-xv-3696"></a>[Rapport AN no. 3296: Obstacles à lindépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
    <details><summary>Information</summary>
@@ -94,7 +97,6 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     > Jusqu'au 17  janvier, Laurent Lèguevaque était juge d'instruction à Tours. En démissionnant, fait très rare dans la magistrature, ce franc-tireur de 38  ans entend dénoncer les raideurs du monde judiciaire. 
 
 ### 2007-2012
-* <a id="demontg2014morale"></a>🕮Éric DE MONTGOLFIER: [« Une morale pour les aigles, une autre pour les pigeons »](http://michel-lafon.fr/livre/1450-Une_morale_pour_les_aigles_une_autre_pour_les_pigeons.html)
 
 * <a id="trevert2014ronsin"></a>[Xavier RONSIN: L'École nationale de la magistrature n'est pas une fabrique à robots!](https://www.lepoint.fr/societe/xavier-ronsin-l-ecole-nationale-de-la-magistrature-n-est-pas-une-fabrique-a-robots-26-03-2014-1805656_23.php)
 

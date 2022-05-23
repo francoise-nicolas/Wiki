@@ -22,13 +22,14 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Who's who](./pages/whoswho.md)
 ### <a id="themes"></a>Thèmes
 * [Alternatives](./pages/democralter.md)
-* [Capture de l'état](./pages/capturetat.md)
 * [Contrepouvoirs](./pages/contrepouv.md)
+* [Corporatisme](./pages/capturetat.md)
 * [Corruption](./pages/corruption.md)
 * [Déni de justice](./pages/denijust.md)
 * [État policier](./pages/etat-policier.md)
 * [International](./pages/internat.md)
 * [Liberté d'expression](./pages/libertedexpr.md)
+* [Manipulation](./pages/manip.md)
 * [Quai d'Orsay, Françafrique](./pages/francafr.md)
 * [Robe noire](./pages/robenoire.md)
 

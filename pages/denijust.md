@@ -19,6 +19,8 @@
 
 ### 2017-2022
 
+* [L'Express: Amiante : "Nous atteindrons bientôt 100 000 morts, mais il n'y a aucun responsable"](https://www.lexpress.fr/actualite/societe/justice/amiante-nous-atteindrons-bientot-100-000-morts-mais-il-n-y-a-aucun-responsable_2091344.html)
+
 ## 📁
 * [Sarah HALIMI : « un rapport qui louvoie »](shalimi.md)
 

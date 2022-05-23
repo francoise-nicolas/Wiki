@@ -1,4 +1,4 @@
-![img](../_aux/MAE_Commons.png)
+1![img](../_aux/MAE_Commons.png)
 # Quai d'Orsay - Françafrique
 
 ## 📚
@@ -15,7 +15,7 @@
 
 * <a id="borrel2021empire"></a> 🕮[Thomas BORREL : L'empire qui ne veut pas mourir—Une histoire de la Françafrique](https://www.seuil.com/ouvrage/l-empire-qui-ne-veut-pas-mourir-collectif/9782021464160)
 
-* <a id="jauvert2016face"></a>2016 🕮[Vincent JAUVERT : La Face cachée du Quai d'Orsay](https://www.lisez.com/livre-grand-format/la-face-cachee-du-quai-dorsay/9782221157046)
+* <a id="jauvert2016face"></a>🕮[Vincent JAUVERT : La Face cachée du Quai d'Orsay](https://www.lisez.com/livre-grand-format/la-face-cachee-du-quai-dorsay/9782221157046)
 
 ## 📰
 
