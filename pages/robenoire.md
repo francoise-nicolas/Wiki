@@ -70,6 +70,7 @@
 
 ### 2002-2007 
 * [Un juge s'en va](https://www.lemonde.fr/archives/article/2005/01/29/un-juge-s-en-va_396132_1819218.html)
+
     > Jusqu'au 17  janvier, Laurent Lèguevaque était juge d'instruction à Tours. En démissionnant, fait très rare dans la magistrature, ce franc-tireur de 38  ans entend dénoncer les raideurs du monde judiciaire. 
 
 ### 2007-2012
