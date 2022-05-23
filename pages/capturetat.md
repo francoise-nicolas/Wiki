@@ -1,3 +1,4 @@
+![img](../_aux/crrfy.png)
 # Capture de l'état
 
 > Qui sont les plus grandes fortunes de France ? Celles de la grande distribution.~[Vincent LE COQ](whoswho#lecoq)
@@ -1169,3 +1170,6 @@ La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée 
 
 ## Voir aussi
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
+
+---
+[Photo](attrib.md#crrfy)
