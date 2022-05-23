@@ -5,7 +5,7 @@
 ## My story
 
 I had been an agent of the central administration of the Quai d'Orsay for 8 years,
-when I [was appointed on merit, to a position at the French Embassy in Western Africa](./drh.md#RAINERI-RAUGEL),
+when I [was appointed on merit, to a position at the French Embassy in Western Africa](./faits.md#RAINERI-RAUGEL),
 at a time when [Hervé BESANCENOT](./whoswho.md#besanc) was at its head.
 I raised doubts about the accounting for the allocation of scholarships under my responsibility, which earned me pressure.
 
@@ -17,7 +17,7 @@ This trial was marked by anomalies [whose systemic character are well documented
 The appeal is on hold.
 
 Repatriated against my will, I was professionally sidelined,
-which triggered a [cascade of health crises](./drh.md#a999fcb2).
+which triggered a [cascade of health crises](./faits.md#a999fcb2).
 In 2018, [I was terminated](./deregistration.md). In parallel,
 the MAE has systematically rejected my requests initiated in 2013,
 to be granted [statutory protection](./pf.md). The head of human resources was then [Nathalie LOISEAU](./whoswho.md#loiseau).
