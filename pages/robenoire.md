@@ -49,13 +49,13 @@
 > Jacques TOUBON a été nommé par François HOLLANDE défenseur des droits. En cette qualité, il a exprimé son inquiétude au lendemain de la première prolongation de l’état d’urgence. Si les Français l’ignorent peut-être, l’Élysée sait qu’il s’agit seulement d’un jeu de rôle. 
 </details>
 
-#### <a id="lacan2018magis"></a>🕮Jean-François LACAN et Jehanne COLLARD, [« Ces magistrats qui tuent la justice »](https://www.albin-michel.fr/ces-magistrats-qui-tuent-la-justice-9782226330871)
+* <a id="lacan2018magis"></a>🕮Jean-François LACAN et Jehanne COLLARD, [« Ces magistrats qui tuent la justice »](https://www.albin-michel.fr/ces-magistrats-qui-tuent-la-justice-9782226330871)
 
-#### <a id="pardo2018superch"></a>🕮Ernest PARDO, [La supercherie judiciaire: de la criminalité en col blanc à la criminalité en robe noire](https://www.unanymous.fr/post/6-ways-to-use-instagram-for-ecommerce-marketing)
+* <a id="pardo2018superch"></a>🕮Ernest PARDO, [La supercherie judiciaire: de la criminalité en col blanc à la criminalité en robe noire](https://www.unanymous.fr/post/6-ways-to-use-instagram-for-ecommerce-marketing)
 
 ### 2017-2022
 
-#### <a id="an-xv-3696"></a>[Rapport AN no. 3296: Obstacles à lindépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
+* <a id="an-xv-3696"></a>[Rapport AN no. 3296: Obstacles à lindépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
 <details><summary>Information</summary>
 
 * Date: 2021-10-07
@@ -67,9 +67,7 @@
 * Recommendation clé: aligner le statut du parquet sur celui du siège
 </details>
 
-#### <a id="bienv2021magistrats"></a>[Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
-
-## 📜
+## 📰
 
 ### 2002-2007 
 * [Un juge s'en va](https://www.lemonde.fr/archives/article/2005/01/29/un-juge-s-en-va_396132_1819218.html)
@@ -112,6 +110,8 @@
     > La justice sera toujours aux prises d’injonctions contradictoires, accusée tour à tour d’être trop expéditive ou trop lente, trop sévère ou laxiste. Peut-être parce qu’elle ne donne jamais complètement raison à tout le monde.~Jean-François THONY
 
 * <a id="morettimalbec"></a>[Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
+
+* <a id="bienv2021magistrats"></a>[Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
 
 ### Voir aussi
 * [Déni de justice—pour une réforme de la justice](https://denidejustice.wordpress.com/)
