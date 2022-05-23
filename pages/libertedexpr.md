@@ -1,4 +1,4 @@
-![image](../aux/freespeech_Commons.png)
+![image](../_aux/freespeech_Commons.png)
 # Liberté d'expression
 
 ## 📚
