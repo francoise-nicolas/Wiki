@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/theatr.png)
+![image-mise-en-avant](../_aux/theatr_Commons.png)
 
 # Procès du Carlon
 
