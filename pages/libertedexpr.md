@@ -49,11 +49,11 @@
 ### 1995-2002
 * <a id="degaudem1998albinm"></a> 1998 [Astreinte record contre Albin Michel—Les éditeurs dénoncent la censure économique](https://www.liberation.fr/evenement/1998/05/07/astreinte-record-contre-albin-michel-les-editeurs-denoncent-la-censure-economique-le-tribunal-de-bre_238099/)
 
-<details><summary>Méconnu</summary>
-
-* Le juge responsable du jugement [deviendrait en 2014 « le plus haut magistrat de France »](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
-* C'est ce même premier qui [en 2016 a déclaré « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
-</details>
+    <details><summary>Méconnu</summary>
+    
+    * Le juge responsable du jugement [deviendrait en 2014 « le plus haut magistrat de France »](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
+    * C'est ce même premier qui [en 2016 a déclaré « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
+    </details>
 
 ### 2017-2022
 * <a id="covidpresse"></a> 2020 [Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)

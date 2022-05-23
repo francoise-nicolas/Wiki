@@ -2,14 +2,6 @@
 
 Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas.
 
-<details><summary>🚧</summary>
-
-Pour chaque entrée,
-[ ] Faire un 'thumbnail' de la photo
-[ ] Inclure le thumbnail 
-[ ] À défaut de thumbnail, ajouter lien à [la copie](../_aux)
-</details>
-
 ## Wikimedia Commons
 
 * <a id="contentieux"></a> Conseil d'État, salle du contentieux (Journées du Patrimoine 2009)
