@@ -1,6 +1,6 @@
 # Appel aux dons
 
-## 💳Moyens
+## 💳
 
 ### [Paypal](https://www.paypal.com/paypalme/francoisenicolas)
 

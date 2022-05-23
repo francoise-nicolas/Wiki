@@ -98,7 +98,7 @@
 * [Article 221-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033975336/) (est l'auteur de l'infraction...)
 
 ## Voir aussi
-* [Professionnel & médical](drh.md)
+* [Les faits](faits.md)
 
 ---
 [Photo](attrib.md#scac)

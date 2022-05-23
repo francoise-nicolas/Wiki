@@ -31,4 +31,4 @@ Aucun document couvert par le secret médical ne peut figurer au dossier adminis
 > Toute personne a accès à l'ensemble des informations concernant sa santé détenues par des professionnels de santé
 
 ---
-[Photo](attrib.md#toubonbesanc)
+[Photo](./attrib.md#toubonbesanc)
