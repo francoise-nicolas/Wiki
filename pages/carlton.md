@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/Carlton_Commons.png)
+![image-mise-en-avant](../_aux/theatr.png)
 
 # Procès du Carlon
 
@@ -18,4 +18,4 @@
     </details>
 
 ---
-[Photo](attrib.md#carlton)
+[Photo](attrib.md#theatr)
