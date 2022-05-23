@@ -1,4 +1,4 @@
-![img](../_aux/ric_Commons.png)
+![img](../_aux/gdngj_Commons.png)
 # Alternatives
 
 ## 📚
@@ -24,4 +24,4 @@
 * <a id="echecADP"></a> Éditorial du Monde: [Privatisation du Groupe ADP : surmonter l’échec du RIP](https://www.lemonde.fr/idees/article/2020/03/12/privatisation-du-groupe-adp-surmonter-l-echec-du-rip_6032740_3232.html)
 
 ---
-[Photo](attrib.md#ric)
+[Photo](attrib.md#gdngj)

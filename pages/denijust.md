@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/SHdeni_Commons.png)
+![image-mise-en-avant](../_aux/yvani_Commons.png)
 
 # Déni de justice
 
@@ -20,9 +20,11 @@
 ### 2017-2022
 
 ## 📁
-### 2017-2022
-* Sarah HALIMI : « un rapport qui louvoie »
-    ↳[📁](shalimi.md)
+* [Sarah HALIMI : « un rapport qui louvoie »](shalimi.md)
+
+## ⚖
+### [Droits des justiciables en cas de faute lourde](https://www.vie-publique.fr/fiches/38069-les-droits-des-justiciables-en-cas-de-dysfonctionnement-de-la-justice)
+### [Saisine directe du Conseil Supérieur de la Magistrature](http://www.conseil-superieur-magistrature.fr/requetes-des-justiciables)
 
 ---
-Photo: [Collage de la pte d'Auteuil](attrib.md#SHdeni)
+[Photo](attrib.md#yvan)

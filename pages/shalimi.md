@@ -13,6 +13,7 @@
    Un gardé à vue qui a su garder ses cartes: 2h30 pour faire une perçée sur le réquisitoire supplétif (circ. aggravante d'antisémitisme), soit 10m avant la fin.
    </details>
 
+### 2022
 * <a id="bastuck2022deni"></a>[Nicolas BASTUCK P/ Le Point : « Sarah HALIMI: Un rapport qui louvoie et pratique le déni »](https://infojmoderne.com/2022/01/13/affaire-sarah-halimi-un-rapport-qui-louvoie-et-pratique-le-deni/)
 
    <details><summary>Extrait</summary>
@@ -27,10 +28,8 @@
 ### [2021-11-24](https://videos.assemblee-nationale.fr/video.11564277_619e4378170dc.dysfonctionnements-de-la-justice-et-de-la-police-dans-l-affaire-dite-sarah-halimi--auditions-divers-24-novembre-2021)
 * Audition de Mme Anne IHUELLOU, magistrat, vice-présidente de l’instruction
 
-    <details><summary>Verbatim</summary>
-    
-    🚧 SOIGNER
-    
+    <details><summary>Verbatim 🚧</summary>
+        
     01:15:00 « stricte application de la loi »
     
     01:29:00 L: la reconstitution ne concerne que les faits. a toujours reconnu sans faillir qu'il avait tué Mme HALIMI. Dès sa 1ère audition.
@@ -245,9 +244,11 @@
 ### [2021 Arrêt no. 20-80.135](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043473408?isSuggest=true)
 
 <details><summary>Faits et procédure</summary>
+
     * 4. Le 10 juillet 2017, M [T] a été mis en examen de ces chefs. Après la délivrance d'un réquisitoire supplétif, la circonstance que les faits ont été commis à raison de l'appartenance vraie ou supposée de la victime à une race ou une religion déterminée a été notifiée à l'intéressé.
     * 5. Par ordonnance de transmission de pièces aux fins de saisine de la chambre de l'instruction, en date du 12 juillet 2019, les juges d'instruction, après avoir écarté la circonstance aggravante précitée, ont estimé qu'il existait contre M. [T], d'une part, des charges suffisantes d'avoir commis les faits d'homicide volontaire et de séquestration qui lui étaient reprochés et d'autre part, des raisons plausibles d'appliquer le premier alinéa de l'article 122-1 du code pénal.
 </details>
+
 ---
 [Photo](attrib.md#SHdeni)
 
