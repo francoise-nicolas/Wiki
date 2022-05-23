@@ -1,4 +1,4 @@
-![image-mise-en-avant](_aux/francafrique.png)
+![image-mise-en-avant](_aux/francafr.png)
 
 # Françoise NICOLAS — Wiki
 
