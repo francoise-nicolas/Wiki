@@ -1,4 +1,4 @@
-![img](./aux/anythingtosay_Commons.png)
+![img](./_aux/anythingtosay_Commons.png)
 # [Affaire Françoise NICOLAS](fn.md) — Statut de lanceur d'alerte (et connexe)
 
 Requête devant le Défenseur des droits.
