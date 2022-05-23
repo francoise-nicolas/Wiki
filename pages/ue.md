@@ -1,4 +1,4 @@
-![img](facadeberlay.png)
+![img](./_aux/facadeberlay_Commons.png)
 # [Union Européenne](internat.md#ue)
 
 <!--
