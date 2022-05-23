@@ -1,3 +1,4 @@
+![img](anythingtosay_Commons)
 # [Affaire Françoise NICOLAS](fn.md) — Statut de lanceur d'alerte (et connexe)
 
 Requête devant le Défenseur des droits.
@@ -97,3 +98,5 @@ Requête devant le Défenseur des droits.
 * [Jacques TOUBON](whoswho.md#toubon)
 * [Claire HÉDON](whoswho.md#hedon)
 
+---
+[Photo](attrib.md#anythingtosay)
