@@ -1,7 +1,6 @@
 ![img](../_aux/berlay_Commons.png)
 # [Union Européenne](internat.md#ue)
 
-
 ## 📰
 ### 2017-2022
 
