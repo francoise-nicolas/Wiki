@@ -25,7 +25,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Contrepouvoirs](./pages/contrepouv.md)
 * [Capture de l'état](./pages/capture.md)
 * [Corruption](./pages/corruption.md)
-* [Déni de justice](./pages/denijust.md)
+ * [Déni de justice](./pages/denijust.md)
 * [État policier](./pages/etat-policier.md)
 * [International](./pages/internat.md)
 * [Liberté d'expression](./pages/libertedexpr.md)
