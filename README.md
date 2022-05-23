@@ -7,12 +7,12 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ## À propos[🇬🇧](./pages/en.md)[🇫🇷](./pages/fr.md)
 
 ## Sommaire
-### Affaires
+### <a id="affaires"></a>Affaires
 * [Carlton](./pages/carlton.md)
 * [Elf](./pages/elf.md)
 * [Françoise NICOLAS](./pages/fn.md)
 * [Sarah HALIMI](./pages/shalimi.md)
-### Autre
+### <a id="autre"></a>Autre
 * [Attribution](./pages/attrib.md)
 * [Bac à sable](./pages/bac-a-sable.md)
 * [En travaux](./pages/entravaux.md)
@@ -20,7 +20,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Markdown](./pages/md.md)
 * [Signalitique](./pages/signal.md)
 * [Who's who](./pages/whoswho.md)
-### Thèmes
+### <a id="themes"></a>Thèmes
 * [Alternatives](./pages/democralter.md)
 * [Capture de l'état](./pages/capturetat.md)
 * [Contrepouvoirs](./pages/contrepouv.md)
@@ -34,19 +34,19 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## Mis en avant
 ### Affaire Françoise NICOLAS
-#### Activisme
+#### <a id="activisme"></a>Activisme
 * [Institutionnel](./pages/instit.md)
 * [Médias](./pages/medias.md)
 * [Tribunes](./pages/tribunes.md)
-#### Litiges
+#### <a id="litiges"></a>Litiges
 * [Droit️ commun](./pages/litigesc.md)
 * [Droit public](./pages/litigesp.md)
 * [Faits](./pages/faits.md)
 * [Statut LDA](./pages/reqlda.md)
-### Interaction
+### <a id="interact"></a>Interaction
 * [Contribuer au Wiki](./pages/contrib.md)
 * [Faire un don](./pages/don.md)
 
-## Voir aussi
+## <a id="voiraussi"></a>Voir aussi
 * [Twitter](https://twitter.com/FranoiseNicolas)
 * [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))

@@ -48,5 +48,5 @@ Contestation de la décision du MAE du [2010-06-21](drh.md#mutation).
 </details>
 
 ## Voir aussi
-* [Professionel & médical](drh.md)
+* [Litiges](../README.md#faits)
 

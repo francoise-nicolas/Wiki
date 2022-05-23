@@ -534,7 +534,7 @@ Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr N
 </details>
 
 ## Voir aussi
-### [Litiges](litiges.md)
+### [Litiges](../README.md#litiges)
 
 ---
 [Photo](attrib.md#asonposte)
