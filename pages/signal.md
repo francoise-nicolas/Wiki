@@ -1,19 +1,17 @@
 # Signalitique
 
-## Liste
-
 | Symbol | Signification | 
 |--------|---------------|
+|📢 | Alerte |
 | 📚     | Bibliographie |
 | 📜     | Chronique     |
 | 📁      | Dossier|
-| 🌐 | Internet |
-| 📺 | Média |
 | ⚖      | Droit         | 
 | 🚧     | En travaux  |
-| 📰 Presse |
+| 🌐 | Internet |
 | 🕮 | Livre |
+| 📺 | Média |
 | 🗣️ | Parle |
-|📢 | Alerte |
+| 📰 | Presse |
 | ↳ | Renvoi |
 
