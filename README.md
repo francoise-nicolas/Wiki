@@ -8,18 +8,18 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## Sommaire
 ### Affaires
-* [Carlton](carlton.md)
-* [Elf](elf.md)
-* [Françoise NICOLAS](fn.md)
-* [Sarah HALIMI](shalimi.md)
+* [Carlton](./pages/carlton.md)
+* [Elf](./pages/elf.md)
+* [Françoise NICOLAS](./pages/fn.md)
+* [Sarah HALIMI](./pages/shalimi.md)
 ### Autre
-* [Attribution](attrib.md)
-* [Bac à sable](bac-a-sable.md)
-* [En travaux](entravaux.md)
-* [Interaction](interac.md)
-* [Markdown](md.md)
-* [Signalitique](signal.md)
-* [Who's who](whoswho.md)
+* [Attribution](./pages/attrib.md)
+* [Bac à sable](./pages/bac-a-sable.md)
+* [En travaux](./pages/entravaux.md)
+* [Interaction](./pages/interac.md)
+* [Markdown](./pages/md.md)
+* [Signalitique](./pages/signal.md)
+* [Who's who](./pages/whoswho.md)
 ### Thèmes
 * [Alternatives](./pages/democralter.md)
 * [Capture de l'état](./pages/capturetat.md)
