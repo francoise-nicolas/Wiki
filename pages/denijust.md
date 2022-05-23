@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/yvan_Commons.png)
+![image-mise-en-avant](../_aux/jaccuse_Commons.png)
 
 # Déni de justice
 
@@ -27,4 +27,4 @@
 ### [Saisine directe du Conseil Supérieur de la Magistrature](http://www.conseil-superieur-magistrature.fr/requetes-des-justiciables)
 
 ---
-[Photo](attrib.md#yvan)
+[Photo](attrib.md#jaccuse)

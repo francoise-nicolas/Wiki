@@ -61,6 +61,9 @@ Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas.
 * <a id="berlay"></a> Colonne de drapeaux devant la commission européenne à Bruxelles
     * [source](https://commons.wikimedia.org/wiki/Category:Berlaymont_building#/media/File:Drapeaux_devant_la_commission_europ%C3%A9enne.jpg)
 
+* <a id="jaccuse"></a> Front page cover of the newspaper "L'Aurore" of Thursday 13 January 1898, with the letter "J'accuse", written by Emile Zola about the Dreyfus affair. 
+    * [source](https://en.wikipedia.org/wiki/Dreyfus_affair#/media/File:J%E2%80%99accuse.jpg)
+
 ## Autre
 
 * <a id="scac"></a> [Équipe du SCAC](https://bj.ambafrance.org/Le-service-de-cooperation-et-d-action-culturelle), 2010
