@@ -1,6 +1,4 @@
-# [Affaire Françoise NICOLAS](fn.md) — Nations Unies
-
-Aucune action pour le moment.
+# Nations Unies
 
 ## ⚖️
 ### <a id="cdh"></a> [Conseil des droits de l'homme](https://www.ohchr.org/fr/hr-bodies/hrc/about-council)

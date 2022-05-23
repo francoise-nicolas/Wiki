@@ -1,46 +1,40 @@
 ![image-mise-en-avant](../_aux/lbd_Commons.png)
 # État policier: « vieux comme Max Weber »
 
-## 📜
-### 2019
-
-####  <a id="onuGJ"></a>Des experts de l'ONU dénoncent des restrictions graves aux droits des manifestants «gilets jaunes»
-<details><summary>Information</summary>
-
-* [Lire](https://www.ohchr.org/FR/NewsEvents/Pages/DisplayNews.aspx?NewsID=24166&LangID=F)
-</details>
-
-####  <a id="CHlbd"></a>Reporterre: La Suisse pourrait interdire la vente de LBD à la France
-<details><summary>Information</summary>
-
-* [Lire](https://reporterre.net/La-Suisse-pourrait-interdire-la-vente-de-LBD-a-la-France)
-</details>
-
-####  <a id="CElbd"></a>Le Conseil d’État rejette des demandes relatives aux lanceurs de balle de défense (LBD) lors des manifestations de « gilets jaunes »
-<details><summary>Information</summary>
-
-* [Lire](https://www.conseil-etat.fr/site/actualites/usage-des-lanceurs-de-balles-de-defense)
-</details>
-
-<details><summary>Aucune intention des autorités ...</summary>
-
-> Le juge des référés du Conseil d’État a constaté que l’usage du LBD avait dans la période récente provoqué des blessures, parfois très graves, sans qu’il soit possible d’affirmer que toutes les victimes se trouvaient dans les situations visées par le code de la sécurité intérieure, seules à mêmes de justifier une telle utilisation.
-
-> Toutefois, il a jugé que, en dépit de ces circonstances et contrairement à ce que les demandeurs affirmaient, l’organisation des opérations de maintien de l’ordre mises en place lors des récentes manifestations ne révélait pas une intention des autorités de ne pas respecter les conditions d’usage, strictes, mises à l’utilisation de ces armes.
-</details>
-
-####  <a id="fraisseimpuni"></a>[Sivens : le gendarme impliqué dans la mort de Rémi Fraisse ne sera pas jugé au pénal](https://www.francebleu.fr/infos/faits-divers-justice/sivens-le-gendarme-implique-dans-kla-mort-de-remi-fraisse-ne-sera-pas-juge-au-penal-1547738807)
-> La tentative des avocats de la famille de Rémi FRAISSE a échoué : le Conseil Constitutionnel a estimé ce 17 janvier que le gendarme impliqué dans la mort de ce garçon sur le barrage de Sivens (Tarn) en 2014 relevait bien de la justice militaire, et non ordinaire.
-
-### 2020
-####  <a id="darmaninweber"></a>[Intervention de Darmarin devant l'AN](https://twitter.com/LCP/status/1288174388286717952?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1288174388286717952%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.francetvinfo.fr%2Ffaits-divers%2Fpolice%2Fviolences-policieres%2Fla-police-exerce-une-violence-legitime-gerald-darmanin-cite-t-il-correctement-le-sociologue-allemand-max-weber_4060345.html):
 > "Quand j'entends le mot 'violence policière', moi, personnellement, je m'étouffe.
-> "La police exerce une violence, certes, mais une violence légitime, c'est vieux comme Max Weber."
+> "La police exerce une violence, certes, mais une violence légitime, c'est vieux comme Max Weber." (Darmanin)
 
-## 📚
 
-### 2019 
-####  <a id="kieffer2019giletsj"></a>[France culture: Anniversaire des "gilets jaunes"](https://www.franceculture.fr/emissions/hashtag/anniversaire-des-gilets-jaunes-le-changement-cest-maintenant)
+## 📰
+
+### 2017-2022
+
+*  <a id="onuGJ"></a>Des experts de l'ONU dénoncent des restrictions graves aux droits des manifestants «gilets jaunes»
+    <details><summary>Information</summary>
+    
+    * [Lire](https://www.ohchr.org/FR/NewsEvents/Pages/DisplayNews.aspx?NewsID=24166&LangID=F)
+    </details>
+
+*  <a id="CHlbd"></a>Reporterre: La Suisse pourrait interdire la vente de LBD à la France
+    <details><summary>Information</summary>
+    
+    * [Lire](https://reporterre.net/La-Suisse-pourrait-interdire-la-vente-de-LBD-a-la-France)
+    </details>
+
+*  <a id="CElbd"></a>Le Conseil d’État rejette des demandes relatives aux lanceurs de balle de défense (LBD) lors des manifestations de « gilets jaunes »
+    <details><summary>Information</summary>
+    
+    * [Lire](https://www.conseil-etat.fr/site/actualites/usage-des-lanceurs-de-balles-de-defense)
+    </details>
+    
+    <details><summary>Extrait</summary>
+    
+    > Le juge des référés du Conseil d’État a constaté que l’usage du LBD avait dans la période récente provoqué des blessures, parfois très graves, sans qu’il soit possible d’affirmer que toutes les victimes se trouvaient dans les situations visées par le code de la sécurité intérieure, seules à mêmes de justifier une telle utilisation.
+    
+    > Toutefois, il a jugé que, en dépit de ces circonstances et contrairement à ce que les demandeurs affirmaient, l’organisation des opérations de maintien de l’ordre mises en place lors des récentes manifestations ne révélait pas une intention des autorités de ne pas respecter les conditions d’usage, strictes, mises à l’utilisation de ces armes.
+    </details>
+
+*  <a id="kieffer2019giletsj"></a>[France culture: Anniversaire des "gilets jaunes"](https://www.franceculture.fr/emissions/hashtag/anniversaire-des-gilets-jaunes-le-changement-cest-maintenant)
 <!--
 <details><summary>Les chiffres</summary>
 -->
@@ -49,9 +43,13 @@
 </details>
 -->
 
-#### <a id="queffelecweber">[France culture: La "violence légitime de l'État" de Max Weber](https://www.franceculture.fr/philosophie/la-violence-legitime-de-letat-de-max-weber)
+*  <a id="fraisseimpuni"></a>[Sivens : le gendarme impliqué dans la mort de Rémi Fraisse ne sera pas jugé au pénal](https://www.francebleu.fr/infos/faits-divers-justice/sivens-le-gendarme-implique-dans-kla-mort-de-remi-fraisse-ne-sera-pas-juge-au-penal-1547738807)
+    > La tentative des avocats de la famille de Rémi FRAISSE a échoué : le Conseil Constitutionnel a estimé ce 17 janvier que le gendarme impliqué dans la mort de ce garçon sur le barrage de Sivens (Tarn) en 2014 relevait bien de la justice militaire, et non ordinaire.
 
-> 28 juillet 2020, Gérald DARMANIN, ministre de l'Intérieur, mentionne la "violence légitime de l'État" de Max Weber. Conceptualisé par le sociologue allemand en 1919, le concept de Max Weber a été détourné de son sens originel. Explication 
+*  <a id="darmaninweber"></a>[Intervention de Darmarin devant l'AN](https://twitter.com/LCP/status/1288174388286717952?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1288174388286717952%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.francetvinfo.fr%2Ffaits-divers%2Fpolice%2Fviolences-policieres%2Fla-police-exerce-une-violence-legitime-gerald-darmanin-cite-t-il-correctement-le-sociologue-allemand-max-weber_4060345.html):
+
+* <a id="queffelecweber">[France culture: La "violence légitime de l'État" de Max Weber](https://www.franceculture.fr/philosophie/la-violence-legitime-de-letat-de-max-weber)
+
 ---
-Photo: [Carlton de Lille](attrib.md#ld)
+[Photo](attrib.md#lbd)
 

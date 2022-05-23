@@ -1,4 +1,4 @@
-![img](../_aux/facadeberlay_Commons.png)
+![img](../_aux/berlay_Commons.png)
 # [Union Européenne](internat.md#ue)
 
 
@@ -57,4 +57,4 @@ Saisine de DG Justice & Consommateurs sur la directive LDA
     </details>
 
 ---
-[Photo](attrib.md#facedeberlay)
+[Photo](attrib.md#berlay)
