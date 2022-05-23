@@ -55,16 +55,16 @@
 ### 2017-2022
 
 * <a id="an-xv-3696"></a>[Rapport AN no. 3296: Obstacles à lindépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
-<details><summary>Information</summary>
-
-* Date: 2021-10-07
-* Institution: Assemblée Nationale
-* Législature: XVè
-* No. de rapport: 3296
-* Président: [Ugo BERNALICIS](whoswho.md#bernalic)
-* Rapporteur: Didier PARIS
-* Recommendation clé: aligner le statut du parquet sur celui du siège
-</details>
+   <details><summary>Information</summary>
+   
+   * Date: 2021-10-07
+   * Institution: Assemblée Nationale
+   * Législature: XVè
+   * No. de rapport: 3296
+   * Président: [Ugo BERNALICIS](whoswho.md#bernalic)
+   * Rapporteur: Didier PARIS
+   * Recommendation clé: aligner le statut du parquet sur celui du siège
+   </details>
 
 ## 📰
 
