@@ -57,8 +57,14 @@ Pour chaque entrée,
 * <a id="ric"></a> Colonne de drapeaux devant la commission européenne à Bruxelles
     * [source](https://commons.wikimedia.org/wiki/File:Drapeaux_devant_la_commission_europ%C3%A9enne.jpg)
 
-* <a id="ric"></a> Mondeville (Normandie, France). Centre commercial Mondeville 2.
+* <a id="crrfy"></a> Mondeville (Normandie, France). Centre commercial Mondeville 2.
     * [source](https://commons.wikimedia.org/wiki/File:FranceNormandieMondevilleCentreComMondeville2.jpg)
+
+* <a id="yvan"></a> Yvan Colonna preso politiko korsikarrarekiko elkartasunez egindako protesta.
+    * [source](https://commons.wikimedia.org/wiki/File:Yvan_protest_2022.webp)
+
+* <a id="gdngj"></a> Rassemblement à l'Embarcadère avant une marche des Gilets jaunes du Magny, à Montceau-les-Mines (Saône-et-Loire, France).
+    * [source](https://commons.wikimedia.org/wiki/File:Gilets_jaunes_du_Magny,_Montceau-les-Mines,_19_Jan_2019_-_Rassemblement_03.jpg)
 
 ## Autre
 
@@ -82,8 +88,3 @@ Pour chaque entrée,
 * <a id="francafr"></a> Drapeau de la Françafrique
     * [source](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Freseauinternational.net%2Fwp-content%2Fuploads%2F2014%2F02%2Fdrapeau-fr-1728x800_c.jpg&f=1&nofb=1)
 
-* <a id="yvan"></a> Yvan Colonna preso politiko korsikarrarekiko elkartasunez egindako protesta.
-    * [source](https://commons.wikimedia.org/wiki/File:Yvan_protest_2022.webp)
-
-* <a id="yvan"></a> Rassemblement à l'Embarcadère avant une marche des Gilets jaunes du Magny, à Montceau-les-Mines (Saône-et-Loire, France).
-    * [source](https://commons.wikimedia.org/wiki/File:Gilets_jaunes_du_Magny,_Montceau-les-Mines,_19_Jan_2019_-_Rassemblement_03.jpg)
