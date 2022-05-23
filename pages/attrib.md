@@ -66,6 +66,9 @@ Pour chaque entrée,
 * <a id="gdngj"></a> Rassemblement à l'Embarcadère avant une marche des Gilets jaunes du Magny, à Montceau-les-Mines (Saône-et-Loire, France).
     * [source](https://commons.wikimedia.org/wiki/File:Gilets_jaunes_du_Magny,_Montceau-les-Mines,_19_Jan_2019_-_Rassemblement_03.jpg)
 
+* <a id="berlay"></a> Colonne de drapeaux devant la commission européenne à Bruxelles
+    * [source](https://commons.wikimedia.org/wiki/Category:Berlaymont_building#/media/File:Drapeaux_devant_la_commission_europ%C3%A9enne.jpg)
+
 ## Autre
 
 * <a id="scac"></a> [Équipe du SCAC](https://bj.ambafrance.org/Le-service-de-cooperation-et-d-action-culturelle), 2010
