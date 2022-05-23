@@ -14,7 +14,7 @@
 
 * Discrimination
     * [Manuel](https://fra.europa.eu/sites/default/files/fra_uploads/1510-FRA-CASE-LAW-HANDBOOK_FR.pdf) 
-    * <details><summary><a id="UEdiscrim"></a>Extrait</summary> 
+    <details><summary><a id="UEdiscrim"></a>Extrait</summary> 
     
          * Tant le droit de l’UE que la CEDH garantissent une protection contre la discrimination en Europe. Bien que ces deux systèmes juridiques soient, dans une large mesure, complémentaires et qu’ils se renforcent mutuellement, ils présentent aussi certaines divergences dont les professionnels du droit doivent être conscients.
          * La CEDH protège tous les individus relevant de la juridiction des 47 États membres qui l’ont ratifiée, alors que les Directives de l’UE relatives àla non-discrimination protègent uniquement les ressortissants des 27 États membres.
