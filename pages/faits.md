@@ -1,4 +1,4 @@
-![image](../_aux/mae.png)
+![image](../_aux/asonposte.png)
 
 # [Affaire Françoise NICOLAS](fn.md) — Faits
 
@@ -537,4 +537,4 @@ Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr N
 ### [Litiges](litiges.md)
 
 ---
-[Photo](attrib.md#HotelMAE)
+[Photo](attrib.md#asonposte)
