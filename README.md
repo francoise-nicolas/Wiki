@@ -44,8 +44,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Faits](./pages/faits.md)
 * [Statut LDA](./pages/reqlda.md)
 
-### Autre
-#### <a id="interact"></a>Interaction
+### <a id="interact"></a>Interaction
 * [Contribuer au Wiki](./pages/contrib.md)
 * [Faire un don](./pages/don.md)
 
