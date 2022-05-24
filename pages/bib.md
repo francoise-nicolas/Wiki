@@ -1,21 +1,74 @@
 # Bibliographie
 
-Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil. Par exemple, la dénonciation de tel ou tel dysfonctionnement peut-être une demi-vérité, c'est même une technique de [🎭](signal.md) éprouvée. Ce qui fait foi de notre opinion, ce sont nos écrits. Cette bibliographie privilégie des sources que nous avons lues (certains qui ne le sont pas sont cachées dans le fichier source), sur les sujets qui nous préoccuppent:
+Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil. Par exemple, la dénonciation de tel ou tel dysfonctionnement peut-être une demi-vérité, c'est même une technique de manipulation éprouvée. Ce qui fait foi de notre opinion, ce sont nos écrits. Cette bibliographie privilégie des sources que nous avons lues (certains qui ne le sont pas sont cachées dans le fichier source), sur les sujets qui nous préoccuppent:
 * alternatives
-* magistrature
 * capture de l'état
 * démocratie
 * déni de justice
+* état policier
+* liberté d'expression
+* fonction publique
+* Françafrique
+* magistrature
+* manipulation[🎭](signal.md)
+* régime de Vichy
 
 ## 📚
 ### 1995-2002
 
 * <a id="monteb1998tribcomm"></a>[📄Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
 
+* <a id="degaudem1998albinm"></a> [📰Astreinte record contre Albin Michel—Les éditeurs dénoncent la censure économique](https://www.liberation.fr/evenement/1998/05/07/astreinte-record-contre-albin-michel-les-editeurs-denoncent-la-censure-economique-le-tribunal-de-bre_238099/)
+
+    <details><summary>Méconnu</summary>
+    
+    * Le juge responsable du jugement [deviendrait en 2014 « le plus haut magistrat de France »](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
+    * C'est ce même premier qui [en 2016 a déclaré « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
+    </details>
+
 * [📰Le Parisien: Corruption et malversations aux tribunaux de commerce](https://www.leparisien.fr/faits-divers/corruption-et-malversations-aux-tribunaux-de-commerce-30-07-1998-2000182509.php)
     >    TROIS semaines après la publication d´un rapport au vitriol sur les tribunaux de commerce, les membres de la commission d´enquête parlementaire dénoncent à la justice une série d´« infractions pénales graves » commises au sein de ces juridictions. Le président et le rapporteur de la commission d´enquête, les députés socialistes François COLOMBET (Allier) et Arnaud MONTEBOURG (Saône-et-Loire), ont donc transmis aux procureurs de la République concernés les faits découverts au fil de leur enquête susceptibles de donner lieu à des poursuites. Les députés ont visité huit tribunaux de commerce en six mois d´un travail qui s´est révélé fructueux puisqu´ils saisissent aujourd´hui la justice de pas moins de neuf dossiers. Il s´agit, à Rennes, de « malversation présumée » et à Agen de « trafic d´influence », ces deux affaires concernant des mandataires de justice. A Pau, les deux députés ont saisi le parquet de faits qualifiables selon eux de « corruption active ». A Dijon, ils préconisent des sanctions disciplinaires contre un mandataire de justice. 
 
 * <a id="coignard1999omerta"></a> [🕮Sophie COIGNARD et Alexandre WICKHAM: L'omertà française](https://bibliotheques-numeriques.defense.gouv.fr/bibliotheque-ader/document/ac00740d-45fe-4dee-8bdb-20e201bc1178)
+
+    <details><summary>Ce rapport commandé par Jacques TOUBON « pour rogner les espaces de liberté laissés à la presse »</summary>
+    
+    > La constante augmentation des contentieux avec des organes d'information n’arrange rien. 
+    > Car les juges appliquent les textes avec une sévérité croissante qui tient beaucoup au contexte. 
+    > Or, le « contexte », justement, ne les incite guére, depuis quelques années, à la tolérance. 
+    > Parmi les multiples études savantes inspirées par les gouvernements successifs,  les diverses propositions parlementaires destinées 4 étouffer les affaires politico-financiéres, citons simplement le rapport commandé par le garde des sceaux Jacques TOUBON à l'universitaire Michéle-Laure Rassat. 
+    > L’esprit cahier des charges — en termes clairs : rogner les espaces de liberté laissés à la presse — a été respecté à lettre par l’auteur. 
+    > « Le but poursuivi, écrivait cette professeur de droit, n’est pas de géner la presse,  mais de la garder prudente. » 
+    > Prudente ? 
+    > Qu’est-ce a dire ? 
+    > Que magistrats et policiers qui s’aviseraient de parler à la presse ou defaire prendre connaissance a un journaliste des pièces d’un dossier en cours auraient da écoper de deux a cing ans d’interdiction professionnelle. 
+    > De quoi faire réfléchir les plus bavards.
+    </details>
+    
+    <!---
+    Pour mieux colmater le mur du silence que se proposait d’ériger cette juriste zélée, il était aussi prévu de neutraliser les journaux. 
+    La publication d’une piéce issue d’un dossier d’instruction aurait été passible d’une amende s’élevant 4 300 000 francs. 
+    Même le journal le plus prospere comprendvite, a ce tarif, les vertus de la discrétion. 
+    Enfin, et nous quittonsla la simple coercition pourflirter avec le burlesque, 
+    Mme Rassat proposait une sorte de mention prophylactique pour accompagner tout article ayant trait a une affaire en instance, 
+    insistant sur le fait que les informations publiées n’engageaient que leur auteur et n’étaient pas a prendre pour argent comptant !
+    
+    Devant les commentaires incrédules de la presse, qui ne se priva pas de relater les passages les plus tragi-comiques du projet, TOUBON,alors garde des Sceaux, a calé.
+    Cet accés tardif de vertu aura donc permis aux Francais de prendre connaissance du dossier de M. DUMAS et des aventures bruxelloises de Mme Cresson. Sinon, seuls les
+    autres Européens y auraient eu droit. Cette grotesque initiative a échoué. Pourl’instant. 
+    -->
+    
+    Balladur,/lui, s’était montré plus pugnace. C’est lorsqu'il était à Matignon qu’une innovation judiciaire remarquable a vu le jour. 
+    On a complété l'article 9-1 du code civil qui précise depuis le 4 janvier 1993: « Chacun a droit au respect de la présomption d'innocence » 
+    Qui oserait affirmer le contraire ? En toute bonne foi, personne. 
+    Mais la formulation du nouveau texte ouvre de nouveaux horizons à tous les prévenus intégres :
+    
+    <!--
+    Lorsqu'une personne placée en garde a vue, mise en examen ou faisant l’objet d’une citation à comparaitre enjustice,
+    d’un réquisitoire du procureur de la République ou d'une plainte avec constitution departie civile, est, 
+    avant toute condamnation, présentée publiquement comme étant coupable defaits faisant l’objet de l’enquête ou de l’instruction judiciaire, 
+    le juge peut, méme en référé, ordonner l’insertion dans la publication concernée d’un communiqué. » -->
+    </details>
 
 * [📰Le Monde: Un juge s'en va](https://www.lemonde.fr/archives/article/2005/01/29/un-juge-s-en-va_396132_1819218.html)
 
@@ -1379,6 +1432,9 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
     > Emmanuel MACRON n'a pas hésité à écarter tous les candidats proposés par la garde des Sceaux (lui infligeant au passage un sacré camouflet) pour adouber Rémy HEITZ.
 
+*  <a id="fraisseimpuni"></a>[📰Sivens : le gendarme impliqué dans la mort de Rémi Fraisse ne sera pas jugé au pénal](https://www.francebleu.fr/infos/faits-divers-justice/sivens-le-gendarme-implique-dans-kla-mort-de-remi-fraisse-ne-sera-pas-juge-au-penal-1547738807)
+    > La tentative des avocats de la famille de Rémi FRAISSE a échoué : le Conseil Constitutionnel a estimé ce 17 janvier que le gendarme impliqué dans la mort de ce garçon sur le barrage de Sivens (Tarn) en 2014 relevait bien de la justice militaire, et non ordinaire.
+
 *  <a id="gonzales2019englues"></a>[📰Englués dans la procédure, les procureurs tentent de justifier l'image négative de la justice](https://www.lefigaro.fr/actualite-france/2019/04/03/01016-20190403ARTFIG00099-englues-dans-la-procedure-les-procureurs-tentent-de-justifier-l-image-negative-de-la-justice.php)
     > La justice sera toujours aux prises d’injonctions contradictoires, accusée tour à tour d’être trop expéditive ou trop lente, trop sévère ou laxiste. Peut-être parce qu’elle ne donne jamais complètement raison à tout le monde.~Jean-François THONY
 
@@ -1401,6 +1457,28 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     Volet DUMAS devant le tribunal correctionnel en 2001; présent sa démission du Conseil constitutionnel. Avocat de DEVIERS-JONCOURT: Elf sert de leurre à l'affaire des frégates. 300 M euros de détournement. 30 des 37 prévenus condamnés. 
     
     </details>
+
+*  <a id="onuGJ"></a>[📄Des experts de l'ONU dénoncent des restrictions graves aux droits des manifestants «gilets jaunes»](https://www.ohchr.org/FR/NewsEvents/Pages/DisplayNews.aspx?NewsID=24166&LangID=F)
+
+*  <a id="CHlbd"></a>[📰Reporterre: La Suisse pourrait interdire la vente de LBD à la France](https://reporterre.net/La-Suisse-pourrait-interdire-la-vente-de-LBD-a-la-France)
+
+*  <a id="CElbd"></a>[📄Le Conseil d’État rejette des demandes relatives aux lanceurs de balle de défense (LBD) lors des manifestations de « gilets jaunes »](https://www.conseil-etat.fr/site/actualites/usage-des-lanceurs-de-balles-de-defense)
+    
+    <details><summary>Extrait</summary>
+    
+    > Le juge des référés du Conseil d’État a constaté que l’usage du LBD avait dans la période récente provoqué des blessures, parfois très graves, sans qu’il soit possible d’affirmer que toutes les victimes se trouvaient dans les situations visées par le code de la sécurité intérieure, seules à mêmes de justifier une telle utilisation.
+    
+    > Toutefois, il a jugé que, en dépit de ces circonstances et contrairement à ce que les demandeurs affirmaient, l’organisation des opérations de maintien de l’ordre mises en place lors des récentes manifestations ne révélait pas une intention des autorités de ne pas respecter les conditions d’usage, strictes, mises à l’utilisation de ces armes.
+    </details>
+
+*  <a id="kieffer2019giletsj"></a>[🗣France culture: Anniversaire des "gilets jaunes"](https://www.franceculture.fr/emissions/hashtag/anniversaire-des-gilets-jaunes-le-changement-cest-maintenant)
+<!--
+<details><summary>Les chiffres</summary>
+-->
+> 52 samedis de manifestations. 10 000 gardes à vue et 400 peines de prison ferme. 4 000 blessés de part et d'autre et 40 victimes de tirs à l’œil.
+<!--
+</details>
+-->
 
 * <a id="morettimalbec"></a>[📰Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
 
@@ -1430,7 +1508,13 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 * <a id="inespere"><a>[📰« Jacques TOUBON: fin de mandat d'un défenseur des droits inespéreé »](https://www.liberation.fr/france/2020/06/30/jacques-toubon-fin-de-mandat-d-un-defenseur-inespere_1792944/)
 
-* <a id="piel2021dumas"></a>[📰Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de Balladur](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
+* <a id="covidpresse"></a> [📰Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)
+
+*  <a id="darmaninweber"></a>[🗣Intervention de Darmarin devant l'AN](https://twitter.com/LCP/status/1288174388286717952?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1288174388286717952%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.francetvinfo.fr%2Ffaits-divers%2Fpolice%2Fviolences-policieres%2Fla-police-exerce-une-violence-legitime-gerald-darmanin-cite-t-il-correctement-le-sociologue-allemand-max-weber_4060345.html)
+
+* <a id="queffelecweber">[🗣France culture: La "violence légitime de l'État" de Max Weber](https://www.franceculture.fr/philosophie/la-violence-legitime-de-letat-de-max-weber)
+
+* <a id="piel2021dumas"></a>[📰Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de BALLADUR](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
     <details><summary>Extrait</summary>
 
     > La récente ouverture d’archives de l’institution confirme que les entorses à la loi étaient connues et que la voix de son président, Roland DUMAS, a été prépondérante pour fermer les yeux sur ces irrégularités de la présidentielle de 19 95.
