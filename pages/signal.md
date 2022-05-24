@@ -8,7 +8,7 @@
 | 📁      | Dossier|
 | ⚖      | Droit         | 
 | 🚧     | En travaux  |
-| 🗣️ | Expression |
+| 🗣️ | Expression orale |
 | 🌐 | Internet |
 | 🕮 | Livre |
 | 🎭 | Manipulation |
@@ -17,5 +17,6 @@
 | 📰 | Presse |
 | 📄 | Publication (institutionnel, académique) |
 | ↳ | Renvoi |
+| 📝 | Tribune |
 
 

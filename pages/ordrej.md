@@ -252,9 +252,25 @@
     
     </details>
 
-### Françoise NICOLAS](fn.md)
+### <a id="nicolas"></a>Françoise NICOLAS](fn.md)
 * [Plainte c. APLOGAN](./aplogan.md)
 * [Plainte de BESANCENOT](./besanc.md)
+### <a id="lecoq"></a>[Vincent LE COQ](./whoswho#lecoq)
+* [Pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) 
+
+    <details><summmary>Info</summary>
+    
+    Initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droit »](./bib.md#spinosi). Le jugement ne rapporte pas de conclusions des seconds
+    </details>
+### <a id="halimi"></a>Sarah HALIMI
+* [Arrêt no. 20-80.135](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043473408?isSuggest=true)
+
+    <details><summary>Faits et procédure</summary>
+    
+    * 4. Le 10 juillet 2017, M [T] a été mis en examen de ces chefs. Après la délivrance d'un réquisitoire supplétif, la circonstance que les faits ont été commis à raison de l'appartenance vraie ou supposée de la victime à une race ou une religion déterminée a été notifiée à l'intéressé.
+    * 5. Par ordonnance de transmission de pièces aux fins de saisine de la chambre de l'instruction, en date du 12 juillet 2019, les juges d'instruction, après avoir écarté la circonstance aggravante précitée, ont estimé qu'il existait contre M. [T], d'une part, des charges suffisantes d'avoir commis les faits d'homicide volontaire et de séquestration qui lui étaient reprochés et d'autre part, des raisons plausibles d'appliquer le premier alinéa de l'article 122-1 du code pénal.
+    </details>
+
 
 ## ⚖
 ### Justiciable

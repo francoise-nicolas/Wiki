@@ -1,7 +1,7 @@
 # Manipulation
 
 ## 📚
-### 🕮 Marie-France HIRIGOYEN: le harcèlement moral
+* 🕮 Marie-France HIRIGOYEN: le harcèlement moral
 
     <details><summary>Dans l'entreprise</summary
 Par harcèlement sur le lieu de travail, il faut entendre toute conduite abusive se

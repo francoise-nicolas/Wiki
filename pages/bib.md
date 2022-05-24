@@ -9,12 +9,207 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 * liberté d'expression
 * fonction publique
 * Françafrique
+* inflation législative
 * magistrature
 * manipulation[🎭](signal.md)
 * régime de Vichy
 
+Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de la capture de l'état. Méconnu: de puissants sont issus du régime de Vichy. L'inflation législative masque le consentement du politique au dévoiement de la démocratie, particulièrement la magistrature aux ordres, profitant à leurs bailleurs plutôt qu'aux électeurs. Etc.
+
 ## 📚
 ### 1995-2002
+
+* 🕮 Marie-France HIRIGOYEN: le harcèlement moral
+
+    <details><summary>Dans l'entreprise</summary
+Par harcèlement sur le lieu de travail, il faut entendre toute conduite abusive se
+manifestant notamment par des comportements, des paroles, des actes, des gestes, des
+écrits pouvant porter atteinte à la personnalité, à la dignité ou à l’intégrité physique ou
+psychique d’une personne, mettre en péril l’emploi de celle-ci ou dégrader le climat de
+travail.
+
+Ce phénomène a été étudié essentiellement dans les pays anglo-saxons et les
+pays nordiques, où il a été qualifié de mobbing – de mob : foule, meute, plèbe, d’où
+l’idée d’importuner.
+
+Processus qualifié de « psychoterreur ».Cette guerre psychologique sur le lien de travail regroupe deux phénomènes : l’abus de pouvoir, qui est démasqué très vite et pas forcément accepté par les salariés ; la manipulation perverse, plus insidieuse à se mettre en place et qui fait
+d’autant plus de ravages.
+Le harcèlement naît de façon anodine et se propage insidieusement. Dans un
+premier temps, les personnes concernées ne veulent pas se formaliser et prennent à la
+légère piques et brimades. Puis, ces attaques se multiplient et la victime est
+régulièrement acculée, mise en état d’infériorité, soumise à des manœuvres hostiles et
+dégradantes pendant une longue période.
+De toutes ces agressions, on ne meurt pas directement, mais on perd une partie
+de soi-même. On revient chaque soir, usé, humilié, abîmé. Il est difficile de s’en
+remettre.
+C’est la répétition des vexations, des humiliations, sans aucun effort pour les
+nuancer, qui constitue le phénomène destructeur.
+Quand le harcèlement apparaît, c’est comme une machine qui se met en marche
+et qui peut tout broyer.
+Il s’agit d’un phénomène terrifiant parce qu’inhumain, sans états d’âme et sans
+pitié.
+L’entourage professionnel, par lâcheté, égoïsme ou peur, préfère se tenir à
+l’écart.
+Lorsque ce type d’interaction asymétrique et destructrice est en place, il ne fera
+que s’amplifier si une personne extérieure n’intervient pas énergiquement.
+Une suite de comportements délibérés de la part de l’agresseur est destinée à
+déclencher l’anxiété de la victime, ce qui provoque chez elle une attitude défensive,
+elle-même génératrice de nouvelles agressions.
+La victime ne se sent pas défendue, parfois même elle se sent abusée par ceux
+qui assistent à cette agression sans intervenir, car la hiérarchie propose rarement une
+solution directe. C’est plutôt : « On verra plus tard ! ». La solution proposée est au
+mieux une mutation à un autre poste, sans que l’on ait demandé l’accord de l’intéressé.
+
+_Qui est visé?_
+Contrairement à ce que leurs agresseurs essaient de faire croire, les victimes ne
+sont pas au départ des personnes atteintes d’une quelconque pathologie ou
+particulièrement faibles.
+C’est sa capacité de résister à l’autorité malgré les pressions qui la désigne comme cible.
+Le harcèlement est rendu possible parce qu’il est précédé d’une dévalorisation,
+qui est acceptée puis cautionnée par le groupe, de la victime par le pervers. Cette
+dépréciation donne une justification a posteriori de la cruauté exercée contre elle, et
+conduit à penser qu’elle a bien mérité ce qui lui arrive.
+Lorsque le processus de harcèlement est en place, la victime est stigmatisée : on
+dit qu’elle est difficile à vivre, qu’elle a mauvais caractère, ou bien qu’elle est folle. On
+met sur le compte de sa personnalité ce qui est la conséquence du conflit, et on oublie ce
+qu’elle était auparavant ou ce qu’elle est dans un autre contexte.
+
+_Qui agresse qui?_
+Les groupes tendent à niveler les individus et supportent mal la différence.
+Parfois, le harcèlement est suscité par un sentiment d’envie à l’égard de
+quelqu’un qui possède quelque chose que les autres n’ont pas.
+Quel que soit le point de départ et quels que soient les agresseurs, les procédés
+sont les mêmes : on ne nomme pas le problème, mais on agit de façon sournoise pour
+éliminer la personne au lieu de trouver une solution. Ce processus est amplifié par le
+groupe, qui est pris à témoin ou même participe activement au phénomène.
+Le harcèlement dans l’entreprise passe ensuite par différentes étapes qui ont
+comme point commun un refus de communication.
+Dans le registre de la communication perverse, il faut empêcher l’autre de
+penser, de comprendre, de réagir.
+L’agression ne se passe pas ouvertement, ce qui pourrait permettre de répliquer,
+elle est pratiquée de façon sous-jacente, dans le registre de la communication non
+verbale : soupirs excédés, haussements d’épaules, regards méprisants, ou bien non-dits,
+sous-entendus, allusions déstabilisantes ou malveillantes, remarques désobligeantes ...
+Dans la mesure où ces agressions sont indirectes, il est difficile de se défendre.
+Ce sont aussi des critiques indirectes dissimulées dans une plaisanterie, des
+railleries, des sarcasmes.
+Le langage est perverti. Chaque mot cache un malentendu qui se retourne contre
+la victime désignée.
+
+_Discréditer:_
+Pour cela, il suffit d’insinuer le doute dans la tête des autres.
+On peut ensuite par un discours faux, fait d’un assemblage de sous-entendus, de
+non-dits, mettre en place un malentendu pour l’exploiter à son avantage.
+Pour enfoncer l’autre, on le ridiculise, l’humilie, le couvre de sarcasmes jusqu’à
+ce qu’il perde confiance en lui. On l’affuble d’un surnom ridicule, on se moque d’une
+infirmité ou d’une défaillance. On utilise aussi la calomnie, les mensonges, les sous-
+entendus malveillants.
+Lorsque la victime craque, s’énerve ou se déprime, cela justifie le harcèlement :
+« Ca ne m’étonne pas, cette personne était folle ! ».
+
+_Isoler:_
+Lorsqu’on a décidé de détruire psychologiquement un salarié, pour qu’il ne
+puisse pas se défendre, il faut d’abord l’isoler en cassant les alliances possibles. Quand
+on est seul, il est beaucoup plus difficile de se rebeller, surtout si on vous fait croire que
+tout le monde est contre vous.
+Par des insinuations ou des préférences affichées, on provoque des jalousies, on
+monte les gens les uns contre les autres, on sème la discorde. Le travail de
+déstabilisation est ainsi fait par des collègues envieux, et le véritable agresseur pourra
+dire qu’il n’y est pour rien.
+Lorsque l’agression vient de la hiérarchie, la victime désignée est progressivement privée de toute information. Elle est isolée, n’est plus conviée aux réunions.
+Plus tard, c’est la mise en quarantaine, au placard. On ne lui donne pas de travail
+alors que ses collègues sont débordés.
+La mise en quarantaine est beaucoup plus génératrice de stress que le surcroît de
+travail et devient très vite destructrice.
+Les dirigeants trouvent aisé de se servir de ce système pour faire démissionner
+quelqu’un dont on n’a plus besoin.
+
+_Brimer:_ Cela consiste à confier à la victime des tâches inutiles ou dégradantes. C’est
+ainsi que Sonia, titulaire d’une maîtrise, s’est retrouvée à coller des enveloppes dans un
+local exigu et non aéré.
+
+_Pousser l’autre à la faute:_
+Un moyen très habile de disqualifier quelqu’un consiste à la pousser à la faute
+pour pouvoir le critiquer ou le rabaisser, mais aussi pour qu’il ait une mauvaise image
+de lui-même.
+On peut ensuite dire : « Vous avez vu, cette personne est complètement folle,
+elle perturbe le service. »
+
+_Les manœuvres perverses:_
+Quand un individu pervers entre dans un groupe, il tend à rassembler autour de
+lui les membres du groupe plus dociles qu’il séduit.
+Si un individu ne se laisse pas embrigader, il est rejeté par le groupe et désigné
+comme bouc émissaire. Un lien social se crée ainsi entre les membres du groupe dans la
+critique commune de la personne isolée, par des potins et des ragots. Le groupe est alors
+sous influence et subit le pervers dans le cynisme et le manque de respect.Page 10
+Chaque individu n’a pas pour autant perdu tout sens moral, mais, dépendant
+d’un individu dépourvu de scrupules, ils perdent tout sens critique.
+Stanley Milgram, psychosociologue américain, a étudié entre 1950 et 1963 les
+phénomènes de soumission à l’autorité.
+« Des gens ordinaires, dépourvus de toute hostilité, peuvent, en s’acquittant
+simplement de leur tâche, devenir les agents d’un atroce processus de destruction. »
+Cette constatation est reprise par Christophe Dejours, qui parle de la banalisation
+sociale du mal. Il est en effet des individus qui ont besoin d’une autorité supérieure pour
+parvenir à un certain équilibre. Les pervers récupèrent à leur profit cette docilité et
+l’utilisent pour infliger la souffrance aux autres.
+Le but d’un individu pervers est d’accéder au pouvoir ou de s’y maintenir par
+n’importe quel moyen, ou bien encore de masquer sa propre incompétence. Pour cela, il
+lui faut se débarrasser de quiconque constituerait un obstacle à son ascension ou serait
+trop lucide sur ses façons de faire.
+On ne se contente pas d’attaquer quelqu’un qui est fragilisé, comme c’est le cas
+dans l’abus de pouvoir, mais on crée la fragilité afin d’empêcher l’autre de se défendre.
+La peur génère des conduites d’obéissance, voire de soumission, de la part de la
+personne ciblée, mais aussi des collègues qui laissent faire, qui ne veulent pas voir ce
+qui se passe autour d’eux. C’est le règne de l’individualiste, du « chacun pour soi ».
+L’entourage craint, s’il se montre solidaire, d’être stigmatisé et de se retrouver dans la
+prochaine charrette de licenciements. Dans une entreprise, il ne faut pas faire de vagues.
+Il faut avoir l'esprit maison, ne pas se montrer trop différent.
+Un pervers agit d’autant mieux dans une entreprise que celle-ci est désorganisée,
+mal structurée, « déprimée ». Il lui suffit de trouver la brèche qu’il creusera pour
+assouvir son désir de pouvoir.
+Par un procédé insidieux de disqualification, la victime perd progressivement
+confiance en elle.
+De la sorte, la destruction se fait d’une façon extrêmement subtile jusqu’à ce que
+la victime elle-même se mette dans son tort.
+Lorsque la victime réagit et tente de se rebeller, la malveillance latente fait place
+à une hostilité déclarée. Commence alors la phase de destruction morale qui a été
+qualifiée de psychoterreur. Là, tous les moyens sont bons, y compris la violence
+physique, pour démolir une personne désignée. Cela peut conduire à un anéantissement
+psychique ou au suicide.
+Dans le fonctionnement pervers, il n’y a pas que la quête du pouvoir, il y a
+surtout une grande jouissance à utiliser l’autre comme un objet, comme une
+marionnette. L’agresseur réduit l’autre à une position d’impuissance pour ensuite le
+détruire en toute impunité. Pour obtenir ce qu’il désire, il n’hésite pas à utiliser tous les
+moyens, même et surtout si cela se fait au détriment des autres.Page 11
+Il n’y a aucun respect envers autrui.
+Ce qui frappe, c’est une animosité sans borne pour des motifs futiles, et une
+absence totale de compassion pour les personnes acculées à des situations
+insupportables.
+Face à cette agression qu’elle ne comprend pas, la victime est seule car, comme
+dans toutes les situations perverses, il existe une lâcheté et une complaisance de
+l’entourage qui craint de devenir cible à son tour ou parfois jouit de façon sadique du
+spectacle de cette destruction.
+Un pervers manipulateur ne supportant pas la moindre opposition à son pouvoir,
+transformera une relation conflictuelle en haine, au point de vouloir la destruction de
+son partenaire.
+Pour mieux régner, il entretient les ragots, les conflits, flatte les plus dociles et
+s’oppose à ceux qui lui résistent.
+Les autres employés se tiennent à distance car ceux qui paraissent trop proches
+d’elle sont immédiatement disqualifiés.
+Porter plainte est l’unique façon de mettre fin à la psychoterreur. Mais il faut
+avoir du courage ou être vraiment à bout car cela implique une rupture définitive avec
+l’entreprise. Il n’est pas sûr, en outre, que la plainte soit reçue, ni que la procédure
+déclenchée aboutisse d’une façon positive.
+Le pouvoir constitue une arme terrible lorsqu’il est détenu par un individu
+pervers.
+Nous retrouvons la lutte pour le pouvoir qui caractérise une agression par un
+pervers narcissique, mais aussi le besoin de tenter de s’approprier, et, si ce n’est pas
+possible, de détruire, le bonheur de l’autre. Pour cela on utilise ses failles, et s’il n’y en
+a pas suffisamment on en crée.
+Il ne faut pas banaliser le harcèlement en en faisant une fatalité de notre société.
+Ce n’est pas la conséquence de la crise économique actuelle, c’est seulement une dérive
+d’un laxisme organisationnel.    
+    </details>
 
 * <a id="monteb1998tribcomm"></a>[📄Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
 
@@ -22,8 +217,7 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 
     <details><summary>Méconnu</summary>
     
-    * Le juge responsable du jugement [deviendrait en 2014 « le plus haut magistrat de France »](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
-    * C'est ce même premier qui [en 2016 a déclaré « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
+    C'est Jean LOUVEL, cité [ici](#louvelache) et [ici](#louvel), qui a rendu ce jugement.
     </details>
 
 * [📰Le Parisien: Corruption et malversations aux tribunaux de commerce](https://www.leparisien.fr/faits-divers/corruption-et-malversations-aux-tribunaux-de-commerce-30-07-1998-2000182509.php)
@@ -100,6 +294,10 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
     
 * [??Thierry JEAN-PIERRE à Thierry ARDISON : « L'affaire [Elf] aurait dû être une grosse affaire si elle avait été à son terme »](https://www.ina.fr/video/I09006953)
     
+* <a id="badinter2007therapie"></a>[✍Robert BADINTER : "Ne pas confondre justice et thérapie"](https://www.lemonde.fr/societe/article/2007/09/08/robert-badinter-ne-pas-confondre-justice-et-therapie_952825_3224.html)
+
+    > La multiplication des lois, sans chercher à s'assurer de leur efficacité, engendre un désordre législatif préjudiciable. 
+        
 * <a id="colonna"></a> [🕮De Vincent LE COQ, « Yvan COLONNA, anathomie d'un procès truqué »](https://books.google.com/books?id=bWViHTyKsNMC&pg=PT1&lpg=PT1&dq=yvan+colonna+anatomie+d%27un+proc%C3%A8s+truqu%C3%A9+vincent+le+coq&source=bl&ots=HdTpJOZnGL&sig=ACfU3U1IjMhOH0vt3sNv9elFgqDoSx63Dw&hl=en&sa=X&ved=2ahUKEwin0aLHxaz2AhXtTN8KHbQyAeA4FBDoAXoECCQQAw#v=onepage&q=yvan%20colonna%20anatomie%20d'un%20proc%C3%A8s%20truqu%C3%A9%20vincent%20le%20coq&f=false)
 
 * [📄Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
@@ -125,7 +323,11 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 
 ### 2012-2017
 
+* <a id="louvel"></a>[📰Le Monde: Bertrand LOUVEL devient le plus haut magistrat de France](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
+
 * <a id="demontg2014morale"></a>[🕮Éric DE MONTGOLFIER: Une morale pour les aigles, une autre pour les pigeons](http://michel-lafon.fr/livre/1450-Une_morale_pour_les_aigles_une_autre_pour_les_pigeons.html)
+
+* <a id="droitsouple">[📄Rapport du Conseil d'État: le droit souple](https://web.archive.org/web/20151010015516/https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000280.pdf)
 
 * <a id="jl2014"></a>📄Rapport: Les Justiciables face au Service public de la justice
     <details><summary>Information</summary>
@@ -173,17 +375,23 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
     * [🗣Leur ITW sur France Inter](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
     > « Les élus sont dans leur majorité honnêtes »
 
-* <a id="trevert2014ronsin"></a>[Xavier RONSIN: L'École nationale de la magistrature n'est pas une fabrique à robots!](https://www.lepoint.fr/societe/xavier-ronsin-l-ecole-nationale-de-la-magistrature-n-est-pas-une-fabrique-a-robots-26-03-2014-1805656_23.php)
+* <a id="trevert2014ronsin"></a>[📰Xavier RONSIN: L'École nationale de la magistrature n'est pas une fabrique à robots!](https://www.lepoint.fr/societe/xavier-ronsin-l-ecole-nationale-de-la-magistrature-n-est-pas-une-fabrique-a-robots-26-03-2014-1805656_23.php)
 
-* <a id="carage2015demontg"></a>[DE MONTGOLFIER, pas un pigeon](https://www.ledauphine.com/ardeche/2015/02/02/de-montgolfier-pas-un-pigeon)
+* <a id="carage2015demontg"></a>[📰DE MONTGOLFIER, pas un pigeon](https://www.ledauphine.com/ardeche/2015/02/02/de-montgolfier-pas-un-pigeon)
     > Pour enrayer cette corruption, Éric DE MONTGOLFIER souhaite simplifier les règles « trop complexes » de la justice. 
     > « Ceux qui ont le pouvoir veulent le conserver, et rendent la justice occulte. » Pour lui, la population doit « se sortir de cette position de pigeon, sans toutefois devenir un aigle »
 
-* <a id="decrop2015carlton"></a>[Xavier DECROP (référent Anticor) : « Procès Carlon: cherchez l'erreur »](https://www.bvoltaire.fr/proces-carlton-cherchez-lerreur/)
+* <a id="decrop2015carlton"></a>[📰Xavier DECROP (référent Anticor) : « Procès Carlon: cherchez l'erreur »](https://www.bvoltaire.fr/proces-carlton-cherchez-lerreur/)
 
-* <a id="diard2015dsk"></a>[Pascale Robert-DIARD pour Le Monde : « Carlton de Lille: DSK relaxé, l'instruction condamnée »](https://www.lemonde.fr/police-justice/article/2015/06/13/carlton-de-lille-dsk-relaxe-l-instruction-condamnee_4653493_1653578.html)
+* <a id="diard2015dsk"></a>[📰Pascale Robert-DIARD pour Le Monde : « Carlton de Lille: DSK relaxé, l'instruction condamnée »](https://www.lemonde.fr/police-justice/article/2015/06/13/carlton-de-lille-dsk-relaxe-l-instruction-condamnee_4653493_1653578.html)
 
-* <a id="demontg2016independ"></a>[Éric DE MONTGOLFIER - L'indépendance des juges, cette Arlésienne de la République](https://www.lepoint.fr/invites-du-point/eric-de-montgolfier/de-montgolfier-l-independance-des-juges-cette-arlesienne-de-la-republique-02-04-2016-2029548_1451.php)
+* <a id="louvelache"></a> [Bertrand LOUVEL, 1er président magistrat de France « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
+
+* <a id="candau2016medias"></a>[Sur Médiapart: Réformer une justice malade (2/3). La grande misère de la justice](https://www.dailymotion.com/video/x2spq5t)
+
+    > Seules 200 des 15000 infractions sont effectivement utilisés (Yves Charpenel au temps 18:20)
+
+* <a id="demontg2016independ"></a>[📰Éric DE MONTGOLFIER - L'indépendance des juges, cette Arlésienne de la République](https://www.lepoint.fr/invites-du-point/eric-de-montgolfier/de-montgolfier-l-independance-des-juges-cette-arlesienne-de-la-republique-02-04-2016-2029548_1451.php)
 
 * <a id="lecoq2017justice"></a>[🕮Vincent LE COQ : Impunités: justice à deux vitesses](https://www.nouveau-monde.net/catalogue/impunites/)
 
@@ -259,7 +467,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 * <a id="gonzales2017hatvp"></a>📰[Jean-Louis NADAL: Haute autorité pour la transparence: "La lutte contre la corruption est trop morcelée"](https://www.lefigaro.fr/actualite-france/2017/07/09/01016-20170709ARTFIG00146-nadal-la-lutte-contre-la-corruption-est-trop-morcelee.php)
 
-* <a id="liberermagistr"></a>[Vincent LE COQ : contre l'impunités des politiques, urgent de libérer les magistrats](https://www.contrepoints.org/2017/04/07/286320-contre-limpunite-politiques-urgent-de-liberer-magistrats)
+* <a id="liberermagistr"></a>[📝Vincent LE COQ : contre l'impunités des politiques, urgent de libérer les magistrats](https://www.contrepoints.org/2017/04/07/286320-contre-limpunite-politiques-urgent-de-liberer-magistrats)
 
     <details><summary>Procès Carlton: le trafic d'influence était constitué</summary>
     
@@ -1435,6 +1643,8 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 *  <a id="fraisseimpuni"></a>[📰Sivens : le gendarme impliqué dans la mort de Rémi Fraisse ne sera pas jugé au pénal](https://www.francebleu.fr/infos/faits-divers-justice/sivens-le-gendarme-implique-dans-kla-mort-de-remi-fraisse-ne-sera-pas-juge-au-penal-1547738807)
     > La tentative des avocats de la famille de Rémi FRAISSE a échoué : le Conseil Constitutionnel a estimé ce 17 janvier que le gendarme impliqué dans la mort de ce garçon sur le barrage de Sivens (Tarn) en 2014 relevait bien de la justice militaire, et non ordinaire.
 
+* <a id="ft"></a> [Le Monde: tournant pénal dans le droit du travail (affaire des suicides de France Télécom)](https://www.lemonde.fr/idees/article/2019/12/21/proces-france-telecom-un-tournant-dans-le-droit-penal-du-travail_6023715_3232.html)
+
 *  <a id="gonzales2019englues"></a>[📰Englués dans la procédure, les procureurs tentent de justifier l'image négative de la justice](https://www.lefigaro.fr/actualite-france/2019/04/03/01016-20190403ARTFIG00099-englues-dans-la-procedure-les-procureurs-tentent-de-justifier-l-image-negative-de-la-justice.php)
     > La justice sera toujours aux prises d’injonctions contradictoires, accusée tour à tour d’être trop expéditive ou trop lente, trop sévère ou laxiste. Peut-être parce qu’elle ne donne jamais complètement raison à tout le monde.~Jean-François THONY
 
@@ -1480,11 +1690,14 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 </details>
 -->
 
+*  [Le Point: « SPINOSI & SUREAU, moines soldats du droit »](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). 
+    * Voir aussi: [arrêt no 15-81.406 de la cour de cassation](./ordrej#lecoq)
+
 * <a id="morettimalbec"></a>[📰Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
 
 * <a id="bienv2021magistrats"></a>[📰Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
 
-* [📰L'Express: Amiante : "Nous atteindrons bientôt 100 000 morts, mais il n'y a aucun responsable"](https://www.lexpress.fr/actualite/societe/justice/amiante-nous-atteindrons-bientot-100-000-morts-mais-il-n-y-a-aucun-responsable_2091344.html)
+* <a id="amiante"></a>[📰L'Express: Amiante : "Nous atteindrons bientôt 100 000 morts, mais il n'y a aucun responsable"](https://www.lexpress.fr/actualite/societe/justice/amiante-nous-atteindrons-bientot-100-000-morts-mais-il-n-y-a-aucun-responsable_2091344.html)
 
 * <a id="tourbe2019ordre"></a>[📰Abus sexuels non sanctionnés, erreurs dans les comptes: ce rapport qui accable l'ordre des médecins](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
 
@@ -1544,10 +1757,9 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
     > Affaire Elf a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées.~Eva JOLY
     
-    <details><summary>00:00:00</summary>
-    
+    <details><summary>00:00:00 </summary>
     🚧 SOIGNER
-    
+
     * Eva JOLY 
     On a vu la lutte dans les pays développés s'organiser. Institutions qui étaient obligatoires selon les conventions internationales: ONU 2003, OCDE, ou UE. Peut à peu, structures se sont mises en place. Est-ce que pour autant cette lutte est efficace? La France est un cas de figure intéressant
     
@@ -1588,6 +1800,25 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     🚧 COMPLÉTER
     </details>
 
+* <a id="bastuck2021halimi"></a>[Nicolas BASTUCK P/ Le Point: « Sarah HALIMI: la juge d'instruction en GAV »](https://www.tribunejuive.info/2021/11/27/nicolas-bastuck-sarah-halimi-la-juge-dinstruction-en-garde-a-vue-a-lassemblee/)
+   <details><summary>Commentaire</summary>
+   
+   Un gardé à vue qui a su garder ses cartes: 2h30 pour faire une perçée sur le réquisitoire supplétif (circ. aggravante d'antisémitisme), soit 10m avant la fin.
+   </details>
+
+* <a id="elina2022conseil"></a> [Tribune dans Le Monde : pour un contrôle véritable des candidatures au Conseil constitutionnel](https://www.lemonde.fr/idees/article/2022/02/18/pour-un-controle-veritable-des-candidatures-au-conseil-constitutionnel_6114194_3232.html)
+
+    > Alors que les noms de Jacqueline GOURAULT, Véronique MALBEC et François SENERS viennent d’être proposés pour rejoindre l’institution, la juriste Elina LEMAIRE appelle le Parlement à vérifier les compétences juridiques et l’exemplarité des candidats.
+
+* <a id="bastuck2022deni"></a>[Nicolas BASTUCK P/ Le Point : « Sarah HALIMI: Un rapport qui louvoie et pratique le déni »](https://infojmoderne.com/2022/01/13/affaire-sarah-halimi-un-rapport-qui-louvoie-et-pratique-le-deni/)
+
+   <details><summary>Extrait</summary>
+   
+   > Le 19 décembre 2019, la chambre de l’instruction de la cour d’appel de Paris a « imputé » à Kobili Traoré le « meurtre » de Sarah HALIMI, tout en le déclarant pénalement irresponsable, sur le fondement de l’article 122-1 du Code pénal et sur la base de deux expertises psychiatriques – celle du Dr Zagury, la première à avoir été ordonnée, avait conclu au contraire à une simple altération de son discernement, ce qui aurait pu ouvrir la voie à un procès.
+   
+   > François PUPPONI, député (MODEM) du Val-d’Oise et ancien maire de Sarcelles, lui aussi présent à la conférence de presse, évoque à son tour « toute une liste d’oublis et d’inexactitudes » dans le rapport final, dont la première préconisation est de limiter les pouvoirs des… commissions d’enquête parlementaire. 
+   
+   </details>
 
 ## Synthèse
 ### Affaire Elf
