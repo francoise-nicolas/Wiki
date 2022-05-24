@@ -15,7 +15,7 @@
 | 📺 | Média |
 |✍ | Opinion écrite |
 | 📰 | Presse |
-| 📄 | Publication faisant autorité (institutionnel, académique) |
+| 📄 | Publication (institutionnel, académique) |
 | ↳ | Renvoi |
 
 

@@ -29,8 +29,32 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 
 ### 2007-2012
 
-* <a id="colonna"></a> 2011 🕮[De Vincent LE COQ, « Yvan COLONNA, anathomie d'un procès truqué »](https://books.google.com/books?id=bWViHTyKsNMC&pg=PT1&lpg=PT1&dq=yvan+colonna+anatomie+d%27un+proc%C3%A8s+truqu%C3%A9+vincent+le+coq&source=bl&ots=HdTpJOZnGL&sig=ACfU3U1IjMhOH0vt3sNv9elFgqDoSx63Dw&hl=en&sa=X&ved=2ahUKEwin0aLHxaz2AhXtTN8KHbQyAeA4FBDoAXoECCQQAw#v=onepage&q=yvan%20colonna%20anatomie%20d'un%20proc%C3%A8s%20truqu%C3%A9%20vincent%20le%20coq&f=false)
+*  [🗣Affaire Elf: ITW de Loïc LE FLOCH PRIGENT](https://www.challenges.fr/entreprise/l-affaire-elf-en-resume_388898)
 
+    <details><summary>Extrait</summary>
+    
+    > En créant Elf à côté de Total, les gaullistes voulaient un véritable bras séculier d'État, en particulier en Afrique (...). 
+    > Une sorte d'officine de renseignements dans les pays pétroliers. Sous la présidence de François Mitterrand, le système est resté managé par André TARALLO (P-DG d'Elf Gabon), en liaison avec les milieux gaullistes (...). Les deux têtes de pont étaient Jacques CHIRAC et Charles PASQUA (...). <!-- L'argent du pétrole est là, il y en a pour tout le monde. (...)
+    Un grand nombre de personnes au sein de l'État étaient parfaitement au courant des sommes en jeu et des dangers de cette procédure. Tous les présidents de la République, tous les secrétaires généraux étaient informés des montants et des pays destinataires. Les ministres des Finances étaient également au courant des détails les plus importants. --> 
+    > Au final, pour chaque opération, une quarantaine de personnes savaient tout, et en temps réel (...). Sur ce sujet, pas un homme politique, pas un, ne peut jouer les Saint-Just. Ça suffit. (...)
+    > L'affaire Elf ne porte pas sur les années 1989-1993 mais sur la période 1973-2001. On ne peut réellement le comprendre qu'à la lumière des relations complexes entre la société pétrolière, le pouvoir politique en place et les différents États concernés. 
+    > Complexité réelle, mais dont la finalité est simple en ce qui concerne le continent africain : 
+    > Elf fut et reste une pièce essentielle du dispositif néo-colonial mis en place par Paris, 
+    > quelques années après les indépendances, 
+    > afin de maintenir sa tutelle économique et politique sur les pays de son ancien pré carré formellement émancipés. 
+    > Les "soleils des indépendances", pour reprendre le titre de l'écrivain africain Ahmadou KOURAMA, étaient par avance brouillés.
+    </details>
+    
+* [??Thierry JEAN-PIERRE à Thierry ARDISON : « L'affaire [Elf] aurait dû être une grosse affaire si elle avait été à son terme »](https://www.ina.fr/video/I09006953)
+    
+* <a id="colonna"></a> [🕮De Vincent LE COQ, « Yvan COLONNA, anathomie d'un procès truqué »](https://books.google.com/books?id=bWViHTyKsNMC&pg=PT1&lpg=PT1&dq=yvan+colonna+anatomie+d%27un+proc%C3%A8s+truqu%C3%A9+vincent+le+coq&source=bl&ots=HdTpJOZnGL&sig=ACfU3U1IjMhOH0vt3sNv9elFgqDoSx63Dw&hl=en&sa=X&ved=2ahUKEwin0aLHxaz2AhXtTN8KHbQyAeA4FBDoAXoECCQQAw#v=onepage&q=yvan%20colonna%20anatomie%20d'un%20proc%C3%A8s%20truqu%C3%A9%20vincent%20le%20coq&f=false)
+
+* [📄Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
+
+   <details><summary>Synthèse </summary>
+   
+   🚧
+   </details>
 
 * <a id="lecoq2011manifeste"></a>[🕮De Vincent LE COQ, Manifeste c. les notaires](https://maxmilo.com/products/manifeste-contre-les-notaires)
 
@@ -43,14 +67,14 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 
     <details><summary>Verso de couverture</summary>
     
-    > L’observation minutieuse des relations entre la grande distribution et l’État, révèle l’intelligence des acteurs des grandes enseignes à tirer parti de la corruption des élites : la grande distribution a financé la vie politique française.  En contrepartie, celle-ci l’a favorisée systématiquement au détriment des petits commerçants, mais aussi des paysans, des producteurs en général, de la santé des consommateurs et plus généralement de notre modèle social lui-même. ([Vincent LE COQ sur le « toujours moins cher »](bib.md#moinscher), verso de couverture)
+    > L’observation minutieuse des relations entre la grande distribution et l’État, révèle l’intelligence des acteurs des grandes enseignes à tirer parti de la corruption des élites : la grande distribution a financé la vie politique française.  En contrepartie, celle-ci l’a favorisée systématiquement au détriment des petits commerçants, mais aussi des paysans, des producteurs en général, de la santé des consommateurs et plus généralement de notre modèle social lui-même.
     </details>
 
 ### 2012-2017
 
 * <a id="demontg2014morale"></a>[🕮Éric DE MONTGOLFIER: Une morale pour les aigles, une autre pour les pigeons](http://michel-lafon.fr/livre/1450-Une_morale_pour_les_aigles_une_autre_pour_les_pigeons.html)
 
-### <a id="jl2014"></a>📄Rapport: Les Justiciables face au Service public de la justice
+* <a id="jl2014"></a>📄Rapport: Les Justiciables face au Service public de la justice
     <details><summary>Information</summary>
     
     * Sponsor: [le député Jean Lassalle](https://twitter.com/jeanlassalle)
@@ -70,7 +94,30 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
     </details>
 
 * <a id="denoel2014histoire"></a> [🕮De DENOËL et GUARRIGUES, Histoire secrète de la corruption sous la Vè](https://www.nouveau-monde.net/catalogue/histoire-secrete-de-la-corruption-sous-la-ve-republique/)
-    * [Leur ITW sur France Inter](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
+
+    <details><summary>Affaire Elf: « Le tribunal veut-il des noms? »</summary>
+        
+    >    La Justice française ne s’est guère montrée curieuse. « Le tribunal
+    >    veut-il des noms ? » lançait en 2003 Le Floch-Prigent à la barre du
+    >    tribunal correctionnel. « Nous n’entendons pas aller au-delà », brise
+    >    alors son président. La piste africaine ? « Tout sauf l’Afrique, ricane
+    >    alors Alfred SIRVEN. Mon Dieu, qu’est-ce qu’ils ont protégé et
+    >    protègent encore ! » Il vise particulièrement PHILIPPE JAFFRÉ, partie
+    >    civile dans l’affaire Elf, et la juge d’instruction Eva JOLY, initialement
+    >    en charge du dossier, en vue de circonscrire l’incendie à une affaire
+    >    Le Floch-SIRVEN. Faute de pouvoir ou vouloir en dire plus, les deux héros
+    >    malheureux ont été condamnés pour le tout à titre personnel. Outre
+    >    des peines de prison ferme, 250 millions d’euros de dommages et
+    >    intérêts à verser sur leurs propres deniers. « Il est peut-être possible
+    >    que ces comptes occultes aient servi à financer des hommes ou des
+    >    partis politiques, français ou étrangers, énonce le jugement. Mais le
+    >    tribunal, qui juge sur des éléments de preuve tangible, ne peut se
+    >    contenter de seules allégations. » L’important patrimoine personnel
+    >    accumulé par le trio Le Floch-SIRVEN-TARALLO, 100 millions de francs
+    >    chacun, suffit à la Justice pour dénoncer leur prévarication.
+    </details>
+
+    * [🗣Leur ITW sur France Inter](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
     > « Les élus sont dans leur majorité honnêtes »
 
 * <a id="trevert2014ronsin"></a>[Xavier RONSIN: L'École nationale de la magistrature n'est pas une fabrique à robots!](https://www.lepoint.fr/societe/xavier-ronsin-l-ecole-nationale-de-la-magistrature-n-est-pas-une-fabrique-a-robots-26-03-2014-1805656_23.php)
@@ -118,7 +165,6 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 
     > Afin de bénéficier de l’effet de légitimation du droit, le procès pénal d’un homme politique se doit d’épouser strictement les formes d’un procès de droit commun. 
     > Toutes les phases sont formellement respectées, mais c’est pour mieux pervertir chacune d’elles. Le procès dégénère alors en une forme vide, puisque depuis la coulisse le pouvoir politique a l’entière maîtrise de la procédure pénale.
-    > ([Vincent LE COQ, 2017](./robenoire.md#lecoq2017justice))
     
     Appellations et variantes:
     * Procès en pointillé
@@ -136,6 +182,20 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
     <!-- La correspondance de Jacques TOUBON est d’autant plus consternante que la France s’est, à l’exemple de la convention de Schengen signée le 19 juin 1990, depuis plusieurs années et dans un souci de simplification des procédures, orientée vers un progressif abandon de la voie ministérielle. Louée et vantée par les différents gouvernements lorsqu’il s’agit de lutter contre l’immigration clandestine, la coopération judiciaire internationale est moins prisée s’agissant de la lutte contre la délinquance en col blanc. -->
     > C’est la revendication explicite d’une justice à deux vitesses qui est tout entière pagese dans la missive de Jacques TOUBON du 4 août 1995.
     > Jacques TOUBON a été nommé par François HOLLANDE défenseur des droits. En cette qualité, il a exprimé son inquiétude au lendemain de la première prolongation de l’état d’urgence. Si les Français l’ignorent peut-être, l’Élysée sait qu’il s’agit seulement d’un jeu de rôle. 
+    </details>
+
+    <details><summary>Affaire Elf: cherchez la femme</summary>
+    
+    Tiré de [Impunités de Vincent LE COQ](./robenoire.md#vlcj2v)
+    
+    >    Eva JOLY et Laurence VICHNIEVSKY sont allées personnellement chercher, sous
+    >    de fausses identités, Alfred SIRVEN jusqu’en Afrique du Sud, où il n’était pas,
+    >    tout en négligeant la piste de sa compagne, VILMA, son ancienne gouvernante.
+    >    Cherchez la femme est, paraît-il, le b-a ba du métier d’enquêteur. Les pieds
+    >    nickelés étaient trois. En plus c’étaient des garçons, donc cela n’a rien à voir.
+    >    Le Monde du 5 janvier 1999 ayant révélé que « l’homme-clé de l’affaire Elf
+    >    n’est recherché à l’étranger que depuis un mois » en raison d’une mauvaise
+    >    gestion des mandats d’arrêt internationaux, Eva JOLY
     </details>
 
 <!-- 
@@ -1306,7 +1366,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 </details>
 -->
 
-* 📁[Anticor 92 reçoit Eva JOLY sur le coût de la corrupion](anticor92joly.md)
+* [📁Anticor 92 reçoit Eva JOLY sur le coût de la corrupion](anticor92joly.md)
 
 
 <!--
@@ -1322,13 +1382,33 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 *  <a id="gonzales2019englues"></a>[📰Englués dans la procédure, les procureurs tentent de justifier l'image négative de la justice](https://www.lefigaro.fr/actualite-france/2019/04/03/01016-20190403ARTFIG00099-englues-dans-la-procedure-les-procureurs-tentent-de-justifier-l-image-negative-de-la-justice.php)
     > La justice sera toujours aux prises d’injonctions contradictoires, accusée tour à tour d’être trop expéditive ou trop lente, trop sévère ou laxiste. Peut-être parce qu’elle ne donne jamais complètement raison à tout le monde.~Jean-François THONY
 
+* [Affaire Elf : quand l’instruction éclabousse la classe politique](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-29-octobre-2019)
+
+    <details><summary>Verbatim 🚧 </summary>
+    
+    Alfred SIRVEN ex n° 2 d'Elf- la méthode: celui par qui passe les transactions ofcultes. 
+    
+    25:00
+    
+    Eva JOLY, mandat d'arrêt international. 18 mois pour que le signalement parvienne à Interpol via la direction centrale de la PJ. À ce moment là, Alfred SIRVEN est très loin.
+    
+    André TARALLO. Lorsqu'elle le convoque en 1997, Eva JOLY souhaite le mettre en examen. Sa hiérarchie lui faire comprendre ... Procureur Jean-Claude MARIN: « Si Tarallo n'est pas libéré, Elf-Gabon sera nationalisé. »
+    
+    [intermission]
+    
+    29:00
+    
+    Volet DUMAS devant le tribunal correctionnel en 2001; présent sa démission du Conseil constitutionnel. Avocat de DEVIERS-JONCOURT: Elf sert de leurre à l'affaire des frégates. 300 M euros de détournement. 30 des 37 prévenus condamnés. 
+    
+    </details>
+
 * <a id="morettimalbec"></a>[📰Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
 
 * <a id="bienv2021magistrats"></a>[📰Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
 
 * [📰L'Express: Amiante : "Nous atteindrons bientôt 100 000 morts, mais il n'y a aucun responsable"](https://www.lexpress.fr/actualite/societe/justice/amiante-nous-atteindrons-bientot-100-000-morts-mais-il-n-y-a-aucun-responsable_2091344.html)
 
-* <a id="tourbe2019ordre"></a>📰[Abus sexuels non sanctionnés, erreurs dans les comptes: ce rapport qui accable l'ordre des médecins](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
+* <a id="tourbe2019ordre"></a>[📰Abus sexuels non sanctionnés, erreurs dans les comptes: ce rapport qui accable l'ordre des médecins](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
 
 <!--
 
@@ -1346,9 +1426,11 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 -->
 
-* <a id="echecADP"></a> Éditorial du Monde: [Privatisation du Groupe ADP : surmonter l’échec du RIP](https://www.lemonde.fr/idees/article/2020/03/12/privatisation-du-groupe-adp-surmonter-l-echec-du-rip_6032740_3232.html)
+* <a id="echecADP"></a> [📰Éditorial du Monde: Privatisation du Groupe ADP : surmonter l’échec du RIP](https://www.lemonde.fr/idees/article/2020/03/12/privatisation-du-groupe-adp-surmonter-l-echec-du-rip_6032740_3232.html)
 
-* <a id="piel2021dumas"></a>[Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de Balladur](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
+* <a id="inespere"><a>[📰« Jacques TOUBON: fin de mandat d'un défenseur des droits inespéreé »](https://www.liberation.fr/france/2020/06/30/jacques-toubon-fin-de-mandat-d-un-defenseur-inespere_1792944/)
+
+* <a id="piel2021dumas"></a>[📰Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de Balladur](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
     <details><summary>Extrait</summary>
 
     > La récente ouverture d’archives de l’institution confirme que les entorses à la loi étaient connues et que la voix de son président, Roland DUMAS, a été prépondérante pour fermer les yeux sur ces irrégularités de la présidentielle de 19 95.
@@ -1366,15 +1448,70 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
    * Recommendation clé: aligner le statut du parquet sur celui du siège
    </details>
 
-* <a id="jolymoretti"></a>[Eva JOLY: la perquisition de DUPOND-MORETTI montre la pertinence du travail d'Anticor](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
+* <a id="jolymoretti"></a>[📰Eva JOLY: la perquisition de DUPOND-MORETTI montre la pertinence du travail d'Anticor](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
 
-* <a id="joly2021revolue"></a>[Eva JOLY: Une époque inquiétante où les puissants étaient protégés, semble enfin révolue](https://www.liberation.fr/societe/police-justice/eva-joly-une-epoque-inquietante-ou-les-puissants-etaient-proteges-semble-enfin-revolue-20210301_RRGTVPALDZGUJCNJEX3AXPNHEA/)
+* <a id="joly2021revolue"></a>[📰Eva JOLY: Une époque inquiétante où les puissants étaient protégés, semble enfin révolue](https://www.liberation.fr/societe/police-justice/eva-joly-une-epoque-inquietante-ou-les-puissants-etaient-proteges-semble-enfin-revolue-20210301_RRGTVPALDZGUJCNJEX3AXPNHEA/)
     <details><summary>Extrait</summary>
 
     > Pour l’ancienne eurodéputée, la condamnation de l’ancien président Nicolas SARKOZY est le signe «que nos institutions fonctionnent».
     </details>
 
-* <a id="joly2021boniface"></a>📁[Pascal BONIFACE reçoit Eva JOLY](jolyboniface.md)
+* <a id="joly2021boniface"></a>[🗣Pascal BONIFACE reçoit Eva JOLY — "Le long combat contre la corruption"](https://blogs.mediapart.fr/pascalboniface/blog/210421/clm-s432-eva-joly-le-long-combat-contre-la-corruption)
+
+    > Affaire Elf a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées.~Eva JOLY
+    
+    <details><summary>00:00:00</summary>
+    
+    🚧 SOIGNER
+    
+    * Eva JOLY 
+    On a vu la lutte dans les pays développés s'organiser. Institutions qui étaient obligatoires selon les conventions internationales: ONU 2003, OCDE, ou UE. Peut à peu, structures se sont mises en place. Est-ce que pour autant cette lutte est efficace? La France est un cas de figure intéressant
+    
+    * Pascal BONIFACE 
+    
+    Vous avez été une actrice importante pour lutter contre la corruption en France.
+    
+    * Eva JOLY 
+    [...] D'une certaine façon l''[enquête sur l']affaire Elf à laquelle vous pensez a été faite par surprise. C'est à dire qu'à l'époque, ceux qui avaient quelque chose à cacher pensaient que la Suisse était un endroit sûr.
+    
+    * Pascal BONIFACE 
+     Peut-être qu'ils pensaient que la justice française n'oserait pas s'attaquer à eux
+    
+    * Eva JOLY 
+    Affaire Elf a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées. Évolution depuis: pas beaucoup d'autres dossiers d'importance.
+    
+    * Pascal BONIFACE 
+     La dissuasion a fonctionné?
+    
+    * Eva JOLY 
+     Non, les délinquants sont plus sophistiqués. C'est surtout qu'on a désarmé les institutions. La brigade financière, ou l'office central de la répression de la grande délinquance financière et fiscale. Effectif diminué. Mais surtout, après CAHUZAC, il y a eu un réveil à raison de l'indignation populaire. François HOLLANDE n'a pas eu le choix, il a créé la haute autorité de la transparence de la vie publique (présidé JL Nadal, qui a bien animé cette institution), avec obligation pour la classe politique de déclarer leur conflits d'intérêts, assortis de sanctions. Sur l'impulsion de l'OCDE, le parquet national financier. Éliane Houlette. Cas intéressant: enquête sur Fillon a déclenché un procès d'intention contre le PNF. La classe politique n'accepte pas l'équité devant la justice. C'est pour ça que l'actuel ministre cherche à jeter le discrédit sur l'institution judiciaire. C'est intolérable.
+    
+    * Pascal BONIFACE
+     Dont il est le garant normalement.
+    
+    * Eva JOLY 
+     Comme le président de la RF, pourtant tous les deux oeuvrent à son affaiblissement.
+    
+    * Pascal BONIFACE 
+     D'un côté de nouvelles institutions, mais réduction des moyens?
+    
+    * Eva JOLY 
+     Oui, il y a une hypocrisie dans tout ça. On sait que l'opinion ne tolère pas la corruption, mais on veut protéger les siens.
+    </details>
+    
+    <details><summary>00:12:30</summary>
+    
+    🚧 COMPLÉTER
+    </details>
+
+
+## Synthèse
+### Affaire Elf
+
+En 2001, Loïk LeFloch-Prigeant déclarait: « L'affaire Elf ne porte pas sur les années 1989-1993 mais sur la période 1973-2001. » Un jugement est intervenu en 2003, le déclarant coupable d’abus de biens sociaux. <!-- à laquelle a succédé la société Total Lubrifiants, à hauteur de 95 000 000 FF, soit 14 482 656 euros. Sur les intérêts civils, M. X a été condamné solidairement avec plusieurs autres personnes à payer à la société Total Lubrifiants la somme principale de 13 795 541 euros, outre intérêts au taux légal, capitalisation des intérêts et indemnités de procédure.--> À la même époque,  Thierry JEAN-PIERRE:  « l'affaire n'est pas allée à son terme ». Et d'après DENOËL et GUARRIGUES (2014), « la justice ne s'est pas montrée curieuse. »
+
+Le magistrat instructeur de cette affaire devenue eurodéputée EELV a fait figure de [ténor du parlement européen sur la lutte c. la corruption](https://www.icrict.com/icrict-in-thenews/2019/5/21/fighting-for-a-europe-of-tax-justice). En 2021, elle [affirmait devant Pascal BONIFACE](https://blogs.mediapart.fr/pascalboniface/blog/210421/clm-s432-eva-joly-le-long-combat-contre-la-corruption)<!-- FAIRE: remplacer lorsqu'il sera prêt, par boniface-joly.md -->,  « L'Affaire Elf a montré que la justice pouvait porter ces dossiers énormes. » La controverse sur un procès en pointillé n'était pas au programme de la [conférence Anticor de 2018](anticor92joly.md), portant sur « le coût de la corruption, » avec pour invités Eva JOLY et Jean GUARRIGUES par qui l'on en connaît l'existence. 
+
 
 ## 🌐
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
