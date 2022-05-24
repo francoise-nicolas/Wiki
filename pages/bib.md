@@ -1,5 +1,6 @@
 # Bibliographie
 
+## Méthode
 Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil. Par exemple, la dénonciation de tel ou tel dysfonctionnement peut-être une demi-vérité, c'est même une technique de manipulation éprouvée. Ce qui fait foi de notre opinion, ce sont nos écrits. Cette bibliographie privilégie des sources que nous avons lues, sur les sujets qui nous préoccuppent:
 * alternatives
 * capture de l'état
@@ -276,7 +277,7 @@ Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de
 
 ### 2007-2012
 
-*  [🗣Affaire Elf: ITW de Loïc LE FLOCH PRIGENT](https://www.challenges.fr/entreprise/l-affaire-elf-en-resume_388898)
+* [🗣Affaire Elf: ITW de Loïc LE FLOCH PRIGENT](https://www.challenges.fr/entreprise/l-affaire-elf-en-resume_388898)
 
     <details><summary>Extrait</summary>
     
@@ -292,7 +293,7 @@ Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de
     > Les "soleils des indépendances", pour reprendre le titre de l'écrivain africain Ahmadou KOURAMA, étaient par avance brouillés.
     </details>
     
-* [??Thierry JEAN-PIERRE à Thierry ARDISON : « L'affaire [Elf] aurait dû être une grosse affaire si elle avait été à son terme »](https://www.ina.fr/video/I09006953)
+* [🗣Thierry JEAN-PIERRE à Thierry ARDISON : « L'affaire [Elf] aurait dû être une grosse affaire si elle avait été à son terme »](https://www.ina.fr/video/I09006953)
     
 * <a id="badinter2007therapie"></a>[✍Robert BADINTER : "Ne pas confondre justice et thérapie"](https://www.lemonde.fr/societe/article/2007/09/08/robert-badinter-ne-pas-confondre-justice-et-therapie_952825_3224.html)
 
@@ -310,8 +311,8 @@ Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de
 * <a id="lecoq2011manifeste"></a>[🕮De Vincent LE COQ, Manifeste c. les notaires](https://maxmilo.com/products/manifeste-contre-les-notaires)
 
     <details><summary>Méconnu</summary>
-    
-    [Le pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) attaque un arrêt favorable aux auteurs du manifeste. Il a été initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droits » (Marie-Laure Delorme pour LE POINT, 2020)](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). Le jugement ne rapporte pas de conclusions des seconds...
+
+    Cf. [pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](./ordrej#lecoq)
     </details>
 
 * <a id="lecoq2012moinscher"></a>[🕮De Vincent LE COQ, Le « toujours moins cher » : à quel prix ?](https://www.yvesmichel.org/livre/le-toujours-moins-cher-a-quel-prix-2/)
@@ -326,6 +327,7 @@ Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de
 * <a id="louvel"></a>[📰Le Monde: Bertrand LOUVEL devient le plus haut magistrat de France](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
 
 * <a id="demontg2014morale"></a>[🕮Éric DE MONTGOLFIER: Une morale pour les aigles, une autre pour les pigeons](http://michel-lafon.fr/livre/1450-Une_morale_pour_les_aigles_une_autre_pour_les_pigeons.html)
+    > Ceux qui ont le pouvoir veulent le conserver, et rendent la justice occulte
 
 * <a id="droitsouple">[📄Rapport du Conseil d'État: le droit souple](https://web.archive.org/web/20151010015516/https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000280.pdf)
 
@@ -339,7 +341,7 @@ Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de
 
    >Force est de constater qu’il y a bien une main mise sur l’arsenal judiciaire par certains agents judiciaires qui bloquent les rouages d’une fonction publique, détournent les règles du droit au profit d’une partie, enlisant ainsi le justiciable dans des procédures coûteuses et sans fin.
 
-* <a id="bercychoc"><a>📰[Les Échos — Professions réglementées : le rapport choc de Bercy](https://www.lesechos.fr/2014/07/professions-reglementees-le-rapport-choc-de-bercy-306721)
+* <a id="bercychoc"><a>📰[Les Échos: Professions réglementées — le rapport choc de Bercy](https://www.lesechos.fr/2014/07/professions-reglementees-le-rapport-choc-de-bercy-306721)
 
     > EXCLUSIF. Un rapport de l’Inspection générale des finances dissèque les situations de rentes dont bénéficient certains métiers. Il préconise des réformes ciblées qui pourraient faire baisser jusqu’à 20 % les prix des services concernés.
     
@@ -372,7 +374,7 @@ Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de
     >    chacun, suffit à la Justice pour dénoncer leur prévarication.
     </details>
 
-    * [🗣Leur ITW sur France Inter](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
+* [🗣France Inter: ITW de Yvonnick De DENOËL](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
     > « Les élus sont dans leur majorité honnêtes »
 
 * <a id="trevert2014ronsin"></a>[📰Xavier RONSIN: L'École nationale de la magistrature n'est pas une fabrique à robots!](https://www.lepoint.fr/societe/xavier-ronsin-l-ecole-nationale-de-la-magistrature-n-est-pas-une-fabrique-a-robots-26-03-2014-1805656_23.php)
