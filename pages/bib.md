@@ -1,13 +1,15 @@
-![img](../_aux/crrfy_Commons.png)
-# Capture de l'état
-
-> Qui sont les plus grandes fortunes de France ? Celles de la grande distribution.~[Vincent LE COQ](whoswho#lecoq)
-
-## 📚
+# Bibliographie
 
 ### 1995-2002
 
 * <a id="monteb1998tribcomm"></a>[Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
+
+    <details><summary>Couverture médiatique</summary>
+ 
+    * [Corruption et malversations aux tribunaux de commerce](https://www.leparisien.fr/faits-divers/corruption-et-malversations-aux-tribunaux-de-commerce-30-07-1998-2000182509.php)
+    >    TROIS semaines après la publication d´un rapport au vitriol sur les tribunaux de commerce, les membres de la commission d´enquête parlementaire dénoncent à la justice une série d´« infractions pénales graves » commises au sein de ces juridictions. Le président et le rapporteur de la commission d´enquête, les députés socialistes François COLOMBET (Allier) et Arnaud MONTEBOURG (Saône-et-Loire), ont donc transmis aux procureurs de la République concernés les faits découverts au fil de leur enquête susceptibles de donner lieu à des poursuites. Les députés ont visité huit tribunaux de commerce en six mois d´un travail qui s´est révélé fructueux puisqu´ils saisissent aujourd´hui la justice de pas moins de neuf dossiers. Il s´agit, à Rennes, de « malversation présumée » et à Agen de « trafic d´influence », ces deux affaires concernant des mandataires de justice. A Pau, les deux députés ont saisi le parquet de faits qualifiables selon eux de « corruption active ». A Dijon, ils préconisent des sanctions disciplinaires contre un mandataire de justice. 
+    </details>
+
 
 ### 2007-2012
 
@@ -22,16 +24,23 @@
 
     <details><summary>Verso de couverture</summary>
     
-    L’observation minutieuse, par les auteurs, des relations entre la grande distribution et l’État, révèle l’intelligence des acteurs des grandes enseignes à tirer parti de la corruption des élites : la grande distribution a financé la vie politique française.
-    
-    En contrepartie, celle-ci l’a favorisée systématiquement au détriment des petits commerçants, mais aussi des paysans, des producteurs en général, de la santé des consommateurs et plus généralement de notre modèle social lui-même.
+    > L’observation minutieuse des relations entre la grande distribution et l’État, révèle l’intelligence des acteurs des grandes enseignes à tirer parti de la corruption des élites : la grande distribution a financé la vie politique française.  En contrepartie, celle-ci l’a favorisée systématiquement au détriment des petits commerçants, mais aussi des paysans, des producteurs en général, de la santé des consommateurs et plus généralement de notre modèle social lui-même. ([Vincent LE COQ sur le « toujours moins cher »](bib.md#moinscher), verso de couverture)
     </details>
 
 ### 2012-2017
 
+* <a id="bercychoc"><a> 📰[Les Échos — Professions réglementées : le rapport choc de Bercy](https://www.lesechos.fr/2014/07/professions-reglementees-le-rapport-choc-de-bercy-306721)
+
+    > EXCLUSIF. Un rapport de l’Inspection générale des finances dissèque les situations de rentes dont bénéficient certains métiers. Il préconise des réformes ciblées qui pourraient faire baisser jusqu’à 20 % les prix des services concernés.
+    
+    <details><summary>Extrait</summary>
+    
+     Plus grave peut-être, le service au client, souvent mis en avant par certaines professions réglementées pour justifier leur niveau de prix, est sérieusement remis en cause par les utilisateurs. D’après un sondage réalisé par l’IGF, un Français sur deux a déjà eu recours à un avocat mais seulement 23 % d’entre deux estiment que le service est de qualité. Pour les administrateurs et mandataires judiciaires, le nombre des clients insatisfait grimpe à plus d’un sur deux.
+    </details>
+
 * <a id="lecoq2017vichy"></a>[🕮Vincent LE COQ: les notaires sous l'occupation](https://www.tribunejuive.info/2017/10/17/shoah-les-notaires-spoliateurs-des-biens-juifs/)
 
-    <details><summary>Aperçu Amazon</summary>
+    <details><summary>Extrait (Amazon)</summary>
     
     Page 2:
     
@@ -1149,39 +1158,10 @@
 </details>
 -->
 
-## 📰
+* <a id="tourbe2019ordre"></a>📰[Abus sexuels non sanctionnés, erreurs dans les comptes: ce rapport qui accable l'ordre des médecins](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
 
-### 1995-2002
+* <a id="omsyndic"></a>📰[Des syndicats de patients demandent la suppression de l'ordre des médecins](https://www.ouest-france.fr/sante/des-syndicats-et-patients-demandent-la-dissolution-de-l-ordre-des-medecins-7180685)
 
-* <a id="maurel1998tribcomm"></a>[Corruption et malversations aux tribunaux de commerce](https://www.leparisien.fr/faits-divers/corruption-et-malversations-aux-tribunaux-de-commerce-30-07-1998-2000182509.php)
-
-    <details><summary>Extrait</summary>
-    
-    TROIS semaines après la publication d´un rapport au vitriol sur les tribunaux de commerce, les membres de la commission d´enquête parlementaire dénoncent à la justice une série d´« infractions pénales graves » commises au sein de ces juridictions. Le président et le rapporteur de la commission d´enquête, les députés socialistes François COLOMBET (Allier) et Arnaud MONTEBOURG (Saône-et-Loire), ont donc transmis aux procureurs de la République concernés les faits découverts au fil de leur enquête susceptibles de donner lieu à des poursuites. Les députés ont visité huit tribunaux de commerce en six mois d´un travail qui s´est révélé fructueux puisqu´ils saisissent aujourd´hui la justice de pas moins de neuf dossiers. Il s´agit, à Rennes, de « malversation présumée » et à Agen de « trafic d´influence », ces deux affaires concernant des mandataires de justice. A Pau, les deux députés ont saisi le parquet de faits qualifiables selon eux de « corruption active ». A Dijon, ils préconisent des sanctions disciplinaires contre un mandataire de justice.
-    </details>
-
-### 2012-2017
-* <a id="deputesmed"></a>[Les députés médecins, enquête dans un petit monde](https://www.lexpress.fr/actualite/politique/les-deputes-medecins-enquete-dans-un-petit-monde_1288775.html?utm_source=pocket_mylist)
-
-* <a id="bercychoc"><a> [Les Échos — Professions réglementées : le rapport choc de Bercy](https://www.lesechos.fr/2014/07/professions-reglementees-le-rapport-choc-de-bercy-306721)
-
-    > EXCLUSIF. Un rapport de l’Inspection générale des finances dissèque les situations de rentes dont bénéficient certains métiers. Il préconise des réformes ciblées qui pourraient faire baisser jusqu’à 20 % les prix des services concernés.
-    
-    <details><summary>Extrait</summary>
-    
-     Plus grave peut-être, le service au client, souvent mis en avant par certaines professions réglementées pour justifier leur niveau de prix, est sérieusement remis en cause par les utilisateurs. D’après un sondage réalisé par l’IGF, un Français sur deux a déjà eu recours à un avocat mais seulement 23 % d’entre deux estiment que le service est de qualité. Pour les administrateurs et mandataires judiciaires, le nombre des clients insatisfait grimpe à plus d’un sur deux.
-    </details>
-
-* <a id="garconelite"></a> [Des élites fondamentalement féodales et de surcroît incompétentes » - Entretien avec Dr. François Garçon](https://www.linkedin.com/pulse/des-%C3%A9lites-fondamentalement-f%C3%A9odales-et-de-surcro%C3%AEt-fiorina)
-
-### 2017-2022
-
-* <a id="tourbe2019ordre"></a>[Abus sexuels non sanctionnés, erreurs dans les comptes: ce rapport qui accable l'ordre des médecins](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
-
-* <a id="omsyndic"></a>[Des syndicats de patients demandent la suppression de l'ordre des médecins](https://www.ouest-france.fr/sante/des-syndicats-et-patients-demandent-la-dissolution-de-l-ordre-des-medecins-7180685)
 
 ## 🌐
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
-
----
-[Photo](attrib.md#crrfy)

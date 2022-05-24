@@ -10,6 +10,16 @@
     2. Refus de communication de son dossier médical
 
 ## 📜
+### 2009-12-01 — NICOLAS — Mise en demeure 
+<details>
+  <summary>Info</summary>
+
+* Destinataire: MAE
+* [dossier](../pieces/identifiant/a9f17cba)
+<!-- vérifié / lawfare -->
+</details>
+
+
 ### 2010-03-10 — Avocat — Notification de délai
 <details>
   <summary>Info</summary>
@@ -25,6 +35,7 @@
 
 🚧 Le jour de la date
 * [dossier](../pieces/identifiant/1dae248)
+<!-- vérifié / lawfare -->
 </details>
 
 ### 2011-09-17 — Demandeur — Pourvoi
@@ -40,5 +51,3 @@
 
 * [dossier](../pieces/identifiant/3a2e1c64)
 </details>
-
-## ⚖️
