@@ -92,6 +92,11 @@ Requête devant le Défenseur des droits.
 * [Minutes](../pieces/identifiant/17dee7ea)
 </details>
 
+## ⚖
+### <a id="sapin2"></a>Loi Sapin 2
+* [AN](https://www.assemblee-nationale.fr/14/dossiers/transparence_lutte_corruption_economie.asp)
+
+
 ## Voir aussi
 * [Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)
 * [Défenseur des Droits](ddd.md)

@@ -1,22 +1,36 @@
 # Bibliographie
 
-Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil. Par exemple, la dénonciation de tel ou tel dysfonctionnement peut-être une demi-vérité, c'est même une technique de manipulation éprouvée. Ce qui fait foi de notre opinion, ce sont nos écrits. Cette bibliographie privilégie des sources que nous avons lues, et/ou sur lesquelles nous avons écrit, ou envisageons de le faire. 
+Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil. Par exemple, la dénonciation de tel ou tel dysfonctionnement peut-être une demi-vérité, c'est même une technique de [🎭](signal.md) éprouvée. Ce qui fait foi de notre opinion, ce sont nos écrits. Cette bibliographie privilégie des sources que nous avons lues (certains qui ne le sont pas sont cachées dans le fichier source), sur les sujets qui nous préoccuppent:
+* alternatives
+* magistrature
+* capture de l'état
+* démocratie
+* déni de justice
 
 ## 📚
 ### 1995-2002
 
-* <a id="monteb1998tribcomm"></a>[Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
+* <a id="monteb1998tribcomm"></a>[📄Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
 
-    <details><summary>Couverture médiatique</summary>
- 
-    * [Corruption et malversations aux tribunaux de commerce](https://www.leparisien.fr/faits-divers/corruption-et-malversations-aux-tribunaux-de-commerce-30-07-1998-2000182509.php)
+* [📰Le Parisien: Corruption et malversations aux tribunaux de commerce](https://www.leparisien.fr/faits-divers/corruption-et-malversations-aux-tribunaux-de-commerce-30-07-1998-2000182509.php)
     >    TROIS semaines après la publication d´un rapport au vitriol sur les tribunaux de commerce, les membres de la commission d´enquête parlementaire dénoncent à la justice une série d´« infractions pénales graves » commises au sein de ces juridictions. Le président et le rapporteur de la commission d´enquête, les députés socialistes François COLOMBET (Allier) et Arnaud MONTEBOURG (Saône-et-Loire), ont donc transmis aux procureurs de la République concernés les faits découverts au fil de leur enquête susceptibles de donner lieu à des poursuites. Les députés ont visité huit tribunaux de commerce en six mois d´un travail qui s´est révélé fructueux puisqu´ils saisissent aujourd´hui la justice de pas moins de neuf dossiers. Il s´agit, à Rennes, de « malversation présumée » et à Agen de « trafic d´influence », ces deux affaires concernant des mandataires de justice. A Pau, les deux députés ont saisi le parquet de faits qualifiables selon eux de « corruption active ». A Dijon, ils préconisent des sanctions disciplinaires contre un mandataire de justice. 
-    </details>
 
 * <a id="coignard1999omerta"></a> [🕮Sophie COIGNARD et Alexandre WICKHAM: L'omertà française](https://bibliotheques-numeriques.defense.gouv.fr/bibliotheque-ader/document/ac00740d-45fe-4dee-8bdb-20e201bc1178)
 
+* [📰Le Monde: Un juge s'en va](https://www.lemonde.fr/archives/article/2005/01/29/un-juge-s-en-va_396132_1819218.html)
+
+    > Jusqu'au 17  janvier, Laurent Lèguevaque était juge d'instruction à Tours. En démissionnant, fait très rare dans la magistrature, ce franc-tireur de 38  ans entend dénoncer les raideurs du monde judiciaire. 
+
+<!--
+
+* <a id="halphen2002sept"></a> [🕮Eric HALPHEN: Sept ans de solitude](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-documents/Sept-ans-de-solitude)
+
+-->
 
 ### 2007-2012
+
+* <a id="colonna"></a> 2011 🕮[De Vincent LE COQ, « Yvan COLONNA, anathomie d'un procès truqué »](https://books.google.com/books?id=bWViHTyKsNMC&pg=PT1&lpg=PT1&dq=yvan+colonna+anatomie+d%27un+proc%C3%A8s+truqu%C3%A9+vincent+le+coq&source=bl&ots=HdTpJOZnGL&sig=ACfU3U1IjMhOH0vt3sNv9elFgqDoSx63Dw&hl=en&sa=X&ved=2ahUKEwin0aLHxaz2AhXtTN8KHbQyAeA4FBDoAXoECCQQAw#v=onepage&q=yvan%20colonna%20anatomie%20d'un%20proc%C3%A8s%20truqu%C3%A9%20vincent%20le%20coq&f=false)
+
 
 * <a id="lecoq2011manifeste"></a>[🕮De Vincent LE COQ, Manifeste c. les notaires](https://maxmilo.com/products/manifeste-contre-les-notaires)
 
@@ -34,9 +48,101 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 
 ### 2012-2017
 
+* <a id="demontg2014morale"></a>[🕮Éric DE MONTGOLFIER: Une morale pour les aigles, une autre pour les pigeons](http://michel-lafon.fr/livre/1450-Une_morale_pour_les_aigles_une_autre_pour_les_pigeons.html)
+
+### <a id="jl2014"></a>📄Rapport: Les Justiciables face au Service public de la justice
+    <details><summary>Information</summary>
+    
+    * Sponsor: [le député Jean Lassalle](https://twitter.com/jeanlassalle)
+    * Auteur: Nadya Saidi & [Antoine Fontaine](https://antoinefontaine.re/)
+    * [pdf](../pieces/identifiant/56739858)
+    </details>
+
+   >Force est de constater qu’il y a bien une main mise sur l’arsenal judiciaire par certains agents judiciaires qui bloquent les rouages d’une fonction publique, détournent les règles du droit au profit d’une partie, enlisant ainsi le justiciable dans des procédures coûteuses et sans fin.
+
+* <a id="bercychoc"><a>📰[Les Échos — Professions réglementées : le rapport choc de Bercy](https://www.lesechos.fr/2014/07/professions-reglementees-le-rapport-choc-de-bercy-306721)
+
+    > EXCLUSIF. Un rapport de l’Inspection générale des finances dissèque les situations de rentes dont bénéficient certains métiers. Il préconise des réformes ciblées qui pourraient faire baisser jusqu’à 20 % les prix des services concernés.
+    
+    <details><summary>Extrait</summary>
+    
+     Plus grave peut-être, le service au client, souvent mis en avant par certaines professions réglementées pour justifier leur niveau de prix, est sérieusement remis en cause par les utilisateurs. D’après un sondage réalisé par l’IGF, un Français sur deux a déjà eu recours à un avocat mais seulement 23 % d’entre deux estiment que le service est de qualité. Pour les administrateurs et mandataires judiciaires, le nombre des clients insatisfait grimpe à plus d’un sur deux.
+    </details>
+
+* <a id="denoel2014histoire"></a> [🕮De DENOËL et GUARRIGUES, Histoire secrète de la corruption sous la Vè](https://www.nouveau-monde.net/catalogue/histoire-secrete-de-la-corruption-sous-la-ve-republique/)
+    * [Leur ITW sur France Inter](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
+    > « Les élus sont dans leur majorité honnêtes »
+
+* <a id="trevert2014ronsin"></a>[Xavier RONSIN: L'École nationale de la magistrature n'est pas une fabrique à robots!](https://www.lepoint.fr/societe/xavier-ronsin-l-ecole-nationale-de-la-magistrature-n-est-pas-une-fabrique-a-robots-26-03-2014-1805656_23.php)
+
+* <a id="carage2015demontg"></a>[DE MONTGOLFIER, pas un pigeon](https://www.ledauphine.com/ardeche/2015/02/02/de-montgolfier-pas-un-pigeon)
+    > Pour enrayer cette corruption, Éric DE MONTGOLFIER souhaite simplifier les règles « trop complexes » de la justice. 
+    > « Ceux qui ont le pouvoir veulent le conserver, et rendent la justice occulte. » Pour lui, la population doit « se sortir de cette position de pigeon, sans toutefois devenir un aigle »
+
 * <a id="decrop2015carlton"></a>[Xavier DECROP (référent Anticor) : « Procès Carlon: cherchez l'erreur »](https://www.bvoltaire.fr/proces-carlton-cherchez-lerreur/)
 
 * <a id="diard2015dsk"></a>[Pascale Robert-DIARD pour Le Monde : « Carlton de Lille: DSK relaxé, l'instruction condamnée »](https://www.lemonde.fr/police-justice/article/2015/06/13/carlton-de-lille-dsk-relaxe-l-instruction-condamnee_4653493_1653578.html)
+
+* <a id="demontg2016independ"></a>[Éric DE MONTGOLFIER - L'indépendance des juges, cette Arlésienne de la République](https://www.lepoint.fr/invites-du-point/eric-de-montgolfier/de-montgolfier-l-independance-des-juges-cette-arlesienne-de-la-republique-02-04-2016-2029548_1451.php)
+
+* <a id="lecoq2017justice"></a>[🕮Vincent LE COQ : Impunités: justice à deux vitesses](https://www.nouveau-monde.net/catalogue/impunites/)
+
+    <details>
+      <summary><a id="nullement"></a>Les magistrats sont de simples exécutants</summary>
+    
+    > Il existe un profond malentendu entre les justiciables et les magistrats dont s’honore notre pays sur la mission de ces derniers. 
+    > Les Français croient que les décisions de justice sont rendues pour rétablir le droit, 
+    > alors que les magistrats sont dès leur plus jeune âge pénétrés de la conviction que leur mission principale est la préservation de l’ordre établi. 
+    > Or, « lorsque les magistrats enquêtent sur le pouvoir, ils dérèglent l’ordre des choses13 ».
+    > L’ordre public est incontestablement troublé par une infraction commise par la France « d’en bas » et il convient donc de sanctionner l’infracteur vite et fort. 
+    > À l’inverse, lorsque l’indélicat appartient à la France « d’en haut », 
+    > ce n’est pas l’illégalité commise qui remet en cause l’équilibre de la société que les magistrats ont mission de défendre mais sa sanction. 
+    > Il est donc du plus haut intérêt d’innocenter judiciairement l’important. 
+    > La question de savoir s’il est ou non coupable des faits délictueux qui lui sont reprochés n’a évidemment,
+    > au regard de cet objectif supérieur, aucune importance. 
+    > Cette attitude de la justice,
+    > qui peut découler de l’opinion que les magistrats ont de leur fonction, 
+    > est solidement renforcée en France par la circonstance que les hommes politiques maîtrisent, 
+    > non seulement l’ensemble des phases de la procédure pénale grâce au parquet, 
+    > mais par les nominations la carrière des magistrats appelés à les juger.
+    > Quelle légitimité aurait le jugement de relaxe d’Al Capone rendu par un tribunal composé de juges préalablement nommés par Al Capone ? 
+    > Je sais, je force le trait.
+    > Les décisions judiciaires prises à l’encontre des hommes politiques sont donc le résultat mécanique d’une réalité simple, mais soigneusement occultée par les décideurs publics. 
+    > Les magistrats sont de simples exécutants, nullement les décideurs. 
+    > Voilà pourquoi, le lendemain même de la demande par le parquet de son renvoi devant un tribunal correctionnel dans l’affaire Bygmalion, Nicolas SARKOZY pouvait assurer sereinement : « Pour moi, les non-lieux passent, le train continue. »
+    >  L’annonce du renvoi d’un ancien président de la République intervient certes à la veille de la primaire à droite, 
+    > mais aussi pile au moment où un ancien ministre du Budget doit répondre de fraude fiscale. N’est-ce pas la preuve la plus manifeste de l’indépendance de la justice ?
+    </details>
+
+    <details><summary><a id="japparences"></a>Le jeu des apparences</summary>
+
+    > Afin de bénéficier de l’effet de légitimation du droit, le procès pénal d’un homme politique se doit d’épouser strictement les formes d’un procès de droit commun. 
+    > Toutes les phases sont formellement respectées, mais c’est pour mieux pervertir chacune d’elles. Le procès dégénère alors en une forme vide, puisque depuis la coulisse le pouvoir politique a l’entière maîtrise de la procédure pénale.
+    > ([Vincent LE COQ, 2017](./robenoire.md#lecoq2017justice))
+    
+    Appellations et variantes:
+    * Procès en pointillé
+    * Jeu de bonneteau
+    * Foire d'empoigne
+    
+    > Toutes les phases sont formellement respectées, mais c’est pour mieux pervertir chacune d’elles. Le procès dégénère alors en une forme vide, puisque depuis la coulisse le pouvoir politique a l’entière maîtrise de la procédure pénale.
+    > Les hommes et femmes politiques ont rapidement compris le tort que font par leur répétition même ces « affaires » à la classe politique dans son ensemble. 
+    > Les naïfs qui ont espéré que la classe politique estimerait nécessaire d’éradiquer la corruption qui sévit à l’état endémique en son sein en seront pour leurs illusions. Les décideurs politiques ont préféré, sur le plan de la communication, nier l’ampleur de la fraude et, sur le plan pratique, se protéger de la justice, au moyen de techniques d’étouffement aujourd’hui éprouvées. L’alliance des deux aboutit à favoriser la perpétuation des mauvaises habitudes et ne peut qu’aggraver la défiance de l’opinion publique vis-à-vis des hommes politiques.
+    </details>
+
+    <details><summary><a id="obstacle-toubon"></a>Un obstacle nommé Jacques TOUBON</summary>
+    
+    > Précisément au moment où les juges d’instruction français et leurs homologues suisses commençaient à révéler l’existence du recours par les partis politiques à des financements occultes aboutissant sur des comptes en Suisse, le ministre de la Justice Jacques TOUBON s'inquiétait auprès de son homologue suisse, Arnold Koller,  de l’usage « excessivement fréquent » de la procédure d’urgence entre les juges d’instruction français et suisses, qui aurait pour effet «de vider les procédures normales de leur pages » et de porter atteinte au « respect des garanties voulues par la convention au bénéfice des justiciables et des droits de la défense ». « Parvenue en Suisse, la lettre surprend et atterrit – miraculeusement – sur le bureau d’un journaliste qui la publie le lendemain.»
+    <!-- La correspondance de Jacques TOUBON est d’autant plus consternante que la France s’est, à l’exemple de la convention de Schengen signée le 19 juin 1990, depuis plusieurs années et dans un souci de simplification des procédures, orientée vers un progressif abandon de la voie ministérielle. Louée et vantée par les différents gouvernements lorsqu’il s’agit de lutter contre l’immigration clandestine, la coopération judiciaire internationale est moins prisée s’agissant de la lutte contre la délinquance en col blanc. -->
+    > C’est la revendication explicite d’une justice à deux vitesses qui est tout entière pagese dans la missive de Jacques TOUBON du 4 août 1995.
+    > Jacques TOUBON a été nommé par François HOLLANDE défenseur des droits. En cette qualité, il a exprimé son inquiétude au lendemain de la première prolongation de l’état d’urgence. Si les Français l’ignorent peut-être, l’Élysée sait qu’il s’agit seulement d’un jeu de rôle. 
+    </details>
+
+<!-- 
+
+En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-en-Provence aurait financé une partie de la villa de son beau-père, située sur les hauteurs de Saint-Antonin-sur-Bayon, avec l'argent de la municipalité. Le couple Joissains dénonce alors une brigue « politico-médiatique » menée par le clan du maire de Marseille et ministre de l'Intérieur de l'époque, Gaston Defferre. Alain Joissains a été condamné à deux ans de prison avec sursis pour « recel d’abus de biens sociaux » À la suite de la victoire de son épouse, Maryse Joissains-Masini, aux élections municipales de 2001, il est nommé directeur de cabinet du maire d'Aix-en-Provence. Fin 2008, Alain Joissains prend sa retraite, conséquence de l'annulation de son contrat par le tribunal administratif de Marseille pour rémunération excessive. Le 31 décembre 2001, Maryse Joissains-Masini est nommée chevalier dans l'ordre national de la Légion d'honneur pour ses 31 ans d'activités professionnelles et de fonctions électives. En 2020, elle a été condamnée par la Cour d'appel de Montpellier sur renvoi de la Cour de cassation après une première condamnation. Leur fille, Sophie Joissains, est adjointe au maire d'Aix-en-Provence et sénatrice des Bouches-du-Rhône depuis octobre 2008. 
+
+-->
 
 * <a id="gonzales2017hatvp"></a>📰[Jean-Louis NADAL: Haute autorité pour la transparence: "La lutte contre la corruption est trop morcelée"](https://www.lefigaro.fr/actualite-france/2017/07/09/01016-20170709ARTFIG00146-nadal-la-lutte-contre-la-corruption-est-trop-morcelee.php)
 
@@ -52,19 +158,6 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 * <a id="latour2013corrup"></a> [Rapport: La lutte contre la corruption en France](https://www.dlavocats.com/medias/org-4115/shared/la-lutte-contre-la-corruption-en-france---ouvrage-nume--rise--.pdf?utm_source=pocket_mylist)
 
 -->
-
-* <a id="bercychoc"><a> 📰[Les Échos — Professions réglementées : le rapport choc de Bercy](https://www.lesechos.fr/2014/07/professions-reglementees-le-rapport-choc-de-bercy-306721)
-
-    > EXCLUSIF. Un rapport de l’Inspection générale des finances dissèque les situations de rentes dont bénéficient certains métiers. Il préconise des réformes ciblées qui pourraient faire baisser jusqu’à 20 % les prix des services concernés.
-    
-    <details><summary>Extrait</summary>
-    
-     Plus grave peut-être, le service au client, souvent mis en avant par certaines professions réglementées pour justifier leur niveau de prix, est sérieusement remis en cause par les utilisateurs. D’après un sondage réalisé par l’IGF, un Français sur deux a déjà eu recours à un avocat mais seulement 23 % d’entre deux estiment que le service est de qualité. Pour les administrateurs et mandataires judiciaires, le nombre des clients insatisfait grimpe à plus d’un sur deux.
-    </details>
-
-* <a id="denoel2014histoire"></a> [🕮De DENOËL et GUARRIGUES, Histoire secrète de la corruption sous la Vè](https://www.nouveau-monde.net/catalogue/histoire-secrete-de-la-corruption-sous-la-ve-republique/)
-    * [Leur ITW sur France Inter](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
-    > « Les élus sont dans leur majorité honnêtes »
 
 * <a id="lecoq2017vichy"></a>[🕮Vincent LE COQ: les notaires sous l'occupation](https://www.tribunejuive.info/2017/10/17/shoah-les-notaires-spoliateurs-des-biens-juifs/)
 
@@ -1172,6 +1265,33 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
     
     </details>
 
+* 📄[Karim BENYEKHLEF, université de MTL: « Les secrets du droits »](https://www.karimbenyekhlef.ca/blogue/2017/07/11/les-secrets-du-droit/?utm_source=pocket_mylist), de Karim BENYEKHLEF, professeur de droit à l'université de Montréal)
+
+> Le droit est, en fait, pénétré du secret, puisque sa matrice, l’État, est elle-même fondée sur celui-ci. Le secret prend alors la forme de la Raison d’État. 
+
+### 2017-2022
+
+* <a id="csm2017"></a>[📄Conseil Supérieur de la Magistrature—rapport d'activité de 2017](http://www.conseil-superieur-magistrature.fr/publications/rapports-annuels-dactivite/rapport-annuel-dactivite-2017)
+
+    <details>
+      <summary>Sur les 230 décisions rendues par les commissions...</summary>
+    
+    > Sur les 230 décisions rendues par les commissions [d'admission des requêtes], 163 plaintes ont été considérées comme manifestement irrecevables<!-- (magistrat mis en cause toujours saisi, dépassement du délai d’un an au terme de la procédure, absence d’élément permettant l’identification de la procédure, contestation de la décision sans remettre en cause le comportement du magistrat...) --> et 65 manifestement infondées.
+    > Le constat peut être fait une nouvelle fois que, en dépit des informations exhaustives figurant sur le site internet du Conseil, des précisions apportées dans les échanges de courriers, de courriels ou téléphoniques, les justiciables saisissant les commissions <!-- persistent à inscrire leur démarche dans une contestation des décisions rendues. Ils utilisent celle-ci--> comme une nouvelle voie de recours, plutôt que de mettre en évidence un comportement susceptible de constituer une faute disciplinaire. 
+    > Il faut rappeler ici que les rédacteurs de ces plaintes sont très rarement assistés d’un avocat.
+    </details>
+
+<!--
+
+* <a id="lacan2018magis"></a>🕮Jean-François LACAN et Jehanne COLLARD: [ Ces magistrats qui tuent la justice](https://www.albin-michel.fr/ces-magistrats-qui-tuent-la-justice-9782226330871)
+
+-->
+
+* <a id="pardo2018superch"></a>🕮Ernest PARDO, [La supercherie judiciaire: de la criminalité en col blanc à la criminalité en robe noire](https://www.unanymous.fr/post/6-ways-to-use-instagram-for-ecommerce-marketing)
+
+* <a id="nddlvoyous"></a>[📄NDDL: le gouvernement "cède devant les voyous", accuse Jacob (LR)](https://www.nouvelobs.com/politique/20180422.AFP9524/nddl-le-gouvernement-cede-devant-les-voyous-accuse-jacob-lr.html)
+
+
 * <a id="lecoq2018projets"></a> [🕮De Vincent LE COQ: Projets publics, intérêt privés](https://libre-solidaire.fr/epages/e02491b5-ce3a-4c00-b187-dc9ff39194fc.sf/fr_FR/?ObjectPath=/Shops/e02491b5-ce3a-4c00-b187-dc9ff39194fc/Products/47)
 
     <details><summary>Verso de couverture</summary>
@@ -1186,7 +1306,30 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 </details>
 -->
 
+* 📁[Anticor 92 reçoit Eva JOLY sur le coût de la corrupion](anticor92joly.md)
+
+
+<!--
+
+* [JDD: Quand Emmanuel Macron s’immisce dans la procédure de nomination du procureur de Paris](https://www.lejdd.fr/Politique/quand-emmanuel-macron-simmice-dans-la-procedure-de-nomination-du-procureur-de-paris-3764849)
+
+-->
+
+* <a id="heitzbobigny"></a>[📰Rémy HEITZ, du palais de Bobigny au sommet de la justice](https://www.liberation.fr/france/2018/11/18/remy-heitz-du-palais-de-bobigny-au-sommet-de-la-justice_1692863/)
+
+    > Emmanuel MACRON n'a pas hésité à écarter tous les candidats proposés par la garde des Sceaux (lui infligeant au passage un sacré camouflet) pour adouber Rémy HEITZ.
+
+*  <a id="gonzales2019englues"></a>[📰Englués dans la procédure, les procureurs tentent de justifier l'image négative de la justice](https://www.lefigaro.fr/actualite-france/2019/04/03/01016-20190403ARTFIG00099-englues-dans-la-procedure-les-procureurs-tentent-de-justifier-l-image-negative-de-la-justice.php)
+    > La justice sera toujours aux prises d’injonctions contradictoires, accusée tour à tour d’être trop expéditive ou trop lente, trop sévère ou laxiste. Peut-être parce qu’elle ne donne jamais complètement raison à tout le monde.~Jean-François THONY
+
+* <a id="morettimalbec"></a>[📰Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
+
+* <a id="bienv2021magistrats"></a>[📰Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
+
+* [📰L'Express: Amiante : "Nous atteindrons bientôt 100 000 morts, mais il n'y a aucun responsable"](https://www.lexpress.fr/actualite/societe/justice/amiante-nous-atteindrons-bientot-100-000-morts-mais-il-n-y-a-aucun-responsable_2091344.html)
+
 * <a id="tourbe2019ordre"></a>📰[Abus sexuels non sanctionnés, erreurs dans les comptes: ce rapport qui accable l'ordre des médecins](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
+
 <!--
 
 * <a id="omsyndic"></a>📰[Des syndicats de patients demandent la suppression de l'ordre des médecins](https://www.ouest-france.fr/sante/des-syndicats-et-patients-demandent-la-dissolution-de-l-ordre-des-medecins-7180685)
@@ -1203,11 +1346,25 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
 
 -->
 
+* <a id="echecADP"></a> Éditorial du Monde: [Privatisation du Groupe ADP : surmonter l’échec du RIP](https://www.lemonde.fr/idees/article/2020/03/12/privatisation-du-groupe-adp-surmonter-l-echec-du-rip_6032740_3232.html)
+
 * <a id="piel2021dumas"></a>[Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de Balladur](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
     <details><summary>Extrait</summary>
 
     > La récente ouverture d’archives de l’institution confirme que les entorses à la loi étaient connues et que la voix de son président, Roland DUMAS, a été prépondérante pour fermer les yeux sur ces irrégularités de la présidentielle de 19 95.
     </details>
+
+* <a id="an-xv-3696"></a>[📄Rapport AN no. 3296: Obstacles à lindépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
+   <details><summary>Information</summary>
+   
+   * Date: 2021-10-07
+   * Institution: Assemblée Nationale
+   * Législature: XVè
+   * No. de rapport: 3296
+   * Président: [Ugo BERNALICIS](whoswho.md#bernalic)
+   * Rapporteur: Didier PARIS
+   * Recommendation clé: aligner le statut du parquet sur celui du siège
+   </details>
 
 * <a id="jolymoretti"></a>[Eva JOLY: la perquisition de DUPOND-MORETTI montre la pertinence du travail d'Anticor](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
 
@@ -1218,5 +1375,7 @@ Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil.
     </details>
 
 * <a id="joly2021boniface"></a>📁[Pascal BONIFACE reçoit Eva JOLY](jolyboniface.md)
+
 ## 🌐
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
+* [Le blog « Déni de justice, pour une réforme de la justice »](https://denidejustice.wordpress.com/)

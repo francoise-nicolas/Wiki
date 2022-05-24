@@ -8,10 +8,14 @@
 | 📁      | Dossier|
 | ⚖      | Droit         | 
 | 🚧     | En travaux  |
+| 🗣️ | Expression |
 | 🌐 | Internet |
 | 🕮 | Livre |
+| 🎭 | Manipulation |
 | 📺 | Média |
-| 🗣️ | Parle |
+|✍ | Opinion écrite |
 | 📰 | Presse |
+| 📄 | Publication faisant autorité (institutionnel, académique) |
 | ↳ | Renvoi |
+
 
