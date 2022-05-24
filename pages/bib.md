@@ -1,7 +1,7 @@
 # Bibliographie
 
 ## Méthode
-Certains profils de Twitter précisent: RT≠ « d'accord. » Ici, c'est pareil. Par exemple, la dénonciation de tel ou tel dysfonctionnement peut-être une demi-vérité, c'est même une technique de manipulation éprouvée. Ce qui fait foi de notre opinion, ce sont nos écrits. Cette bibliographie privilégie des sources que nous avons lues, sur les sujets qui nous préoccuppent:
+Certains profils de Twitter précisent: RT ≠ « en accord. » Ici, c'est pareil. En particulier, la dénonciation de tel ou tel dysfonctionnement peut-être une demi-vérité, c'est même une technique de manipulation éprouvée. Ce qui fait foi de notre opinion, ce sont nos écrits. Cette bibliographie privilégie des sources que nous avons lues, sur les sujets qui nous préoccuppent:
 * alternatives
 * capture de l'état
 * démocratie

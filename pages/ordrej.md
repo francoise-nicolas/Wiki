@@ -255,6 +255,7 @@
 ### <a id="nicolas"></a>Françoise NICOLAS](fn.md)
 * [Plainte c. APLOGAN](./aplogan.md)
 * [Plainte de BESANCENOT](./besanc.md)
+
 ### <a id="lecoq"></a>[Vincent LE COQ](./whoswho#lecoq)
 * [Pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) 
 
@@ -262,6 +263,7 @@
     
     Initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droit »](./bib.md#spinosi). Le jugement ne rapporte pas de conclusions des seconds
     </details>
+
 ### <a id="halimi"></a>Sarah HALIMI
 * [Arrêt no. 20-80.135](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043473408?isSuggest=true)
 
