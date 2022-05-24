@@ -46,6 +46,10 @@ Les personnes clés ou à haute responsabilité sont signalées par †.
 * CFTC
 </details>
 
+## Synthèse
+
+* [📁 Indemnité](./indemnite.md#faits)
+
 ## 📜
 ### <a id="HEUDE"></a>2001-09-19 — MAE — Rapport sur NICOLAS
 <details>
@@ -287,20 +291,6 @@ Vos propos en date du 2009-09-24 ne donnent pas une image fidèle de nos entreti
 * [dossier](../pieces/identifiant/241a304f)
 </details>
 
-### <a id="salaire"><a>2011-03-29 — MAE — Expertise médical
-<details>
-  <summary>Info</summary>
-  
-* [dossier](../pieces/identifiant/642c74e1)
-</details>
-
-### <a id="indemnite"><a>2011-06-01 — DGAM — Indemnite
-<details>
-  <summary>Info</summary>
-  
-* [dossier](../pieces/identifiant/35d3dae9)
-</details>
-
 ### <a id="rappel"><a>2010-01-22 — BESANCENOT — Rappel de NICOLAS
 <details>
   <summary>Info</summary>
@@ -330,6 +320,13 @@ Le 14 janvier dernier, grave incident ayant opposé deux agents [...] Raisons qu
   <summary>Info</summary>
   
 * [dossier](../pieces/identifiant/408585c9)
+</details>
+
+### 2010-04-08 — DRH — Imputabilité
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/9c685774)
 </details>
 
 
@@ -395,6 +392,13 @@ Le 14 janvier dernier, grave incident ayant opposé deux agents [...] Raisons qu
 * [dossier](../pieces/identifiant/e3620bce)
 </details>
 
+### <a id="salaire"><a>2011-03-29 — MAE — Expertise médical
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/642c74e1)
+</details>
+
 ### 2011-04-12 — Expertise médicale
 <details>
   <summary>Info</summary>
@@ -421,11 +425,25 @@ Le 14 janvier dernier, grave incident ayant opposé deux agents [...] Raisons qu
 * dossier 🚧
 </details>
 
+### <a id="indemnite"><a>2011-06-01 — DGAM — Indemnite
+<details>
+  <summary>Info</summary>
+  
+* [dossier](../pieces/identifiant/35d3dae9)
+</details>
+
 ### 2012-02-07 — Attestation de témoin
 <details>
   <summary>Info</summary>
 
 * [dossier](../pieces/identifiant/6f18410d)
+</details>
+
+### 2012-02-10 — DRH — Imputabilité
+<details>
+  <summary>Info</summary>
+
+* [dossier](../pieces/identifiant/9fb9b2c8)
 </details>
 
 ### <a id="caecbb5"></a>2013-03-06 — CFTC — Statut de victime

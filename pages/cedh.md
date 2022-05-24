@@ -1,4 +1,4 @@
-# Cour Européenne des ⚖️s de l'Homme
+# Cour Européenne des droits de l'Homme
 
 
 ## ⚖️

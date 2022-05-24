@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/VeR_Commons.png)
+![image-mise-en-avant](../_aux/phi.png)
 
 > La multiplication des lois, sans chercher à s'assurer de leur efficacité, engendre un désordre législatif préjudiciable. (BADINTER, 2007)
 
@@ -45,4 +45,4 @@
 * <a id="audition-phi"></a>[Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)
 
 ---
-Photo: [Schéma des institutions de la Vè République](attrib.md#VeR)
+[Photo](attrib.md#phi)

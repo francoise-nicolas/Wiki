@@ -10,21 +10,21 @@
     2. Refus de communication de son dossier médical
 
 ## 📜
-### 2011-12-01 — Demandeur — Injonction
+### 2010-03-10 — Avocat — Notification de délai
 <details>
   <summary>Info</summary>
 
-🚧 Le jour de la date
-
 * Destinataire: MAE
-* [piece](../pieces/identifiant/330f0a2a)
+* [dossier](../pieces/identifiant/a9f17cba)
+<!-- vérifié / lawfare -->
 </details>
 
 ### 2011-12-?? — Défendeur — Mémoire
 <details>
   <summary>Info</summary>
 
-* [piece](../pieces/identifiant/1dae248)
+🚧 Le jour de la date
+* [dossier](../pieces/identifiant/1dae248)
 </details>
 
 ### 2011-09-17 — Demandeur — Pourvoi
@@ -38,7 +38,7 @@
 <details>
   <summary>Info</summary>
 
-* [piece](../pieces/identifiant/3a2e1c64)
+* [dossier](../pieces/identifiant/3a2e1c64)
 </details>
 
 ## ⚖️
