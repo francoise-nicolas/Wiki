@@ -7,6 +7,7 @@ Certains profils de Twitter précisent: RT ≠ « en accord. » Ici, c'est parei
 * démocratie
 * déni de justice
 * état policier
+* féminisme
 * liberté d'expression
 * fonction publique
 * Françafrique
@@ -15,7 +16,7 @@ Certains profils de Twitter précisent: RT ≠ « en accord. » Ici, c'est parei
 * manipulation[🎭](signal.md)
 * régime de Vichy
 
-Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de la capture de l'état. Méconnu: de puissants sont issus du régime de Vichy. L'inflation législative masque le consentement du politique au dévoiement de la démocratie, particulièrement la magistrature aux ordres, profitant à leurs bailleurs plutôt qu'aux électeurs. Etc.
+Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la capture de l'état. Méconnu: de puissants sont issus du régime de Vichy, sur les exactions desquels persistent des secrets de Polichinnelle, traduisant un déni de liberté d'expression. L'inflation législative, et particulièrement les lois pénales votées en réaction à tel ou tel drame, masquent le consentement du politique au dévoiement de la démocratie, profitant à leurs bailleurs plutôt qu'aux électeurs. À ce titre, affirmer que le pouvoir ne tient que par la police est une demi-vérité, il faudrait plutôt dire: « pas d'état policier sans magistrature aux ordres », les jugement du Conseil d'état sur la légalité des LBD sont à cet égard édifiant. L'engagement pour le féminisme, également, est une posture. Etc. 🚧
 
 ## 📚
 ### 1995-2002
@@ -312,7 +313,7 @@ Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de
 
     <details><summary>Méconnu</summary>
 
-    Cf. [pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](./ordrej#lecoq)
+    Cf. [pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](./ordrej.md#lecoq)
     </details>
 
 * <a id="lecoq2012moinscher"></a>[🕮De Vincent LE COQ, Le « toujours moins cher » : à quel prix ?](https://www.yvesmichel.org/livre/le-toujours-moins-cher-a-quel-prix-2/)
@@ -383,13 +384,13 @@ Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de
     > Pour enrayer cette corruption, Éric DE MONTGOLFIER souhaite simplifier les règles « trop complexes » de la justice. 
     > « Ceux qui ont le pouvoir veulent le conserver, et rendent la justice occulte. » Pour lui, la population doit « se sortir de cette position de pigeon, sans toutefois devenir un aigle »
 
-* <a id="decrop2015carlton"></a>[📰Xavier DECROP (référent Anticor) : « Procès Carlon: cherchez l'erreur »](https://www.bvoltaire.fr/proces-carlton-cherchez-lerreur/)
+* <a id="decrop2015carlton"></a>[✍ Xavier DECROP (référent Anticor) dans Boulevard Voltaire : « Procès Carlon: cherchez l'erreur »](https://www.bvoltaire.fr/proces-carlton-cherchez-lerreur/)
 
 * <a id="diard2015dsk"></a>[📰Pascale Robert-DIARD pour Le Monde : « Carlton de Lille: DSK relaxé, l'instruction condamnée »](https://www.lemonde.fr/police-justice/article/2015/06/13/carlton-de-lille-dsk-relaxe-l-instruction-condamnee_4653493_1653578.html)
 
-* <a id="louvelache"></a> [Bertrand LOUVEL, 1er président magistrat de France « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
+* <a id="louvelache"></a> [✍Bertrand LOUVEL, 1er président magistrat de France « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
 
-* <a id="candau2016medias"></a>[Sur Médiapart: Réformer une justice malade (2/3). La grande misère de la justice](https://www.dailymotion.com/video/x2spq5t)
+* <a id="candau2016medias"></a>[📺Sur Médiapart: Réformer une justice malade (2/3). La grande misère de la justice](https://www.dailymotion.com/video/x2spq5t)
 
     > Seules 200 des 15000 infractions sont effectivement utilisés (Yves Charpenel au temps 18:20)
 
@@ -448,9 +449,7 @@ Ces sujets sont évidemments liés. Les corporatisme sont un aspect essentiel de
     </details>
 
     <details><summary>Affaire Elf: cherchez la femme</summary>
-    
-    Tiré de [Impunités de Vincent LE COQ](./robenoire.md#vlcj2v)
-    
+        
     >    Eva JOLY et Laurence VICHNIEVSKY sont allées personnellement chercher, sous
     >    de fausses identités, Alfred SIRVEN jusqu’en Afrique du Sud, où il n’était pas,
     >    tout en négligeant la piste de sa compagne, VILMA, son ancienne gouvernante.
@@ -1610,6 +1609,9 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 -->
 
+* <a id="dskbalance"></a>[Le Monde](https://www.lemonde.fr/idees/article/2018/01/27/de-dsk-a-balancetonporc-une-revolution-francaise_5247999_3232.html)
+> Quasi inaudibles en  2011, lors de l’affaire du Sofitel, les femmes victimes de harcèlement sexuel ont imposé des remises en cause et des débats d’une ampleur insoupçonnée. Récit d’un basculement. 
+
 * <a id="pardo2018superch"></a>🕮Ernest PARDO, [La supercherie judiciaire: de la criminalité en col blanc à la criminalité en robe noire](https://www.unanymous.fr/post/6-ways-to-use-instagram-for-ecommerce-marketing)
 
 * <a id="nddlvoyous"></a>[📄NDDL: le gouvernement "cède devant les voyous", accuse Jacob (LR)](https://www.nouvelobs.com/politique/20180422.AFP9524/nddl-le-gouvernement-cede-devant-les-voyous-accuse-jacob-lr.html)
@@ -1693,7 +1695,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 -->
 
 *  [Le Point: « SPINOSI & SUREAU, moines soldats du droit »](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). 
-    * Voir aussi: [arrêt no 15-81.406 de la cour de cassation](./ordrej#lecoq)
+    * Voir aussi: [arrêt no 15-81.406 de la cour de cassation](./ordrej.md#lecoq)
 
 * <a id="morettimalbec"></a>[📰Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
 
@@ -1726,6 +1728,8 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="covidpresse"></a> [📰Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)
 
 *  <a id="darmaninweber"></a>[🗣Intervention de Darmarin devant l'AN](https://twitter.com/LCP/status/1288174388286717952?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1288174388286717952%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.francetvinfo.fr%2Ffaits-divers%2Fpolice%2Fviolences-policieres%2Fla-police-exerce-une-violence-legitime-gerald-darmanin-cite-t-il-correctement-le-sociologue-allemand-max-weber_4060345.html)
+
+* <a id="smuller"></a>[C'est un jugement historique": Sandra Muller, initiatrice de "#Balancetonporc", a gagné le procès en appel où elle était poursuivie pour diffamation](https://www.bfmtv.com/societe/c-est-un-jugement-historique-sandra-muller-initiatrice-de-balancetonporc-a-gagne-le-proces-en-appel-ou-elle-etait-poursuivie-pour-diffamation_VN-202104010450.html)
 
 * <a id="queffelecweber">[🗣France culture: La "violence légitime de l'État" de Max Weber](https://www.franceculture.fr/philosophie/la-violence-legitime-de-letat-de-max-weber)
 
@@ -1823,11 +1827,16 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
    </details>
 
 ## Synthèse
-### Affaire Elf
-
+### <a>elf</a>Affaire Elf
 En 2001, Loïk LeFloch-Prigeant déclarait: « L'affaire Elf ne porte pas sur les années 1989-1993 mais sur la période 1973-2001. » Un jugement est intervenu en 2003, le déclarant coupable d’abus de biens sociaux. <!-- à laquelle a succédé la société Total Lubrifiants, à hauteur de 95 000 000 FF, soit 14 482 656 euros. Sur les intérêts civils, M. X a été condamné solidairement avec plusieurs autres personnes à payer à la société Total Lubrifiants la somme principale de 13 795 541 euros, outre intérêts au taux légal, capitalisation des intérêts et indemnités de procédure.--> À la même époque,  Thierry JEAN-PIERRE:  « l'affaire n'est pas allée à son terme ». Et d'après DENOËL et GUARRIGUES (2014), « la justice ne s'est pas montrée curieuse. »
 
 Le magistrat instructeur de cette affaire devenue eurodéputée EELV a fait figure de [ténor du parlement européen sur la lutte c. la corruption](https://www.icrict.com/icrict-in-thenews/2019/5/21/fighting-for-a-europe-of-tax-justice). En 2021, elle [affirmait devant Pascal BONIFACE](https://blogs.mediapart.fr/pascalboniface/blog/210421/clm-s432-eva-joly-le-long-combat-contre-la-corruption)<!-- FAIRE: remplacer lorsqu'il sera prêt, par boniface-joly.md -->,  « L'Affaire Elf a montré que la justice pouvait porter ces dossiers énormes. » La controverse sur un procès en pointillé n'était pas au programme de la [conférence Anticor de 2018](anticor92joly.md), portant sur « le coût de la corruption, » avec pour invités Eva JOLY et Jean GUARRIGUES par qui l'on en connaît l'existence. 
+
+### <a>carlton</a>Affaire Carlton
+La synthèse de l'affaire Carlton est directe: c'est l'application toute bête du [jeu des apparences](#japparences) décrit par Vincent Le Coq. [Anticipé par un référent régional Anticor](#decrop2015carlton) (« cherchez l'erreur »), la sentence du journal Le Monde sous la plume de leur chroniqueur judiciaire, [ROBERT-DIARD](https://www.lemonde.fr/signataires/pascale-robert-diard/), « l'instruction condamnée », est cependant passée comme lettre à la poste. La confirmation deux ans plus tard par Vincent LE COQ, d'une supercherie « gross comme ça », n'a pas non plus permis de briser la loi du silence, notamment des partie ayant intérêt et capacité à agir en matière de corruption et de violence envers les femmes, motifs occultés et mis en avant, respectivement. Ils sont facile à deviner...  En toute logique Le Monde pouvait enfoncer le clou une présidence plus loin: [« De DSK à #Balancetonporc, une révolution française »](dskbalance). C'est comme si l'imposture était désirée par leurs lecteurs, et le mimémitisme de la petite bourgeoisie (expression emprunté à « À nos amis ») faisait le reste.
+
+### <a>carlton</a>Affaire Sarah HALIMI
+
 
 
 ## 🌐

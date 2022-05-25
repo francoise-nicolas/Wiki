@@ -6,6 +6,13 @@ Backlinks
 </details>
 
 ## Alphabétique
+### A
+##### <a id="alt"></a>Éric ALT🇺🇸
+<details><summary>Fiche</summary>
+
+* [Wikipedia](https://fr.wikipedia.org/wiki/%C3%89ric_Alt)
+</details>
+
 ### B
 
 ##### <a id="campbell"></a> Denise CAMPBELL BAUER🇺🇸
@@ -100,6 +107,12 @@ Backlinks
 </details>
 
 ### R
+##### <a id="kroth"></a>Pascale ROBERT-DIARD🇺🇸
+<details><summary>Fiche</summary>
+
+* [Le Monde]()
+</details>
+
 ##### <a id="kroth"></a>Kenneth ROTH🇺🇸
 <details><summary>Fiche</summary>
 
