@@ -14,7 +14,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Who's who](./pages/whoswho.md)
 
 ## Mis en avant
-### <a id="fn"></a>Affaire NICOLAS
+### <a id="nicolas"></a>Affaire NICOLAS
 * [Les faits](./pages/faits.md)
 #### <a id="activ"></a>Activisme
 * [Institutions](./pages/activ.md)

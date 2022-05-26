@@ -1,6 +1,5 @@
 # Cour Européenne des droits de l'Homme
 
-
 ## ⚖️
 ### Requête
 * [Guide pratique](https://echr.coe.int/Documents/Admissibility_guide_FRA.pdf)
