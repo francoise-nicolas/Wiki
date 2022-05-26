@@ -341,6 +341,8 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
 * <a id="demontg2014morale"></a>[🕮Éric DE MONTGOLFIER: Une morale pour les aigles, une autre pour les pigeons](http://michel-lafon.fr/livre/1450-Une_morale_pour_les_aigles_une_autre_pour_les_pigeons.html)
     > Ceux qui ont le pouvoir veulent le conserver, et rendent la justice occulte
 
+* <a id="anosamis"></a>[Comité invisible: À nos amis](https://lafabrique.fr/a-nos-amis/)
+    
 * <a id="droitsouple">[📄Rapport du Conseil d'État: le droit souple](https://web.archive.org/web/20151010015516/https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000280.pdf)
 
 * <a id="jl2014"></a>📄Rapport: Les Justiciables face au Service public de la justice
