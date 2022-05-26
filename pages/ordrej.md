@@ -252,10 +252,6 @@
     
     </details>
 
-### <a id="nicolas"></a>Françoise NICOLAS
-* [Plainte c. APLOGAN](./aplogan.md)
-* [Plainte de BESANCENOT](./besanc.md)
-
 ### <a id="lecoq"></a>[Vincent LE COQ](./whoswho#lecoq)
 * [Pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) 
 
@@ -273,6 +269,9 @@
     * 5. Par ordonnance de transmission de pièces aux fins de saisine de la chambre de l'instruction, en date du 12 juillet 2019, les juges d'instruction, après avoir écarté la circonstance aggravante précitée, ont estimé qu'il existait contre M. [T], d'une part, des charges suffisantes d'avoir commis les faits d'homicide volontaire et de séquestration qui lui étaient reprochés et d'autre part, des raisons plausibles d'appliquer le premier alinéa de l'article 122-1 du code pénal.
     </details>
 
+### <a id="nicolas"></a>Françoise NICOLAS
+* [Plainte c. APLOGAN](./aplogan.md)
+* [Plainte de BESANCENOT](./besanc.md)
 
 ## ⚖
 ### Justiciable

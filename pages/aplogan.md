@@ -88,7 +88,7 @@
 </details>
 
 ## Voir aussi
-* [Litiges](../README.md#faits)
+* [Faits](./faits.md)
 
 ---
 [Photo](attrib.md#scac)
