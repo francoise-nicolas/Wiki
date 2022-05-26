@@ -1,5 +1,5 @@
 ![image-mise-en-avant](../_aux/scac2010.png)
-# [Affaire Françoise NICOLAS](fn.md) — Plainte c. APLOGAN
+# [Françoise NICOLAS](fn.md) — Plainte c. APLOGAN
 
 ## 📜
 

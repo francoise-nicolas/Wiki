@@ -13,7 +13,7 @@ Par une requête enregistrée le 3 juin 2016, Mme NICOLAS a demandé à la cour 
 
 ### 2013-07-05 — MAE — Décision
 
-### 2014-01-06 —  TA Nantes — Saisine
+### 2014-01-06 —  TA de Nantes — Saisine
 
 <details>
   <summary>Info</summary>
@@ -22,14 +22,14 @@ Par une requête enregistrée le 3 juin 2016, Mme NICOLAS a demandé à la cour 
 * Autre: via TA RENNES
 </details>
 
-### 2016-03-08 —  TA Nantes — Audience
+### 2016-03-08 —  TA de Nantes — Audience
 <details>
   <summary>Info</summary>
   
 * [piece](../pieces/identifiant/8b8956dd)
 </details>
 
-### 2016-04-05 —  TA Nantes — Décision
+### 2016-04-05 —  TA de Nantes — Décision
 <details>
   <summary>Info</summary>
   

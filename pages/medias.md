@@ -1,5 +1,5 @@
 ![image](../_aux/lemediatv.png)
-# [Affaire Françoise NICOLAS](fn.md) — Médias
+# [Françoise NICOLAS](fn.md) — Médias
 
 ## 📜
 ### 2007-2012
@@ -14,6 +14,10 @@
 ### 2017-2022
 
 * <a id="nicolasVA"></a>[📰Valeurs Actuelles: La lanceuse d'alerte qui attaque Nathalie LOISEAU](../pieces/identifiant/ccac26a8)
+
+* [📰francisrael.com: Après l'ambassadeur, le consul...](https://web.archive.org/web/20201029092029/https://resistancisrael.com/apres-lambassadeur-le-consul/)
+
+> Le nouveau consul de France à Abidjean visé par une tentative d'assassinat
 
 * <a id="mediacites"></a>[📰Médiacités: la LDA du Quai d'Orday poussée vers la sortie](https://www.mediacites.fr/complement-denquete/nantes/2018/10/18/la-lanceuse-dalerte-du-quai-dorsay-poussee-vers-la-sortie/)
 

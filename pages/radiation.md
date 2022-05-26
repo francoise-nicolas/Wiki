@@ -1,8 +1,8 @@
 ![image-mise-en-avant](../_aux/MAE_Commons.png)
 
-# [Affaire Françoise NICOLAS](fn.md) — Radiation de la fonction publique
+# [Françoise NICOLAS](fn.md) — Radiation de la fonction publique
 
-Contestation de la décision du MAE du [2018-07-25](drh.md#radiation).
+Contestation de la décision du MAE du [2018-07-25](faits.md#radiation).
 
 ## 📜
 ### 2018-01-11 — CAA de Nantes — Décision
@@ -47,7 +47,7 @@ Contestation de la décision du MAE du [2018-07-25](drh.md#radiation).
 * [piece](../pieces/identifiant/8da78f8e)
 </details>
 
-### 2018-10-15 —  TA Nantes — Décision
+### 2018-10-15 —  TA de Nantes — Décision
 <details>
   <summary>Info</summary>
 
@@ -56,7 +56,7 @@ Contestation de la décision du MAE du [2018-07-25](drh.md#radiation).
 * [piece](../pieces/identifiant/3410024c)
 </details>
 
-### 2019-07-09 —  TA Nantes — Décision
+### 2019-07-09 —  TA de Nantes — Décision
 <details>
   <summary>Info</summary>
 
@@ -251,7 +251,7 @@ EN ATTENTE
 
 ## Voir aussi
 ### [Mutation](mutation.md)
-### [Professionel & médical](drh.md)
+### [Professionel & médical](faits.md)
 
 ---
 Photo: [Hôtel du MAE](attrib.md#HotelMAE)

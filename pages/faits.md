@@ -1,6 +1,6 @@
 ![image](../_aux/asonposte.png)
 
-# [Affaire Françoise NICOLAS](fn.md) — Faits
+# [Françoise NICOLAS](fn.md) — Faits
 
 Chronologie des faits de carrière au Ministère des Affaires Étrangères donnant lieu à [des litiges](litiges.md). 
 

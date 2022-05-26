@@ -1,60 +1,41 @@
-# [Affaire Françoise NICOLAS](fn.md) — Mutation
+# [Françoise NICOLAS](fn.md) — Mutation
 
-Contestation de la décision du MAE du [2010-06-21](drh.md#mutation).
-
-<!--
-
-🚧 La requête introductive d'instance dit 2009-08-07 pour la mutation.
-
--->
+Contestation de la décision du MAE du [2010-06-21](faits.md#mutation).
 
 ## 📜
-### 2009-08-?? — NICOLAS — Saisine
-<details>
-  <summary>Info</summary>
- 
-🚧 La date
-* [dossier](../pieces/identifiant/3ad82e00)
-</details>
+## TA de Paris, no. 0913852/5-2
+* [2009-08-10 — Saisine](../pieces/identifiant/3ad82e00)
 
-### 2010-01-22 — TA Paris — Décision
-<details>
-  <summary>Info</summary>
- 
-🚧 La date
-* [dossier](../pieces/identifiant/330f0a2a)
+* [🚧 Mémoire en réplique](../pieces/identifiant/683b557c)
 
-</details>
+* [2010-01-22 — Décision](../pieces/identifiant/330f0a2a)
 
-### 2012-03-08 — TA Paris — Décision
-<details>
-  <summary>Info</summary>
+    <details><summary>Extrait</summary>
+    
+    Considération que par décision du 2009-01-01, postérieure à l'introduction de la requête et devenue définitive, le MAE a retiré la décision attaquée; que par suite, les conclusions de Mme NICOLAS sont devenues sans objet;
+    
+    ORDONNE
+    
+    Article 1er: il n'y a pas lieu de statuer
+    </details>
 
-* [dossier](../pieces/identifiant/1b4eb2ed)
-</details>
+## CE, no. 359288
 
-### 2012-03-18 — MAE — Mémoire
-<details>
-  <summary>Info</summary>
+* 2012-05-10 — Pourvoi sommaire
+* 2012-08-10 — Mémoire complémentaire
+* [2012-12-03 — Décision](../pieces/identifiant/11701dfd)
 
-* piece 🚧
-</details>
-
-### 2012-??-?? — NICOLAS — Mémoire
-### 2012-03-08 — TA Paris — Décision
-<details>
-  <summary>Info</summary>
-
-* [dossier](../pieces/identifiant/683b557c)
-</details>
-
-
-### 2012-12-03 — CE — Décision
-<details>
-  <summary>Info</summary>
-
-* [dossier](../pieces/identifiant/11701dfd)
-</details>
+    <details><summary>Extrait</summary>
+    
+    2. Considérant que pour demander l'annulation du jugement attaqué, Mme NICOLAS soutien [] que c'est à tort que le tribunal administratif a jugé que sa mutation n'était pas constitutive d'une sanction ddisciplinaire déguisée [donc] de détournement de pouvoir.
+    
+    3. Considérant qu'aucun de ces moyens n'est de nature à permettre l'admission du pourvoi;
+    
+    DÉCIDE:
+    
+    Article 1: le pourvoi n'est pas admis
+    
+    </details>
 
 ## Voir aussi
 * [Litiges](../README.md#faits)

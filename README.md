@@ -21,8 +21,8 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Médias](./pages/medias.md)
 * [Tribunes](./pages/tribunes.md)
 #### <a id="litiges"></a>Litiges
-* [Administratif](./pages/ordrea.md#fn)
-* [Judiciaire](./pages/ordrej.md#fn)
+* [Administratif](./pages/ordrea.md#nicolas)
+* [Judiciaire](./pages/ordrej.md#nicolas)
 * [Statut LDA](./pages/reqlda.md)
 
 ### <a id="interact"></a>Interaction

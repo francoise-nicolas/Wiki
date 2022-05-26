@@ -1,9 +1,9 @@
-# [Affaire Françoise NICOLAS](../README.md#fn) — Institutions
+# [Françoise NICOLAS](../README.md#nicolas) — Institutions
 
 Activisme auprès d'institutions
 
 ## France
 * [Parlement](parl.md#)
-* [Service Central de Prévention de la Corruption](scpc.md#fn)
-## [Union Européenne](ue.md#fn)
-## [États-Unis d'Amérique](statedrl.md#fn)
+* [Service Central de Prévention de la Corruption](scpc.md#nicolas)
+## [Union Européenne](ue.md#nicolas)
+## [États-Unis d'Amérique](statedrl.md#nicolas)
