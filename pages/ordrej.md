@@ -278,6 +278,14 @@
 ### Justiciable
 * [Droits des justiciables en cas de faute lourde](https://www.vie-publique.fr/fiches/38069-les-droits-des-justiciables-en-cas-de-dysfonctionnement-de-la-justice)
 * [Saisine directe du Conseil Supérieur de la Magistrature](http://www.conseil-superieur-magistrature.fr/requetes-des-justiciables)
+### Code de procédure pénale
+* [Article 85](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312069/)(partie civile)
+* [Article 689](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151920/#LEGISCTA000006151920)(infractions commises hors du territoire)
+* [Article 693](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279364)(La juridiction compétente est celle du lieu où réside le prévenu)
+### Code pénal:
+* Article 113-7 (crime commis c. un Français hors du territoire)
+* [Article 221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417561/) (donner volontairement la mort...)
+* [Article 221-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033975336/) (est l'auteur de l'infraction...)
 
 ---
 [Photo](attrib#assises)
