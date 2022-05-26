@@ -278,6 +278,8 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
 
 ### 2007-2012
 
+* <a id="borrel2021empire"></a> 🕮[Thomas BORREL : L'empire qui ne veut pas mourir—Une histoire de la Françafrique](https://www.seuil.com/ouvrage/l-empire-qui-ne-veut-pas-mourir-collectif/9782021464160)
+
 * [🗣Affaire Elf: ITW de Loïc LE FLOCH PRIGENT](https://www.challenges.fr/entreprise/l-affaire-elf-en-resume_388898)
 
     <details><summary>Extrait</summary>
@@ -308,6 +310,15 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
    
    🚧
    </details>
+
+* <a id="frenaud"></a>[🕮Franck RENAUD : Les diplomates — derrière la façade des ambassades de France](https://www.lisez.com/livre-grand-format/la-face-cachee-du-quai-dorsay/9782221157046)
+    NB: l'introduction est un résumé de l'affaire Françoise NICOLAS.
+
+    <details><summary>Info</summary>
+    
+    * [dossier](./pieces/identifiant/4738ca13)
+    </details>
+    
 
 * <a id="lecoq2011manifeste"></a>[🕮De Vincent LE COQ, Manifeste c. les notaires](https://maxmilo.com/products/manifeste-contre-les-notaires)
 
@@ -387,6 +398,8 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
 * <a id="decrop2015carlton"></a>[✍ Xavier DECROP (référent Anticor) dans Boulevard Voltaire : « Procès Carlon: cherchez l'erreur »](https://www.bvoltaire.fr/proces-carlton-cherchez-lerreur/)
 
 * <a id="diard2015dsk"></a>[📰Pascale Robert-DIARD pour Le Monde : « Carlton de Lille: DSK relaxé, l'instruction condamnée »](https://www.lemonde.fr/police-justice/article/2015/06/13/carlton-de-lille-dsk-relaxe-l-instruction-condamnee_4653493_1653578.html)
+
+* <a id="jauvert2016face"></a>🕮[Vincent JAUVERT : La Face cachée du Quai d'Orsay](https://www.lisez.com/livre-grand-format/la-face-cachee-du-quai-dorsay/9782221157046)
 
 * <a id="louvelache"></a> [✍Bertrand LOUVEL, 1er président magistrat de France « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
 
@@ -1699,6 +1712,10 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 * <a id="morettimalbec"></a>[📰Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
 
+* <a id="HRWfrance"></a>[📰Human Rights Watch: La France à la traîne au Conseil des droits de l'homme des Nations Unies](https://www.hrw.org/fr/news/2020/10/08/la-france-la-traine-au-conseil-des-droits-de-lhomme-des-nations-unies)
+
+* <a id="frouv2020ddl"></a>[📰Olivier de FROUVILLE: La France peut cohérente patrie des droits de l'homme](https://www.lemonde.fr/idees/article/2020/12/03/la-france-peu-coherente-patrie-des-droits-de-l-homme_6062003_3232.html)
+
 * <a id="bienv2021magistrats"></a>[📰Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
 
 * <a id="amiante"></a>[📰L'Express: Amiante : "Nous atteindrons bientôt 100 000 morts, mais il n'y a aucun responsable"](https://www.lexpress.fr/actualite/societe/justice/amiante-nous-atteindrons-bientot-100-000-morts-mais-il-n-y-a-aucun-responsable_2091344.html)
@@ -1729,7 +1746,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 *  <a id="darmaninweber"></a>[🗣Intervention de Darmarin devant l'AN](https://twitter.com/LCP/status/1288174388286717952?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1288174388286717952%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.francetvinfo.fr%2Ffaits-divers%2Fpolice%2Fviolences-policieres%2Fla-police-exerce-une-violence-legitime-gerald-darmanin-cite-t-il-correctement-le-sociologue-allemand-max-weber_4060345.html)
 
-* <a id="smuller"></a>[C'est un jugement historique": Sandra Muller, initiatrice de "#Balancetonporc", a gagné le procès en appel où elle était poursuivie pour diffamation](https://www.bfmtv.com/societe/c-est-un-jugement-historique-sandra-muller-initiatrice-de-balancetonporc-a-gagne-le-proces-en-appel-ou-elle-etait-poursuivie-pour-diffamation_VN-202104010450.html)
+* <a id="smuller"></a>[📰C'est un jugement historique": Sandra Muller, initiatrice de "#Balancetonporc", a gagné le procès en appel où elle était poursuivie pour diffamation](https://www.bfmtv.com/societe/c-est-un-jugement-historique-sandra-muller-initiatrice-de-balancetonporc-a-gagne-le-proces-en-appel-ou-elle-etait-poursuivie-pour-diffamation_VN-202104010450.html)
 
 * <a id="queffelecweber">[🗣France culture: La "violence légitime de l'État" de Max Weber](https://www.franceculture.fr/philosophie/la-violence-legitime-de-letat-de-max-weber)
 
