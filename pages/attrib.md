@@ -67,6 +67,9 @@ Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas.
 * <a id="theatr"></a> Theatrical masks of Tragedy and Comedy. Mosaic, Roman mosaic, 2nd century AD
     * [source](https://en.wikipedia.org/wiki/Mask#/media/File:Mosaic_of_the_theatrical_masks_-_Google_Art_Project.jpg)
 
+* <a id="bnf"></a>  Bibliothèque nationale de France, site Richelieu, salle ovale.
+    * [source](https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France#/media/Fichier:France,_Paris,_Biblioth%C3%A8que_nationale_de_France,_site_Richelieu,_salle_ovale.jpg)
+
 ## Autre
 
 * <a id="scac"></a> [Équipe du SCAC](https://bj.ambafrance.org/Le-service-de-cooperation-et-d-action-culturelle), 2010
