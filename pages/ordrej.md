@@ -252,7 +252,7 @@
     
     </details>
 
-### <a id="nicolas"></a>Françoise NICOLAS](fn.md)
+### <a id="nicolas"></a>Françoise NICOLAS
 * [Plainte c. APLOGAN](./aplogan.md)
 * [Plainte de BESANCENOT](./besanc.md)
 

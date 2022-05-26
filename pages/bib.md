@@ -16,7 +16,7 @@ Certains profils de Twitter précisent: RT ≠ « en accord. » Ici, c'est parei
 * manipulation[🎭](signal.md)
 * régime de Vichy
 
-Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la capture de l'état. Méconnu: de puissants sont issus du régime de Vichy, sur les exactions desquels persistent des secrets de Polichinnelle, traduisant un déni de liberté d'expression. L'inflation législative, et particulièrement les lois pénales votées en réaction à tel ou tel drame, masquent le consentement du politique au dévoiement de la démocratie, profitant à leurs bailleurs plutôt qu'aux électeurs. À ce titre, affirmer que le pouvoir ne tient que par la police est une demi-vérité, il faudrait plutôt dire: « pas d'état policier sans magistrature aux ordres », les jugement du Conseil d'état sur la légalité des LBD sont à cet égard édifiant. L'engagement pour le féminisme, également, est une posture. Etc. 🚧
+Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la capture de l'état. Méconnu: de puissants sont issus du régime de Vichy, sur les exactions desquels persistent des secrets de Polichinnelle, traduisant un profond déni de liberté d'expression. L'inflation législative, et particulièrement les lois pénales votées en réaction à tel ou tel drame, masquent le consentement du politique au dévoiement de la démocratie, profitant à leurs bailleurs plutôt qu'aux électeurs. À ce titre, affirmer que le pouvoir ne tient que par la police est une demi-vérité, il faudrait plutôt dire: « pas d'état policier sans magistrature aux ordres », les jugement du Conseil d'état sur la légalité des LBD sont à cet égard édifiant. L'engagement pour le féminisme, également, est une posture. Etc. 🚧
 
 ## 📚
 ### 1995-2002
@@ -299,7 +299,7 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
 * <a id="badinter2007therapie"></a>[✍Robert BADINTER : "Ne pas confondre justice et thérapie"](https://www.lemonde.fr/societe/article/2007/09/08/robert-badinter-ne-pas-confondre-justice-et-therapie_952825_3224.html)
 
     > La multiplication des lois, sans chercher à s'assurer de leur efficacité, engendre un désordre législatif préjudiciable. 
-        
+            
 * <a id="colonna"></a> [🕮De Vincent LE COQ, « Yvan COLONNA, anathomie d'un procès truqué »](https://books.google.com/books?id=bWViHTyKsNMC&pg=PT1&lpg=PT1&dq=yvan+colonna+anatomie+d%27un+proc%C3%A8s+truqu%C3%A9+vincent+le+coq&source=bl&ots=HdTpJOZnGL&sig=ACfU3U1IjMhOH0vt3sNv9elFgqDoSx63Dw&hl=en&sa=X&ved=2ahUKEwin0aLHxaz2AhXtTN8KHbQyAeA4FBDoAXoECCQQAw#v=onepage&q=yvan%20colonna%20anatomie%20d'un%20proc%C3%A8s%20truqu%C3%A9%20vincent%20le%20coq&f=false)
 
 * [📄Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
@@ -375,7 +375,7 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
     >    chacun, suffit à la Justice pour dénoncer leur prévarication.
     </details>
 
-* [🗣France Inter: ITW de Yvonnick De DENOËL](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
+* <a id="elushonnetes"></a>[🗣France Inter: ITW de Yvonnick De DENOËL](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
     > « Les élus sont dans leur majorité honnêtes »
 
 * <a id="trevert2014ronsin"></a>[📰Xavier RONSIN: L'École nationale de la magistrature n'est pas une fabrique à robots!](https://www.lepoint.fr/societe/xavier-ronsin-l-ecole-nationale-de-la-magistrature-n-est-pas-une-fabrique-a-robots-26-03-2014-1805656_23.php)
@@ -1694,7 +1694,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 </details>
 -->
 
-*  [Le Point: « SPINOSI & SUREAU, moines soldats du droit »](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). 
+*  <a id="spinosi"></a> [Le Point: « SPINOSI & SUREAU, moines soldats du droit »](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). 
     * Voir aussi: [arrêt no 15-81.406 de la cour de cassation](./ordrej.md#lecoq)
 
 * <a id="morettimalbec"></a>[📰Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
@@ -1826,17 +1826,45 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
    
    </details>
 
-## Synthèse
-### <a>elf</a>Affaire Elf
-En 2001, Loïk LeFloch-Prigeant déclarait: « L'affaire Elf ne porte pas sur les années 1989-1993 mais sur la période 1973-2001. » Un jugement est intervenu en 2003, le déclarant coupable d’abus de biens sociaux. <!-- à laquelle a succédé la société Total Lubrifiants, à hauteur de 95 000 000 FF, soit 14 482 656 euros. Sur les intérêts civils, M. X a été condamné solidairement avec plusieurs autres personnes à payer à la société Total Lubrifiants la somme principale de 13 795 541 euros, outre intérêts au taux légal, capitalisation des intérêts et indemnités de procédure.--> À la même époque,  Thierry JEAN-PIERRE:  « l'affaire n'est pas allée à son terme ». Et d'après DENOËL et GUARRIGUES (2014), « la justice ne s'est pas montrée curieuse. »
+## Synthèse & discussion
+### <a id="elf"></a>Affaire Elf
+En 2001, Loïk LeFloch-Prigeant déclarait: « L'affaire Elf ne porte pas sur les années 1989-1993 mais sur la période 1973-2001. » Un jugement est intervenu en 2003, où il déclarait à la barre « le tribunal veut-il des noms », le déclarant coupable d’abus de biens sociaux. <!-- à laquelle a succédé la société Total Lubrifiants, à hauteur de 95 000 000 FF, soit 14 482 656 euros. Sur les intérêts civils, M. X a été condamné solidairement avec plusieurs autres personnes à payer à la société Total Lubrifiants la somme principale de 13 795 541 euros, outre intérêts au taux légal, capitalisation des intérêts et indemnités de procédure.--> À la même époque,  Thierry JEAN-PIERRE:  « l'affaire n'est pas allée à son terme ». Et d'après DENOËL et GUARRIGUES (2014), « la justice ne s'est pas montrée curieuse. »
 
-Le magistrat instructeur de cette affaire devenue eurodéputée EELV a fait figure de [ténor du parlement européen sur la lutte c. la corruption](https://www.icrict.com/icrict-in-thenews/2019/5/21/fighting-for-a-europe-of-tax-justice). En 2021, elle [affirmait devant Pascal BONIFACE](https://blogs.mediapart.fr/pascalboniface/blog/210421/clm-s432-eva-joly-le-long-combat-contre-la-corruption)<!-- FAIRE: remplacer lorsqu'il sera prêt, par boniface-joly.md -->,  « L'Affaire Elf a montré que la justice pouvait porter ces dossiers énormes. » La controverse sur un procès en pointillé n'était pas au programme de la [conférence Anticor de 2018](anticor92joly.md), portant sur « le coût de la corruption, » avec pour invités Eva JOLY et Jean GUARRIGUES par qui l'on en connaît l'existence. 
+Le magistrat instructeur de cette affaire devenue eurodéputée EELV a fait figure de [ténor du parlement européen sur la lutte c. la corruption](https://www.icrict.com/icrict-in-thenews/2019/5/21/fighting-for-a-europe-of-tax-justice). En 2021, elle [affirmait devant Pascal BONIFACE](https://blogs.mediapart.fr/pascalboniface/blog/210421/clm-s432-eva-joly-le-long-combat-contre-la-corruption)<!-- FAIRE: remplacer lorsqu'il sera prêt, par boniface-joly.md -->,  « L'Affaire Elf a montré que la justice pouvait porter ces dossiers énormes. » La controverse sur un procès en pointillé n'était pas au programme de la [conférence Anticor de 2018](anticor92joly.md), portant sur « le coût de la corruption, » avec pour invités Eva JOLY et Jean GUARRIGUES par qui l'on en connaît l'existence.
 
-### <a>carlton</a>Affaire Carlton
-La synthèse de l'affaire Carlton est directe: c'est l'application toute bête du [jeu des apparences](#japparences) décrit par Vincent Le Coq. [Anticipé par un référent régional Anticor](#decrop2015carlton) (« cherchez l'erreur »), la sentence du journal Le Monde sous la plume de leur chroniqueur judiciaire, [ROBERT-DIARD](https://www.lemonde.fr/signataires/pascale-robert-diard/), « l'instruction condamnée », est cependant passée comme lettre à la poste. La confirmation deux ans plus tard par Vincent LE COQ, d'une supercherie « gross comme ça », n'a pas non plus permis de briser la loi du silence, notamment des partie ayant intérêt et capacité à agir en matière de corruption et de violence envers les femmes, motifs occultés et mis en avant, respectivement. Ils sont facile à deviner...  En toute logique Le Monde pouvait enfoncer le clou une présidence plus loin: [« De DSK à #Balancetonporc, une révolution française »](dskbalance). C'est comme si l'imposture était désirée par leurs lecteurs, et le mimémitisme de la petite bourgeoisie (expression emprunté à « À nos amis ») faisait le reste.
+### <a id="carlton"></a>Affaire Carlton
+La synthèse de l'affaire Carlton est directe: c'est l'application toute bête du [jeu des apparences](#japparences) décrit par Vincent Le Coq. [Anticipé par un référent régional Anticor](#decrop2015carlton) (« cherchez l'erreur »), la sentence du journal Le Monde sous la plume de leur chroniqueur judiciaire, [ROBERT-DIARD](https://www.lemonde.fr/signataires/pascale-robert-diard/), « l'instruction condamnée », est cependant passée comme lettre à la poste. La confirmation deux ans plus tard, par Vincent LE COQ, d'une supercherie « grosse comme ça », n'a pas non plus fait de brèche dans la loi du silence. Il y avait des parties ayant intérêt et capacité à agir en matière de corruption et de violence envers les femmes, motifs du procès occultés et mis en avant, respectivement, qui sont faciles à deviner...  En toute logique Le Monde pouvait enfoncer le clou une présidence plus loin: [« De DSK à #Balancetonporc, une révolution française »](dskbalance). C'est comme si l'imposture était désirée par leurs lecteurs, et le mimémitisme de la petite bourgeoisie (expression emprunté à « À nos amis ») faisait le reste.
 
 ### <a>carlton</a>Affaire Sarah HALIMI
 
+Lors de l'audition de la juge d'instruction par la commission d'enquête, la circonstance aggravante d'antisémitisme est revenue comme un léitmotiv. 0
+
+halimi
+
+Deux heures trente pour découvrir le moyen, pour le juge d'instruction d'étendre de le champ de son investigation, en l'occurence à la circonstance aggravante d'antisémitisme: ce n'est pas sérieux. M
+
+        Morlighem
+        
+        Ne pas aller au delà de votre saisine: «Est-ce un choix de votre part ou une limitation du champ d'investigation qui est imposé ? Je rappelerais que votre réponse se centralisent autour du trouble mental de [Traoré]»
+        
+        L: le juge d'instruction ne peut s'autosaisir. J'ai moi même fait une ordonnance ... commission rogatoire qui a été effectivement décidé du caractère antisémite envisagé ça a été fait. ... sauf une circonstance aggravante peut être retenue.
+        
+        Morlighem.
+        
+        Vous n'avez aucune possibilité. Avez vous manifesté d'aller au delà de la saisine? Témoins que vous vous n'avez pas entendus. Il me semble naturel que le champ
+        
+        02:32:00
+        
+        L: lorsque le magistrat instructeur estime que le champ soit étendu, il fait une ordonnance de soit communiqué. Elle a été faite au parquet qui nous a saisi du caractère antisémite du crime. Oct/2017.
+        
+        Morighem.
+        
+        Vous me confirmez que vous n'aviez pas le pouvoir?
+        
+        L: c'est exactement le contraire que je viens de vous dire.
+
+
+lui même demander au procureur un réquisitoire supplétif, en l'occurence pour y  circonstance aggravante d'antisémitisme, ça n'est pas sérieux: c'est bien ce qui s'est passé 
 
 
 ## 🌐

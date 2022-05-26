@@ -46,10 +46,16 @@ Backlinks
 </details>
 
 ### C
+##### <a id="rcohen"></a>Yves CHARPENEL
+<details><summary>Fiche</summary>
+
+* [Wikpipedia](https://fr.wikipedia.org/wiki/Yves_Charpenel)
+</details>
+
 ##### <a id="rcohen"></a>Roger COHEN🇺🇸
 <details><summary>Fiche</summary>
 
-* [New York Times](https://climatehub.nytimes.com/speaker/369802/roger-cohen); 
+* [New York Times](https://climatehub.nytimes.com/speaker/369802/roger-cohen)
 </details>
 
 ### G

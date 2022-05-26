@@ -3,24 +3,11 @@
 
 > [La multiplication des lois, sans chercher à s'assurer de leur efficacité, engendre un désordre législatif préjudiciable.](./bib.md#badinter) (BADINTER, 2007)
 
-## 📜
-
-### 2002-2017
-* <a id="badinter2007therapie"></a>2007 [Robert BADINTER : "Ne pas confondre justice et thérapie"](https://www.lemonde.fr/societe/article/2007/09/08/robert-badinter-ne-pas-confondre-justice-et-therapie_952825_3224.html)
-
-    > La multiplication des lois, sans chercher à s'assurer de leur efficacité, engendre un désordre législatif préjudiciable. 
+## 📁
 
 ### 2017-2022
-* <a id="candau2016medias"></a>[Sur Médiapart: Réformer une justice malade (2/3). La grande misère de la justice](https://www.dailymotion.com/video/x2spq5t)
 
-    > Seules 200 des 15000 infractions sont effectivement utilisés (Yves Charpenel au temps 18:20)
-
-* <a id="elina2022conseil"></a> [Tribune dans Le Monde : pour un contrôle véritable des candidatures au Conseil constitutionnel](https://www.lemonde.fr/idees/article/2022/02/18/pour-un-controle-veritable-des-candidatures-au-conseil-constitutionnel_6114194_3232.html)
-
-    > Alors que les noms de Jacqueline GOURAULT, Véronique MALBEC et François SENERS viennent d’être proposés pour rejoindre l’institution, la juriste Elina LEMAIRE appelle le Parlement à vérifier les compétences juridiques et l’exemplarité des candidats.
-
-## 📁
-### <a id="breteau"></a>[Audition de Denis BRÉTEAU](https://shorturl.me/jHBHC), lanceur d'alerte de la SNCF, dans le cadre de la [loi Sapin 2](#sapin2)
+#### <a id="breteau"></a>[Audition de Denis BRÉTEAU](https://shorturl.me/jHBHC), lanceur d'alerte de la SNCF, dans le cadre de la [loi Sapin 2](#sapin2)
 
     <details><summary>Verbatim</summary>
     Donc voilà, après cet accompagnement graduel du LDA, la questions pose est-ce que lLDA
@@ -63,7 +50,7 @@
     29’
     </details>
 
-### <a id="halimi">Sarah HALIMI</a>
+#### <a id="halimi">Sarah HALIMI</a>
 * [2021-11-24](https://videos.assemblee-nationale.fr/video.11564277_619e4378170dc.dysfonctionnements-de-la-justice-et-de-la-police-dans-l-affaire-dite-sarah-halimi--auditions-divers-24-novembre-2021)
     * Audition de Mme Anne IHUELLOU, magistrat, vice-présidente de l’instruction
     
@@ -278,7 +265,7 @@
         
         </details>
 
-### <a id="fn"></a>Françoise NICOLAS
+#### <a id="fn"></a>Françoise NICOLAS
 * <a id="qag32447q"></a>[QAG no 32447](https://questions.assemblee-nationale.fr/q15/15-32447QE.htm)
 
     De [Ugo Bernalicis](whoswho#bernalic), adressée au MAE.

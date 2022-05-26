@@ -3,9 +3,13 @@
 
 Le 2021-05-20, [Denis Bréteau](whoswho#breteau),  lanceur d'alerte de la SNCF, était [auditionné à l'Assemblée Nationale](https://shorturl.me/jHBHC) dans le cadre de la [Loi Sapin 2](corruption#sapin2)
 
-## Verbatim ##
+## Synthèse 
+🚧
+
+## Verbatim
 
 <details><summary> En travaux </summary>
+
 Donc voilà, après cet accompagnement graduel du LDA, la questions pose est-ce que lLDA
 
 , le DDD
@@ -46,13 +50,6 @@ Voilà. Je ne
 29’
 </details>
 
----
-<details><summary> 🚧 </summary>
-
-[ ] Synthèse
-[ ] Verbatim
-[ ] Ajouter à la page [Débats](debats.md)
-</details>
 
 ---
 [Photo](./_aux/attrib.md#sncf)
