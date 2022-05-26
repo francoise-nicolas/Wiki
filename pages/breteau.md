@@ -8,7 +8,8 @@ Le 2021-05-20, [Denis Bréteau](whoswho#breteau),  lanceur d'alerte de la SNCF, 
 
 ## Verbatim
 
-<details><summary> En travaux </summary>
+<details>
+<summary> En travaux </summary>
 
 Donc voilà, après cet accompagnement graduel du LDA, la questions pose est-ce que lLDA
 
