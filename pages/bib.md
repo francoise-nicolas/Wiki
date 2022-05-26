@@ -1659,6 +1659,10 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
     > Emmanuel MACRON n'a pas hésité à écarter tous les candidats proposés par la garde des Sceaux (lui infligeant au passage un sacré camouflet) pour adouber Rémy HEITZ.
 
+* <a id="dieselgate"></a>[📰EU observer: Court confirms 🇪🇺 illegally relaxed diesel emission rules](https://euobserver.com/green-economy/143697)
+
+* <a id="cocacola"></a>[📰Euractiv: Coca-Cola’s 🇪🇺 Council sponsorship raises eyebrows](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
+
 *  <a id="fraisseimpuni"></a>[📰Sivens : le gendarme impliqué dans la mort de Rémi Fraisse ne sera pas jugé au pénal](https://www.francebleu.fr/infos/faits-divers-justice/sivens-le-gendarme-implique-dans-kla-mort-de-remi-fraisse-ne-sera-pas-juge-au-penal-1547738807)
     > La tentative des avocats de la famille de Rémi FRAISSE a échoué : le Conseil Constitutionnel a estimé ce 17 janvier que le gendarme impliqué dans la mort de ce garçon sur le barrage de Sivens (Tarn) en 2014 relevait bien de la justice militaire, et non ordinaire.
 

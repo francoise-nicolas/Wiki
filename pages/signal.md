@@ -2,18 +2,18 @@
 
 | Symbol | Signification | 
 |--------|---------------|
-|📢 | Alerte |
-| 📚     | Bibliographie |
-| 📜     | Chronique     |
-| 📁      | Dossier|
-| ⚖      | Droit         | 
-| 🚧     | En travaux  |
+| 📢 | Alerte |
+| 📚 | Bibliographie |
+| 📜 | Chronique     |
+| 📁  | Dossier|
+| ⚖  | Droit         | 
+| 🚧 | En travaux  |
 | 🗣️ | Expression orale |
 | 🌐 | Internet |
 | 🕮 | Livre |
 | 🎭 | Manipulation |
 | 📺 | Média |
-|✍ | Opinion écrite |
+| ✍ | Opinion écrite |
 | 📰 | Presse |
 | 📄 | Publication (institutionnel, académique) |
 | ↳ | Renvoi |
