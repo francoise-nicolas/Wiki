@@ -245,8 +245,8 @@
 
 <details><summary>Faits et procédure</summary>
 
-    * 4. Le 10 juillet 2017, M [T] a été mis en examen de ces chefs. Après la délivrance d'un réquisitoire supplétif, la circonstance que les faits ont été commis à raison de l'appartenance vraie ou supposée de la victime à une race ou une religion déterminée a été notifiée à l'intéressé.
-    * 5. Par ordonnance de transmission de pièces aux fins de saisine de la chambre de l'instruction, en date du 12 juillet 2019, les juges d'instruction, après avoir écarté la circonstance aggravante précitée, ont estimé qu'il existait contre M. [T], d'une part, des charges suffisantes d'avoir commis les faits d'homicide volontaire et de séquestration qui lui étaient reprochés et d'autre part, des raisons plausibles d'appliquer le premier alinéa de l'article 122-1 du code pénal.
+* 4. Le 10 juillet 2017, M [T] a été mis en examen de ces chefs. Après la délivrance d'un réquisitoire supplétif, la circonstance que les faits ont été commis à raison de l'appartenance vraie ou supposée de la victime à une race ou une religion déterminée a été notifiée à l'intéressé.
+* 5. Par ordonnance de transmission de pièces aux fins de saisine de la chambre de l'instruction, en date du 12 juillet 2019, les juges d'instruction, après avoir écarté la circonstance aggravante précitée, ont estimé qu'il existait contre M. [T], d'une part, des charges suffisantes d'avoir commis les faits d'homicide volontaire et de séquestration qui lui étaient reprochés et d'autre part, des raisons plausibles d'appliquer le premier alinéa de l'article 122-1 du code pénal.
 </details>
 
 ---
