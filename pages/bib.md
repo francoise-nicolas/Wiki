@@ -22,7 +22,8 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
 ## 📚
 ### 1995-2002
 
-* 🕮 Marie-France HIRIGOYEN: le harcèlement moral
+<!-- 1998 -->
+* <a id="hirigoyen1998"></a>🕮 Marie-France HIRIGOYEN: le harcèlement moral
 
     <details><summary>Dans l'entreprise</summary>
 
@@ -215,8 +216,10 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
     d’un laxisme organisationnel.    
     </details>
 
+<!-- 1998 -->
 * <a id="monteb1998tribcomm"></a>[📄Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
 
+<!-- 1998 -->
 * <a id="degaudem1998albinm"></a> [📰Astreinte record contre Albin Michel—Les éditeurs dénoncent la censure économique](https://www.liberation.fr/evenement/1998/05/07/astreinte-record-contre-albin-michel-les-editeurs-denoncent-la-censure-economique-le-tribunal-de-bre_238099/)
 
     <details><summary>Méconnu</summary>
@@ -224,9 +227,11 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
     C'est Bertrand LOUVEL, cité [ici](#louvelache) et [ici](#louvel), qui a rendu ce jugement.
     </details>
 
+<!-- 1998-07-30 -->
 * [📰Le Parisien: Corruption et malversations aux tribunaux de commerce](https://www.leparisien.fr/faits-divers/corruption-et-malversations-aux-tribunaux-de-commerce-30-07-1998-2000182509.php)
     >    TROIS semaines après la publication d´un rapport au vitriol sur les tribunaux de commerce, les membres de la commission d´enquête parlementaire dénoncent à la justice une série d´« infractions pénales graves » commises au sein de ces juridictions. Le président et le rapporteur de la commission d´enquête, les députés socialistes François COLOMBET (Allier) et Arnaud MONTEBOURG (Saône-et-Loire), ont donc transmis aux procureurs de la République concernés les faits découverts au fil de leur enquête susceptibles de donner lieu à des poursuites. Les députés ont visité huit tribunaux de commerce en six mois d´un travail qui s´est révélé fructueux puisqu´ils saisissent aujourd´hui la justice de pas moins de neuf dossiers. Il s´agit, à Rennes, de « malversation présumée » et à Agen de « trafic d´influence », ces deux affaires concernant des mandataires de justice. A Pau, les deux députés ont saisi le parquet de faits qualifiables selon eux de « corruption active ». A Dijon, ils préconisent des sanctions disciplinaires contre un mandataire de justice. 
 
+<!-- 1999 -->
 * <a id="coignard1999omerta"></a> [🕮Sophie COIGNARD et Alexandre WICKHAM: L'omertà française](https://bibliotheques-numeriques.defense.gouv.fr/bibliotheque-ader/document/ac00740d-45fe-4dee-8bdb-20e201bc1178)
 
     <details><summary>Ce rapport commandé par Jacques TOUBON « pour rogner les espaces de liberté laissés à la presse »</summary>
@@ -267,20 +272,21 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
     > le juge peut, méme en référé, ordonner l’insertion dans la publication concernée d’un communiqué. » -->
     </details>
 
-* [📰Le Monde: Un juge s'en va](https://www.lemonde.fr/archives/article/2005/01/29/un-juge-s-en-va_396132_1819218.html)
-
-    > Jusqu'au 17  janvier, Laurent Lèguevaque était juge d'instruction à Tours. En démissionnant, fait très rare dans la magistrature, ce franc-tireur de 38  ans entend dénoncer les raideurs du monde judiciaire. 
-
 <!--
 
+<!-- 2002 -->
 * <a id="halphen2002sept"></a> [🕮Eric HALPHEN: Sept ans de solitude](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-documents/Sept-ans-de-solitude)
 
 -->
 
+<!-- 2005-01-29 -->
+* [📰Le Monde: Un juge s'en va](https://www.lemonde.fr/archives/article/2005/01/29/un-juge-s-en-va_396132_1819218.html)
+
+    > Jusqu'au 17  janvier, Laurent Lèguevaque était juge d'instruction à Tours. En démissionnant, fait très rare dans la magistrature, ce franc-tireur de 38  ans entend dénoncer les raideurs du monde judiciaire. 
+
 ### 2007-2012
 
-* <a id="borrel2021empire"></a> 🕮[Thomas BORREL : L'empire qui ne veut pas mourir—Une histoire de la Françafrique](https://www.seuil.com/ouvrage/l-empire-qui-ne-veut-pas-mourir-collectif/9782021464160)
-
+<!-- 2007-03-06 -->
 * [🗣Affaire Elf: ITW de Loïc LE FLOCH PRIGENT](https://www.challenges.fr/entreprise/l-affaire-elf-en-resume_388898)
 
     <details><summary>Extrait</summary>
@@ -296,14 +302,19 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
     > afin de maintenir sa tutelle économique et politique sur les pays de son ancien pré carré formellement émancipés. 
     > Les "soleils des indépendances", pour reprendre le titre de l'écrivain africain Ahmadou KOURAMA, étaient par avance brouillés.
     </details>
-    
+  
+<!-- 2003-10-25 -->
 * [🗣Thierry JEAN-PIERRE à Thierry ARDISON : « L'affaire [Elf] aurait dû être une grosse affaire si elle avait été à son terme »](https://www.ina.fr/video/I09006953)
-    
+
+<!-- 2007-09-08 -->
 * <a id="badinter2007therapie"></a>[✍Robert BADINTER : "Ne pas confondre justice et thérapie"](https://www.lemonde.fr/societe/article/2007/09/08/robert-badinter-ne-pas-confondre-justice-et-therapie_952825_3224.html)
 
     > La multiplication des lois, sans chercher à s'assurer de leur efficacité, engendre un désordre législatif préjudiciable. 
-            
+
+<!-- 2011-05-05 -->
 * <a id="colonna"></a> [🕮De Vincent LE COQ, « Yvan COLONNA, anathomie d'un procès truqué »](https://books.google.com/books?id=bWViHTyKsNMC&pg=PT1&lpg=PT1&dq=yvan+colonna+anatomie+d%27un+proc%C3%A8s+truqu%C3%A9+vincent+le+coq&source=bl&ots=HdTpJOZnGL&sig=ACfU3U1IjMhOH0vt3sNv9elFgqDoSx63Dw&hl=en&sa=X&ved=2ahUKEwin0aLHxaz2AhXtTN8KHbQyAeA4FBDoAXoECCQQAw#v=onepage&q=yvan%20colonna%20anatomie%20d'un%20proc%C3%A8s%20truqu%C3%A9%20vincent%20le%20coq&f=false)
+
+<!-- 2011 -->
 
 * [📄Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
 
@@ -311,6 +322,8 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
    
    🚧
    </details>
+
+<!-- 2011 -->
 
 * <a id="frenaud"></a>[🕮Franck RENAUD : Les diplomates — derrière la façade des ambassades de France](https://www.lisez.com/livre-grand-format/la-face-cachee-du-quai-dorsay/9782221157046)
     NB: l'introduction est un résumé de l'affaire Françoise NICOLAS.
@@ -335,6 +348,9 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
     > L’observation minutieuse des relations entre la grande distribution et l’État, révèle l’intelligence des acteurs des grandes enseignes à tirer parti de la corruption des élites : la grande distribution a financé la vie politique française.  En contrepartie, celle-ci l’a favorisée systématiquement au détriment des petits commerçants, mais aussi des paysans, des producteurs en général, de la santé des consommateurs et plus généralement de notre modèle social lui-même.
     </details>
 
+* [🇳📰Africa intelligence: Françoise NICOLAS remonte sur le ring](https://www.africaintelligence.fr/afrique-ouest-et-centrale_politique/2011/12/01/francoise-nicolas-remonte-sur-le-ring,94999641-art)
+
+
 ### 2012-2017
 
 * <a id="louvel"></a>[📰Le Monde: Bertrand LOUVEL devient le plus haut magistrat de France](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
@@ -346,17 +362,18 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
     
 * <a id="droitsouple">[📄Rapport du Conseil d'État: le droit souple](https://web.archive.org/web/20151010015516/https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000280.pdf)
 
-* <a id="jl2014"></a>📄Rapport: Les Justiciables face au Service public de la justice
+<!-- 2014-07-14 -->
+* <a id="jl2014"></a>[📄Rapport: Les Justiciables face au Service public de la justice](../pieces/identifiant/56739858)
     <details><summary>Information</summary>
     
     * Sponsor: [le député Jean Lassalle](https://twitter.com/jeanlassalle)
     * Auteur: Nadya Saidi & [Antoine Fontaine](https://antoinefontaine.re/)
-    * [pdf](../pieces/identifiant/56739858)
     </details>
 
    >Force est de constater qu’il y a bien une main mise sur l’arsenal judiciaire par certains agents judiciaires qui bloquent les rouages d’une fonction publique, détournent les règles du droit au profit d’une partie, enlisant ainsi le justiciable dans des procédures coûteuses et sans fin.
 
-* <a id="bercychoc"><a>📰[Les Échos: Professions réglementées — le rapport choc de Bercy](https://www.lesechos.fr/2014/07/professions-reglementees-le-rapport-choc-de-bercy-306721)
+<!-- 2014-07-14 -->
+* <a id="bercychoc"><a>[📰Les Échos: Professions réglementées — le rapport choc de Bercy](https://www.lesechos.fr/2014/07/professions-reglementees-le-rapport-choc-de-bercy-306721)
 
     > EXCLUSIF. Un rapport de l’Inspection générale des finances dissèque les situations de rentes dont bénéficient certains métiers. Il préconise des réformes ciblées qui pourraient faire baisser jusqu’à 20 % les prix des services concernés.
     
@@ -365,6 +382,7 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
      Plus grave peut-être, le service au client, souvent mis en avant par certaines professions réglementées pour justifier leur niveau de prix, est sérieusement remis en cause par les utilisateurs. D’après un sondage réalisé par l’IGF, un Français sur deux a déjà eu recours à un avocat mais seulement 23 % d’entre deux estiment que le service est de qualité. Pour les administrateurs et mandataires judiciaires, le nombre des clients insatisfait grimpe à plus d’un sur deux.
     </details>
 
+<!-- 2014-11-14 -->
 * <a id="denoel2014histoire"></a> [🕮De DENOËL et GUARRIGUES, Histoire secrète de la corruption sous la Vè](https://www.nouveau-monde.net/catalogue/histoire-secrete-de-la-corruption-sous-la-ve-republique/)
 
     <details><summary>Affaire Elf: « Le tribunal veut-il des noms? »</summary>
@@ -389,29 +407,48 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
     >    chacun, suffit à la Justice pour dénoncer leur prévarication.
     </details>
 
+<!-- 2014-12-28 -->
 * <a id="elushonnetes"></a>[🗣France Inter: ITW de Yvonnick De DENOËL](https://www.franceinter.fr/emissions/l-interview-politique/l-interview-politique-28-decembre-2014)
     > « Les élus sont dans leur majorité honnêtes »
 
+<!-- 2014-03-26 -->
 * <a id="trevert2014ronsin"></a>[📰Xavier RONSIN: L'École nationale de la magistrature n'est pas une fabrique à robots!](https://www.lepoint.fr/societe/xavier-ronsin-l-ecole-nationale-de-la-magistrature-n-est-pas-une-fabrique-a-robots-26-03-2014-1805656_23.php)
 
+<!-- 2015-02-02 -->
 * <a id="carage2015demontg"></a>[📰DE MONTGOLFIER, pas un pigeon](https://www.ledauphine.com/ardeche/2015/02/02/de-montgolfier-pas-un-pigeon)
     > Pour enrayer cette corruption, Éric DE MONTGOLFIER souhaite simplifier les règles « trop complexes » de la justice. 
     > « Ceux qui ont le pouvoir veulent le conserver, et rendent la justice occulte. » Pour lui, la population doit « se sortir de cette position de pigeon, sans toutefois devenir un aigle »
 
+<!-- 2015-06-12 -->
 * <a id="decrop2015carlton"></a>[✍ Xavier DECROP (référent Anticor) dans Boulevard Voltaire : « Procès Carlon: cherchez l'erreur »](https://www.bvoltaire.fr/proces-carlton-cherchez-lerreur/)
 
+<!-- 2015-06-13-->
 * <a id="diard2015dsk"></a>[📰Pascale Robert-DIARD pour Le Monde : « Carlton de Lille: DSK relaxé, l'instruction condamnée »](https://www.lemonde.fr/police-justice/article/2015/06/13/carlton-de-lille-dsk-relaxe-l-instruction-condamnee_4653493_1653578.html)
 
+<!-- 2016-04-02 -->
+* <a id="demontg2016independ"></a>[📰Éric DE MONTGOLFIER - L'indépendance des juges, cette Arlésienne de la République](https://www.lepoint.fr/invites-du-point/eric-de-montgolfier/de-montgolfier-l-independance-des-juges-cette-arlesienne-de-la-republique-02-04-2016-2029548_1451.php)
+
+<!-- 2016-04-07 -->
 * <a id="jauvert2016face"></a>🕮[Vincent JAUVERT : La Face cachée du Quai d'Orsay](https://www.lisez.com/livre-grand-format/la-face-cachee-du-quai-dorsay/9782221157046)
 
+<!-- 2016-08-23 -->
+* <a id="avhmvp"></a>[🇳🗣️Témoignage de Françoise NICOLAS, lanceur d'alerte, fonctionnaire au Ministère des Affaires étrangères : ACTES DU COLLOQUE AVHMVP](http://harcelement-violence.overblog.com/2016/08/temoignage-de-francoise-nicolas-lanceur-d-alerte-fonctionnaire-au-ministere-des-affaires-etrangeres-actes-du-colloque-avhmvp-juin-20)
+
+<!-- 2016-09-11 -->
+* <a id="huma-2016"></a>[🇳🗣️Fête de l'huma — témoignage de Françoise NICOLAS et Nicolas FAURISSIER](https://t.co/mSMacDdH9t)
+
+<!-- 2016-10-07 -->
+* <a id="candau2016"></a>[📰🇬🇧European Parliament expresses concern over media pluralism in France](https://www.euractiv.com/section/justice-home-affairs/news/european-parliament-expresses-concern-over-media-pluralism-in-france/)
+
+<!-- 2016-10-13 -->
 * <a id="louvelache"></a> [✍Bertrand LOUVEL, 1er président magistrat de France « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
 
+<!-- 2016 -->
 * <a id="candau2016medias"></a>[📺Sur Médiapart: Réformer une justice malade (2/3). La grande misère de la justice](https://www.dailymotion.com/video/x2spq5t)
 
     > Seules 200 des 15000 infractions sont effectivement utilisés (Yves Charpenel au temps 18:20)
 
-* <a id="demontg2016independ"></a>[📰Éric DE MONTGOLFIER - L'indépendance des juges, cette Arlésienne de la République](https://www.lepoint.fr/invites-du-point/eric-de-montgolfier/de-montgolfier-l-independance-des-juges-cette-arlesienne-de-la-republique-02-04-2016-2029548_1451.php)
-
+<!-- 2017 -->
 * <a id="lecoq2017justice"></a>[🕮Vincent LE COQ : Impunités: justice à deux vitesses](https://www.nouveau-monde.net/catalogue/impunites/)
 
     <details>
@@ -482,8 +519,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 -->
 
-* <a id="gonzales2017hatvp"></a>📰[Jean-Louis NADAL: Haute autorité pour la transparence: "La lutte contre la corruption est trop morcelée"](https://www.lefigaro.fr/actualite-france/2017/07/09/01016-20170709ARTFIG00146-nadal-la-lutte-contre-la-corruption-est-trop-morcelee.php)
-
+<!-- 2017-04-07 -->
 * <a id="liberermagistr"></a>[📝Vincent LE COQ : contre l'impunités des politiques, urgent de libérer les magistrats](https://www.contrepoints.org/2017/04/07/286320-contre-limpunite-politiques-urgent-de-liberer-magistrats)
 
     <details><summary>Procès Carlton: le trafic d'influence était constitué</summary>
@@ -491,12 +527,21 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     > « C’est bien d’être connu et pour un patron d’avoir accès à la présidence. Eiffage aurait pu proposer notamment des projets comme des PPP ». Toujours selon David Roquet, sa direction était au courant des avantages en natures octroyés à l'accusé, et leur avait même donné son aval. Mais la justice a préféré la qualification de proxénétisme, manifestement plus délicate à établir. 
     </details>
 
+<!-- 2017-07-09 -->
+* <a id="gonzales2017hatvp"></a>[📰Jean-Louis NADAL: Haute autorité pour la transparence: "La lutte contre la corruption est trop morcelée"](https://www.lefigaro.fr/actualite-france/2017/07/09/01016-20170709ARTFIG00146-nadal-la-lutte-contre-la-corruption-est-trop-morcelee.php)
+
+<!-- 2017-07-11 -->
+* 📄[Karim BENYEKHLEF, université de MTL: « Les secrets du droits »](https://www.karimbenyekhlef.ca/blogue/2017/07/11/les-secrets-du-droit/?utm_source=pocket_mylist), de Karim BENYEKHLEF, professeur de droit à l'université de Montréal)
+
+> Le droit est, en fait, pénétré du secret, puisque sa matrice, l’État, est elle-même fondée sur celui-ci. Le secret prend alors la forme de la Raison d’État. 
+
 <!--
 
 * <a id="latour2013corrup"></a> [Rapport: La lutte contre la corruption en France](https://www.dlavocats.com/medias/org-4115/shared/la-lutte-contre-la-corruption-en-france---ouvrage-nume--rise--.pdf?utm_source=pocket_mylist)
 
 -->
 
+<!-- 2017-10-17 -->
 * <a id="lecoq2017vichy"></a>[🕮Vincent LE COQ: les notaires sous l'occupation](https://www.tribunejuive.info/2017/10/17/shoah-les-notaires-spoliateurs-des-biens-juifs/)
 
     <details><summary>Extrait (Amazon)</summary>
@@ -1594,7 +1639,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     
     La commission MATTÉOLI sur la spoliation des biens juifs avait été ordonnée par Alain Juppé suite au discours de Jacques CHIRAC du 16 juillet 1995 sur la responsabilité du régime de Vichy dans la déportation des juifs. Le dit Mattéoli, était le président d'honneur d'une organisation de résistant, partie civile au procès Papon. Lui, en revanche, a [témoigné au soutien de la défense](https://www.lemonde.fr/disparitions/article/2008/02/02/jean-matteoli_1006692_3382.html).
     
-    [Audition d'un expert devant le congrès américain en 1999](https://archives-financialservices.house.gov/banking/91499awi.shtml):
+    [1999, audition d'un expert par le congrès américain](https://archives-financialservices.house.gov/banking/91499awi.shtml):
     > La République française qualifie ce rapport de "massivement approfondi". 
     > En fait, la deuxième partie du rapport est rédigée de manière très désorganisée.
     > Les hypothèses qui sous-tendent divers calculs sont souvent erronées et ne sont pas conformes aux normes les plus récentes.
@@ -1603,12 +1648,9 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     
     </details>
 
-* 📄[Karim BENYEKHLEF, université de MTL: « Les secrets du droits »](https://www.karimbenyekhlef.ca/blogue/2017/07/11/les-secrets-du-droit/?utm_source=pocket_mylist), de Karim BENYEKHLEF, professeur de droit à l'université de Montréal)
-
-> Le droit est, en fait, pénétré du secret, puisque sa matrice, l’État, est elle-même fondée sur celui-ci. Le secret prend alors la forme de la Raison d’État. 
-
 ### 2017-2022
 
+<!-- 2018-06-02 -->
 * <a id="csm2017"></a>[📄Conseil Supérieur de la Magistrature—rapport d'activité de 2017](http://www.conseil-superieur-magistrature.fr/publications/rapports-annuels-dactivite/rapport-annuel-dactivite-2017)
 
     <details>
@@ -1619,20 +1661,18 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     > Il faut rappeler ici que les rédacteurs de ces plaintes sont très rarement assistés d’un avocat.
     </details>
 
+<!-- 2018-01-01
 <!--
 
-* <a id="lacan2018magis"></a>🕮Jean-François LACAN et Jehanne COLLARD: [ Ces magistrats qui tuent la justice](https://www.albin-michel.fr/ces-magistrats-qui-tuent-la-justice-9782226330871)
+* <a id="lacan2018magis"></a>[🕮Jean-François LACAN et Jehanne COLLARD: Ces magistrats qui tuent la justice](https://www.albin-michel.fr/ces-magistrats-qui-tuent-la-justice-9782226330871)
 
 -->
 
+<!-- 2018-01-27 -->
 * <a id="dskbalance"></a>[Le Monde](https://www.lemonde.fr/idees/article/2018/01/27/de-dsk-a-balancetonporc-une-revolution-francaise_5247999_3232.html)
 > Quasi inaudibles en  2011, lors de l’affaire du Sofitel, les femmes victimes de harcèlement sexuel ont imposé des remises en cause et des débats d’une ampleur insoupçonnée. Récit d’un basculement. 
 
-* <a id="pardo2018superch"></a>🕮Ernest PARDO, [La supercherie judiciaire: de la criminalité en col blanc à la criminalité en robe noire](https://www.unanymous.fr/post/6-ways-to-use-instagram-for-ecommerce-marketing)
-
-* <a id="nddlvoyous"></a>[📄NDDL: le gouvernement "cède devant les voyous", accuse Jacob (LR)](https://www.nouvelobs.com/politique/20180422.AFP9524/nddl-le-gouvernement-cede-devant-les-voyous-accuse-jacob-lr.html)
-
-
+<!-- 2018-02-22 -->
 * <a id="lecoq2018projets"></a> [🕮De Vincent LE COQ: Projets publics, intérêt privés](https://libre-solidaire.fr/epages/e02491b5-ce3a-4c00-b187-dc9ff39194fc.sf/fr_FR/?ObjectPath=/Shops/e02491b5-ce3a-4c00-b187-dc9ff39194fc/Products/47)
 
     <details><summary>Verso de couverture</summary>
@@ -1647,26 +1687,48 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 </details>
 -->
 
+<!-- 2018-04-19 -->
+* <a id="nicolasVA"></a>[🇳📰Valeurs Actuelles: La lanceuse d'alerte qui attaque Nathalie LOISEAU](../pieces/identifiant/ccac26a8)
+
+<!-- 2018-04-22 -->
+* <a id="nddlvoyous"></a>[📄NDDL: le gouvernement "cède devant les voyous", accuse Jacob (LR)](https://www.nouvelobs.com/politique/20180422.AFP9524/nddl-le-gouvernement-cede-devant-les-voyous-accuse-jacob-lr.html)
+
+
+<!-- 2018-06-04 -->
 * [📁Anticor 92 reçoit Eva JOLY sur le coût de la corrupion](anticor92joly.md)
 
-
+<!-- 2018-09-26 -->
 <!--
 
 * [JDD: Quand Emmanuel Macron s’immisce dans la procédure de nomination du procureur de Paris](https://www.lejdd.fr/Politique/quand-emmanuel-macron-simmice-dans-la-procedure-de-nomination-du-procureur-de-paris-3764849)
 
 -->
 
+<!-- 2018-10-18 -->
+* <a id="mediacites"></a>[🇳📰Médiacités: la LDA du Quai d'Orday poussée vers la sortie](https://www.mediacites.fr/complement-denquete/nantes/2018/10/18/la-lanceuse-dalerte-du-quai-dorsay-poussee-vers-la-sortie/)
+
+<!-- 2018-11-16 -->
+* <a id="pardo2018superch"></a>[🕮Ernest PARDO: La supercherie judiciaire: de la criminalité en col blanc à la criminalité en robe noire](https://www.unanymous.fr/post/6-ways-to-use-instagram-for-ecommerce-marketing)
+
+<!-- 2018-11-18 -->
 * <a id="heitzbobigny"></a>[📰Rémy HEITZ, du palais de Bobigny au sommet de la justice](https://www.liberation.fr/france/2018/11/18/remy-heitz-du-palais-de-bobigny-au-sommet-de-la-justice_1692863/)
 
     > Emmanuel MACRON n'a pas hésité à écarter tous les candidats proposés par la garde des Sceaux (lui infligeant au passage un sacré camouflet) pour adouber Rémy HEITZ.
 
-* <a id="dieselgate"></a>[📰EU observer: Court confirms 🇪🇺 illegally relaxed diesel emission rules](https://euobserver.com/green-economy/143697)
+* <a id="dieselgate"></a>[📰🇬🇧EU observer: Court confirms 🇪🇺 illegally relaxed diesel emission rules](https://euobserver.com/green-economy/143697)
 
-* <a id="cocacola"></a>[📰Euractiv: Coca-Cola’s 🇪🇺 Council sponsorship raises eyebrows](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
+<!-- 2019-03-04 -->
+* <a id="cocacola"></a>[📰🇬🇧Euractiv: Coca-Cola’s 🇪🇺 Council sponsorship raises eyebrows](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
 
+<!-- 2019-01-17 -->
 *  <a id="fraisseimpuni"></a>[📰Sivens : le gendarme impliqué dans la mort de Rémi Fraisse ne sera pas jugé au pénal](https://www.francebleu.fr/infos/faits-divers-justice/sivens-le-gendarme-implique-dans-kla-mort-de-remi-fraisse-ne-sera-pas-juge-au-penal-1547738807)
     > La tentative des avocats de la famille de Rémi FRAISSE a échoué : le Conseil Constitutionnel a estimé ce 17 janvier que le gendarme impliqué dans la mort de ce garçon sur le barrage de Sivens (Tarn) en 2014 relevait bien de la justice militaire, et non ordinaire.
 
+<!-- 2019-04-17 -->
+* <a id="lemedianicolas"></a>[🇳📺Le Média: La lanceuse d'alerte qui accuse Nathalie LOISEAU](https://www.lemediatv.fr/emissions/les-entretiens/la-lanceuse-dalerte-qui-accuse-nathalie-loiseau-lKSR1V_BSsKkSzrIF8-h6A)
+
+
+<!-- 2019-12-21 -->
 * <a id="ft"></a> [Le Monde: tournant pénal dans le droit du travail (affaire des suicides de France Télécom)](https://www.lemonde.fr/idees/article/2019/12/21/proces-france-telecom-un-tournant-dans-le-droit-penal-du-travail_6023715_3232.html)
 
 *  <a id="gonzales2019englues"></a>[📰Englués dans la procédure, les procureurs tentent de justifier l'image négative de la justice](https://www.lefigaro.fr/actualite-france/2019/04/03/01016-20190403ARTFIG00099-englues-dans-la-procedure-les-procureurs-tentent-de-justifier-l-image-negative-de-la-justice.php)
@@ -1705,65 +1767,85 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     > Toutefois, il a jugé que, en dépit de ces circonstances et contrairement à ce que les demandeurs affirmaient, l’organisation des opérations de maintien de l’ordre mises en place lors des récentes manifestations ne révélait pas une intention des autorités de ne pas respecter les conditions d’usage, strictes, mises à l’utilisation de ces armes.
     </details>
 
+<!-- 2019-01-15 -->
 *  <a id="kieffer2019giletsj"></a>[🗣France culture: Anniversaire des "gilets jaunes"](https://www.franceculture.fr/emissions/hashtag/anniversaire-des-gilets-jaunes-le-changement-cest-maintenant)
-<!--
-<details><summary>Les chiffres</summary>
--->
 > 52 samedis de manifestations. 10 000 gardes à vue et 400 peines de prison ferme. 4 000 blessés de part et d'autre et 40 victimes de tirs à l’œil.
-<!--
-</details>
--->
 
-*  <a id="spinosi"></a> [Le Point: « SPINOSI & SUREAU, moines soldats du droit »](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). 
-    * Voir aussi: [arrêt no 15-81.406 de la cour de cassation](./ordrej.md#lecoq)
-
-* <a id="morettimalbec"></a>[📰Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
-
-* <a id="HRWfrance"></a>[📰Human Rights Watch: La France à la traîne au Conseil des droits de l'homme des Nations Unies](https://www.hrw.org/fr/news/2020/10/08/la-france-la-traine-au-conseil-des-droits-de-lhomme-des-nations-unies)
-
-* <a id="frouv2020ddl"></a>[📰Olivier de FROUVILLE: La France peut cohérente patrie des droits de l'homme](https://www.lemonde.fr/idees/article/2020/12/03/la-france-peu-coherente-patrie-des-droits-de-l-homme_6062003_3232.html)
-
-* <a id="bienv2021magistrats"></a>[📰Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
-
-* <a id="amiante"></a>[📰L'Express: Amiante : "Nous atteindrons bientôt 100 000 morts, mais il n'y a aucun responsable"](https://www.lexpress.fr/actualite/societe/justice/amiante-nous-atteindrons-bientot-100-000-morts-mais-il-n-y-a-aucun-responsable_2091344.html)
-
+<!-- 2019-02-27 -->
 * <a id="tourbe2019ordre"></a>[📰Abus sexuels non sanctionnés, erreurs dans les comptes: ce rapport qui accable l'ordre des médecins](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
 
+<!-- 2019-05-01 -->
+* [🇳📰Mondafrique: Afrique, Nathalie LOISEAU n’aime pas les lanceurs d’alerte](https://mondafrique.com/nathalie-loiseau-tuer/)
+
+<!-- 2020-06-26 -->
+*  <a id="spinosi"></a> [Le Point: « SPINOSI & SUREAU, moines soldats du droit »](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). 
+    * Voir aussi: [arrêt no 15-81.406 de la cour de cassation](./ordrej.md#lecoq)
+    
+<!-- 2019-07-24 -->
+* <a id="amiante"></a>[📰L'Express: Amiante : "Nous atteindrons bientôt 100 000 morts, mais il n'y a aucun responsable"](https://www.lexpress.fr/actualite/societe/justice/amiante-nous-atteindrons-bientot-100-000-morts-mais-il-n-y-a-aucun-responsable_2091344.html)
+
+<!-- 2020-09-07 -->
+* <a id="morettimalbec"></a>[📰Eric DUPOND-MORETTI passe sous la coupe de la Place Vendôme](https://www.lalettrea.fr/action-publique_executif/2020/09/07/eric-dupond-moretti-passe-sous-la-coupe-de-la-place-vendome,109604169-ge0)
+
+<!-- 2020-10-08 -->
+* <a id="HRWfrance"></a>[📰Human Rights Watch: La France à la traîne au Conseil des droits de l'homme des Nations Unies](https://www.hrw.org/fr/news/2020/10/08/la-france-la-traine-au-conseil-des-droits-de-lhomme-des-nations-unies)
+
+<!-- 2020-10-29 -->
+* [🇳📰francisrael.com: Après l'ambassadeur, le consul...](https://web.archive.org/web/20201029092029/https://resistancisrael.com/apres-lambassadeur-le-consul/)
+
+> Le nouveau consul de France à Abidjean visé par une tentative d'assassinat
+
+<!-- 2020-12-03 -->
+* <a id="frouv2020ddl"></a>[📰Olivier de FROUVILLE: La France peut cohérente patrie des droits de l'homme](https://www.lemonde.fr/idees/article/2020/12/03/la-france-peu-coherente-patrie-des-droits-de-l-homme_6062003_3232.html)
+
+<!-- 2021-01-17 -->
+* <a id="bienv2021magistrats"></a>[📰Des magistrats et un préfet de police accusés de "faux témoignages"](https://www.la-croix.com/France/magistrats-prefet-police-accuses-faux-temoignages-2021-01-17-1201135391)
+
+<!-- 2021-10-07 -->
+* <a id="borrel2021empire"></a> 🕮[Thomas BORREL : L'empire qui ne veut pas mourir—Une histoire de la Françafrique](https://www.seuil.com/ouvrage/l-empire-qui-ne-veut-pas-mourir-collectif/9782021464160)
+
+
+
+<!-- 2020-01-10 -->
 <!--
-
-* <a id="omsyndic"></a>📰[Des syndicats de patients demandent la suppression de l'ordre des médecins](https://www.ouest-france.fr/sante/des-syndicats-et-patients-demandent-la-dissolution-de-l-ordre-des-medecins-7180685)
-
--->
-
-<!--
-
 * <a id="coeepinglefr"></a>[Lutte anticorruption et lobbies: la France épinglée par le Conseil de l'Europe](https://www.rfi.fr/fr/france/20200110-france-corruption-etat-rapport-conseil-europeen-anticor-autorite-anticorruption?utm_source=pocket_mylist)
     <details><summary>Extrait</summary>
     
     > La particularité de ce rapport, selon Éric ALT, vice-président de l’association Anticor, est le fait « qu’il concerne particulièrement l’exécutif ». En effet, sur les 18 recommandations du Greco, 12 concernent la présidence ou les hautes fonctions de l'État. 
     </details>
-
 -->
 
+
+<!-- 2020-03-12 -->
 * <a id="echecADP"></a> [📰Éditorial du Monde: Privatisation du Groupe ADP : surmonter l’échec du RIP](https://www.lemonde.fr/idees/article/2020/03/12/privatisation-du-groupe-adp-surmonter-l-echec-du-rip_6032740_3232.html)
 
+<!-- 2020-06-30 -->
 * <a id="inespere"><a>[📰« Jacques TOUBON: fin de mandat d'un défenseur des droits inespéreé »](https://www.liberation.fr/france/2020/06/30/jacques-toubon-fin-de-mandat-d-un-defenseur-inespere_1792944/)
 
-* <a id="covidpresse"></a> [📰Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)
-
+<!-- 2020-07-28 -->
 *  <a id="darmaninweber"></a>[🗣Intervention de Darmarin devant l'AN](https://twitter.com/LCP/status/1288174388286717952?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1288174388286717952%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.francetvinfo.fr%2Ffaits-divers%2Fpolice%2Fviolences-policieres%2Fla-police-exerce-une-violence-legitime-gerald-darmanin-cite-t-il-correctement-le-sociologue-allemand-max-weber_4060345.html)
 
+<!-- 2020-08-27 -->
+* <a id="covidpresse"></a> [📰Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)
+
+<!-- 2021-04-01 -->
 * <a id="smuller"></a>[📰C'est un jugement historique": Sandra Muller, initiatrice de "#Balancetonporc", a gagné le procès en appel où elle était poursuivie pour diffamation](https://www.bfmtv.com/societe/c-est-un-jugement-historique-sandra-muller-initiatrice-de-balancetonporc-a-gagne-le-proces-en-appel-ou-elle-etait-poursuivie-pour-diffamation_VN-202104010450.html)
 
+<!-- 2020-08-10 -->
 * <a id="queffelecweber">[🗣France culture: La "violence légitime de l'État" de Max Weber](https://www.franceculture.fr/philosophie/la-violence-legitime-de-letat-de-max-weber)
 
+<!-- 2021-03-09 -->
+* <a id="omsyndic"></a>[📰Des syndicats de patients demandent la suppression de l'ordre des médecins](https://www.ouest-france.fr/sante/des-syndicats-et-patients-demandent-la-dissolution-de-l-ordre-des-medecins-7180685)
+
+<!-- 2021-07-02 -->
 * <a id="piel2021dumas"></a>[📰Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de BALLADUR](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
     <details><summary>Extrait</summary>
 
     > La récente ouverture d’archives de l’institution confirme que les entorses à la loi étaient connues et que la voix de son président, Roland DUMAS, a été prépondérante pour fermer les yeux sur ces irrégularités de la présidentielle de 19 95.
     </details>
 
-* <a id="an-xv-3696"></a>[📄Rapport AN no. 3296: Obstacles à lindépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
+<!-- 2021-10-07 -->
+* <a id="an-xv-3696"></a>[📄Rapport AN no. 3296: Obstacles à l'indépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
    <details><summary>Information</summary>
    
    * Date: 2021-10-07
@@ -1775,14 +1857,17 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
    * Recommendation clé: aligner le statut du parquet sur celui du siège
    </details>
 
+<!-- 2021-07-02 -->
 * <a id="jolymoretti"></a>[📰Eva JOLY: la perquisition de DUPOND-MORETTI montre la pertinence du travail d'Anticor](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
 
+<!-- 2021-03-01 -->
 * <a id="joly2021revolue"></a>[📰Eva JOLY: Une époque inquiétante où les puissants étaient protégés, semble enfin révolue](https://www.liberation.fr/societe/police-justice/eva-joly-une-epoque-inquietante-ou-les-puissants-etaient-proteges-semble-enfin-revolue-20210301_RRGTVPALDZGUJCNJEX3AXPNHEA/)
     <details><summary>Extrait</summary>
 
     > Pour l’ancienne eurodéputée, la condamnation de l’ancien président Nicolas SARKOZY est le signe «que nos institutions fonctionnent».
     </details>
 
+<!-- 2021-04-21 -->
 * <a id="joly2021boniface"></a>[🗣Pascal BONIFACE reçoit Eva JOLY — "Le long combat contre la corruption"](https://blogs.mediapart.fr/pascalboniface/blog/210421/clm-s432-eva-joly-le-long-combat-contre-la-corruption)
 
     > Affaire Elf a montré que la justice pouvait porter ces dossiers énormes (3 mois pour lire dossiers d'un bout à l'autre), Jusqu'à la cour de cassation. 32 personnes condamnées.~Eva JOLY
@@ -1830,16 +1915,14 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     🚧 COMPLÉTER
     </details>
 
+<!-- 2021-11-27 -->
 * <a id="bastuck2021halimi"></a>[Nicolas BASTUCK P/ Le Point: « Sarah HALIMI: la juge d'instruction en GAV »](https://www.tribunejuive.info/2021/11/27/nicolas-bastuck-sarah-halimi-la-juge-dinstruction-en-garde-a-vue-a-lassemblee/)
    <details><summary>Commentaire</summary>
    
    Un gardé à vue qui a su garder ses cartes: 2h30 pour faire une perçée sur le réquisitoire supplétif (circ. aggravante d'antisémitisme), soit 10m avant la fin.
    </details>
 
-* <a id="elina2022conseil"></a> [Tribune dans Le Monde : pour un contrôle véritable des candidatures au Conseil constitutionnel](https://www.lemonde.fr/idees/article/2022/02/18/pour-un-controle-veritable-des-candidatures-au-conseil-constitutionnel_6114194_3232.html)
-
-    > Alors que les noms de Jacqueline GOURAULT, Véronique MALBEC et François SENERS viennent d’être proposés pour rejoindre l’institution, la juriste Elina LEMAIRE appelle le Parlement à vérifier les compétences juridiques et l’exemplarité des candidats.
-
+<!-- 2022-01-13 -->
 * <a id="bastuck2022deni"></a>[Nicolas BASTUCK P/ Le Point : « Sarah HALIMI: Un rapport qui louvoie et pratique le déni »](https://infojmoderne.com/2022/01/13/affaire-sarah-halimi-un-rapport-qui-louvoie-et-pratique-le-deni/)
 
    <details><summary>Extrait</summary>
@@ -1849,6 +1932,11 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
    > François PUPPONI, député (MODEM) du Val-d’Oise et ancien maire de Sarcelles, lui aussi présent à la conférence de presse, évoque à son tour « toute une liste d’oublis et d’inexactitudes » dans le rapport final, dont la première préconisation est de limiter les pouvoirs des… commissions d’enquête parlementaire. 
    
    </details>
+
+<!-- 2022-02-18 -->
+* <a id="elina2022conseil"></a> [Tribune dans Le Monde : pour un contrôle véritable des candidatures au Conseil constitutionnel](https://www.lemonde.fr/idees/article/2022/02/18/pour-un-controle-veritable-des-candidatures-au-conseil-constitutionnel_6114194_3232.html)
+
+    > Alors que les noms de Jacqueline GOURAULT, Véronique MALBEC et François SENERS viennent d’être proposés pour rejoindre l’institution, la juriste Elina LEMAIRE appelle le Parlement à vérifier les compétences juridiques et l’exemplarité des candidats.
 
 ## 🌐
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).

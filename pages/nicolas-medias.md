@@ -7,7 +7,6 @@
 
 ### 2012-2017
 
-* <a id="frenaud"></a>[🕮Franck RENAUD : Les diplomates — derrière la façade des ambassades de France](./bib.md#frenaud)
 * <a id="huma-2016"></a>[🗣️Fête de l'huma — témoignage de Françoise NICOLAS et Nicolas FAURISSIER](https://t.co/mSMacDdH9t)
 * <a id="avhmvp"></a>[🗣️Témoignage de Françoise NICOLAS, lanceur d'alerte, fonctionnaire au Ministère des Affaires étrangères : ACTES DU COLLOQUE AVHMVP](http://harcelement-violence.overblog.com/2016/08/temoignage-de-francoise-nicolas-lanceur-d-alerte-fonctionnaire-au-ministere-des-affaires-etrangeres-actes-du-colloque-avhmvp-juin-20)
 

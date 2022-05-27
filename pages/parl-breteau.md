@@ -1,16 +1,10 @@
-![img](sncf_Commons.png)
-# Denis BRÉTEAU, lanceur d'alerte de la SNCF, devant l'AN
+# Parlement - Audition de Denis BRÉTEAU
 
-Le 2021-05-20, [Denis Bréteau](whoswho#breteau),  lanceur d'alerte de la SNCF, était [auditionné à l'Assemblée Nationale](https://shorturl.me/jHBHC) dans le cadre de la [Loi Sapin 2](corruption#sapin2)
+[Le 2021-05-21 était auditionné Denis BRÉTEAU](https://shorturl.me/jHBHC), lanceur d'alerte de la SNCF, dans le cadre de la [loi Sapin 2](#sapin2)
 
-## Synthèse 
-🚧
+## Audition
 
-## Verbatim
-
-<details>
-<summary> En travaux </summary>
-
+<details><summary>Verbatim</summary>
 Donc voilà, après cet accompagnement graduel du LDA, la questions pose est-ce que lLDA
 
 , le DDD
@@ -50,7 +44,3 @@ Voilà. Je ne
 
 29’
 </details>
-
-
----
-[Photo](./_aux/attrib.md#sncf)

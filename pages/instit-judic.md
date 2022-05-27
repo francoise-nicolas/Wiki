@@ -257,7 +257,7 @@
 
     <details><summmary>Info</summary>
     
-    Initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droit »](./bib.md#spinosi). Le jugement ne rapporte pas de conclusions des seconds
+    Initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droit »](./bib-gen.md#spinosi). Le jugement ne rapporte pas de conclusions des seconds
     </details>
 
 ### <a id="halimi"></a>Sarah HALIMI

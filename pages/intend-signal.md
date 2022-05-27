@@ -13,6 +13,7 @@
 | 🕮 | Livre |
 | 🎭 | Manipulation |
 | 📺 | Média |
+| 🇳 | NICOLAS |
 | ✍ | Opinion écrite |
 | 📰 | Presse |
 | 📄 | Publication (institutionnel, académique) |

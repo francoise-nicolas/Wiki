@@ -72,6 +72,13 @@ Backlinks
 * [DDD](https://www.defenseurdesdroits.fr/fr/claire-hedon-defenseure-des-droits)
 </details>
 
+### I
+#### <a id="">Anne IHUELLOU
+<details><summary>Fiche</summary>
+
+🚧
+</details>
+
 ### J
 ##### <a id="joly"></a>Eva JOLY
 <details><summary>Fiche</summary>
