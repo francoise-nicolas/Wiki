@@ -1724,9 +1724,14 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 *  <a id="fraisseimpuni"></a>[📰Sivens : le gendarme impliqué dans la mort de Rémi Fraisse ne sera pas jugé au pénal](https://www.francebleu.fr/infos/faits-divers-justice/sivens-le-gendarme-implique-dans-kla-mort-de-remi-fraisse-ne-sera-pas-juge-au-penal-1547738807)
     > La tentative des avocats de la famille de Rémi FRAISSE a échoué : le Conseil Constitutionnel a estimé ce 17 janvier que le gendarme impliqué dans la mort de ce garçon sur le barrage de Sivens (Tarn) en 2014 relevait bien de la justice militaire, et non ordinaire.
 
+<!-- 2019-04-09 -->
+* <a id="pezetnicolas"></a>[🇳📰Checknews pour Libé : « De quoi Françoise NICOLAS, ex-fonctionnaire aux Affaires étrangères, accuse-t-elle Nathalie LOISEAU ? »](https://www.liberation.fr/checknews/2019/04/09/de-quoi-francoise-nicolas-ex-fonctionnaire-aux-affaires-etrangeres-accuse-t-elle-nathalie-loiseau_1717962/)
+
 <!-- 2019-04-17 -->
 * <a id="lemedianicolas"></a>[🇳📺Le Média: La lanceuse d'alerte qui accuse Nathalie LOISEAU](https://www.lemediatv.fr/emissions/les-entretiens/la-lanceuse-dalerte-qui-accuse-nathalie-loiseau-lKSR1V_BSsKkSzrIF8-h6A)
 
+<!-- 2019-04-19 -->
+* [🐦🇳Réplique de NICOLAS à Checknews](https://threadreaderapp.com/thread/1115997608533737475.html)
 
 <!-- 2019-12-21 -->
 * <a id="ft"></a> [Le Monde: tournant pénal dans le droit du travail (affaire des suicides de France Télécom)](https://www.lemonde.fr/idees/article/2019/12/21/proces-france-telecom-un-tournant-dans-le-droit-penal-du-travail_6023715_3232.html)
@@ -1804,8 +1809,6 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 <!-- 2021-10-07 -->
 * <a id="borrel2021empire"></a> 🕮[Thomas BORREL : L'empire qui ne veut pas mourir—Une histoire de la Françafrique](https://www.seuil.com/ouvrage/l-empire-qui-ne-veut-pas-mourir-collectif/9782021464160)
 
-
-
 <!-- 2020-01-10 -->
 <!--
 * <a id="coeepinglefr"></a>[Lutte anticorruption et lobbies: la France épinglée par le Conseil de l'Europe](https://www.rfi.fr/fr/france/20200110-france-corruption-etat-rapport-conseil-europeen-anticor-autorite-anticorruption?utm_source=pocket_mylist)
@@ -1815,6 +1818,8 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     </details>
 -->
 
+<!-- 2020-01-22 -->
+* <a id="cgt-leaks"></a>[🇳🗣️UGCIT:  « We Are The Leaks : 7 lanceurs d'alerte témoignent »](https://web.archive.org/web/20201221122852/http://www.ugict.cgt.fr/articles/actus/we-are-the-leaks-7-lanceurs-dalerte-temoignent)
 
 <!-- 2020-03-12 -->
 * <a id="echecADP"></a> [📰Éditorial du Monde: Privatisation du Groupe ADP : surmonter l’échec du RIP](https://www.lemonde.fr/idees/article/2020/03/12/privatisation-du-groupe-adp-surmonter-l-echec-du-rip_6032740_3232.html)
@@ -1837,12 +1842,27 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 <!-- 2021-03-09 -->
 * <a id="omsyndic"></a>[📰Des syndicats de patients demandent la suppression de l'ordre des médecins](https://www.ouest-france.fr/sante/des-syndicats-et-patients-demandent-la-dissolution-de-l-ordre-des-medecins-7180685)
 
+<!-- 2021-05-20 -->
+* <a id="FS-fantomesbenin"></a>[🇳📰France Soir:Dossiers fantômes et détournement de fonds au Bénin](https://www.francesoir.fr/videos-le-defi-de-la-verite/dossiers-fantomes-et-detournements-de-fonds-publics-au-benin)
+
+<!-- 2021-05-21 -->
+* [🇳📰Netafrique.net: « J’ai défendu les intérêts des Béninois », une ex-diplomate française en détresse crie à l’aide](https://netafrique.net/jai-defendu-les-interets-des-beninois-une-ex-diplomate-francaise-en-detresse-crie-a-laide/)
+
+<!-- 2021-05-21 -->
+* [🇳🗣️Le réveil citoyen: agressée pour avoir dénoncé du détournement de fonds publics, Françoise NICOLAS témoigne](https://lereveilcitoyen.fr/2021/05/21/agressee-pour-avoir-denonce-du-detournement-de-fonds-publics-francoise-nicolas-temoigne/)
+
+<!-- 2021-05-22 -->
+* <a id="NT-fantomesbenin"></a>[🇳📰Nouvelle Tribune:Dossiers fantômes et détournement de fonds au Bénin](https://lanouvelletribune.info/2021/05/dossiers-fantomes-a-lambassade-de-france-au-benin-lex-employee-demande-de-laide/)
+
 <!-- 2021-07-02 -->
 * <a id="piel2021dumas"></a>[📰Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de BALLADUR](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
     <details><summary>Extrait</summary>
 
     > La récente ouverture d’archives de l’institution confirme que les entorses à la loi étaient connues et que la voix de son président, Roland DUMAS, a été prépondérante pour fermer les yeux sur ces irrégularités de la présidentielle de 19 95.
     </details>
+
+<!-- 2021-07-12  -->
+* <a id="RTnicolas"></a>[🇳📺RT: Après une violente agression, la lanceur d'alerte Françoise NICOLAS se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
 
 <!-- 2021-10-07 -->
 * <a id="an-xv-3696"></a>[📄Rapport AN no. 3296: Obstacles à l'indépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
@@ -1933,10 +1953,24 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
    
    </details>
 
+<!-- 2022-02-03 -->
+* <a id="quiveutlapeau"></a>[🇳📺Qui Veut La Peau de Françoise NICOLAS ? — Charles LACROIX](https://www.youtube.com/watch?v=cOagKQBZJ78)
+
 <!-- 2022-02-18 -->
 * <a id="elina2022conseil"></a> [Tribune dans Le Monde : pour un contrôle véritable des candidatures au Conseil constitutionnel](https://www.lemonde.fr/idees/article/2022/02/18/pour-un-controle-veritable-des-candidatures-au-conseil-constitutionnel_6114194_3232.html)
 
     > Alors que les noms de Jacqueline GOURAULT, Véronique MALBEC et François SENERS viennent d’être proposés pour rejoindre l’institution, la juriste Elina LEMAIRE appelle le Parlement à vérifier les compétences juridiques et l’exemplarité des candidats.
+
+<!-- 2022-04-02 -->
+* <a id="kupers">[🇳📺Souffrance au travail; on lâche rien. — Daniel KUPFERSTEIN avec ASD-PRO](https://www.daniel-kupferstein.com/8-documentaires/261-souffrance-au-travail-on-lache-rien?ml=1)
+    <details><summary>Diffusion</summary>
+    
+    * [Angers, les 400 coups](https://www.les400coups.org/mobile/prochainement.php?film=21060)
+    </detais>
+    
+<!-- 2022-05-16 -->
+* <a id="jac-K">[🇳📺Françoise Nicolas, une lanceuse d'alerte dans la Fonction publique d'Etat — Canal JAC-K](https://www.youtube.com/watch?v=Q0k5mT60Fqw)
+
 
 ## 🌐
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
