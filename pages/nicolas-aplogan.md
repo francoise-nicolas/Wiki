@@ -1,7 +1,7 @@
 ![image-mise-en-avant](../_aux/scac2010.png)
 # Plainte c. APLOGAN
 
-## 📜
+## 🗓️
 
 ### Procureur
 * [2011-02-17 — Saisine](../pieces/identifiant/774a6ab9)

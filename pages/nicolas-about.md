@@ -50,5 +50,10 @@ There remains the path chosen by this wiki: [to get out of one's sucker's positi
 I am from Saint-Malo where ["A Summer's Tale"](https://www.imdb.com/title/tt0115940/) was filmed, and a single mother of an only child since adulthood. In [1986](../pieces/identifiant/829cbd9) and [1987](../pieces/identifiant/b5b09b6e) I was awarded prestigious prizes for my thesis work on space law. In 2017, 
 I was [substitute candidate](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats -de-la-france-insoumise-3-5-137.html) to represent a constituency of Nantes in the National Assembly, on a [France Insoumise](https://twitter.com/FranceInsoumise) platform.
 
+### <a id="voiraussi"></a>🌐
+* [Wiki](https://github.com/francoise-nicolas/Wiki)
+* [Twitter](https://twitter.com/FranoiseNicolas)
+* [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
+
 ---
 Photo: [Françoise NICOLAS, LDA meeting, 2015](./attrib.md#marc-chaumeil)

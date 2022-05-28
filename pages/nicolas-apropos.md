@@ -1,6 +1,6 @@
 ![marc-chaumeil](../_aux/marc-chaumeil.png)
 
-# À propos
+# Françoise NICOLAS — À propos
 
 ## Récit
 
@@ -38,6 +38,7 @@ porté par [Sylvain WASERMAN](./whoswho.md#waserm),
 lui confère des pouvoirs renforcés. 
 En 2020, le même quotidien que j'ai cité [a salué en Jacques TOUBON, « un défenseur des droits inespéré »](./whoswho.md#toubon).
 
+<!--
 La [corruption](./corruption.md) est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: [les tribunaux](./robenoire.md). Dans ce domaine, ce wiki se penche sur l'[affaire Elf](./elf.md) qui a fait de [Eva JOLY](./whoswho.md#joly) une icône,  et [celle du Carlton](./carlton.md). Pour ceux qui ne savent pas quoi penser, le sort de SARKOZY après l'élection présidentielle devrait les aider. 
 
 Ce wiki s'intéresse aussi à la [l'état policier](./etat-policier.md), aux [dénis de justice](./denijust.md), monnaie courante mais tus par les faiseurs d'opinion, et la [capture de l'état](./capturetat.md) derrière les plus grandes fortunes de France.
@@ -47,9 +48,15 @@ ont pour point commun [l'occupation, et la capitulation de l'état](./democralte
 Cependant, cela ne perturbe nullement la tromperie de la classe dirigeante à l'endroit du plus grand nombre. 
 Face à sa capacité de récupération de crise, la [démocratie alternative](./democralter.md) a déjà un air galvaudé.
 Reste la voie retenue par ce wiki: [sortir de sa position de pigeon](./robenoire.md#carage2015demontg).
- 
+
+-->
+
 ## Autre
 Je suis originaire de Saint-Malo, et mère célibataire d'un enfant unique depuis l'âge adulte.  En [1986](../pieces/identifiant/829cbd9) et [1987](../pieces/identifiant/b5b09b6e) j'ai été récompensée par les Fondation de la Vocation et de l'Espace, respectivement, pour mon travail de thèse sur le droit de l'espace. En 2017, j'étais [candidate suppléante](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) pour représenter la 1ère circonscription de Loire-Atlantique à l'Assemblée nationale, aux couleurs de [France Insoumise](https://twitter.com/FranceInsoumise).
+
+### <a id="voiraussi"></a>🌐
+* [Twitter](https://twitter.com/FranoiseNicolas)
+* [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
 
 ---
 Photo: [Françoise NICOLAS, rencontre LDA, 2015](attrib.md#marc-chaumeil)

@@ -2,7 +2,7 @@
 
 Contestation de la décision du MAE du [2010-06-21](faits.md#mutation).
 
-## 📜
+## 🗓️
 ## TA de Paris, no. 0913852/5-2
 * [2009-08-10 — Saisine](../pieces/identifiant/3ad82e00)
 

@@ -5,30 +5,25 @@
 Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'alerte qui accuse Nathalie LOISEAU... » Ce Wiki porte sur le dévoiement la démocratie, mon affaire en constituant un angle privilégié.
 
 ## À propos
-* [🇫🇷](./pages/nicolas-apropos.md)
-* [🇬🇧](./pages/nicolas-about.md)
 
 ## Sommaire
 
-* [Activisme](./pages/activ.md)
-* [Attribution](./pages/attrib.md)
-* [Bibliographie](./pages/bib-gen.md)
-* [Contribuer](./pages/contrib.md)
-* [Donn€r](./pages/don.md)
-* [Intendance](./pages/intend.md)
-* [Litiges](./pages/litiges.md)
-* [Médias](./pages/medias.md)
-* [Institutions](./pages/instit.md)
-* [Opinion](./pages/op.md)
-* [Who's who](./pages/autre-whoswho.md)
+* [Activisme](./pages/racine-activ.md)
+* [Autre](./pages/racine-autre.md)
+* [Bibliographie](./pages/racine-bib.md)
+* [Institutions](./pages/racine-instit.md)
+* [Litiges](./pages/racine-litiges.md)
+* [Opinion](./pages/racine-op.md)
 
-### Mise en avant
+### Mis en avant
+#### Autre
+* [Contribuer](./pages/autre-contrib.md)
+* [Donn€r](./pages/autre-don.md)
 #### Françoise NICOLAS
-* [Activisme](./pages/nicolas-activ.md)
+* [À propos🇫🇷](./pages/nicolas-apropos.md)
+* [About🇬🇧](./pages/nicolas-about.md)
+* [Activisme](./pages/racine-activ.md#nicolas)
 * [Litiges](./pages/nicolas-litiges.md)
-* [Médias](./pages/nicolas-medias.md)
-* [Tribunes](./pages/nicolas-tribunes.md)
-
 
 ### <a id="voiraussi"></a>🌐
 * [Twitter](https://twitter.com/FranoiseNicolas)

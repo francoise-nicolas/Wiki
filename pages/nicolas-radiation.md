@@ -4,7 +4,7 @@
 
 Contestation de la décision du MAE du [2018-07-25](faits.md#radiation).
 
-## 📜
+## 🗓️
 ### 2018-01-11 — CAA de Nantes — Décision
 <details>
   <summary>Info</summary>

@@ -2,7 +2,7 @@
 
 Contestation du [rejet implicite du MAE](faits.md#indemnrejet) du 2010-12-15 de recours indemnitaire présenté le 2010-10-11.
 
-## 📜
+## 🗓️
 * [2010-10-11 Requête amiable](../pieces/identifiant/87588d69)
 
 ### TA de Paris

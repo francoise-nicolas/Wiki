@@ -1,24 +1,6 @@
 ![img](../_aux/bnf_Commons.png)
 # Bibliographie
 
-## Méthode
-Certains profils de Twitter précisent: RT ≠ « en accord. » Ici, c'est pareil. En particulier, la dénonciation de tel ou tel dysfonctionnement peut-être une demi-vérité, c'est même une technique de manipulation éprouvée. Ce qui fait foi de notre opinion, ce sont nos écrits. Cette bibliographie privilégie des sources que nous avons lues, sur les sujets qui nous préoccuppent:
-* alternatives
-* capture de l'état
-* démocratie
-* déni de justice
-* état policier
-* féminisme
-* liberté d'expression
-* fonction publique
-* Françafrique
-* inflation législative
-* magistrature
-* manipulation[🎭](signal.md)
-* régime de Vichy
-
-Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la capture de l'état. Méconnu: de puissants sont issus du régime de Vichy, sur les exactions desquels persistent des secrets de Polichinnelle, traduisant un profond déni de liberté d'expression. L'inflation législative, et particulièrement les lois pénales votées en réaction à tel ou tel drame, masquent le consentement du politique au dévoiement de la démocratie, profitant à leurs bailleurs plutôt qu'aux électeurs. À ce titre, affirmer que le pouvoir ne tient que par la police est une demi-vérité, il faudrait plutôt dire: « pas d'état policier sans magistrature aux ordres », les jugement du Conseil d'état sur la légalité des LBD sont à cet égard édifiant. L'engagement pour le féminisme, également, est une posture. Etc. 🚧
-
 ## 📚
 ### 1995-2002
 
@@ -217,7 +199,7 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
     </details>
 
 <!-- 1998 -->
-* <a id="monteb1998tribcomm"></a>[📄Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
+* <a id="monteb1998tribcomm"></a>[🏛️Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
 
 <!-- 1998 -->
 * <a id="degaudem1998albinm"></a> [📰Astreinte record contre Albin Michel—Les éditeurs dénoncent la censure économique](https://www.liberation.fr/evenement/1998/05/07/astreinte-record-contre-albin-michel-les-editeurs-denoncent-la-censure-economique-le-tribunal-de-bre_238099/)
@@ -316,7 +298,7 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
 
 <!-- 2011 -->
 
-* [📄Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
+* [🏛️Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
 
    <details><summary>Synthèse </summary>
    
@@ -360,10 +342,10 @@ Des liens entre ces sujets: les corporatismes sont un aspect essentiel de la cap
 
 * <a id="anosamis"></a>[Comité invisible: À nos amis](https://lafabrique.fr/a-nos-amis/)
     
-* <a id="droitsouple">[📄Rapport du Conseil d'État: le droit souple](https://web.archive.org/web/20151010015516/https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000280.pdf)
+* <a id="droitsouple">[🏛️Rapport du Conseil d'État: le droit souple](https://web.archive.org/web/20151010015516/https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000280.pdf)
 
 <!-- 2014-07-14 -->
-* <a id="jl2014"></a>[📄Rapport: Les Justiciables face au Service public de la justice](../pieces/identifiant/56739858)
+* <a id="jl2014"></a>[🏛️Rapport: Les Justiciables face au Service public de la justice](../pieces/identifiant/56739858)
     <details><summary>Information</summary>
     
     * Sponsor: [le député Jean Lassalle](https://twitter.com/jeanlassalle)
@@ -531,7 +513,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="gonzales2017hatvp"></a>[📰Jean-Louis NADAL: Haute autorité pour la transparence: "La lutte contre la corruption est trop morcelée"](https://www.lefigaro.fr/actualite-france/2017/07/09/01016-20170709ARTFIG00146-nadal-la-lutte-contre-la-corruption-est-trop-morcelee.php)
 
 <!-- 2017-07-11 -->
-* 📄[Karim BENYEKHLEF, université de MTL: « Les secrets du droits »](https://www.karimbenyekhlef.ca/blogue/2017/07/11/les-secrets-du-droit/?utm_source=pocket_mylist), de Karim BENYEKHLEF, professeur de droit à l'université de Montréal)
+* 🏛️[Karim BENYEKHLEF, université de MTL: « Les secrets du droits »](https://www.karimbenyekhlef.ca/blogue/2017/07/11/les-secrets-du-droit/?utm_source=pocket_mylist), de Karim BENYEKHLEF, professeur de droit à l'université de Montréal)
 
 > Le droit est, en fait, pénétré du secret, puisque sa matrice, l’État, est elle-même fondée sur celui-ci. Le secret prend alors la forme de la Raison d’État. 
 
@@ -1651,7 +1633,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 ### 2017-2022
 
 <!-- 2018-06-02 -->
-* <a id="csm2017"></a>[📄Conseil Supérieur de la Magistrature—rapport d'activité de 2017](http://www.conseil-superieur-magistrature.fr/publications/rapports-annuels-dactivite/rapport-annuel-dactivite-2017)
+* <a id="csm2017"></a>[🏛️Conseil Supérieur de la Magistrature—rapport d'activité de 2017](http://www.conseil-superieur-magistrature.fr/publications/rapports-annuels-dactivite/rapport-annuel-dactivite-2017)
 
     <details>
       <summary>Sur les 230 décisions rendues par les commissions...</summary>
@@ -1691,7 +1673,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="nicolasVA"></a>[🇳📰Valeurs Actuelles: La lanceuse d'alerte qui attaque Nathalie LOISEAU](../pieces/identifiant/ccac26a8)
 
 <!-- 2018-04-22 -->
-* <a id="nddlvoyous"></a>[📄NDDL: le gouvernement "cède devant les voyous", accuse Jacob (LR)](https://www.nouvelobs.com/politique/20180422.AFP9524/nddl-le-gouvernement-cede-devant-les-voyous-accuse-jacob-lr.html)
+* <a id="nddlvoyous"></a>[🏛️NDDL: le gouvernement "cède devant les voyous", accuse Jacob (LR)](https://www.nouvelobs.com/politique/20180422.AFP9524/nddl-le-gouvernement-cede-devant-les-voyous-accuse-jacob-lr.html)
 
 
 <!-- 2018-06-04 -->
@@ -1759,11 +1741,11 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     
     </details>
 
-*  <a id="onuGJ"></a>[📄Des experts de l'ONU dénoncent des restrictions graves aux droits des manifestants «gilets jaunes»](https://www.ohchr.org/FR/NewsEvents/Pages/DisplayNews.aspx?NewsID=24166&LangID=F)
+*  <a id="onuGJ"></a>[🏛️Des experts de l'ONU dénoncent des restrictions graves aux droits des manifestants «gilets jaunes»](https://www.ohchr.org/FR/NewsEvents/Pages/DisplayNews.aspx?NewsID=24166&LangID=F)
 
 *  <a id="CHlbd"></a>[📰Reporterre: La Suisse pourrait interdire la vente de LBD à la France](https://reporterre.net/La-Suisse-pourrait-interdire-la-vente-de-LBD-a-la-France)
 
-*  <a id="CElbd"></a>[📄Le Conseil d’État rejette des demandes relatives aux lanceurs de balle de défense (LBD) lors des manifestations de « gilets jaunes »](https://www.conseil-etat.fr/site/actualites/usage-des-lanceurs-de-balles-de-defense)
+*  <a id="CElbd"></a>[🏛️Le Conseil d’État rejette des demandes relatives aux lanceurs de balle de défense (LBD) lors des manifestations de « gilets jaunes »](https://www.conseil-etat.fr/site/actualites/usage-des-lanceurs-de-balles-de-defense)
     
     <details><summary>Extrait</summary>
     
@@ -1865,7 +1847,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="RTnicolas"></a>[🇳📺RT: Après une violente agression, la lanceur d'alerte Françoise NICOLAS se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
 
 <!-- 2021-10-07 -->
-* <a id="an-xv-3696"></a>[📄Rapport AN no. 3296: Obstacles à l'indépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
+* <a id="an-xv-3696"></a>[🏛️Rapport AN no. 3296: Obstacles à l'indépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
    <details><summary>Information</summary>
    
    * Date: 2021-10-07

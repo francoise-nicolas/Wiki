@@ -2,13 +2,17 @@
 
 | Symbol | Signification | 
 |--------|---------------|
+| 🎓 | Académique |
+| ✊ | Activisme |
 | 📢 | Alerte |
 | 📚 | Bibliographie |
-| 📜 | Chronique     |
+| 🔇 | Censure |
+| 🗓️ | Chronologie     |
+| 🛑 | Désaccord |
 | 📁  | Dossier|
 | ⚖  | Droit         | 
-| 🚧 | En travaux  |
 | 🗣️ | Expression orale |
+| 🏛️ | Institutionnel |
 | 🌐 | Internet |
 | 🕮 | Livre |
 | 🎭 | Manipulation |
@@ -16,8 +20,8 @@
 | 🇳 | NICOLAS |
 | ✍ | Opinion écrite |
 | 📰 | Presse |
-| 📄 | Publication (institutionnel, académique) |
 | ↳ | Renvoi |
+| 🚧 | Travaux  |
 | 📝 | Tribune |
 
 

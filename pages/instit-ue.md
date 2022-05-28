@@ -1,5 +1,5 @@
 ![img](../_aux/berlay_Commons.png)
-# [Union Européenne](internat.md#ue)
+# Union Européenne
 
 ## 📁 
 ### <a id="nicolas"></a> Françoise NICOLAS

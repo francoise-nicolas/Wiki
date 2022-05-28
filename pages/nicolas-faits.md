@@ -50,7 +50,7 @@ Les personnes clés ou à haute responsabilité sont signalées par †.
 
 * [📁 Indemnité](./indemnite.md#faits)
 
-## 📜
+## 🗓️
 ### <a id="HEUDE"></a>2001-09-19 — MAE — Rapport sur NICOLAS
 <details>
   <summary>Info</summary>
