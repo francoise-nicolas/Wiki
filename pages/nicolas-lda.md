@@ -26,7 +26,7 @@
 -->
 
 ## Voir aussi
-* [Audition de Denis BRÉTEAU, LDA SNCF](./parl-breteau.md)
+* [Audition de Denis BRÉTEAU, LDA SNCF](./debat-breteau.md)
 * [Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)
 
 ---
