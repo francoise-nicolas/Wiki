@@ -13,7 +13,7 @@ Les personnes clés ou à haute responsabilité sont signalées par †.
 
 - ADISSIN
 - BAHUHAUD
-- [BESANCENOT](whoswho#besanc)†
+- BESANCENOT†
 - BENICHOU
 - HEUDE
 - HEURTAUX

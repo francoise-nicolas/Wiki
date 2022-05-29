@@ -488,7 +488,7 @@
     >    nickelés étaient trois. En plus c’étaient des garçons, donc cela n’a rien à voir.
     >    Le Monde du 5 janvier 1999 ayant révélé que « l’homme-clé de l’affaire Elf
     >    n’est recherché à l’étranger que depuis un mois » en raison d’une mauvaise
-    >    gestion des mandats d’arrêt internationaux, Eva JOLY
+    >    cewiki des mandats d’arrêt internationaux, Eva JOLY
     </details>
 
 <!-- 
@@ -879,9 +879,9 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     
     Au sortir du premier conflit mondial, plusieurs notaires se trouveront impliqués dans des affaires de lotissements défectueux, mais également dans des fraudes aux indemnités de guerre28.
     
-    Dans une lettre du 20 avril 1934 adressée au garde des Sceaux, le procureur général près la cour d’appel de Paris écrit : « Depuis le début de l’année judiciaire 1933-1934, j’ai été amené à signaler à votre Chancellerie de multiples défaillances dans la gestion des offices notariaux de mon ressort. » Manifestement, ces signalements n’ont provoqué aucune réaction visible de la Chancellerie. Le procureur général poursuit :
+    Dans une lettre du 20 avril 1934 adressée au garde des Sceaux, le procureur général près la cour d’appel de Paris écrit : « Depuis le début de l’année judiciaire 1933-1934, j’ai été amené à signaler à votre Chancellerie de multiples défaillances dans la cewiki des offices notariaux de mon ressort. » Manifestement, ces signalements n’ont provoqué aucune réaction visible de la Chancellerie. Le procureur général poursuit :
     
-    Quatre études ont dû être pourvues d’un administrateur provisoire, à la suite d’inspections qui avaient révélé d’importants déficits de caisse ou des irrégularités comptables donnant lieu de craindre pour la sécurité des dépôts des clients. […] Je sais enfin, de source officieuse, que des Chambres de discipline et la Commission de Contrôle au 2ème degré tiennent pour suspecte la gestion de quelques notaires dont les écritures ont cependant l’apparence d’une parfaite régularité et contre lesquels, jusqu’à ce jour, aucun manquement grave n’a pu être relevé.
+    Quatre études ont dû être pourvues d’un administrateur provisoire, à la suite d’inspections qui avaient révélé d’importants déficits de caisse ou des irrégularités comptables donnant lieu de craindre pour la sécurité des dépôts des clients. […] Je sais enfin, de source officieuse, que des Chambres de discipline et la Commission de Contrôle au 2ème degré tiennent pour suspecte la cewiki de quelques notaires dont les écritures ont cependant l’apparence d’une parfaite régularité et contre lesquels, jusqu’à ce jour, aucun manquement grave n’a pu être relevé.
     
     Étant donné le rôle important que joue le notariat dans l’économie générale du pays, il m’a paru intéressant d’essayer de rechercher les causes et les remèdes d’un malaise qui mérite de retenir votre haute attention.
     
@@ -1288,7 +1288,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     
     L’importance de la participation du notariat à « l’aryanisation des biens juifs »
     
-    Nous avons pu nous en convaincre dans l’avant-propos, l’implication générale du notariat dans « l’aryanisation économique » découlait d’abord des fonctions qui lui étaient ordinairement dévolues : « par sa nature même, la profession [notariale] eut un grand rôle dans l’application des règles instaurées par Vichy sur l’héritage, la vente des biens juifs, les contrats de mariage interraciaux[148] » et plus généralement dans le maniement des fonds et la gestion des avoirs de leurs clients juifs. En effet, les notaires étaient en charge, avec le droit de la famille, le droit immobilier et le droit des sociétés, des trois domaines d’élection du volet économique de « l’aryanisation ».
+    Nous avons pu nous en convaincre dans l’avant-propos, l’implication générale du notariat dans « l’aryanisation économique » découlait d’abord des fonctions qui lui étaient ordinairement dévolues : « par sa nature même, la profession [notariale] eut un grand rôle dans l’application des règles instaurées par Vichy sur l’héritage, la vente des biens juifs, les contrats de mariage interraciaux[148] » et plus généralement dans le maniement des fonds et la cewiki des avoirs de leurs clients juifs. En effet, les notaires étaient en charge, avec le droit de la famille, le droit immobilier et le droit des sociétés, des trois domaines d’élection du volet économique de « l’aryanisation ».
     
     Quelques chiffres permettent de mesurer l’importance quantitative de l’activité notariale au service de la politique « d’aryanisation » de l’économie française. Les rapports dressés par les conseils régionaux des notaires donnent tous à voir une augmentation significative de l’activité de la profession. Le rapport de l’assemblée générale des notaires de Gironde confirme pour ce qui concerne leur compagnie le caractère soutenu de l’activité des notaires durant la guerre. Le chiffre d’affaires des notaires de ce département en 1938 a plus que doublé en 1942[149]. De même, « l’année 1942 reste exceptionnelle pour toutes les études du Var en raison des actes nombreux reçus par les Notaires[150] ». Situation identique pour les notaires des Bouches-du-Rhône[151] et de la Seine.
     
@@ -1606,7 +1606,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     
     182. « À l’exemple de nombreuses professions, les notaires n’ont pas eu un comportement unique ; néanmoins, Joseph Billig, dans son ouvrage sur le Commissariat général aux questions juives, évoque l’attitude réticente des notaires à la mise en place de la politique d’aryanisation économique. » Gwenaëlle Bazire, « Les notaires et la Caisse des dépôts et consignations, 1939-1947 »,in Caisse des dépôts et consignations, La spoliation antisémite, op. cit., p. 216.
     
-    183. « Le notariat est la seule profession qui ait, dans certains départements, protesté en tant que telle contre la spoliation », mais elle ajoute aussitôt : « Était-ce la voix de ses intérêts ? Peut-être, dans la mesure où les procédures nouvelles lui ôtaient le monopole de la gestion des droits de propriété, mais ce n’est pas certain car la perspective d’un grand transfert de propriétés à l’échelle nationale pouvait aussi intéresser la profession. » Claire Andrieu, « Écrire l’histoire des spoliations antisémites (France, 1940-1944) », Histoire@Politique. Politique, culture, société n° 9, septembre-décembre 2009, p. 15.
+    183. « Le notariat est la seule profession qui ait, dans certains départements, protesté en tant que telle contre la spoliation », mais elle ajoute aussitôt : « Était-ce la voix de ses intérêts ? Peut-être, dans la mesure où les procédures nouvelles lui ôtaient le monopole de la cewiki des droits de propriété, mais ce n’est pas certain car la perspective d’un grand transfert de propriétés à l’échelle nationale pouvait aussi intéresser la profession. » Claire Andrieu, « Écrire l’histoire des spoliations antisémites (France, 1940-1944) », Histoire@Politique. Politique, culture, société n° 9, septembre-décembre 2009, p. 15.
     
     184. Échange de mails avec les auteurs.
     
@@ -1848,7 +1848,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
    * Institution: Assemblée Nationale
    * Législature: XVè
    * No. de rapport: 3296
-   * Président: [Ugo BERNALICIS](whoswho.md#bernalic)
+   * Président: Ugo BERNALICIS
    * Rapporteur: Didier PARIS
    * Recommendation clé: aligner le statut du parquet sur celui du siège
    </details>

@@ -16,7 +16,7 @@ Saisine de DG Justice & Consommateurs sur la directive LDA
     <details>
       <summary>Info</summary>
     
-    * Signé: [Ingrid BELLANDER TODINO](whoswho.md#bellander)
+    * Signé: Ingrid BELLANDER TODINO
     * [document](../pieces/identifiant/114d5f23)
     </details>
 

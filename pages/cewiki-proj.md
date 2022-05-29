@@ -1,4 +1,4 @@
-## [Ce Wiki](./gestion.md) — Projets
+## [Ce Wiki](./cewiki.md) — Projets
 
 ### À faire
 - [Formulaire de contact](https://github.com/topics/contact-form)

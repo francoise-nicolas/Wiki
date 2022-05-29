@@ -6,7 +6,7 @@
 
 I had been an agent of the central administration of the Quai d'Orsay for 8 years,
 when I [was appointed on merit, to a position at the French Embassy in Western Africa](./faits.md#RAINERI-RAUGEL),
-at a time when [Hervé BESANCENOT](./whoswho.md#besanc) was at its head.
+at a time when Hervé BESANCENOT was at its head.
 I raised doubts about the accounting for the allocation of scholarships under my responsibility, which earned me pressure.
 
 The words of the prosecutor in my [2015 adhesion criminal proceeding](./aplogan.md),
@@ -20,7 +20,7 @@ Repatriated against my will, I was professionally sidelined,
 which triggered a [cascade of health crises](./faits.md#a999fcb2).
 In 2018, [I was terminated](./deregistration.md). In parallel,
 the MAE has systematically rejected my requests initiated in 2013,
-to be granted [statutory protection](./pf.md). The head of human resources was then [Nathalie LOISEAU](./whoswho.md#loiseau).
+to be granted statutory protection](./pf.md). The head of human resources was then [Nathalie LOISEAU.
 A grueling legal battle followed, ending in 2021 with a judgment in my favor on this particular aspect.
 
 In 2019, the newspaper founded by Jean-Paul Sartre, Liberation, published a [fact check of my affair](./medias.md#pezetnicolas),
@@ -32,11 +32,11 @@ My refutation has [registered 700k views](https://twitter.com/FranoiseNicolas/st
 Whistleblower protection has been an active legislative topic in the EU/France in recent years.
 I [reported to several parties](./influence.md), that the [ombudsman](./contrepouvoirs.md#ddd) had systematically whitewashed the MFA in the context of 5 requests initiated in 2012.
 The new bill transposing European law,
-sponsored by [Sylvain WASERMAN](./whoswho.md#waserm),
+sponsored by Sylvain WASERMAN,
 gives that entity enhanced powers.
-In 2020, the same daily that I quoted [hailed Jacques TOUBON, “a serendipitous ombudsman”](./whoswho.md#toubon).
+In 2020, the same daily that I quoted hailed Jacques TOUBON, “a serendipitous ombudsman”.
 
-[Corruption](./corruption.md) is a literary genre in its own right. With a few notable exceptions, it has a blind spot: [rigged courts](./robenoire.md). In this area, this wiki focuses on the [Elf affair](./elf.md) which made [Eva JOLY](./whoswho.md#joly) an icon, and [that of the Carlton][. /carlton.md) implicating the ex-IMF chief. For those who don't know what to think, [SARKOZY's fate](https://www.nytimes.com/2021/03/01/world/europe/france-sarkozy-trial-guilty.html) after the presidential election should help them.
+Corruption](./corruption.md) is a literary genre in its own right. With a few notable exceptions, it has a blind spot: [rigged courts](./robenoire.md). In this area, this wiki focuses on the [Elf affair](./elf.md) which made [Eva JOLY after the presidential election should help them.
 
 This wiki is also interested in the [police state](./etat-policier.md), [denials of justice](./denijust.md), commonplace but silenced by opinion makers, and the [ capture of the state](./capturetat.md) behind the greatest fortunes of France.
 

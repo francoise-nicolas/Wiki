@@ -18,7 +18,7 @@ Contestation du [rejet implicite du MAE](faits.md#indemnrejet) du 2010-12-15 de 
     
     Les documents sur sa manière de servir font état d'appréciations positives de sa hiérarchie et des ses capacités à évoluer vers des responsabilités de plus haut niveau.
     
-    Au 1er juillet 2008, Madame NICOLAS a été affecté, en sa qualité de personnel diplomatique, à l'ambassade de France à Cotonou (Bénin) afin d'y exercer les fonctions de vice-consul, plus précisement, elle avait en charge la gestion et l'administration des demandes de stages, de bourses, des missions, des invitations et l'organisation d'examens.
+    Au 1er juillet 2008, Madame NICOLAS a été affecté, en sa qualité de personnel diplomatique, à l'ambassade de France à Cotonou (Bénin) afin d'y exercer les fonctions de vice-consul, plus précisement, elle avait en charge la cewiki et l'administration des demandes de stages, de bourses, des missions, des invitations et l'organisation d'examens.
     
     À compter du 1er septembre 2009, date correspondant à la nomination de son nouveau chef de service, M. Patrice LEROY, Madame NICOLAS a été confrontée à des difficultés récurrentes dans l'exercice de ses fonctions, son supérieur hiérarchique formulant sans cesse des reproches totalement infondés à son encontre.
     

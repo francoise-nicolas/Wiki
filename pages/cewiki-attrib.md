@@ -56,7 +56,7 @@ Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas dans l
 
 * <a id="lemediatv"></a> [Le Media TV, 2019](https://pbs.twimg.com/media/D41fXJuXoAEpzPd?format=jpg&name=small)
 
-* <a id="lemediatv"></a> [Jacques TOUBON et Hervé BESANCENOT, en 2018](https://twitter.com/FranoiseNicolas/status/1524654704478806017)
+* <a id="toubonbesanc"></a> [Jacques TOUBON et Hervé BESANCENOT, en 2018](https://twitter.com/FranoiseNicolas/status/1524654704478806017)
 
 * <a id="francafr"></a> [Drapeau de la Françafrique](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Freseauinternational.net%2Fwp-content%2Fuploads%2F2014%2F02%2Fdrapeau-fr-1728x800_c.jpg&f=1&nofb=1)
 

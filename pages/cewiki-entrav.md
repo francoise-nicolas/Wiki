@@ -30,6 +30,6 @@
 |[../pages/faits.md](../pages/faits.md)|173|`🚧`|
 |[../pages/faits.md](../pages/faits.md)|176|`🚧`|
 |[../pages/radiation.md](../pages/radiation.md)|226|`  <summary>VI 🚧 </summary>`|
-|[../pages/whoswho.md](../pages/whoswho.md)|20|`🚧`|
-|[../pages/whoswho.md](../pages/whoswho.md)|40|`🚧 Cet article mérite t-il d'être cité?`|
-|[../pages/whoswho.md](../pages/whoswho.md)|60|`🚧`|
+|../pages/whoswho.md|20|`🚧`|
+|../pages/whoswho.md|40|`🚧 Cet article mérite t-il d'être cité?`|
+|../pages/whoswho.md|60|`🚧`|

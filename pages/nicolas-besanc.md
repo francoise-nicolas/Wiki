@@ -1,5 +1,5 @@
 ![img](../_aux/toubonbesanc.png)
-# Citation de SOUQUIÈRE & [BESANCENOT](./whoswho#besanc) c. Françoise NICOLAS
+# Citation de SOUQUIÈRE & BESANCENOT c. Françoise NICOLAS
 
 ## 🗓️
 * [2017-11-30 — Saisine](../pieces/identifiant/18a8bf5c)

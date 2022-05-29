@@ -6,7 +6,7 @@
 
 J'avais été un agent de l'administration centrale du Quai d'Orsay pendant 8 ans,
 quand j'ai [été nommée au mérite, à un poste à l'ambassade de France au Bénin](./faits.md#RAINERI-RAUGEL),
-à une époque où  [Hervé BESANCENOT](./whoswho.md#besanc) était à sa tête.
+à une époque où  Hervé BESANCENOT était à sa tête.
 J'ai soulevé des doutes sur la comptabilité de l'attribution des bourses sous ma responsabilité, qui m'ont valu des pressions.
 
 Les termes du procureur dans ma [constitution de partie civile de 2015](./aplogan.md#decision-1),
@@ -21,7 +21,7 @@ ce qui a déclenché une [cascade de crises de santé](./faits.md#a999fcb2).
 En 2018, [j'ai été radiée](./radiation.md). En parallèle,
 le MAE a systématiquement rejeté mes demandes initiées en 2013,
 de [protection fonctionnelle](./pf.md),
-un statut réservé aux fonctionnaires menacés. C'était alors [Nathalie LOISEAU](./whoswho.md#loiseau), la responsable des ressources humaines.
+un statut réservé aux fonctionnaires menacés. C'était alors Nathalie LOISEAU, la responsable des ressources humaines.
 Une bataille juridique éprouvante a suivi, se soldant en 2021 par un jugement qui m'était favorable, sur cet aspect particulier.
 
 En 2019, le journal Libération a publié un [décodage de mon affaire](./medias.md#pezetnicolas),
@@ -34,12 +34,12 @@ La protection des lanceurs d'alerte a été un sujet législatif actif dans l'UE
 J'ai [signalé à plusieurs parties](./influence.md) que le [Défenseur des ⚖️s](./contrepouvoirs.md#ddd) avait systématiquement blanchi le MAE
 dans le cadre de 5 requêtes initiées en 2012.
 Le nouveau projet de loi de transposition du droit européen, 
-porté par [Sylvain WASERMAN](./whoswho.md#waserm), 
+porté par Sylvain WASERMAN, 
 lui confère des pouvoirs renforcés. 
-En 2020, le même quotidien que j'ai cité [a salué en Jacques TOUBON, « un défenseur des droits inespéré »](./whoswho.md#toubon).
+En 2020, le même quotidien que j'ai cité a salué en Jacques TOUBON, « un défenseur des droits inespéré ».
 
 <!--
-La [corruption](./corruption.md) est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: [les tribunaux](./robenoire.md). Dans ce domaine, ce wiki se penche sur l'[affaire Elf](./elf.md) qui a fait de [Eva JOLY](./whoswho.md#joly) une icône,  et [celle du Carlton](./carlton.md). Pour ceux qui ne savent pas quoi penser, le sort de SARKOZY après l'élection présidentielle devrait les aider. 
+La corruption](./corruption.md) est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: [les tribunaux](./robenoire.md). Dans ce domaine, ce wiki se penche sur l'[affaire Elf](./elf.md) qui a fait de [Eva JOLY. Pour ceux qui ne savent pas quoi penser, le sort de SARKOZY après l'élection présidentielle devrait les aider. 
 
 Ce wiki s'intéresse aussi à la [l'état policier](./etat-policier.md), aux [dénis de justice](./denijust.md), monnaie courante mais tus par les faiseurs d'opinion, et la [capture de l'état](./capturetat.md) derrière les plus grandes fortunes de France.
 

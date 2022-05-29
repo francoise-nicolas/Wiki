@@ -16,8 +16,8 @@
 * Objet: 
     1. Retrait du dossier administratif de document émis par
         - l'inspection, non signé, du [2009-08-05](faits.md#inspec)
-        - [Hervé BESANCENOT](whoswho#besanc) [du 2008-10-10](drh#sit1)
-        - [Hervé BESANCENOT](whoswho#besanc) du [2008-11-21](drh#sit2)
+        - Hervé BESANCENOT
+        - Hervé BESANCENOT
     2. Refus de communication de son dossier médical
 </details>
 

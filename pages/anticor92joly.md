@@ -2,8 +2,8 @@
 # [Anticor 92 reçoit Eva JOLY — Coût de la corrupion](https://www.anticor.org/2018/06/04/compte-rendu-de-la-conference-debat-la-corruption-un-cout-exorbitant-pour-la-societe-francaise/)
 
 En 2018, Anticor 92 tenait une conférence sur le coût de la corruption, avec pour intervenants:
-- [Eva JOLY](whoswho#joly)
-- [Jean GUARRIGUES](whoswho#guarrigues)
+- Eva JOLY
+- Jean GUARRIGUES
 - Jean-Yves COGNIÈRE (modérateur)
 - Nicole-Marie MEYER (modératrice)
 
@@ -456,7 +456,7 @@ Moi, je commence à demander des aides parce que seule, on ne peut rien faire. J
 
 Ma question c’est: comment lutter contre cette corruption qui gangrène la société en termes de démocratie?
 
-Sur le plan médical, il y a le risque évidemment… on n’a pas d’infos puisque c’est le secret médical. Le secret des affaires ou le secret médical. Donc on ne peut savoir ce qui se passe. La gestion des comptes n’est pas donnée, là, au moment du décès de nos parents. Voilà. Et c’est vraiment très très difficile parce que c’est des choses très graves.
+Sur le plan médical, il y a le risque évidemment… on n’a pas d’infos puisque c’est le secret médical. Le secret des affaires ou le secret médical. Donc on ne peut savoir ce qui se passe. La cewiki des comptes n’est pas donnée, là, au moment du décès de nos parents. Voilà. Et c’est vraiment très très difficile parce que c’est des choses très graves.
 
 #### Jean-Yves COGNIÈRE
   

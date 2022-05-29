@@ -8,7 +8,7 @@ Le département d’état des É.U. a un bureau dédié à la démocratie, aux d
 ## 📁
 ### <a id="nicolas"></a>Françoise NICOLAS
 
-Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, [Denise CAMPBELL-BAUER](whoswho#campbell), et à des tiers tels que le correspondant à Paris du NYTimes, [Roger COHEN](whoswho#rcohen) et le directeur de Human Rights Watch à Paris, [Kenneth ROTH](whoswho#kroth).
+Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-BAUER, et à des tiers tels que le correspondant à Paris du NYTimes, Roger COHEN et le directeur de Human Rights Watch à Paris, Kenneth ROTH.
 
 * 2022-02-01
     <details>
