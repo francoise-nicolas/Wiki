@@ -2,7 +2,6 @@
 
 ## Méthode
 
-Critère d'
 * inclusion: exprime une opinion sous forme écrite
 * exclusion: répertorié ailleurs (notamment, [activisme](./activ.md))
 

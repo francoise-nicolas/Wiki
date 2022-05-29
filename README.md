@@ -26,5 +26,5 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [🏛NICOLAS écrit au gouvernement des 🇺🇸](./pages/nicolas-drl.md)
 ### 2022
 * [🗣️NICOLAS témoigne sur Europe 1](./pages/nicolas-medias.md#delacroix)
-* [✍️️NICOLAS rend hommage à Vincent LECOQ](./pages/opinion.md#japp)
+* [✍️️NICOLAS rend hommage à Vincent LECOQ](./pages/opinion-japp.md)
 
