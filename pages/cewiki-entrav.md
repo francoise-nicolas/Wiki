@@ -29,7 +29,7 @@
 |[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|170|`🚧`|
 |[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|173|`🚧`|
 |[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|176|`🚧`|
-|[../pages/radiation.md](../pages/radiation.md)|226|`  <summary>VI 🚧 </summary>`|
+|[../pages/nicolas-radiation.md](../pages/nicolas-radiation.md)|226|`  <summary>VI 🚧 </summary>`|
 |../pages/whoswho.md|20|`🚧`|
 |../pages/whoswho.md|40|`🚧 Cet article mérite t-il d'être cité?`|
 |../pages/whoswho.md|60|`🚧`|

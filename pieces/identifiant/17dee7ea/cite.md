@@ -1,2 +1,2 @@
 [../../composition/reqlda.md](../../composition/reqlda.md)
-[../../composition/medias.md](../../composition/medias.md)
+[../../composition/nicolas-medias.md](../../composition/nicolas-medias.md)
