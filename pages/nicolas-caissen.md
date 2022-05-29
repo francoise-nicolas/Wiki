@@ -1,3 +1,4 @@
+![img](sayno_Commons.png)
 # [Françoise NICOLAS](../README.md#nicolas) — Signalement de dépenses fictives 
 
 ## [Service Central de Prévention de la corruption](https://www.vie-publique.fr/rapport/36128-service-central-de-prevention-de-la-corruption-rapport-pour-lannee-20)
@@ -16,3 +17,5 @@
 
 * [2014-03-20 — Recours](../pieces/identifiant/fd1538db)
 
+---
+[Photo](./gestion-attrib.md#sayno)
