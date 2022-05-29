@@ -11,7 +11,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ## Sommaire
 * [Activisme](./pages/activ.md)
 * [Bibliographie](./pages/bib.md)
-* [Ce Wiki](./pages/gestion.md)
+* [Ce Wiki](./pages/cewiki.md)
 * [Litiges](./pages/litiges.md)
 * [Opinion](./pages/opinion.md)
 * [Whoswho](./pages/whoswho.md)

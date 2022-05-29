@@ -10,7 +10,7 @@ help()
 {
     printf "%s\n"\
            "Usage: ./entravaux.sh"\
-           "1. Met à jour '../pages/gestion-entrav.md'."
+           "1. Met à jour '../pages/cewiki-entrav.md'."
 }
 
 case ${1} in
@@ -22,7 +22,7 @@ esac
 [[ $PWD =~ maintenance ]] || { echo "ERREUR: '$PWD' != 'maintenance'"; exit 1; }
 
 source='../pages'
-cible="${source}"/'gestion-entrav.md'
+cible="${source}"/'cewiki-entrav.md'
 
 touch "${cible}"
 >"${cible}"
