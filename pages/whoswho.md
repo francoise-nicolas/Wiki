@@ -4,10 +4,10 @@
 ### Wiki
 * [Appel aux dons](./nicolas-don.md)
 * [Faits](./nicolas-faits.md)
-* [Activisme](./activ.md#nicolas)
-* [Litiges](./litiges.md#nicolas)
+* [Activisme](./nicolas-activ.md)
+* [Litiges](./nicolas-media.md)
 * [Médias](./nicolas-medias.md)
-* [Opinion](./opinion.md#opinion)
+* [Opinion](./nicolas-opinion.md)
 ### <a id="www"></a>🌐
 * [@FranoiseNicolas](https://twitter.com/FranoiseNicolas)
 * [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))

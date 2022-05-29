@@ -8,6 +8,7 @@
 <!-- 1983-07-13 -->
 * [⚖Loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires. Loi dite loi Le Pors.](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038922798/)
     * Article 6 quinquies (harcèlement moral)(abrogé)
+    > Les fonctionnaires bénéficient, à l'occasion de leurs fonctions et conformément aux règles fixées par le code pénal et les lois spéciales, d'une protection organisée par la collectivité publique qui les emploie à la date des faits en cause ou des faits ayant été imputés de façon diffamatoire au fonctionnaire. » ; qu’aux termes du troisième alinéa de cet article : « La collectivité publique est tenue de protéger les fonctionnaires contre les menaces, violences, voies de fait, injures, diffamations ou outrages dont ils pourraient être victimes à l'occasion de leurs fonctions, et de réparer, le cas échéant, le préjudice qui en est résulté.
 
 ### 1989-1995
 

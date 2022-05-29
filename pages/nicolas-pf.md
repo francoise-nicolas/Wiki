@@ -191,9 +191,3 @@ le bénéfice de la protection fonctionnelle, le ministre de l’Europe et des a
 le 14 janvier 2010 à l’ambassade de France à Cotonou est annulée.
 * Article 2 : Il est enjoint au ministre de l’Europe et des affaires étrangères d’accorder à Mme NICOLAS le bénéfice de la protection fonctionnelle pour les faits survenus le 14 janvier 2010 à l’ambassade de France à Cotonou et ce, dans le délai de deux mois à compter de la notification du présent jugement.
 </details>
-
-## ⚖️
-### [Loi n° 83-634 portant droits et obligations des fonctionnaires](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068812)
-* Article 11: 
-
-> Les fonctionnaires bénéficient, à l'occasion de leurs fonctions et conformément aux règles fixées par le code pénal et les lois spéciales, d'une protection organisée par la collectivité publique qui les emploie à la date des faits en cause ou des faits ayant été imputés de façon diffamatoire au fonctionnaire. » ; qu’aux termes du troisième alinéa de cet article : « La collectivité publique est tenue de protéger les fonctionnaires contre les menaces, violences, voies de fait, injures, diffamations ou outrages dont ils pourraient être victimes à l'occasion de leurs fonctions, et de réparer, le cas échéant, le préjudice qui en est résulté.

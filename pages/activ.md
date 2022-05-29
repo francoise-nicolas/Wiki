@@ -1,17 +1,17 @@
-# Activisme
+# Activisme institutionnel
 
-## Critère
+## Méthode
 
-Actions auprès d'institutions.
+* critère d'inclusion: actions auprès d'institutions en faveur de l'état de droit.
 
 ## 📁
-### Françoise NICOLAS
+### <a id="nicolas"></a>Françoise NICOLAS
 
 * <a id="caissen"></a>[🇫🇷Signalement caisse noire](./nicolas-caissen.md)
-* <a id="phi"></a>[🇫🇷Audition φ sur les LDA](https://videos.assemblee-nationale.fr/video.11564277_619e4378170dc.dysfonctionnements-de-la-justice-et-de-la-police-dans-l-affaire-dite-sa)
+* <a id="phi"></a>[🇫🇷Audition φ sur les LDA](https://github.com/francoise-nicolas/audition-phi)
 * <a id="qag"></a>[🇫🇷QAG no. 32447](./nicolas-qag-32447.md)
 * <a id="drl"></a>[🇺🇸Signalement DRL](./nicolas-drl.md)
 * <a id="ue"></a>[🇪🇺Signalement DG JUST](./nicolas-ue.md)
 
 ## Voir aussi
-* [Bibliographie](./bib.md)
+* [NICOLAS dans les médias](./nicolas-medias.md)

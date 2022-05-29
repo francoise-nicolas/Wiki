@@ -551,8 +551,5 @@ Le score de 63 obtenu par Mme Nicolas sur l'échelle PCL 5 indique clairement et
 Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr Nortier), elle est apte à reprendre son poste, et ce d'autant plus qu'elle pourrait bénéficier d'une thérapie brève, spécialisée, qui devrait améliorer son trouble psychotraumatique
 </details>
 
-## Voir aussi
-### [Litiges](../README.md#litiges)
-
 ---
 [Photo](attrib.md#asonposte)
