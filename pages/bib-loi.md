@@ -1,4 +1,4 @@
-![img](./_aux/VeR_Commons.png)
+![img](../_aux/VeR_Commons.png)
 # Loi
 
 ## 🗓
@@ -338,10 +338,10 @@
 * Article 113-7 (crime commis c. un Français hors du territoire)
 * [Article 221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417561/) (donner volontairement la mort...)
 * [Article 221-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033975336/) (est l'auteur de l'infraction...)
-#### <a id="cja"></a>Justice administrative
+### <a id="cja"></a>Justice administrative
 * [Article L. 82201](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449407/) (procédure préalable d'admission)
 * [Article R. 222-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038114668) (attribution des présidents)
-#### <a id="csp"></a>Santé publique
+### <a id="csp"></a>Santé publique
 * Article L. 1111-7
 > Toute personne a accès à l'ensemble des informations concernant sa santé détenues par des professionnels de santé
 

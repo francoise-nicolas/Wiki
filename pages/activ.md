@@ -1,4 +1,4 @@
-![img](../_aux/VeR_Commons.png)
+![img](../_aux/phi.png)
 # Activisme institutionnel
 
 ## Méthode
@@ -18,4 +18,4 @@
 * [NICOLAS dans les médias](./nicolas-medias.md)
 
 ---
-[Photo](./cewiki-attrib.md#VeR)
+[Photo](./cewiki-attrib.md#phi)
