@@ -1912,14 +1912,16 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     </details>
 
 <!-- 2021-11-27 -->
-* <a id="bastuck2021halimi"></a>[Nicolas BASTUCK P/ Le Point: « Sarah HALIMI: la juge d'instruction en GAV »](https://www.tribunejuive.info/2021/11/27/nicolas-bastuck-sarah-halimi-la-juge-dinstruction-en-garde-a-vue-a-lassemblee/)
+* <a id="bastuck2021halimi"></a>[📰Nicolas BASTUCK P/ Le Point: « Sarah HALIMI: la juge d'instruction en GAV »](https://www.tribunejuive.info/2021/11/27/nicolas-bastuck-sarah-halimi-la-juge-dinstruction-en-garde-a-vue-a-lassemblee/)
    <details><summary>Commentaire</summary>
    
    Un gardé à vue qui a su garder ses cartes: 2h30 pour faire une perçée sur le réquisitoire supplétif (circ. aggravante d'antisémitisme), soit 10m avant la fin.
    </details>
 
+* <!-- 2022-06-09 --><a id="TIdieselgate"></a>[📰Tahiti Info: Volkswagen mis en examen en France, le dieselgate n'en finit pas de faire des remous judiciaires](https://www.tahiti-infos.com/Volkswagen-mis-en-examen-en-France-le-dieselgate-n-en-finit-pas-de-faire-des-remous-judiciaires_a201284.html)
+
 <!-- 2022-01-13 -->
-* <a id="bastuck2022deni"></a>[Nicolas BASTUCK P/ Le Point : « Sarah HALIMI: Un rapport qui louvoie et pratique le déni »](https://infojmoderne.com/2022/01/13/affaire-sarah-halimi-un-rapport-qui-louvoie-et-pratique-le-deni/)
+* <a id="bastuck2022deni"></a>[📰Nicolas BASTUCK P/ Le Point : « Sarah HALIMI: Un rapport qui louvoie et pratique le déni »](https://infojmoderne.com/2022/01/13/affaire-sarah-halimi-un-rapport-qui-louvoie-et-pratique-le-deni/)
 
    <details><summary>Extrait</summary>
    
