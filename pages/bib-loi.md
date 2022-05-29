@@ -49,11 +49,11 @@
 
 
 <!-- 2016-09-20 -->
-* [⚖Pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) 
+* <a id="csnlecoq"></a>[⚖Pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) 
 
     <details><summmary>Info</summary>
     
-    Initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droit »](./bib.md.md#spinosi). Le jugement ne rapporte pas de conclusions des seconds
+    Initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droit »](./bib.md.md#spinosi). Le jugement ne rapporte pas de conclusions des seconds (Vincent LE COQ et consorts).
     </details>
 
 

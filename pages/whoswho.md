@@ -1,7 +1,7 @@
 # Who's who
 
 ## <a id="nicolas"></a>Françoise NICOLAS
-### Wiki
+### Ce wiki
 * [Appel aux dons](./nicolas-don.md)
 * [Faits](./nicolas-faits.md)
 * [Activisme](./nicolas-activ.md)
