@@ -25,5 +25,5 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [🏛NICOLAS écrit au gouvernement des 🇺🇸](./pages/nicolas-drl.md)
 ### 2022
 * [🗣️NICOLAS témoigne sur Europe 1](./pages/nicolas-medias.md#delacroix)
-* [✍️️NICOLAS: « jeu des apparences », un emprunt à Vincent LECOQ](./pages/nicolas-japp.md)
+* [✍️️NICOLAS: « Ce sujet qui attend son lanceur d'alerte: le jeu des apparences »](./pages/nicolas-japp.md)
 

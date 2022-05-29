@@ -3,6 +3,32 @@
 
 ## 🗓
 
+### 1981-1988
+
+
+* <!--1987-04-01--><a id="suleim1979"></a>[🕮Ezra N. Suleiman: "Elites in French Society: The Politics of Survival"](https://www.jstor.org/stable/j.ctt13x1dw8)
+
+<details><summary>Traduction 1</summary>
+
+Une distinction doit être faite entre les sociétés qui possèdent des mécanismes de création d'élites et les sociétés qui ne prennent aucune disposition institutionnelle pour la création de leurs élites. Plus les mécanismes sont établis, plus les élites sont susceptibles d'être caractérisées ou regroupées en une série de petits cercles, ainsi que par un système bien régulé de réseaux entre ces cercles. De plus, les fonctions que ces élites occupent sont susceptibles d'être dotées d'un prestige considérable, voire d'un certain charisme.
+
+La France possède l'un des mécanismes les plus clairement établis pour la création de ses élites...
+</details>
+
+<details><summary>Traduction 2</summary>
+
+Cette étude s'est largement intéressée à la résilience et à l'adaptabilité remarquables des institutions formatrices d'élites françaises. Un certain nombre d'hypothèses générales concernant la transformation des élites peuvent être tirées de notre analyse.
+
+(i) La transformation est facilitée par le renouvellement continuel de la légitimité de l'élite.
+
+(ii) La légitimité de l'élite doit être ancrée dans une réalisation concrète qui donne du « charisme » aux fonctions occupées.
+
+(iii) La taille de l'élite doit rester réduite. Cela permet à l'élite d'être bien organisée.
+
+(iv) La réussite professionnelle des membres individuels de l'élite doit dépendre dans une très, large mesure de leur entreprise...
+</details>
+
+
 ### 1995-2002
 
 <!-- 1998-01-01 -->

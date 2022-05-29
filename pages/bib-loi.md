@@ -346,7 +346,7 @@
 > Toute personne a accès à l'ensemble des informations concernant sa santé détenues par des professionnels de santé
 
 ## Justiciable
-* [Droits des justiciables en cas de faute lourde](https://www.vie-publique.fr/fiches/38069-les-droits-des-justiciables-en-cas-de-dysfonctionnement-de-la-justice)
+* <a id="fautelourde"></a>[Droits des justiciables en cas de faute lourde](https://www.vie-publique.fr/fiches/38069-les-droits-des-justiciables-en-cas-de-dysfonctionnement-de-la-justice)
 * [Saisine directe du Conseil Supérieur de la Magistrature](http://www.conseil-superieur-magistrature.fr/requetes-des-justiciables)
 
 ## <a id="cedh"></a>Cour Européenne des Droits de l'Homme
