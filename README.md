@@ -19,11 +19,12 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## Mis en avant
 ### 2020
-* [NICOLAS évoquée dans une QAG](./pages/nicolas-qag-32447.md)
-* [NICOLAS entendue par le député Ugo Bernalicis](https://github.com/francoise-nicolas/audition-phi)
+* [🏛️NICOLAS évoquée dans une QAG](./pages/nicolas-qag-32447.md)
+* [🏛️NICOLAS entendue par le député Ugo Bernalicis](https://github.com/francoise-nicolas/audition-phi)
 ### 2021
-* [NICOLAS remporte une première victoire juridique](./pages/nicolas-pf.md)
-* [NICOLAS écrit au département d'état🇺🇸](./pages/nicolas-drl.md)
+* [⚖️NICOLAS remporte une victoire c. le MAE](./pages/nicolas-pf.md)
+* [🏛NICOLAS écrit au gouvernement des 🇺🇸](./pages/nicolas-drl.md)
 ### 2022
-* [NICOLAS au micro de DELACROIX sur Europe 1](./pages/nicolas-medias.md#delacroix)
+* [🗣️NICOLAS témoigne sur Europe 1](./pages/nicolas-medias.md#delacroix)
+* [✍️️NICOLAS rend hommage à Vincent LECOQ](./pages/opinion.md#japp)
 
