@@ -254,9 +254,9 @@
     > le juge peut, méme en référé, ordonner l’insertion dans la publication concernée d’un communiqué. » -->
     </details>
 
-<!--
 
 <!-- 2002 -->
+<!--
 * <a id="halphen2002sept"></a> [🕮Eric HALPHEN: Sept ans de solitude](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-documents/Sept-ans-de-solitude)
 
 -->
@@ -298,7 +298,7 @@
 
 <!-- 2011 -->
 
-* [🏛️Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
+* [✍Eva JOLY vue par Le Monde](https://www.duo.uio.no/bitstream/handle/10852/25682/master-lundby.pdf)
 
    <details><summary>Synthèse </summary>
    
@@ -316,21 +316,21 @@
     </details>
     
 
-* <a id="lecoq2011manifeste"></a>[🕮De Vincent LE COQ, Manifeste c. les notaires](https://maxmilo.com/products/manifeste-contre-les-notaires)
+* <a id="lecoq2011manifeste"></a>[🕮Vincent LE COQ: Manifeste c. les notaires](https://maxmilo.com/products/manifeste-contre-les-notaires)
 
     <details><summary>Méconnu</summary>
 
     Cf. [pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](./ordrej.md#lecoq)
     </details>
 
-* <a id="lecoq2012moinscher"></a>[🕮De Vincent LE COQ, Le « toujours moins cher » : à quel prix ?](https://www.yvesmichel.org/livre/le-toujours-moins-cher-a-quel-prix-2/)
+* <a id="lecoq2012moinscher"></a>[🕮Vincent LE COQ: Le « toujours moins cher » : à quel prix ?](https://www.yvesmichel.org/livre/le-toujours-moins-cher-a-quel-prix-2/)
 
     <details><summary>Verso de couverture</summary>
     
     > L’observation minutieuse des relations entre la grande distribution et l’État, révèle l’intelligence des acteurs des grandes enseignes à tirer parti de la corruption des élites : la grande distribution a financé la vie politique française.  En contrepartie, celle-ci l’a favorisée systématiquement au détriment des petits commerçants, mais aussi des paysans, des producteurs en général, de la santé des consommateurs et plus généralement de notre modèle social lui-même.
     </details>
 
-* [🇳📰Africa intelligence: Françoise NICOLAS remonte sur le ring](https://www.africaintelligence.fr/afrique-ouest-et-centrale_politique/2011/12/01/francoise-nicolas-remonte-sur-le-ring,94999641-art)
+* [📰Africa intelligence: Françoise NICOLAS remonte sur le ring](https://www.africaintelligence.fr/afrique-ouest-et-centrale_politique/2011/12/01/francoise-nicolas-remonte-sur-le-ring,94999641-art)
 
 
 ### 2012-2017
@@ -340,7 +340,7 @@
 * <a id="demontg2014morale"></a>[🕮Éric DE MONTGOLFIER: Une morale pour les aigles, une autre pour les pigeons](http://michel-lafon.fr/livre/1450-Une_morale_pour_les_aigles_une_autre_pour_les_pigeons.html)
     > Ceux qui ont le pouvoir veulent le conserver, et rendent la justice occulte
 
-* <a id="anosamis"></a>[Comité invisible: À nos amis](https://lafabrique.fr/a-nos-amis/)
+* <a id="anosamis"></a>[🕮Comité invisible: À nos amis](https://lafabrique.fr/a-nos-amis/)
     
 * <a id="droitsouple">[🏛️Rapport du Conseil d'État: le droit souple](https://web.archive.org/web/20151010015516/https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000280.pdf)
 
@@ -365,7 +365,7 @@
     </details>
 
 <!-- 2014-11-14 -->
-* <a id="denoel2014histoire"></a> [🕮De DENOËL et GUARRIGUES, Histoire secrète de la corruption sous la Vè](https://www.nouveau-monde.net/catalogue/histoire-secrete-de-la-corruption-sous-la-ve-republique/)
+* <a id="denoel2014histoire"></a> [🕮De DENOËL et GUARRIGUES: Histoire secrète de la corruption sous la Vè](https://www.nouveau-monde.net/catalogue/histoire-secrete-de-la-corruption-sous-la-ve-republique/)
 
     <details><summary>Affaire Elf: « Le tribunal veut-il des noms? »</summary>
         
@@ -411,22 +411,22 @@
 * <a id="demontg2016independ"></a>[📰Éric DE MONTGOLFIER - L'indépendance des juges, cette Arlésienne de la République](https://www.lepoint.fr/invites-du-point/eric-de-montgolfier/de-montgolfier-l-independance-des-juges-cette-arlesienne-de-la-republique-02-04-2016-2029548_1451.php)
 
 <!-- 2016-04-07 -->
-* <a id="jauvert2016face"></a>🕮[Vincent JAUVERT : La Face cachée du Quai d'Orsay](https://www.lisez.com/livre-grand-format/la-face-cachee-du-quai-dorsay/9782221157046)
+* <a id="jauvert2016face"></a>[🕮Vincent JAUVERT : La Face cachée du Quai d'Orsay](https://www.lisez.com/livre-grand-format/la-face-cachee-du-quai-dorsay/9782221157046)
 
 <!-- 2016-08-23 -->
-* <a id="avhmvp"></a>[🇳🗣️Témoignage de Françoise NICOLAS, lanceur d'alerte, fonctionnaire au Ministère des Affaires étrangères : ACTES DU COLLOQUE AVHMVP](http://harcelement-violence.overblog.com/2016/08/temoignage-de-francoise-nicolas-lanceur-d-alerte-fonctionnaire-au-ministere-des-affaires-etrangeres-actes-du-colloque-avhmvp-juin-20)
+* <a id="avhmvp"></a>[🗣️Témoignage de Françoise NICOLAS, lanceur d'alerte, fonctionnaire au Ministère des Affaires étrangères : ACTES DU COLLOQUE AVHMVP](http://harcelement-violence.overblog.com/2016/08/temoignage-de-francoise-nicolas-lanceur-d-alerte-fonctionnaire-au-ministere-des-affaires-etrangeres-actes-du-colloque-avhmvp-juin-20)
 
 <!-- 2016-09-11 -->
-* <a id="huma-2016"></a>[🇳🗣️Fête de l'huma — témoignage de Françoise NICOLAS et Nicolas FAURISSIER](https://t.co/mSMacDdH9t)
+* <a id="huma-2016"></a>[🗣️Fête de l'huma — témoignage de Françoise NICOLAS et Nicolas FAURISSIER](https://t.co/mSMacDdH9t)
 
 <!-- 2016-10-07 -->
-* <a id="candau2016"></a>[📰🇬🇧European Parliament expresses concern over media pluralism in France](https://www.euractiv.com/section/justice-home-affairs/news/european-parliament-expresses-concern-over-media-pluralism-in-france/)
+* <a id="candau2016"></a>[📰European Parliament expresses concern over media pluralism in France](https://www.euractiv.com/section/justice-home-affairs/news/european-parliament-expresses-concern-over-media-pluralism-in-france/)
 
 <!-- 2016-10-13 -->
 * <a id="louvelache"></a> [✍Bertrand LOUVEL, 1er président magistrat de France « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
 
 <!-- 2016 -->
-* <a id="candau2016medias"></a>[📺Sur Médiapart: Réformer une justice malade (2/3). La grande misère de la justice](https://www.dailymotion.com/video/x2spq5t)
+* <a id="candau2016medias"></a>[🗣Sur Médiapart: Réformer une justice malade (2/3). La grande misère de la justice](https://www.dailymotion.com/video/x2spq5t)
 
     > Seules 200 des 15000 infractions sont effectivement utilisés (Yves Charpenel au temps 18:20)
 
@@ -502,7 +502,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 -->
 
 <!-- 2017-04-07 -->
-* <a id="liberermagistr"></a>[📝Vincent LE COQ : contre l'impunités des politiques, urgent de libérer les magistrats](https://www.contrepoints.org/2017/04/07/286320-contre-limpunite-politiques-urgent-de-liberer-magistrats)
+* <a id="liberermagistr"></a>[✍Vincent LE COQ : contre l'impunités des politiques, urgent de libérer les magistrats](https://www.contrepoints.org/2017/04/07/286320-contre-limpunite-politiques-urgent-de-liberer-magistrats)
 
     <details><summary>Procès Carlton: le trafic d'influence était constitué</summary>
     
@@ -513,7 +513,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="gonzales2017hatvp"></a>[📰Jean-Louis NADAL: Haute autorité pour la transparence: "La lutte contre la corruption est trop morcelée"](https://www.lefigaro.fr/actualite-france/2017/07/09/01016-20170709ARTFIG00146-nadal-la-lutte-contre-la-corruption-est-trop-morcelee.php)
 
 <!-- 2017-07-11 -->
-* 🏛️[Karim BENYEKHLEF, université de MTL: « Les secrets du droits »](https://www.karimbenyekhlef.ca/blogue/2017/07/11/les-secrets-du-droit/?utm_source=pocket_mylist), de Karim BENYEKHLEF, professeur de droit à l'université de Montréal)
+* ️[🎓Karim BENYEKHLEF, université de MTL: « Les secrets du droits »](https://www.karimbenyekhlef.ca/blogue/2017/07/11/les-secrets-du-droit/?utm_source=pocket_mylist), de Karim BENYEKHLEF, professeur de droit à l'université de Montréal)
 
 > Le droit est, en fait, pénétré du secret, puisque sa matrice, l’État, est elle-même fondée sur celui-ci. Le secret prend alors la forme de la Raison d’État. 
 
@@ -1670,7 +1670,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 -->
 
 <!-- 2018-04-19 -->
-* <a id="nicolasVA"></a>[🇳📰Valeurs Actuelles: La lanceuse d'alerte qui attaque Nathalie LOISEAU](../pieces/identifiant/ccac26a8)
+* <a id="nicolasVA"></a>[📰Valeurs Actuelles: La lanceuse d'alerte qui attaque Nathalie LOISEAU](../pieces/identifiant/ccac26a8)
 
 <!-- 2018-04-22 -->
 * <a id="nddlvoyous"></a>[🏛️NDDL: le gouvernement "cède devant les voyous", accuse Jacob (LR)](https://www.nouvelobs.com/politique/20180422.AFP9524/nddl-le-gouvernement-cede-devant-les-voyous-accuse-jacob-lr.html)
@@ -1687,7 +1687,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 -->
 
 <!-- 2018-10-18 -->
-* <a id="mediacites"></a>[🇳📰Médiacités: la LDA du Quai d'Orday poussée vers la sortie](https://www.mediacites.fr/complement-denquete/nantes/2018/10/18/la-lanceuse-dalerte-du-quai-dorsay-poussee-vers-la-sortie/)
+* <a id="mediacites"></a>[📰Médiacités: la LDA du Quai d'Orday poussée vers la sortie](https://www.mediacites.fr/complement-denquete/nantes/2018/10/18/la-lanceuse-dalerte-du-quai-dorsay-poussee-vers-la-sortie/)
 
 <!-- 2018-11-16 -->
 * <a id="pardo2018superch"></a>[🕮Ernest PARDO: La supercherie judiciaire: de la criminalité en col blanc à la criminalité en robe noire](https://www.unanymous.fr/post/6-ways-to-use-instagram-for-ecommerce-marketing)
@@ -1697,31 +1697,31 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
     > Emmanuel MACRON n'a pas hésité à écarter tous les candidats proposés par la garde des Sceaux (lui infligeant au passage un sacré camouflet) pour adouber Rémy HEITZ.
 
-* <a id="dieselgate"></a>[📰🇬🇧EU observer: Court confirms 🇪🇺 illegally relaxed diesel emission rules](https://euobserver.com/green-economy/143697)
+* <a id="dieselgate"></a>[📰EU observer: Court confirms 🇪🇺 illegally relaxed diesel emission rules](https://euobserver.com/green-economy/143697)
 
 <!-- 2019-03-04 -->
-* <a id="cocacola"></a>[📰🇬🇧Euractiv: Coca-Cola’s 🇪🇺 Council sponsorship raises eyebrows](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
+* <a id="cocacola"></a>[📰Euractiv: Coca-Cola’s 🇪🇺 Council sponsorship raises eyebrows](https://www.euractiv.com/section/politics/news/coca-colas-sponsorship-of-council-of-the-european-union-raises-questions/)
 
 <!-- 2019-01-17 -->
 *  <a id="fraisseimpuni"></a>[📰Sivens : le gendarme impliqué dans la mort de Rémi Fraisse ne sera pas jugé au pénal](https://www.francebleu.fr/infos/faits-divers-justice/sivens-le-gendarme-implique-dans-kla-mort-de-remi-fraisse-ne-sera-pas-juge-au-penal-1547738807)
     > La tentative des avocats de la famille de Rémi FRAISSE a échoué : le Conseil Constitutionnel a estimé ce 17 janvier que le gendarme impliqué dans la mort de ce garçon sur le barrage de Sivens (Tarn) en 2014 relevait bien de la justice militaire, et non ordinaire.
 
 <!-- 2019-04-09 -->
-* <a id="pezetnicolas"></a>[🇳📰Checknews pour Libé : « De quoi Françoise NICOLAS, ex-fonctionnaire aux Affaires étrangères, accuse-t-elle Nathalie LOISEAU ? »](https://www.liberation.fr/checknews/2019/04/09/de-quoi-francoise-nicolas-ex-fonctionnaire-aux-affaires-etrangeres-accuse-t-elle-nathalie-loiseau_1717962/)
+* <a id="pezetnicolas"></a>[📰Checknews pour Libé : « De quoi Françoise NICOLAS, ex-fonctionnaire aux Affaires étrangères, accuse-t-elle Nathalie LOISEAU ? »](https://www.liberation.fr/checknews/2019/04/09/de-quoi-francoise-nicolas-ex-fonctionnaire-aux-affaires-etrangeres-accuse-t-elle-nathalie-loiseau_1717962/)
 
 <!-- 2019-04-17 -->
-* <a id="lemedianicolas"></a>[🇳📺Le Média: La lanceuse d'alerte qui accuse Nathalie LOISEAU](https://www.lemediatv.fr/emissions/les-entretiens/la-lanceuse-dalerte-qui-accuse-nathalie-loiseau-lKSR1V_BSsKkSzrIF8-h6A)
+* <a id="lemedianicolas"></a>[🗣Le Média: La lanceuse d'alerte qui accuse Nathalie LOISEAU](https://www.lemediatv.fr/emissions/les-entretiens/la-lanceuse-dalerte-qui-accuse-nathalie-loiseau-lKSR1V_BSsKkSzrIF8-h6A)
 
 <!-- 2019-04-19 -->
-* [🐦🇳Réplique de NICOLAS à Checknews](https://threadreaderapp.com/thread/1115997608533737475.html)
+* [🐦Réplique de NICOLAS à Checknews](https://threadreaderapp.com/thread/1115997608533737475.html)
 
 <!-- 2019-12-21 -->
-* <a id="ft"></a> [Le Monde: tournant pénal dans le droit du travail (affaire des suicides de France Télécom)](https://www.lemonde.fr/idees/article/2019/12/21/proces-france-telecom-un-tournant-dans-le-droit-penal-du-travail_6023715_3232.html)
+* <a id="ft"></a> [🗣Le Monde: tournant pénal dans le droit du travail (affaire des suicides de France Télécom)](https://www.lemonde.fr/idees/article/2019/12/21/proces-france-telecom-un-tournant-dans-le-droit-penal-du-travail_6023715_3232.html)
 
 *  <a id="gonzales2019englues"></a>[📰Englués dans la procédure, les procureurs tentent de justifier l'image négative de la justice](https://www.lefigaro.fr/actualite-france/2019/04/03/01016-20190403ARTFIG00099-englues-dans-la-procedure-les-procureurs-tentent-de-justifier-l-image-negative-de-la-justice.php)
     > La justice sera toujours aux prises d’injonctions contradictoires, accusée tour à tour d’être trop expéditive ou trop lente, trop sévère ou laxiste. Peut-être parce qu’elle ne donne jamais complètement raison à tout le monde.~Jean-François THONY
 
-* [Affaire Elf : quand l’instruction éclabousse la classe politique](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-29-octobre-2019)
+* [🎙️Affaire Elf : quand l’instruction éclabousse la classe politique](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-29-octobre-2019)
 
     <details><summary>Verbatim 🚧 </summary>
     
@@ -1762,7 +1762,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="tourbe2019ordre"></a>[📰Abus sexuels non sanctionnés, erreurs dans les comptes: ce rapport qui accable l'ordre des médecins](https://www.midilibre.fr/2019/02/27/abus-sexuels-non-sanctionnes-erreurs-dans-les-comptes-ce-rapport-qui-accable-lordre-des-medecins,8040411.php)
 
 <!-- 2019-05-01 -->
-* [🇳📰Mondafrique: Afrique, Nathalie LOISEAU n’aime pas les lanceurs d’alerte](https://mondafrique.com/nathalie-loiseau-tuer/)
+* [📰Mondafrique: Afrique, Nathalie LOISEAU n’aime pas les lanceurs d’alerte](https://mondafrique.com/nathalie-loiseau-tuer/)
 
 <!-- 2020-06-26 -->
 *  <a id="spinosi"></a> [Le Point: « SPINOSI & SUREAU, moines soldats du droit »](https://www.lepoint.fr/justice/les-toges-du-point-2020-spinosi-sureau-moines-soldats-du-droit-26-06-2020-2381878_2386.php). 
@@ -1778,7 +1778,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="HRWfrance"></a>[📰Human Rights Watch: La France à la traîne au Conseil des droits de l'homme des Nations Unies](https://www.hrw.org/fr/news/2020/10/08/la-france-la-traine-au-conseil-des-droits-de-lhomme-des-nations-unies)
 
 <!-- 2020-10-29 -->
-* [🇳📰francisrael.com: Après l'ambassadeur, le consul...](https://web.archive.org/web/20201029092029/https://resistancisrael.com/apres-lambassadeur-le-consul/)
+* [📰francisrael.com: Après l'ambassadeur, le consul...](https://web.archive.org/web/20201029092029/https://resistancisrael.com/apres-lambassadeur-le-consul/)
 
 > Le nouveau consul de France à Abidjean visé par une tentative d'assassinat
 
@@ -1801,7 +1801,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 -->
 
 <!-- 2020-01-22 -->
-* <a id="cgt-leaks"></a>[🇳🗣️UGCIT:  « We Are The Leaks : 7 lanceurs d'alerte témoignent »](https://web.archive.org/web/20201221122852/http://www.ugict.cgt.fr/articles/actus/we-are-the-leaks-7-lanceurs-dalerte-temoignent)
+* <a id="cgt-leaks"></a>[🗣️UGCIT:  « We Are The Leaks : 7 lanceurs d'alerte témoignent »](https://web.archive.org/web/20201221122852/http://www.ugict.cgt.fr/articles/actus/we-are-the-leaks-7-lanceurs-dalerte-temoignent)
 
 <!-- 2020-03-12 -->
 * <a id="echecADP"></a> [📰Éditorial du Monde: Privatisation du Groupe ADP : surmonter l’échec du RIP](https://www.lemonde.fr/idees/article/2020/03/12/privatisation-du-groupe-adp-surmonter-l-echec-du-rip_6032740_3232.html)
@@ -1810,7 +1810,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="inespere"><a>[📰« Jacques TOUBON: fin de mandat d'un défenseur des droits inespéreé »](https://www.liberation.fr/france/2020/06/30/jacques-toubon-fin-de-mandat-d-un-defenseur-inespere_1792944/)
 
 <!-- 2020-07-28 -->
-*  <a id="darmaninweber"></a>[🗣Intervention de Darmarin devant l'AN](https://twitter.com/LCP/status/1288174388286717952?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1288174388286717952%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.francetvinfo.fr%2Ffaits-divers%2Fpolice%2Fviolences-policieres%2Fla-police-exerce-une-violence-legitime-gerald-darmanin-cite-t-il-correctement-le-sociologue-allemand-max-weber_4060345.html)
+*  <a id="darmaninweber"></a>[🗣Darmarin cite t-il correctement Max-Weber?](https://twitter.com/LCP/status/1288174388286717952?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1288174388286717952%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.francetvinfo.fr%2Ffaits-divers%2Fpolice%2Fviolences-policieres%2Fla-police-exerce-une-violence-legitime-gerald-darmanin-cite-t-il-correctement-le-sociologue-allemand-max-weber_4060345.html)
 
 <!-- 2020-08-27 -->
 * <a id="covidpresse"></a> [📰Covid-19 : l’Elysée débloque 483 millions d’aides exceptionnelles à la presse](https://www.leparisien.fr/culture-loisirs/tv/covid-19-l-elysee-debloque-483-millions-d-aides-exceptionnelles-a-la-presse-27-08-2020-8374314.php)
@@ -1825,16 +1825,16 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="omsyndic"></a>[📰Des syndicats de patients demandent la suppression de l'ordre des médecins](https://www.ouest-france.fr/sante/des-syndicats-et-patients-demandent-la-dissolution-de-l-ordre-des-medecins-7180685)
 
 <!-- 2021-05-20 -->
-* <a id="FS-fantomesbenin"></a>[🇳📰France Soir:Dossiers fantômes et détournement de fonds au Bénin](https://www.francesoir.fr/videos-le-defi-de-la-verite/dossiers-fantomes-et-detournements-de-fonds-publics-au-benin)
+* <a id="FS-fantomesbenin"></a>[📰France Soir:Dossiers fantômes et détournement de fonds au Bénin](https://www.francesoir.fr/videos-le-defi-de-la-verite/dossiers-fantomes-et-detournements-de-fonds-publics-au-benin)
 
 <!-- 2021-05-21 -->
-* [🇳📰Netafrique.net: « J’ai défendu les intérêts des Béninois », une ex-diplomate française en détresse crie à l’aide](https://netafrique.net/jai-defendu-les-interets-des-beninois-une-ex-diplomate-francaise-en-detresse-crie-a-laide/)
+* [📰Netafrique.net: « J’ai défendu les intérêts des Béninois », une ex-diplomate française en détresse crie à l’aide](https://netafrique.net/jai-defendu-les-interets-des-beninois-une-ex-diplomate-francaise-en-detresse-crie-a-laide/)
 
 <!-- 2021-05-21 -->
-* [🇳🗣️Le réveil citoyen: agressée pour avoir dénoncé du détournement de fonds publics, Françoise NICOLAS témoigne](https://lereveilcitoyen.fr/2021/05/21/agressee-pour-avoir-denonce-du-detournement-de-fonds-publics-francoise-nicolas-temoigne/)
+* [🗣️Le réveil citoyen: agressée pour avoir dénoncé du détournement de fonds publics, Françoise NICOLAS témoigne](https://lereveilcitoyen.fr/2021/05/21/agressee-pour-avoir-denonce-du-detournement-de-fonds-publics-francoise-nicolas-temoigne/)
 
 <!-- 2021-05-22 -->
-* <a id="NT-fantomesbenin"></a>[🇳📰Nouvelle Tribune:Dossiers fantômes et détournement de fonds au Bénin](https://lanouvelletribune.info/2021/05/dossiers-fantomes-a-lambassade-de-france-au-benin-lex-employee-demande-de-laide/)
+* <a id="NT-fantomesbenin"></a>[📰Nouvelle Tribune:Dossiers fantômes et détournement de fonds au Bénin](https://lanouvelletribune.info/2021/05/dossiers-fantomes-a-lambassade-de-france-au-benin-lex-employee-demande-de-laide/)
 
 <!-- 2021-07-02 -->
 * <a id="piel2021dumas"></a>[📰Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de BALLADUR](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
@@ -1844,7 +1844,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     </details>
 
 <!-- 2021-07-12  -->
-* <a id="RTnicolas"></a>[🇳📺RT: Après une violente agression, la lanceur d'alerte Françoise NICOLAS se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
+* <a id="RTnicolas"></a>[🗣RT: Après une violente agression, la lanceur d'alerte Françoise NICOLAS se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
 
 <!-- 2021-10-07 -->
 * <a id="an-xv-3696"></a>[🏛️Rapport AN no. 3296: Obstacles à l'indépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
@@ -1936,22 +1936,22 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
    </details>
 
 <!-- 2022-02-03 -->
-* <a id="quiveutlapeau"></a>[🇳📺Qui Veut La Peau de Françoise NICOLAS ? — Charles LACROIX](https://www.youtube.com/watch?v=cOagKQBZJ78)
+* <a id="quiveutlapeau"></a>[🗣Qui Veut La Peau de Françoise NICOLAS ? — Charles LACROIX](https://www.youtube.com/watch?v=cOagKQBZJ78)
 
 <!-- 2022-02-18 -->
-* <a id="elina2022conseil"></a> [Tribune dans Le Monde : pour un contrôle véritable des candidatures au Conseil constitutionnel](https://www.lemonde.fr/idees/article/2022/02/18/pour-un-controle-veritable-des-candidatures-au-conseil-constitutionnel_6114194_3232.html)
+* <a id="elina2022conseil"></a> [✍Le Monde : pour un contrôle véritable des candidatures au Conseil constitutionnel](https://www.lemonde.fr/idees/article/2022/02/18/pour-un-controle-veritable-des-candidatures-au-conseil-constitutionnel_6114194_3232.html)
 
     > Alors que les noms de Jacqueline GOURAULT, Véronique MALBEC et François SENERS viennent d’être proposés pour rejoindre l’institution, la juriste Elina LEMAIRE appelle le Parlement à vérifier les compétences juridiques et l’exemplarité des candidats.
 
 <!-- 2022-04-02 -->
-* <a id="kupers">[🇳📺Souffrance au travail; on lâche rien. — Daniel KUPFERSTEIN avec ASD-PRO](https://www.daniel-kupferstein.com/8-documentaires/261-souffrance-au-travail-on-lache-rien?ml=1)
+* <a id="kupers">[🗣Souffrance au travail; on lâche rien. — Daniel KUPFERSTEIN avec ASD-PRO](https://www.daniel-kupferstein.com/8-documentaires/261-souffrance-au-travail-on-lache-rien?ml=1)
     <details><summary>Diffusion</summary>
     
     * [Angers, les 400 coups](https://www.les400coups.org/mobile/prochainement.php?film=21060)
     </detais>
     
 <!-- 2022-05-16 -->
-* <a id="jac-K">[🇳📺Françoise Nicolas, une lanceuse d'alerte dans la Fonction publique d'Etat — Canal JAC-K](https://www.youtube.com/watch?v=Q0k5mT60Fqw)
+* <a id="jac-K">[🗣Françoise Nicolas, une lanceuse d'alerte dans la Fonction publique d'Etat — Canal JAC-K](https://www.youtube.com/watch?v=Q0k5mT60Fqw)
 
 
 ## 🌐

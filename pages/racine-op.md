@@ -1,17 +1,17 @@
-# Tribunes📝
+# Tribunes & activisme
 
-Opinions exprimées sous _forme écrite_ (✍), en projet (🚧) ou publiées dans un journal (📰). Également inclus, signalements à des institutions entrant sous la catégorie _activisme_ (✊), distincts de [litiges](./racine-litiges.md) (la frontière est parfois ténue).
+Opinions exprimées sous _forme écrite_, en projet (🚧) ou publiées dans un journal (✍), auquel cas, renvoi à [la bibliographie](./bib.md). Également inclus, signalements à des [institutions](./racine-instit.md) entrant sous la catégorie _activisme_ (✊), distincts de [litiges](./racine-litiges.md) (la démarcation est parfois mince).
 
 ## Méthode
 
 * Classés par leur date initiale.
-* Dans le cas de projets,  l'[historique du fichier afférent](https://github.com/pomber/git-history) fait foit des révisions.
+* Dans le cas d'une opinion en projet,  l'[historique du fichier afférent](https://github.com/pomber/git-history) fait foit des révisions.
 
 ## 🗓️
-* 2022-05-28 [✍🚧Affaires et jeu d'apparences](./nicolas-japp.md)
-* 2022-04-13 [✊Signalement au département d'état](./instit-drl.md#nicolas)
-* 2022-02-02 [✊Signalement au département d'état](./instit-drl.md#nicolas)
-* 2022-01-30 [✊Signalement à DG JUST](./instit-ue.md#nicolas)
+* 2022-05-28 [🚧 NICOLAS: Affaires et jeu d'apparences](./nicolas-japp.md)
+* 2022-04-13 [✊ NICOLAS: Signalement au département d'état](./instit-drl.md#nicolas)
+* 2022-02-02 [✊ NICOLAS: Signalement au département d'état](./instit-drl.md#nicolas)
+* 2022-01-30 [✊ NICOLAS: Signalement à DG JUST](./instit-ue.md#nicolas)
 
 ## Voir aussi
 * [bibliographie](./bib.md)

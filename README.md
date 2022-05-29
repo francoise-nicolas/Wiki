@@ -8,7 +8,6 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## Sommaire
 
-* [Activisme](./pages/racine-activ.md)
 * [Autre](./pages/racine-autre.md)
 * [Bibliographie](./pages/racine-bib.md)
 * [Institutions](./pages/racine-instit.md)
@@ -17,12 +16,12 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ### Mis en avant
 #### Autre
+* [Charte](./pages/autre-charte.md)
 * [Contribuer](./pages/autre-contrib.md)
 * [Donn€r](./pages/autre-don.md)
 #### Françoise NICOLAS
 * [À propos🇫🇷](./pages/nicolas-apropos.md)
 * [About🇬🇧](./pages/nicolas-about.md)
-* [Activisme](./pages/racine-activ.md#nicolas)
 * [Litiges](./pages/nicolas-litiges.md)
 
 ### <a id="voiraussi"></a>🌐

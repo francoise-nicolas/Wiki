@@ -22,6 +22,6 @@
 | 📰 | Presse |
 | ↳ | Renvoi |
 | 🚧 | Travaux  |
-| 📝 | Tribune |
+| ✍ | Tribune |
 
 
