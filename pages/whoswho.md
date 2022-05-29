@@ -2,7 +2,8 @@
 
 ## <a id="nicolas"></a>Françoise NICOLAS
 ### Wiki
-* [Faire un don](./nicolas-don.md)
+* [Appel aux dons](./nicolas-don.md)
+* [Faits](./nicolas-faits.md)
 * [Activisme](./activ.md#nicolas)
 * [Litiges](./litiges.md#nicolas)
 * [Opinion](./opinion.md#opinion)
