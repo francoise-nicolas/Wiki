@@ -1,14 +1,5 @@
 ![img](../_aux/bnf_Commons.png)
-# Bibliographie
-
-## Format
-
-| Symbole | Signification |
-|+++++++|++++++|
-|🕮 | Livre|
-|✍ | Tribune|
-|🗣 | ITW/témoignage
-|📰 | presse |
+# [Bibliographie](./bib.md) — Édition
 
 ## 🗓
 
@@ -1961,9 +1952,6 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 ## 🌐
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
 * [Le blog « Déni de justice, pour une réforme de la justice »](https://denidejustice.wordpress.com/)
-
-## Voir aussi
-* [./autre-signal.md](signalitique)
 
 ---
 [Photo](attrib.md#bnf)
