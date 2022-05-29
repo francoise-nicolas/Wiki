@@ -14,7 +14,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [Ce Wiki](./pages/cewiki.md)
 * [Litiges](./pages/litiges.md)
 * [Opinion](./pages/opinion.md)
-* Whoswho
+* [Who's who](./pages/whoswho.md)
 
 ## Mis en avant
 ### 2020
