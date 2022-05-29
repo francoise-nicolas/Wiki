@@ -217,3 +217,6 @@ On est très sensibilisé à toute forme de discrimination.
 05:04:38 Je le dis pas pour les défendre. Personnes qui sont courageuses.
 
 </details>
+
+---
+[Photo](./cewiki-attrib.md#SHdeni)

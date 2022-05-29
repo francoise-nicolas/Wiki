@@ -1,3 +1,5 @@
+![img](../_aux/sncf_Commons.png)
+
 # Parlement - Audition de Denis BRÉTEAU
 
 [Le 2021-05-21 était auditionné Denis BRÉTEAU](https://shorturl.me/jHBHC), lanceur d'alerte de la SNCF, dans le cadre de la [loi Sapin 2](#sapin2)
@@ -44,3 +46,6 @@ Voilà. Je ne
 
 29’
 </details>
+
+---
+[Photo](./cewiki-attrib.md#sncf)

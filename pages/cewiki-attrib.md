@@ -26,19 +26,11 @@ Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas dans l
 
 * <a id="sncf"></a> [Pour sûr, on va gagner du temps grâce à cette nouvelle interface...](https://commons.wikimedia.org/wiki/File:SNCF-HS.jpg)
 
-* <a id="ateliers"></a> [Vue d'ateliers-débats thématiques organisés dans le cadre du 'Grand Débat National' au centre de congrès Le Manège par la ville de Chambéry, en Savoie.](https://commons.wikimedia.org/wiki/File:Grand_D%C3%A9bat_2019_organis%C3%A9_%C3%A0_Chamb%C3%A9ry_(ateliers_th%C3%A9matiques).JPG)
-
-* <a id="ric"></a> [Référundum d'initiative citoyenne, Gilets jaunes.](https://commons.wikimedia.org/wiki/File:RIC_CARL.jpg) 
-
-* <a id="crrfy"></a> [Mondeville (Normandie, France). Centre commercial Mondeville 2.](https://commons.wikimedia.org/wiki/File:FranceNormandieMondevilleCentreComMondeville2.jpg)
-
 * <a id="yvan"></a> [Yvan Colonna preso politiko korsikarrarekiko elkartasunez egindako protesta.](https://commons.wikimedia.org/wiki/File:Yvan_protest_2022.webp)
 
 * <a id="gdngj"></a> [Rassemblement à l'Embarcadère avant une marche des Gilets jaunes du Magny, à Montceau-les-Mines (Saône-et-Loire, France).](https://commons.wikimedia.org/wiki/File:Gilets_jaunes_du_Magny,_Montceau-les-Mines,_19_Jan_2019_-_Rassemblement_03.jpg)
 
 * <a id="berlay"></a>[Colonne de drapeaux devant la commission européenne à Bruxelles](https://commons.wikimedia.org/wiki/Category:Berlaymont_building#/media/File:Drapeaux_devant_la_commission_europ%C3%A9enne.jpg)
-
-* <a id="jaccuse"></a>[Front page cover of the newspaper "L'Aurore" of Thursday 13 January 1898, with the letter "J'accuse", written by Emile Zola about the Dreyfus affair.](https://en.wikipedia.org/wiki/Dreyfus_affair#/media/File:J%E2%80%99accuse.jpg)
 
 * <a id="theatr"></a> [Theatrical masks of Tragedy and Comedy. Mosaic, Roman mosaic, 2nd century AD](https://en.wikipedia.org/wiki/Mask#/media/File:Mosaic_of_the_theatrical_masks_-_Google_Art_Project.jpg)
 
