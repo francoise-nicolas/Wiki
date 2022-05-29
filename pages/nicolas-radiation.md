@@ -2,7 +2,7 @@
 
 # [Françoise NICOLAS](fn.md) — Radiation de la fonction publique
 
-Contestation de la décision du MAE du [2018-07-25](faits.md#radiation).
+Contestation de la décision du MAE du [2018-07-25](nicolas-faits.md#radiation).
 
 ## 🗓️
 ### 2018-01-11 — CAA de Nantes — Décision
