@@ -1,5 +1,5 @@
 ![img](../_aux/bnf_Commons.png)
-# [Bibliographie](./bib.md) — Édition
+# Bibliographie
 
 ## 🗓
 

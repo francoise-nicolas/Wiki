@@ -20,4 +20,3 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [🇬🇧](./pages/nicolas-about.md)
 ## Autre
 * [Contribuer](./pages/autre-contrib.md)
-* [Donn€r](./pages/autre-don.md)
