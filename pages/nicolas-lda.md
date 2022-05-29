@@ -26,10 +26,8 @@
 -->
 
 ## Voir aussi
-* [Audition de Denis BRÉTEAU, LDA SNCF](./breteau.md)
+* [Audition de Denis BRÉTEAU, LDA SNCF](./parl-breteau.md)
 * [Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)
-* Jacques TOUBON
-* Claire HÉDON
 
 ---
 [Photo](./cewiki-attrib.md#anythingtosay)
