@@ -56,4 +56,4 @@ lui même demander au procureur un réquisitoire supplétif, en l'occurence pour
 * 2022-05-28 Version initiale
 
 ---
-[Photo](gestion-attrib.md#theatr)
+[Photo](cewiki-)attrib.md#theatr)

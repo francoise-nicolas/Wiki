@@ -254,4 +254,4 @@ EN ATTENTE
 ### [Professionel & médical](faits.md)
 
 ---
-Photo: [Hôtel du MAE](./gestion-attrib.md#HotelMAE)
+Photo: [Hôtel du MAE](./cewiki-attrib.md#HotelMAE)

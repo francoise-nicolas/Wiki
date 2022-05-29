@@ -79,4 +79,4 @@
 * <a id="jac-K">[🗣Françoise NICOLAS, une lanceuse d'alerte dans la Fonction publique d'Etat — Canal JAC-K](https://www.youtube.com/watch?v=Q0k5mT60Fqw)
 
 ---
-[Photo](./gestion-attrib.md#lemediatv)
+[Photo](./cewiki-attrib.md#lemediatv)

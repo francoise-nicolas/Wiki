@@ -56,4 +56,4 @@ I was [substitute candidate](http://www.nantes-infos.fr/legislatives-1ere-circon
 * [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
 
 ---
-Photo: [Françoise NICOLAS, LDA meeting, 2015](./gestion-attrib.md)#marc-chaumeil)
+Photo: [Françoise NICOLAS, LDA meeting, 2015](./cewiki-attrib.md#marc-chaumeil)

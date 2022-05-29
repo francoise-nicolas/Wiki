@@ -31,4 +31,4 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, [Denise CAMPBELL
     </details>
 
 ---
-[Photo](./gestion-attrib.md#blinken)
+[Photo](./cewiki-attrib.md#blinken)

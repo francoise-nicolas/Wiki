@@ -552,4 +552,4 @@ Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr N
 </details>
 
 ---
-[Photo](./gestion-attrib.md#asonposte)
+[Photo](./cewiki-attrib.md#asonposte)

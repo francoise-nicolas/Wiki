@@ -10,9 +10,8 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## Sommaire
 * [Activisme](./pages/activ.md)
-* [Autre](./pages/autre.md)
 * [Bibliographie](./pages/bib.md)
-* [Gestion du Wiki](./pages/gestion.md)
+* [Ce Wiki](./pages/gestion.md)
 * [Litiges](./pages/litiges.md)
 * [Opinion](./pages/opinion.md)
 * [Whoswho](./pages/whoswho.md)

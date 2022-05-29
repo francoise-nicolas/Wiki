@@ -59,4 +59,4 @@ Je suis originaire de Saint-Malo, et mère célibataire d'un enfant unique depui
 * [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))
 
 ---
-Photo: [Françoise NICOLAS, rencontre LDA, 2015](./gestion-attrib.md#marc-chaumeil)
+Photo: [Françoise NICOLAS, rencontre LDA, 2015](./cewiki-attrib.md#marc-chaumeil)
