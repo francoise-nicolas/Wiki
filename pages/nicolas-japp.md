@@ -3,6 +3,9 @@
 
 La corruption est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: les tribunaux. Parmi celles-ci, le livre de 2017 de de [Vincent LE COQ](./whoswho#lecoq), [« Impunités »](./bib.md.md#lecoq2017justice), avance l'hypothèse d'un _jeu des apparences_ médiatico-judiciaires, destiné à tromper le public, notamment sur la culpabilité d'un homme de pouvoir. Dans un contexte où « les magistrats sont dès leur plus jeune âge pénétrés de la conviction que leur mission principale est la préservation de l’ordre établi » (même source), et où la réalité du pluralisme de médias chroniquement sous intraveineuse de l'état, [inquiète le parlement européen](./bib.md#candau2016), « affaires » et« jeu des apparences » sont un seul et même sujet. D'où le choix de bannière.  Le plus souvent ça marche comme sur des roulettes, mais il y aussi des couacs retentissants, l'on songe à l'[affaire Sarah HALIMI](./pages/parl.md#shalimi) (à développer 🚧). Mais même dans ce cas, un scandale chassant l'autre—c'est peut-être à ça que sert Médiapart, ça n'est qu'une question de temps avant que l'amnésie l'emporte, dit autrement, que la démocratie retrouve sont point d'équilibre stable: un attrape gogos. 
 
+> Magistrat = les institutions fonctionnent quand un homme politique est condamné.
+> Politique = la démocratie est en danger lorsqu'un homme politique est condamné.
+
 NB: concernant Vincent LECOQ, il existe un [arrêt de la cour de cassation](./pages/bib.md#spinosi) révaleur de sa dangerosité envers l'établissement, et une surprise.
 
 ## 📁

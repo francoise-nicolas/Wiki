@@ -6,6 +6,7 @@
 * [Faits](./nicolas-faits.md)
 * [Activisme](./activ.md#nicolas)
 * [Litiges](./litiges.md#nicolas)
+* [Médias](./nicolas-medias.md)
 * [Opinion](./opinion.md#opinion)
 ### <a id="www"></a>🌐
 * [@FranoiseNicolas](https://twitter.com/FranoiseNicolas)
