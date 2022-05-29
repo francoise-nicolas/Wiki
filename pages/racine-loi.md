@@ -1,31 +1,62 @@
-![image-mise-en-avant](../_aux/contentieux_Commons.png)
+# Loi
 
-# Ordre administratif
+## 🗓
 
-> L'existence d'une juridiction administrative s'explique par la nécessité de juger et de contrôler l'administration et de régler les conflits avec celle-ci. En France, le jugement des litiges est effectué par un juge spécialisé : le juge administratif. (Wikipedia)
+### 1981-1989
 
->  le droit [public] applicable est d’abord un instrument de légitimation de la domination de l’oligarchie ([Vincent LE COQ sur les GPII, p. 139](./bib.md.md#lecoq2018projets))
+<!-- 1983-07-13 -->
+* [⚖Loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires. Loi dite loi Le Pors.](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038922798/)
+    * Article 6 quinquies (harcèlement moral)(abrogé)
 
-## ⚖
-### Code
-#### Justice Administrative
-* [Article L. 82201](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449407/) (procédure préalable d'admission)
-* [Article R. 222-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038114668) (attribution des présidents)
-#### De la santé publique
-* Article L. 1111-7
-> Toute personne a accès à l'ensemble des informations concernant sa santé détenues par des professionnels de santé
+### 1989-1995
 
-### Jurisprudence
-* TA Orléans, 2003-06-25, no. 251833
+### 1995-2002
+
+<!-- 1998-07-03 -->
+* <a id="monteb1998tribcomm"></a>[🏛️Rapport no. 1058 sur l'activité et le fonctionnement des tribunaux de commerce](http://www.assemblee-nationale.fr/11/dossiers/tribunaux-de-commerce.asp)
+
+### 2002-2007
+
+<!-- 2003-06-25 -->
+* <a id="ta-orl-secretmed"></a>⚖ TA Orléans, no. 251833
 > Aucun document couvert par le secret médical ne peut figurer au dossier administratif d'un fonctionnaire
 
-### 📁
-#### Elf
+### 2007-2012
 <!-- 2007-01-31 -->
-* <a id="cass-elf"></a>[⚖ Arrêt de la cour de cassation de 2007-01-31)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000017927432/)
+* <a id="cass-elf"></a>[⚖Affaire Elf: Arrêt de la cour de cassation du 2007-01-31](https://www.legifrance.gouv.fr/juri/id/JURITEXT000017927432/)
+
+<!-- 2010-03-29 -->
+* <a id="medvedyev"></a>⚖️Medvedyev contre France, du 29 mars 2010
+
+<!-- 2010-11-23 -->
+* <a id="moulin"></a>⚖️Moulin c. France du 23 novembre 2010
+
+    <details><summary>Extrait</summary>
+    
+    « les membres du ministère public, en France, ne remplissent pas l'exigence d'indépendance à l'égard de l'exécutif, qui, selon une jurisprudence constante, compte, au même titre que l'impartialité, parmi les garanties inhérentes à la notion autonome de « magistrat » au sens de l'article 5 § 3 » 
+    </details>
+
+<!-- 2011-03-29 -->
+* <a id="loidefdroits"></a>[⚖Loi organique du 29 mars 2011 relative au défenseur des droits](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023781167/2022-02-16/)
+> le Défenseur des droits ne peut remettre en cause une décision juridictionnelle. 
+
+### 2012-2017
+
+<!-- 2015-10-10 -->
+* <a id="droitsouple">[🏛️Rapport du Conseil d'État: le droit souple](https://web.archive.org/web/20151010015516/https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000280.pdf)
+
+
+<!-- 2016-09-20 -->
+* [⚖Pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) 
+
+    <details><summmary>Info</summary>
+    
+    Initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droit »](./bib.md.md#spinosi). Le jugement ne rapporte pas de conclusions des seconds
+    </details>
+
 
 <!-- 2016-09-22 -->
-* <a id="vers--elf"></a>Arrêt de la Cour d'Appel de Versailles du 2016-09-22
+* <a id="vers--elf"></a>⚖Affaire Elf: Arrêt de la Cour d'Appel de Versailles du 2016-09-22
 
     <details>
       <summary>Texte</summary>
@@ -272,34 +303,75 @@
     
     </details>
 
-#### <a id="lecoq"></a>[Vincent LE COQ](./whoswho#lecoq)
-* [Pourvoi no 15-81.406 devant la chambre criminelle de la Cour de cassation](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033143872) 
+<!-- 2016-09-09 -->
+* <a id="sapin2"></a>[⚖Loi n° 2016-1691 du 9 décembre 2016 relative à la transparence..., dite Sapin 2](https://www.assemblee-nationale.fr/14/dossiers/transparence_lutte_corruption_economie.asp)
 
-    <details><summmary>Info</summary>
+### 2017-2022
+
+<!-- 2019-02-01 -->
+*  <a id="CElbd"></a>[⚖️Le Conseil d’État rejette des demandes relatives aux lanceurs de balle de défense (LBD) lors des manifestations de « gilets jaunes »](https://www.conseil-etat.fr/site/actualites/usage-des-lanceurs-de-balles-de-defense)
     
-    Initié par le le Conseil Supérieur du Notariat, et rédigé pour leur compte par les [« moines soldats du droit »](./bib.md.md#spinosi). Le jugement ne rapporte pas de conclusions des seconds
+    <details><summary>Extrait</summary>
+    
+    > Le juge des référés du Conseil d’État a constaté que l’usage du LBD avait dans la période récente provoqué des blessures, parfois très graves, sans qu’il soit possible d’affirmer que toutes les victimes se trouvaient dans les situations visées par le code de la sécurité intérieure, seules à mêmes de justifier une telle utilisation.
+    
+    > Toutefois, il a jugé que, en dépit de ces circonstances et contrairement à ce que les demandeurs affirmaient, l’organisation des opérations de maintien de l’ordre mises en place lors des récentes manifestations ne révélait pas une intention des autorités de ne pas respecter les conditions d’usage, strictes, mises à l’utilisation de ces armes.
     </details>
 
-#### <a id="halimi"></a>Sarah HALIMI
-* [Arrêt no. 20-80.135](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043473408?isSuggest=true)
+<!-- 2021-04-21 -->
+* [⚖Sarah HALIMI: Arrêt no. 20-80.135](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043473408?isSuggest=true)
 
     <details><summary>Faits et procédure</summary>
     
     * 4. Le 10 juillet 2017, M [T] a été mis en examen de ces chefs. Après la délivrance d'un réquisitoire supplétif, la circonstance que les faits ont été commis à raison de l'appartenance vraie ou supposée de la victime à une race ou une religion déterminée a été notifiée à l'intéressé.
     * 5. Par ordonnance de transmission de pièces aux fins de saisine de la chambre de l'instruction, en date du 12 juillet 2019, les juges d'instruction, après avoir écarté la circonstance aggravante précitée, ont estimé qu'il existait contre M. [T], d'une part, des charges suffisantes d'avoir commis les faits d'homicide volontaire et de séquestration qui lui étaient reprochés et d'autre part, des raisons plausibles d'appliquer le premier alinéa de l'article 122-1 du code pénal.
     </details>
-#### <a id="nicolas"></a>[Françoise NICOLAS](../README.md#nicolas)
-* [Dossier administratif](./dossadmin.md)
-* [Indemnité](./indemnite.md)
-* [Mutation](./mutation.md)
-* [Protection fonctionnelle](./pf.md)
-* [Radiation](./radiation.md)
 
-### Autre
-#### [Loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires. Loi dite loi Le Pors.](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038922798/)
-* Article 6 quinquies (harcèlement moral)(abrogé)
-#### <a id="loidefdroits"></a>[Loi organique du 29 mars 2011 relative au défenseur des droits](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023781167/2022-02-16/)
-> le Défenseur des droits ne peut remettre en cause une décision juridictionnelle. 
+
+## Code
+### <a id="cpp"></a>De procédure pénale
+* [Article 85](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312069/)(partie civile)
+* [Article 689](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151920/#LEGISCTA000006151920)(infractions commises hors du territoire)
+* [Article 693](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279364)(La juridiction compétente est celle du lieu où réside le prévenu)
+### <a id="cp"></a>Pénal:
+* Article 113-7 (crime commis c. un Français hors du territoire)
+* [Article 221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417561/) (donner volontairement la mort...)
+* [Article 221-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033975336/) (est l'auteur de l'infraction...)
+#### <a id="cja"></a>Justice administrative
+* [Article L. 82201](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449407/) (procédure préalable d'admission)
+* [Article R. 222-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038114668) (attribution des présidents)
+#### <a id="csp"></a>Santé publique
+* Article L. 1111-7
+> Toute personne a accès à l'ensemble des informations concernant sa santé détenues par des professionnels de santé
+
+## Justiciable
+* [Droits des justiciables en cas de faute lourde](https://www.vie-publique.fr/fiches/38069-les-droits-des-justiciables-en-cas-de-dysfonctionnement-de-la-justice)
+* [Saisine directe du Conseil Supérieur de la Magistrature](http://www.conseil-superieur-magistrature.fr/requetes-des-justiciables)
+
+## <a id="cedh"></a>Cour Européenne des Droits de l'Homme
+* [Requête — Guide pratique](https://echr.coe.int/Documents/Admissibility_guide_FRA.pdf)
+
+## <a id="onu"></a> [Nations Unies](https://www.ohchr.org/fr/hr-bodies/hrc/about-council)
+* [Procédure de requête devant le Conseil des Droits de l'Homme](https://www.ohchr.org/fr/hr-bodies/hrc/complaint-procedure/hrc-complaint-procedure-index)
+* [Traités ratifiés par la France](https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/countries.aspx?CountryCode=FRA&Lang=FR)
+
+## <a id="ue"></a>Union Européenne
+* [Porter plainte](https://ec.europa.eu/info/about-european-commission/contact/problems-and-complaints/complaints-about-breaches-eu-law/how-make-complaint-eu-level_fr) 
+* [Discrimination](https://fra.europa.eu/sites/default/files/fra_uploads/1510-FRA-CASE-LAW-HANDBOOK_FR.pdf) 
+    <details><summary><a id="UEdiscrim"></a>Extrait</summary> 
+        
+        * Tant le droit de l’UE que la CEDH garantissent une protection contre la discrimination en Europe. Bien que ces deux systèmes juridiques soient, dans une large mesure, complémentaires et qu’ils se renforcent mutuellement, ils présentent aussi certaines divergences dont les professionnels du droit doivent être conscients.
+        * La CEDH protège tous les individus relevant de la juridiction des 47 États membres qui l’ont ratifiée, alors que les Directives de l’UE relatives àla non-discrimination protègent uniquement les ressortissants des 27 États membres.
+        * L’article 14 de la CEDH n’interdit la discrimination que pour autant qu’elle se rattache à l’exercice d’un autre droit garanti par la Convention, tandis que le Protocole n° 12 confère à l’interdiction de la discrimination un caractère autonome. 
+        * En vertu du droit de l’UE en matière de non-discrimination, l’interdiction de la discrimination est autonome, mais elle se limite àcertains domaines particuliers, tels que l’emploi.
+        * Les institutions de l’UE sont juridiquement tenues d’observer la Charte des droits fondamentaux de l’Union européenne, ycompris ses dispositions sur la non-discrimination. Les États membres de l’UE doivent aussi respecter les dispositions de la Charte lorsqu’ils transposent et appliquent le droit de l’UE.
+        * L’UE va adhérer àla CPDH et àla CEDH. L’Union sera placée sous la supervision d’organes de contrôle externes, et les particuliers pourront saisir directement la CouEDH d’une plainte pour violation alléguée de la Convention par l’UE.
+        </details>
+* <a id="UElda"></a> [Directive sur les lanceurs d'alerte](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L1937&from=EN)
+
+<!--
 
 ---
 Photo: [CE](attrib.md#contentieux)
+
+-->

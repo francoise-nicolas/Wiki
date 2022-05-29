@@ -16,13 +16,25 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ### Mis en avant
 #### Autre
-* [Charte](./pages/autre-charte.md)
 * [Contribuer](./pages/autre-contrib.md)
 * [Donn€r](./pages/autre-don.md)
 #### Françoise NICOLAS
-* [À propos🇫🇷](./pages/nicolas-apropos.md)
-* [About🇬🇧](./pages/nicolas-about.md)
-* [Litiges](./pages/nicolas-litiges.md)
+* [✍À propos🇫🇷](./pages/nicolas-apropos.md)
+* [✍About🇬🇧](./pages/nicolas-about.md)
+* [🏛Audition φ sur les LDA](https://videos.assemblee-nationale.fr/video.11564277_619e4378170dc.dysfonctionnements-de-la-justice-et-de-la-police-dans-l-affaire-dite-sarah-halimi--auditions-divers-24-novembre-2021)
+* [⚖Caisse noire](./nicolas-caissen.md)
+* [⚖Dossier administratif](./nicolas-dossadmin.md)
+* [⚖Faits](./nicolas-faits.md)
+* [⚖Indemnité](./nicolas-indemnite.md)
+* [✍Jeux d'apparences](./pages/nicolas-japp.md)
+* [⚖Mutation](./nicolas-mutation.md)
+* [⚖Plainte c. APLOGAN](./nicolas-aplogan.md)
+* [⚖Plainte de BESANCENOT](./nicolas-besanc.md)
+* [⚖Protection fonctionnelle](./nicolas-pf.md)
+* [🏛QAG no. 32447](./nicolas-qag-32447.md)
+* [⚖Radiation](./nicolas-radiation.md)
+* [🏛Signalement DRL](./nicolas-drl.md)
+* [🏛Signalement DG JUST](./nicolas-ue.md)
 
 ### <a id="voiraussi"></a>🌐
 * [Twitter](https://twitter.com/FranoiseNicolas)
