@@ -5,7 +5,7 @@
 * [Appel aux dons](./nicolas-don.md)
 * [Faits](./nicolas-faits.md)
 * [Activisme](./nicolas-activ.md)
-* [Litiges](./nicolas-media.md)
+* [Litiges](./nicolas-litiges.md)
 * [Médias](./nicolas-medias.md)
 * [Opinion](./nicolas-opinion.md)
 ### <a id="www"></a>🌐

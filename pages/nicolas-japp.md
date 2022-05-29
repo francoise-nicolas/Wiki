@@ -1,12 +1,12 @@
 ![img](../_aux/theatr_Commons.png)
-# Affaires et jeu des apparences — Françoise NICOLAS
+# Jeu des apparences, un hommage à Vincent LE COQ — Françoise NICOLAS
 
-La corruption est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: les tribunaux. Parmi celles-ci, le livre de 2017 de de Vincent LE COQ. Mais même dans ce cas, un scandale chassant l'autre—c'est peut-être à ça que sert Médiapart, ça n'est qu'une question de temps avant que l'amnésie l'emporte, dit autrement, que la démocratie retrouve sont point d'équilibre stable: un attrape gogos. 
+La corruption est un genre littéraire à part-entière. Sauf quelques notables exceptions, il y a un angle mort sur ses ressorts: les tribunaux. Parmi celles-ci, [le livre de 2017 de de Vincent LE COQ, «Impunités»](./bib-gen.md#impunites) commençant par ce postulat:  « les magistrats sont dès leur plus jeune âge pénétrés de la conviction que leur mission principale est la préservation de l’ordre établi. » Il poursuit avec  l'hypothèse d'un _jeu des apparences_, médiatico-judiciaires, destiné à masquer le dévoiement généralisé de la justice, l'impunité des politiques en particuliers. Évidemment, il peut y avoir des couacs (l'on songe à l'[affaire Sarah HALIMI](./parl-halimi.md), à développer), mais un scandale chassant l'autre (Médiapart y est pour beaucoup), ça n'est qu'une question de temps avant que l'amnésie l'emporte, dit autrement, que la démocratie retrouve sont point d'équilibre stable: un attrape gogos. D'où la bannière, tirée d'une fresque romaine du 2è siècle ap. J.C. Ci-après, cas d'école.
 
 > Magistrat = les institutions fonctionnent quand un homme politique est condamné.
 > Politique = la démocratie est en danger lorsqu'un homme politique est condamné.
 
-NB: concernant Vincent LECOQ, il existe un [arrêt de la cour de cassation](./pages/bib.md#spinosi) révaleur de sa dangerosité envers l'établissement, et une surprise.
+NB: concernant Vincent LECOQ, il existe un [arrêt de la cour de cassation](./pages/bib-loi.md#spinosi) révaleur.
 
 ## 📁
 ### <a id="elf"></a>Affaire Elf

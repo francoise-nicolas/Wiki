@@ -1,3 +1,4 @@
+![img](anythingtosay_Commons)
 # Françoise NICOLAS — Statut LDA
 
 ## 🗓
@@ -29,3 +30,6 @@
 * [Audition φ sur les lanceurs d'alerte](https://github.com/francoise-nicolas/audition-phi)
 * Jacques TOUBON
 * Claire HÉDON
+
+---
+[Photo](./cewiki-attrib.md#anythingtosay)

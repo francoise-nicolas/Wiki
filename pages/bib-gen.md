@@ -427,7 +427,7 @@
 * <a id="louvelache"></a> [✍Bertrand LOUVEL, 1er président magistrat de France « un président ne devrait pas dire ça » (lâches)](https://www.courdecassation.fr/toutes-les-actualites/2016/10/13/un-president-ne-devrait-pas-dire-ca)
 
 <!-- 2017 -->
-* <a id="lecoq2017justice"></a>[🕮Vincent LE COQ : Impunités: justice à deux vitesses](https://www.nouveau-monde.net/catalogue/impunites/)
+* <a id="impunites"></a>[🕮Vincent LE COQ : Impunités: justice à deux vitesses](https://www.nouveau-monde.net/catalogue/impunites/)
 
     <details>
       <summary><a id="nullement"></a>Les magistrats sont de simples exécutants</summary>

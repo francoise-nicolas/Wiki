@@ -1,10 +1,10 @@
 ![img](../_aux/SHdeni_Commons.png)
 # Sarah HALIMI — Commission d'enquête
 
-## Rapports
+## Rapport
 
-## Auditions
-### [2021-11-24](https://videos.assemblee-nationale.fr/video.11564277_619e4378170dc.dysfonctionnements-de-la-justice-et-de-la-police-dans-l-affaire-dite-sarah-halimi--auditions-divers-24-novembre-2021)
+## Audition
+### <a id="a20211124"></a> [2021-11-24](https://videos.assemblee-nationale.fr/video.11564277_619e4378170dc.dysfonctionnements-de-la-justice-et-de-la-police-dans-l-affaire-dite-sarah-halimi--auditions-divers-24-novembre-2021)
 * De Mme Anne IHUELLOU, magistrat, vice-présidente de l’instruction
     
 <details><summary>Verbatim 🚧</summary>
@@ -153,7 +153,7 @@ L: L'importance de cette question. LA loi ne distingue pas selon la religion. So
 Habib: il a été choqué.
 </details>
     
-#### Mme Julie PÉTRÉ, magistrat 
+* Mme Julie PÉTRÉ, magistrat 
     
 <details><summary>Verbatim 🚧</summary>
 
