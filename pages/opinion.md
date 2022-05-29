@@ -3,11 +3,11 @@
 ## Méthode
 
 * inclusion: exprime une opinion sous forme écrite
-* exclusion: répertorié ailleurs (notamment, [activisme](./activ.md))
 
 ## 📁
 
 ### <a id="nicolas"></a>Françoise NICOLAS
+* [Signalement à DRL](./nicolas-drl.md)
 * [✍Jeux d'apparences](./nicolas-japp.md)
 
 ## Voir aussi
