@@ -1,3 +1,5 @@
+![img](../_aux/HotelMAE_Commons.png)
+
 # [Françoise NICOLAS](fn.md) — Dossier administratif
 
 ## 🗓️
@@ -56,3 +58,6 @@ Article 1er: requête rejetée
 * [2012-09-17 Mémoire complémentaire](../pieces/identifiant/5579e302)
 
 * [2013-02-15 Décision](../pieces/identifiant/fde986c)
+
+---
+[Photo](./cewiki-attrib.md#HotelMAE.md)

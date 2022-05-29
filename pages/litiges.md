@@ -1,3 +1,6 @@
+![img](assises_Commons)
+
+
 # Litiges
 
 ## 📁
@@ -9,3 +12,6 @@
 * <a id="aplogan"></a>[Plainte c. APLOGAN](./nicolas-aplogan.md)
 * <a id="besanc"></a>[Plainte de BESANCENOT](./nicolas-besanc.md)
 * <a id="lda"></a>[Statut LDA](./nicolas-lda.md)
+
+---
+[Photo](./cewiki-attrib.md#assises)

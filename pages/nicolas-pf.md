@@ -1,3 +1,5 @@
+![img](../_aux/HotelMAE_Commons.png)
+
 # Protection fonctionnelle
 
 [service-public.fr:](https://www.service-public.fr/particuliers/vosdroits/F32574)
@@ -191,3 +193,6 @@ le bénéfice de la protection fonctionnelle, le ministre de l’Europe et des a
 le 14 janvier 2010 à l’ambassade de France à Cotonou est annulée.
 * Article 2 : Il est enjoint au ministre de l’Europe et des affaires étrangères d’accorder à Mme NICOLAS le bénéfice de la protection fonctionnelle pour les faits survenus le 14 janvier 2010 à l’ambassade de France à Cotonou et ce, dans le délai de deux mois à compter de la notification du présent jugement.
 </details>
+
+---
+[Photo](./cewiki-attrib.md#HotelMAE.md)

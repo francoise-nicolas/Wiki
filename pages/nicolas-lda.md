@@ -1,4 +1,4 @@
-![img](anythingtosay_Commons)
+![img](../_aux/anythingtosay_Commons)
 # Françoise NICOLAS — Statut LDA
 
 ## 🗓

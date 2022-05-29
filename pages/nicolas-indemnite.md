@@ -1,3 +1,4 @@
+![img](../_aux/HotelMAE_Commons.png)
 # [Françoise NICOLAS](fn.md) — Indemnité
 
 Contestation du [rejet implicite du MAE](nicolas-faits.md#indemnrejet) du 2010-12-15 de recours indemnitaire présenté le 2010-10-11.
@@ -40,3 +41,5 @@ Contestation du [rejet implicite du MAE](nicolas-faits.md#indemnrejet) du 2010-1
 ### Requête devant le TA de Paris
 * 2010-03-31 Saisine
 
+---
+[Photo](./cewiki-attrib.md#HotelMAE.md)

@@ -1,5 +1,5 @@
 ![image](../_aux/blinken_Commons.png)
-# Département d’état🇺🇸
+# Département d’état
 
 ## Contexte
 
@@ -117,7 +117,8 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     > tive 2019/1937 provides for whistleblower protection that already existed in France
     > under law Sapin 2. Sylvain Waserman is the sponsor of bill n o 4398 of the National
     > Assembly, transposing this directive, and well aware of my case 5 . It grants extended
-    > powers to the ombudsman. On 12/03/2021, I notified the EU-Whistleblowers unit under Justice commissioner Didier Reynders, of my disillusion with this entity.
+    > powers to the ombudsman. On 12/03/2021, 
+    > I notified the EU-Whistleblowers unit under Justice commissioner Didier Reynders, of my disillusion with this entity.
     > 
     > In 2019, an influential newspaper, Libération, published a fact-check of my story[5].
     > Here again, half truths. The article begins by saying the attacker and me are on an
@@ -134,43 +135,39 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     > 
     > 3
     > Bibliograhy
-    > [1] Le juge se masturbe en pleine audience–France 2. French. 2014. url: https:
-    > / / www . dhnet . be / video / le - juge - se - masturbe - en - pleine - audience -
-    > 5469da7c3570dd3441dc5e66.
+    > [1] Le juge se masturbe en pleine audience–France 2. French. 2014. 
     > [2] Nadya Saidi and Antoine Fontaine. Les justiciables face au service public de la
     > justice; états des lieux, diagnostic des dysfonctionnements. French. Jean Lassalle,
     > 2014.
     > [3] Vincent Le Coq. Projets publics, intérêts privés: Une mobilisation citoyenne pour
     > refuser l’arbitraire. French. Libre solidaire, 2018.
     > [4] @FranoiseNicolas. French. Comme je l’ai dit hier, l’article de Libération n’est
-    > pas exact. Apr. 2019. url: https://twitter.com/FranoiseNicolas/status/
-    > 1115997608533737475?s=20%5C&t=AkokPPwRGZ09b2bCUlgMaQ.
+    > pas exact. Apr. 2019. 
     > [5] Jacques Pezet. “CheckNews: De quoi Françoise Nicolas, ex-fonctionnaire aux
     > Affaires étrangères, accuse-t-elle Nathalie Loiseau ?” French. In: Libération (Apr.
     > 2019).
     > [6] Ugo Bernalicis. Audition φ - Lanceurs d’alerte dans la fonction publique. French.
-    > 2020. url: https://www.youtube.com/watch?v=DoOaueNhnjc.
+    > 2020. 
     > [7] Sylvain Mouillard and Philippine Kauffmann. “Jacques Toubon : fin de mandat
     > d’un Défenseur inespéré”. French. In: Libération (June 2020).
     > 
     > [8] @laurentbigfr. French. j’étais sous-directeur au Quai d’Orsay au moment des
-    > faits. Je ne comprends pas . . . Mar. 2021. url: https : / / twitter . com /
-    > laurentbigfr/status/1372118824355528706?s=20%5C&t=BNruTwGmqNeSVuu7bt59_
+    > faits. Je ne comprends pas . . . Mar. 2021. 
     > Q.
     > [9] Pierre Bienvault. “Des magistrats et un préfet de police accusés de “faux té-
     > moignages””. French. In: La Croix (Jan. 2021).
     > 
     > 4
     > Attached
-    > 1. Identification . . . . . . . . . . . . . . . . . . . . . . . .
-    > Ministry of Foreign Affairs . . . . . . . . . . . . . . .
-    > 2. Diplomatic cable dated 01/11/2008 (overseas posting) .
-    > 3. Diplomatic cable dated 02/03/2010 (repatriation) . . .
-    > Criminal proceeding . . . . . . . . . . . . . . . . . . .
-    > 4. Ruling dated 02/28/2020 . . . . . . . . . . . . . . . . .
-    > “Protection fonctionelle” . . . . . . . . . . . . . . . .
-    > 5. Ruling n o 1805251 dated 10/26/2021 . . . . . . . . . . .
-    > Ombudsman . . . . . . . . . . . . . . . . . . . . . . . .
+    > 1. Identification . . . . . . . . . . . . . . . . . . . . . . . . 
+    > Ministry of Foreign Affairs . . . . . . . . . . . . . . . 
+    > 2. Diplomatic cable dated 01/11/2008 (overseas posting) . 
+    > 3. Diplomatic cable dated 02/03/2010 (repatriation) . . . 
+    > Criminal proceeding . . . . . . . . . . . . . . . . . . . 
+    > 4. Ruling dated 02/28/2020 . . . . . . . . . . . . . . . . . 
+    > “Protection fonctionelle” . . . . . . . . . . . . . . . . 
+    > 5. Ruling n o 1805251 dated 10/26/2021 . . . . . . . . . . . 
+    > Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . 
     > 6. Follow up to a new demand for whistleblower status, on 08/11/2021
 
 * 2022-05-15

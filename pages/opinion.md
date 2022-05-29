@@ -1,8 +1,10 @@
+![img](freespeech_Commons.png)
+
 # Opinion
 
 ## Méthode
 
-* inclusion: exprime une opinion sous forme écrite
+* inclusion: opinion sous forme écrite
 
 ## 📁
 
@@ -12,3 +14,6 @@
 
 ## Voir aussi
 * [Activisme](./activ.md)
+
+---
+[Photo](./cewiki-attrib.md#freespeech)
