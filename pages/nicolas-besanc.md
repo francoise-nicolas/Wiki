@@ -9,4 +9,4 @@
 * [2018-09-25 — 17è chambre — Décision](../pieces/identifiant/d506a5d7)
 
 ---
-[Photo](./attrib.md#toubonbesanc)
+[Photo](./gestion-attrib.md)#toubonbesanc)

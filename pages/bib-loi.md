@@ -371,4 +371,4 @@
         </details>
 * <a id="UElda"></a> [Directive sur les lanceurs d'alerte](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L1937&from=EN)
 
-[Photo](attrib.md#VeR)
+[Photo](./gestion-attrib.md#VeR)

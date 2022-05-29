@@ -32,4 +32,4 @@
 * [2010-01-18 Conseil National des Rois du Bénin — Protestation](../pieces/identifiant/1bcfebde)
 
 ---
-[Photo](attrib.md#scac)
+[Photo](./gestion-attrib.md#scac)

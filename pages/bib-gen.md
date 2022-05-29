@@ -1953,4 +1953,4 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * [Le blog « Déni de justice, pour une réforme de la justice »](https://denidejustice.wordpress.com/)
 
 ---
-[Photo](attrib.md#bnf)
+[Photo](./gestion-attrib.md#bnf)

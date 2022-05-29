@@ -21,4 +21,4 @@ Saisine de DG Justice & Consommateurs sur la directive LDA
     </details>
 
 ---
-[Photo](attrib.md#berlay)
+[Photo](./gestion-attrib.md#berlay)

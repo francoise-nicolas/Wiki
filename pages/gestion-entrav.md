@@ -4,7 +4,7 @@
 |Fichier                                 |ligne| code                                   |
 |----------------------------------------|-----|----------------------------------------|
 |[../pages/breteau.md](../pages/breteau.md)|21|`<details><summary> 🚧 </summary>`|
-|[../pages/attrib.md](../pages/attrib.md)|5|`<details><summary>🚧</summary>`|
+|[../pages/gestion-attrib.md)](../pages/gestion-attrib.md))|5|`<details><summary>🚧</summary>`|
 |[../pages/elf.md](../pages/elf.md)|74|`<details><summary>Verbatim 🚧 </summary>`|
 |[../pages/elf.md](../pages/elf.md)|347|`<details><summary>00:00:00 🚧</summary>`|
 |[../pages/elf.md](../pages/elf.md)|396|`<details><summary>🚧 </summary>`|
