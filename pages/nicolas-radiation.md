@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/HotelMAE_Commons.png)
+![image-mise-en-avant](../_aux/contentieux_Commons.png)
 
 # [Françoise NICOLAS](fn.md) — Radiation de la fonction publique
 
@@ -254,4 +254,4 @@ EN ATTENTE
 ### [Professionel & médical](faits.md)
 
 ---
-[Photo](./cewiki-attrib.md#HotelMAE)
+[Photo](./cewiki-attrib.md#contentieux)

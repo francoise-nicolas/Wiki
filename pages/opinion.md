@@ -1,4 +1,4 @@
-![img](freespeech_Commons.png)
+![img](../_aux/freespeech_Commons.png)
 
 # Opinion
 
