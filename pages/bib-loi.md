@@ -1,5 +1,5 @@
 ![img](../_aux/VeR_Commons.png)
-# Loi
+# [Bibliographie](./bib.md) — La loi
 
 ## 🗓
 
