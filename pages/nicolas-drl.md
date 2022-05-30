@@ -162,7 +162,7 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     > 1. Identification . . . . . . . . . . . . . . . . . . . . . . . .\
     > Ministry of Foreign Affairs . . . . . . . . . . . . . . .
     > 2. Diplomatic cable dated 01/11/2008 (overseas posting) .
-    > 3. Diplomatic cable dated 02/03/2010 (repatriation) . . .
+    > 3. Diplomatic cable dated 02/03/2010 (repatriation) . . .\
     > Criminal proceeding . . . . . . . . . . . . . . . . . . .
     > 4. Ruling dated 02/28/2020 . . . . . . . . . . . . . . . . .
     > “Protection fonctionelle” . . . . . . . . . . . . . . . .
