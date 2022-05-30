@@ -1,4 +1,4 @@
-![img](../_aux/contentieux_Commons.png)
+![img](../_aux/HotelMAE_Commons.png)
 # [Françoise NICOLAS](fn.md) — Mutation
 
 Contestation de la décision du MAE du [2010-06-21](nicolas-faits.md#mutation).
@@ -38,8 +38,5 @@ Contestation de la décision du MAE du [2010-06-21](nicolas-faits.md#mutation).
     
     </details>
 
-## Voir aussi
-* [Litiges](../README.md#faits)
-
 ---
-[Photo](./cewiki-attrib.md#contentieux)
+[Photo](./cewiki-attrib.md#HotelMAE)

@@ -1,5 +1,4 @@
-![img](../_aux/assises_Commons.png)
-
+<!-- ![img](../_aux/assises_Commons.png) -->
 
 # Litiges
 
@@ -11,7 +10,10 @@
 * <a id="mutation"></a>[Mutation](./nicolas-mutation.md)
 * <a id="aplogan"></a>[Plainte c. APLOGAN](./nicolas-aplogan.md)
 * <a id="besanc"></a>[Plainte de BESANCENOT](./nicolas-besanc.md)
+* <a id="radiation"></a>[Plainte de BESANCENOT](./nicolas-radiation.md)
 * <a id="lda"></a>[Statut LDA](./nicolas-lda.md)
 
+<!--
 ---
 [Photo](./cewiki-attrib.md#assises)
+-->

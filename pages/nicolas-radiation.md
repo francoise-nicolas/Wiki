@@ -249,9 +249,5 @@ EN ATTENTE
 ### Code des pensions civiles et militaires
 * Article R. 49 bis: la décision d'admission à la retraite...
 
-## Voir aussi
-### [Mutation](mutation.md)
-### [Professionel & médical](faits.md)
-
 ---
 [Photo](./cewiki-attrib.md#contentieux)
