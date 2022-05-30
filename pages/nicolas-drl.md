@@ -21,7 +21,8 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     * [State DLR - dépôt](../pieces/identifiant/8fefd21f)
     </details>
     
-    * Letter
+    <details>
+      <summary>Letter</summary>
     
     > 02/01/2022
     > 
@@ -53,9 +54,11 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     > Executive Director, Amnesty International USA, Paul O’Brien; 
     > Executive Director, Human Rights Watch, Paris branch, Kenneth Roth; 
     > Co-chair, Tom Lantos Human Rights Commission, Hon. Christopher H. Smith.
+    </details>
 
-    * Memoir
-
+    <details>
+      <summary>Memoir</summary>
+    
     > 1 Authorship
     > 
     > I am Françoise Nicolas, born in 1961 in Saint-Malo, France, ex-diplomat turned whistleblower, residing in Nantes. 
@@ -169,6 +172,7 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     > 5. Ruling n o 1805251 dated 10/26/2021 . . . . . . . . . . .\
     > Ombudsman . . . . . . . . . . . . . . . . . . . . . . . .
     > 6. Follow up to a new demand for whistleblower status, on 08/11/2021
+    </details>
 
 * 2022-05-15
     <details>
