@@ -67,8 +67,10 @@
 <!-- 2022-04-02 -->
 * <a id="kupers">[🗣Souffrance au travail; on lâche rien. — Daniel KUPFERSTEIN avec ASD-PRO](https://www.daniel-kupferstein.com/8-documentaires/261-souffrance-au-travail-on-lache-rien?ml=1)
     <details><summary>Diffusion</summary>
-    
-    * [Angers, les 400 coups](https://www.les400coups.org/mobile/prochainement.php?film=21060)
+        
+    * Paris le 29 juin, cinéma Saint-André-des-Arts
+    * [Angers le 14 juin, cinéma Les 400 Coups](https://www.les400coups.org/mobile/prochainement.php?film=21060)
+    * Sète le 16 juin, cinéma Le Coemedia
     </detais>
 
 <!-- 2022-04-26 --> 

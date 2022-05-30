@@ -1,8 +1,20 @@
 # Attribution
 
+## Autorisation
+
+* [Lucas Tiefenthaler](https://www.lucastiefenthaler.com) pour 'Anything to Say' 
+   <details><summary>Info</details>
+   
+   * Date: 2021-05-30
+   * Photo: [Anything to say](http://www.anythingtosay.com/images/foto.jpg), en [remplacement de la version Creative Commons existante](./nicolas-lda.md)
+   * Statut: en attente
+   </details>
+
+## Photos
+
 Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas dans les [pages](../pages)
 
-## Wikimedia Commons
+### Wikimedia Commons
 
 * <a id="contentieux"></a> [Conseil d'État, salle du contentieux (Journées du Patrimoine 2009)](https://commons.wikimedia.org/wiki/File:Conseil_d%27%C3%89tat_salle_du_contentieux.jpg)
 
@@ -36,7 +48,7 @@ Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas dans l
 
 * <a id="bnf"></a>[Bibliothèque nationale de France, site Richelieu, salle ovale.](https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France#/media/Fichier:France,_Paris,_Biblioth%C3%A8que_nationale_de_France,_site_Richelieu,_salle_ovale.jpg)
 
-## Autre
+### Autre
 
 * <a id="scac"></a> [Équipe du SCAC](https://bj.ambafrance.org/Le-service-de-cooperation-et-d-action-culturelle), 2010
 
