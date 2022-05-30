@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 # ----------------------------------------------
 # identifiant.sh
-# Copyright (2022) Françoise Nicolas
+# Copyright (2022) @lawfare
 # GPL v3.0
 # Repository: github.com/francoise-nicolas/Wiki
 # ----------------------------------------------

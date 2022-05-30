@@ -1,9 +1,9 @@
 #! /usr/bin/env bash
 # ----------------------------------------------
 # label.sh
-# Copyright (2022) Françoise Nicolas
+# Copyright (2022) @lawfare
 # GPL v3.0
-# Repository: github.com/francoise-nicolas/wiki
+# Repository: github.com/lawfare/wiki
 # ----------------------------------------------
 
 help()
