@@ -28,14 +28,28 @@
 
 ```
 #### <a id="loremipsum"></a>Lorem Ipsum
-.
-.
-.
-.
-.
+Sapiente in non dolores est voluptas atque officiis. 
+Optio voluptatem enim ea facilis. 
+Eveniet saepe blanditiis aliquam omnis corporis fuga eligendi. 
+Officia sunt soluta voluptatum animi eos ut. 
+Architecto corrupti fuga animi.…
+
 En référence à [Lorem Ipsum](#loremipsum), ...
 ```
 </details>
+
+<details><summary> Rendu </summary>
+
+#### <a id="loremipsum"></a>Lorem Ipsum
+Sapiente in non dolores est voluptas atque officiis. 
+Optio voluptatem enim ea facilis. 
+Eveniet saepe blanditiis aliquam omnis corporis fuga eligendi. 
+Officia sunt soluta voluptatum animi eos ut. 
+Architecto corrupti fuga animi.…
+
+En référence à [Lorem Ipsum](#loremipsum), ...
+</details>
+
 
 ## Dépliant
 <details><summary> Source </summary>
