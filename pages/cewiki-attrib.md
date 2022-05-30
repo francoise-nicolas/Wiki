@@ -59,6 +59,8 @@ Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas dans l
 
 * <a id="jaccuse"></a>["J'accuse", page de couverture du journal L’Aurore, publiant la lettre d’Emile Zola au Président de la République, M. Félix Faure à propos de l’Affaire Dreyfus.](https://commons.wikimedia.org/wiki/File:%22J%27accuse...!%22,_page_de_couverture_du_journal_l%E2%80%99Aurore,_publiant_la_lettre_d%E2%80%99Emile_Zola_au_Pr%C3%A9sident_de_la_R%C3%A9publique,_M._F%C3%A9lix_Faure_%C3%A0_propos_de_l%E2%80%99Affaire_Dreyfus.jpg)
 
+* <a id="Bourbon"></a>[Genevièvre Fioraso presente le projet de loi relatif a l'enseignement supérieur et à la recherche à l'Assemblée Nationale](https://commons.wikimedia.org/wiki/File:Examen_du_projet_de_loi_sur_l%27enseignement_sup%C3%A9rieur_et_la_recherche_%C3%A0_l%27Assembl%C3%A9e_Nationale_2.jpg)
+
 ### Autre
 
 * <a id="scac"></a> [Équipe du SCAC](https://bj.ambafrance.org/Le-service-de-cooperation-et-d-action-culturelle), 2010
