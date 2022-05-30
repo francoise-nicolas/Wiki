@@ -5,8 +5,8 @@
 
 ### 1981-1988
 
-
-* <!-- 1987-04-01--><a id="suleim1979"></a>[🕮Ezra N. Suleiman: "Elites in French Society: The Politics of Survival"](https://www.jstor.org/stable/j.ctt13x1dw8)
+<!-- 1987-04-01-->
+* <a id="suleim1979"></a>[🕮Ezra N. Suleiman: "Elites in French Society: The Politics of Survival"](https://www.jstor.org/stable/j.ctt13x1dw8)
 
 <details><summary>Traduction 1</summary>
 
@@ -1654,7 +1654,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 ### 2017-2022
 
-<!-- 2017-12-16 --> <a id="FIdeposs"></a>[📰France Inter: Les dépossédés, enquête sur la mafia des tutelles, de Valérie Labrousse](https://www.franceinter.fr/oeuvres/les-depossedes-enquete-sur-la-mafia-des-tutelles-de-valerie-labrousse)
+* <!-- 2017-12-16 --> <a id="FIdeposs"></a>[📰France Inter: Les dépossédés, enquête sur la mafia des tutelles, de Valérie Labrousse](https://www.franceinter.fr/oeuvres/les-depossedes-enquete-sur-la-mafia-des-tutelles-de-valerie-labrousse)
 
 <!-- 2018-06-02 -->
 * <a id="csm2017"></a>[🏛️Conseil Supérieur de la Magistrature—rapport d'activité de 2017](http://www.conseil-superieur-magistrature.fr/publications/rapports-annuels-dactivite/rapport-annuel-dactivite-2017)
@@ -1957,28 +1957,18 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
    
    </details>
 
-<!-- 2022-02-03 -->
-* <a id="quiveutlapeau"></a>[🗣Qui Veut La Peau de Françoise NICOLAS ? — Charles LACROIX](https://www.youtube.com/watch?v=cOagKQBZJ78)
-
 <!-- 2022-02-18 -->
 * <a id="elina2022conseil"></a> [✍Le Monde : pour un contrôle véritable des candidatures au Conseil constitutionnel](https://www.lemonde.fr/idees/article/2022/02/18/pour-un-controle-veritable-des-candidatures-au-conseil-constitutionnel_6114194_3232.html)
 
     > Alors que les noms de Jacqueline GOURAULT, Véronique MALBEC et François SENERS viennent d’être proposés pour rejoindre l’institution, la juriste Elina LEMAIRE appelle le Parlement à vérifier les compétences juridiques et l’exemplarité des candidats.
 
-<!-- 2022-04-02 -->
-* <a id="kupers">[🗣Souffrance au travail; on lâche rien. — Daniel KUPFERSTEIN avec ASD-PRO](https://www.daniel-kupferstein.com/8-documentaires/261-souffrance-au-travail-on-lache-rien?ml=1)
-    <details><summary>Diffusion</summary>
-    
-    * [Angers, les 400 coups](https://www.les400coups.org/mobile/prochainement.php?film=21060)
-    </detais>
-    
-<!-- 2022-05-16 -->
-* <a id="jac-K">[🗣Françoise Nicolas, une lanceuse d'alerte dans la Fonction publique d'Etat — Canal JAC-K](https://www.youtube.com/watch?v=Q0k5mT60Fqw)
-
 
 ## 🌐
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
 * [Le blog « Déni de justice, pour une réforme de la justice »](https://denidejustice.wordpress.com/)
+
+## Voir aussi
+* [NICOLAS dans les médias](./nicolas-medias.md)
 
 ---
 [Photo](./cewiki-attrib.md#bnf)
