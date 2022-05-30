@@ -164,9 +164,9 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     > 2. Diplomatic cable dated 01/11/2008 (overseas posting) .
     > 3. Diplomatic cable dated 02/03/2010 (repatriation) . . .\
     > Criminal proceeding . . . . . . . . . . . . . . . . . . .
-    > 4. Ruling dated 02/28/2020 . . . . . . . . . . . . . . . . .
+    > 4. Ruling dated 02/28/2020 . . . . . . . . . . . . . . . . .\
     > “Protection fonctionelle” . . . . . . . . . . . . . . . .
-    > 5. Ruling n o 1805251 dated 10/26/2021 . . . . . . . . . . .
+    > 5. Ruling n o 1805251 dated 10/26/2021 . . . . . . . . . . .\
     > Ombudsman . . . . . . . . . . . . . . . . . . . . . . . .
     > 6. Follow up to a new demand for whistleblower status, on 08/11/2021
 
