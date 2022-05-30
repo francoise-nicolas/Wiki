@@ -1657,17 +1657,6 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 <!-- 2017-12-16 -->
 * <a id="FIdeposs"></a>[📰France Inter: Les dépossédés, enquête sur la mafia des tutelles, de Valérie Labrousse](https://www.franceinter.fr/oeuvres/les-depossedes-enquete-sur-la-mafia-des-tutelles-de-valerie-labrousse)
 
-<!-- 2018-06-02 -->
-* <a id="csm2017"></a>[🏛️Conseil Supérieur de la Magistrature—rapport d'activité de 2017](http://www.conseil-superieur-magistrature.fr/publications/rapports-annuels-dactivite/rapport-annuel-dactivite-2017)
-
-    <details>
-      <summary>Sur les 230 décisions rendues par les commissions...</summary>
-    
-    > Sur les 230 décisions rendues par les commissions [d'admission des requêtes], 163 plaintes ont été considérées comme manifestement irrecevables<!-- (magistrat mis en cause toujours saisi, dépassement du délai d’un an au terme de la procédure, absence d’élément permettant l’identification de la procédure, contestation de la décision sans remettre en cause le comportement du magistrat...) --> et 65 manifestement infondées.
-    > Le constat peut être fait une nouvelle fois que, en dépit des informations exhaustives figurant sur le site internet du Conseil, des précisions apportées dans les échanges de courriers, de courriels ou téléphoniques, les justiciables saisissant les commissions <!-- persistent à inscrire leur démarche dans une contestation des décisions rendues. Ils utilisent celle-ci--> comme une nouvelle voie de recours, plutôt que de mettre en évidence un comportement susceptible de constituer une faute disciplinaire. 
-    > Il faut rappeler ici que les rédacteurs de ces plaintes sont très rarement assistés d’un avocat.
-    </details>
-
 <!-- 2018-01-01
 <!--
 

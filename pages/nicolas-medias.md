@@ -1,8 +1,7 @@
 ![img](../_aux/lemediatv.png)
-# Françoise NICOLAS — Bibliographie
+# Françoise NICOLAS — Médias
 
 ## 🗓
-
 
 ### 2007-2012
 
