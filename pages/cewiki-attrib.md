@@ -2,6 +2,15 @@
 
 ## Autorisation
 
+* Marc-Chaumeil via Jacques Pezet pour 'Anything to Say' pour [Rencontre LDA](#marc-chaumeil)
+   <details><summary>Info</details>
+   
+   * Date: 2021-05-20
+   * Photo: [Rencontre LDA](#marc-chaumeil)
+   * Statut: en attente
+   </details>
+
+
 * [Lucas Tiefenthaler](https://www.lucastiefenthaler.com) pour 'Anything to Say' 
    <details><summary>Info</details>
    
@@ -47,6 +56,8 @@ Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas dans l
 * <a id="theatr"></a> [Theatrical masks of Tragedy and Comedy. Mosaic, Roman mosaic, 2nd century AD](https://en.wikipedia.org/wiki/Mask#/media/File:Mosaic_of_the_theatrical_masks_-_Google_Art_Project.jpg)
 
 * <a id="bnf"></a>[Bibliothèque nationale de France, site Richelieu, salle ovale.](https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France#/media/Fichier:France,_Paris,_Biblioth%C3%A8que_nationale_de_France,_site_Richelieu,_salle_ovale.jpg)
+
+* <a id="jaccuse"></a>["J'accuse", page de couverture du journal L’Aurore, publiant la lettre d’Emile Zola au Président de la République, M. Félix Faure à propos de l’Affaire Dreyfus.](https://commons.wikimedia.org/wiki/File:%22J%27accuse...!%22,_page_de_couverture_du_journal_l%E2%80%99Aurore,_publiant_la_lettre_d%E2%80%99Emile_Zola_au_Pr%C3%A9sident_de_la_R%C3%A9publique,_M._F%C3%A9lix_Faure_%C3%A0_propos_de_l%E2%80%99Affaire_Dreyfus.jpg)
 
 ### Autre
 

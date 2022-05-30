@@ -1,4 +1,9 @@
+<!--
 ![img](../_aux/freespeech_Commons.png)
+-->
+
+![img](../_aux/jaccuse_Commons.png)
+
 
 # Opinion
 
@@ -15,4 +20,8 @@
 -->
 
 ---
+[Photo](./cewiki-attrib.md#jaccuse)
+
+<!--
 [Photo](./cewiki-attrib.md#freespeech)
+-->

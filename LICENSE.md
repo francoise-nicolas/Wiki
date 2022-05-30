@@ -1,14 +1,13 @@
 # LICENSE
-## [Rédaction](./pages)
 
 Copyright 2022 Françoise NICOLAS
 
-[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.fr)
+* Avertissement: les droits d'auteurs suivants sont par défaut, et limités par d'éventuelles exceptions mentionnées à l'endroit où elles se produisent.
 
-## [Pieces](./pieces/identifiant)
+* [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)
+   * Organisation du site
+   * Structure du texte (markdown)
+   * [bibliographie](./bib.md)
 
-Elles appartiennent en intégralité à leur émetteur.
-
-## Code
-
-[GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+* [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+   * Tout le reste

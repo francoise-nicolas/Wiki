@@ -3,7 +3,7 @@
 # crypter.sh
 # Copyright (2022) @lawfare
 # GPL v3.0
-# Repository: github.com/lawfare/wiki
+# Repository: github.com/lawfare/sh
 # ----------------------------------------------
 
 help()
