@@ -1,4 +1,5 @@
-![image](../_aux/asonposte.png)
+![image-mise-en-avant](../_aux/scac2010.png)
+<!--![image](../_aux/asonposte.png)-->
 
 # [Françoise NICOLAS](fn.md) — Faits
 
@@ -552,4 +553,5 @@ Néanmoins, comme l'écrivent la plupart des psychiatres (à l'exception du Dr N
 </details>
 
 ---
-[Photo](./cewiki-attrib.md#asonposte)
+<!--[Photo](./cewiki-attrib.md#asonposte)-->
+[Photo](./cewiki-attrib.md#scac)

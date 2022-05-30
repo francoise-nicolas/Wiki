@@ -1,4 +1,6 @@
-![image-mise-en-avant](../_aux/scac2010.png)
+![image-mise-en-avant](../_aux/assises_Commons.png)
+<!--![image-mise-en-avant](../_aux/scac2010.png)-->
+
 # Plainte c. APLOGAN
 
 ## 🗓️
@@ -32,4 +34,5 @@
 * [2010-01-18 Conseil National des Rois du Bénin — Protestation](../pieces/identifiant/1bcfebde)
 
 ---
-[Photo](./cewiki-attrib.md#scac)
+[Photo](./cewiki-attrib.md#assises)
+<!--[Photo](./cewiki-attrib.md#scac)-->

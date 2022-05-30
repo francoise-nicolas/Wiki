@@ -6,7 +6,7 @@
 ### 1981-1988
 
 
-* <!--1987-04-01--><a id="suleim1979"></a>[🕮Ezra N. Suleiman: "Elites in French Society: The Politics of Survival"](https://www.jstor.org/stable/j.ctt13x1dw8)
+* <!-- 1987-04-01--><a id="suleim1979"></a>[🕮Ezra N. Suleiman: "Elites in French Society: The Politics of Survival"](https://www.jstor.org/stable/j.ctt13x1dw8)
 
 <details><summary>Traduction 1</summary>
 
