@@ -3,19 +3,14 @@
 | Symbol | Signification | 
 |--------|---------------|
 | 🎓 | Académique |
-| ✊ | Activisme |
-| 📢 | Alerte |
 | 🗓️ | Chronologie     |
 | 📁  | Dossier|
 | ⚖  | Droit         | 
-| 🗣️ | Expression orale |
-| 🏛️ | Institutionnel |
+| 🗣️ | Expression |
+| 🏛️ | Institution |
 | 🌐 | Internet |
 | 🕮 | Livre |
-| 📺 | Média |
-| ✍ | Opinion écrite |
 | 📰 | Presse |
 | ↳ | Renvoi |
 | 🚧 | Travaux  |
 | ✍ | Tribune |
-

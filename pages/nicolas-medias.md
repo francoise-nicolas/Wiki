@@ -19,11 +19,13 @@
 <!-- 2016-09-11 -->
 * <a id="huma-2016"></a>[🗣️Fête de l'huma — témoignage de Françoise NICOLAS et Nicolas FAURISSIER](https://t.co/mSMacDdH9t)
 
+<!-- 2017-03-17 -->
+* <a id="bigot"></a>[🗣@laurentbigfr: « J'étais sous-directeur au Quai d'Orsay au moment des faits](../pieces/identifiant/f798501b)
+
 ### 2017-2022
 
 <!-- 2018-04-19 -->
 * <a id="nicolasVA"></a>[📰Valeurs Actuelles: La lanceuse d'alerte qui attaque Nathalie LOISEAU](../pieces/identifiant/ccac26a8)
-
 
 <!-- 2018-10-18 -->
 * <a id="mediacites"></a>[📰Médiacités: la LDA du Quai d'Orday poussée vers la sortie](https://www.mediacites.fr/complement-denquete/nantes/2018/10/18/la-lanceuse-dalerte-du-quai-dorsay-poussee-vers-la-sortie/)
