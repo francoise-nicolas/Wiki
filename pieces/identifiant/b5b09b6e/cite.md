@@ -1,2 +1,2 @@
-[../../composition/en.md](../../composition/en.md)
-[../../composition/fr.md](../../composition/fr.md)
+[../../pages/nicolas-about.md](../../pages/nicolas-about.md)
+[../../pages/nicolas-apropos.md](../../pages/nicolas-apropos.md)

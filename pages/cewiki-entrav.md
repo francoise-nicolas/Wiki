@@ -1,35 +1,33 @@
 # En travaux
-
+## Description
+Dresse l'inventaire des pages contenant '🚧'
 ## Pages
 |Fichier                                 |ligne| code                                   |
 |----------------------------------------|-----|----------------------------------------|
-|[../pages/breteau.md](../pages/breteau.md)|21|`<details><summary> 🚧 </summary>`|
-|[../pages/cewiki-)attrib.md)](../pages/cewiki-)attrib.md))|5|`<details><summary>🚧</summary>`|
-|[../pages/elf.md](../pages/elf.md)|74|`<details><summary>Verbatim 🚧 </summary>`|
-|[../pages/elf.md](../pages/elf.md)|347|`<details><summary>00:00:00 🚧</summary>`|
-|[../pages/elf.md](../pages/elf.md)|396|`<details><summary>🚧 </summary>`|
-|[../pages/elf.md](../pages/elf.md)|404|`<details><summary>🚧 </summary>`|
-|[../pages/jolyboniface.md](../pages/jolyboniface.md)|13|`<details><summary>00:00:00 🚧</summary>`|
-|[../pages/jolyboniface.md](../pages/jolyboniface.md)|52|`<details><summary>00:12:30 🚧</summary>`|
-|[../pages/don.md](../pages/don.md)|14|`<details><summary>🚧</summary>`|
-|[../pages/shalimi.md](../pages/shalimi.md)|18|`<details><summary>Verbatim 🚧</summary>`|
-|[../pages/shalimi.md](../pages/shalimi.md)|166|`<details><summary>Verbatim 🚧</summary>`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|73|`## 2010-01-05 — 🚧 — Certificat médical`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|95|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|98|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|101|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|104|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|107|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|110|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|113|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|116|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|119|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|157|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|160|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|170|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|173|`🚧`|
-|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|176|`🚧`|
-|[../pages/nicolas-radiation.md](../pages/nicolas-radiation.md)|226|`  <summary>VI 🚧 </summary>`|
-|../pages/whoswho.md|20|`🚧`|
-|../pages/whoswho.md|40|`🚧 Cet article mérite t-il d'être cité?`|
-|../pages/whoswho.md|60|`🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|112|`* Cable diplo no. 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|295|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|318|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|395|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|403|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|461|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|535|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|542|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|550|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|563|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|570|`* dossier 🚧`|
+|[../pages/nicolas-faits.md](../pages/nicolas-faits.md)|577|`* dossier 🚧`|
+|[../pages/nicolas-radiation.md](../pages/nicolas-radiation.md)|222|`  <summary>VI 🚧 </summary>`|
+|[../pages/debat-anticor92joly.md](../pages/debat-anticor92joly.md)|11|`🚧`|
+|[../pages/nicolas-dossadmin.md](../pages/nicolas-dossadmin.md)|28|`* [2011-12-🚧 — Mémoire de défense](../pieces/identifiant/1dae248)`|
+|[../pages/nicolas-dossadmin.md](../pages/nicolas-dossadmin.md)|30|`* [2012-02-🚧 — Mémoire en réplique](../pieces/identifiant/4e3f1aaf)`|
+|[../pages/cewiki-signal.md](../pages/cewiki-signal.md)|19|`| 🚧 | Travaux  |`|
+|[../pages/bib-gen.md](../pages/bib-gen.md)|336|`   🚧`|
+|[../pages/bib-gen.md](../pages/bib-gen.md)|1745|`    <details><summary>Verbatim 🚧 </summary>`|
+|[../pages/bib-gen.md](../pages/bib-gen.md)|1888|`    🚧 SOIGNER`|
+|[../pages/bib-gen.md](../pages/bib-gen.md)|1927|`    🚧 COMPLÉTER`|
+|[../pages/debat-halimi.md](../pages/debat-halimi.md)|10|`<details><summary>Verbatim 🚧</summary>`|
+|[../pages/debat-halimi.md](../pages/debat-halimi.md)|158|`<details><summary>Verbatim 🚧</summary>`|
+|[../pages/nicolas-fact.md](../pages/nicolas-fact.md)|5|`* CE / protection fonctionnelle  🚧 `|
+|[../pages/nicolas-fact.md](../pages/nicolas-fact.md)|6|`* CE / radiation  🚧 `|
+|[../pages/nicolas-fact.md](../pages/nicolas-fact.md)|7|`* autre? 🚧 `|
+|[../pages/nicolas-mutation.md](../pages/nicolas-mutation.md)|10|`* [🚧 Mémoire en réplique](../pieces/identifiant/683b557c)`|

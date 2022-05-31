@@ -1,1 +1,1 @@
-[../../composition/nicolas-pf.md](../../composition/nicolas-pf.md)
+[../../pages/nicolas-pf.md](../../pages/nicolas-pf.md)

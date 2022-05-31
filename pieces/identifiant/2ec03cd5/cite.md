@@ -1,1 +1,1 @@
-[../../composition/nicolas-aplogan.md](../../composition/nicolas-aplogan.md)
+[../../pages/nicolas-aplogan.md](../../pages/nicolas-aplogan.md)

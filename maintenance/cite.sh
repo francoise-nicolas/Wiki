@@ -9,7 +9,7 @@
 help()
 {
     printf "%s\n"\
-           "Usage: ./cite.sh" \
+           "Usage: ./cite.sh" cible source\
            "1. MAJ ../pieces/identifiant/*/cite.md"
 }
 
@@ -18,7 +18,13 @@ case ${1} in
     --*) echo "ERREUR: ${1}, option non connue"; exit 1;;
 esac
 
-cible_racine='../pieces/identifiant'
+# cible_racine='../pieces/identifiant'
+
+cible_racine="${1}"
+shift
+
+source_racine="${1}"
+shift
 
 find "${cible_racine}" -type f -name '*md' -print0\
     | grep -vz -e 'README.md' \
@@ -30,7 +36,7 @@ find "${cible_racine}" -type f -name '*md' -print0\
 # Ou sinon:
 #find ../pieces -type f -name 'cible.md' -exec rm {} \;
 
-    find ../composition -type f -size +0 -name '*md' | \
+    find "${source_racine}" -type f -size +0 -name '*md' | \
     while IFS= read -r chem;
     do
         matches=$(grep -E 'pieces/identifiant/[0-9a-z]+' "${chem}" | sort | uniq)

@@ -1,1 +1,1 @@
-[../../composition/nicolas-radiation.md](../../composition/nicolas-radiation.md)
+[../../pages/nicolas-radiation.md](../../pages/nicolas-radiation.md)
