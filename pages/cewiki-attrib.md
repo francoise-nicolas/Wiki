@@ -1,5 +1,6 @@
 # Attribution
 
+<!--
 ## Autorisation
 
 * Marc-Chaumeil via Jacques Pezet pour 'Anything to Say' pour [Rencontre LDA](#marc-chaumeil)
@@ -19,9 +20,11 @@
    * Statut: en attente
    </details>
 
-## Photos
+-->
 
-Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas dans les [pages](../pages)
+## Inventaire
+
+Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas dans les [pages](.)
 
 ### Wikimedia Commons
 
