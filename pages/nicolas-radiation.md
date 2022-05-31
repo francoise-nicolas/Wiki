@@ -241,13 +241,5 @@ EN ATTENTE
 * [piece](../pieces/identifiant/c0b31ebb)
 </details>
 
-## ⚖️
-### Loi du 11 janvier 1984
-* Article 34: Le fonctionnaire en activité a droit...
-### Décret no. 86-442 du 1986-03-14
-* Article 35: Pour obtenir un congé de longue maladie...
-### Code des pensions civiles et militaires
-* Article R. 49 bis: la décision d'admission à la retraite...
-
 ---
 [Photo](./cewiki-attrib.md#contentieux)

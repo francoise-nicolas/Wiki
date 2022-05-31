@@ -10,6 +10,15 @@
     * Article 6 quinquies (harcèlement moral)(abrogé)
     > Les fonctionnaires bénéficient, à l'occasion de leurs fonctions et conformément aux règles fixées par le code pénal et les lois spéciales, d'une protection organisée par la collectivité publique qui les emploie à la date des faits en cause ou des faits ayant été imputés de façon diffamatoire au fonctionnaire. » ; qu’aux termes du troisième alinéa de cet article : « La collectivité publique est tenue de protéger les fonctionnaires contre les menaces, violences, voies de fait, injures, diffamations ou outrages dont ils pourraient être victimes à l'occasion de leurs fonctions, et de réparer, le cas échéant, le préjudice qui en est résulté.
 
+<!-- 1984-01-11-->
+* [⚖Loi du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000501099)
+    * Article 34: Le fonctionnaire en activité a droit...
+
+<!-- 1986-03-14-->
+
+* [Décret no. 86-442 du 1986-03-14 relatif à la désignation des médecins agrées,...](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000884830/)
+    * Article 35: Pour obtenir un congé de longue maladie...
+
 ### 1989-1995
 
 ### 1995-2002
@@ -341,6 +350,9 @@
     </details>
 
 ## Code
+### Des pensions civiles et militaires
+* Article R. 49 bis: la décision d'admission à la retraite...
+
 ### <a id="cp"></a>De procédure civile:
 * [Article 303](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410455/) (l'inscription en faux donne lieu à communication au ministère public)
 * [Article 306](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410461/) (l'inscription en faux est formée par acte remis au greffe par la partie ou son mandataire muni d'un pourvoi spécial)
