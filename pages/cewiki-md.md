@@ -1,4 +1,4 @@
-# Markdown — Aide mémoire
+# Ce wiki — aide mémoire de 'Markdown'
 
 ## Citation
 

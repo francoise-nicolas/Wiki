@@ -15,7 +15,7 @@ En 2018, Anticor 92 tenait une conférence sur le coût de la corruption, avec p
 <details>
   <summary>00:00:00</summary>
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
   
 Je m’appelle Jean-Yves COGNIÈRE Je suis co-référent Anticor sur le quatre-vingt douze. 
 Donc, aujourd’hui, je vous propose de parler du coût de la corruption.
@@ -52,11 +52,11 @@ Et enfin, vous aurez la parole pour poser des questions à nos invités vers 21 
 Madame Eva JOLY, quel est le coût de la corruption pour la nation? 
 </details>
 
-<!-- #### <div align="right">00:06:40</div>-->
+<!-- * <div align="right">00:06:40</div>-->
 <details>
   <summary>00:06:40</summary>
 
-#### Eva JOLY
+* Eva JOLY
   
 Bonsoir tout le monde et d’abord merci à Anticor d’organiser cet évènement. C’est vrai que le rôle que joue Anticor dans la société est de plus en plus important. Il se porte partie civile et grâce à eux, il y a des enquêtes qui se mettent à jour, qui sinon ne seraient jamais initiées. J’ai un exemple en tête, c’est la plainte contre Véolia où Anticor est partie civile et moi, je suis leur avocat. Je pense que c’est important pour faire le ménage parce que, malheureusement, il y a très peu d’enquête qui démarrent sur enquête du Parquet. Et donc la société civile a vraiment toute sa place.
 
@@ -69,7 +69,7 @@ Le seul pays qui a fait quelque chose contre les banksters, c’est l’Islande.
 Et donc, là, c’est vraiment un aspect de la corruption… Et moi, je fais le lien avec la montée des populismes. Aussi longtemps que la justice dysfonctionne, qu’on condamne un jeune qui vole trois bouteilles de shampoing à un an ferme alors que Charles PASQUA, le même jour, dans la chambre à côté à la Cour d’appel, pour corruption pour dix millions, prend un an avec sursis. Aussi longtemps que la justice dysfonctionne aussi gravement, le sentiment qu’il y a eux et nous. Il y a nous, les gens ordinaires. Il y a eux qui s'en sortent toujours. Ce sentiment-là est très très mauvais pour la cohésion sociale et la corruption y contribue énormément.
 </details>
 
-<!-- #### <div align="right">00:15:00</div>-->
+<!-- * <div align="right">00:15:00</div>-->
 <details>
   <summary>00:15:00</summary>
 
@@ -78,7 +78,7 @@ J’ai travaillé pendant trois ans à Kaboul par intermittence. J’y allais to
 Alors, évidemment, ici dans les Hauts-de-Seine, je remercie la mairie de Neuilly pour cette salle et  je ne peux m’empêcher de penser que le président SARKOZY a été maire de cette commune. Et que si le pays avait fonctionné normalement, il n’aurait jamais été élu président de la République. Je l’ai dit en 2007. Vous pourrez retrouver cette interview sur le site du Nouvel Obs parce que, vous savez, en 2007, il ne pouvait pas expliquer comment il avait financé son appartement quai de la Jatte. Il avait menti sur le prêt qu’il avait obtenu de l’Assemblée nationale. Et finalement, il n’y a pas eu d’enquête. Et finalement, c’est resté là. Mais les prémices du scandale d’Etat qui s’approche d’une haute trahison, n’est-ce pas? Si cela est avéré, parce qu’aujourd’hui, il est présumé innocent. Mais les faits, comme je dis souvent, impressionnent notre intelligence. Et donc, nous voyons que, et c’est vraiment une affaire de corruption, le financement libyen, parce que la promesse était d’enlever le mandat d’arrêt suite à l’attaque d’U.T.A. à la fin des années qautre-vingt qui concernait un dignitaire du régime. Et ça tourne autour de ça. Donc, tu me donnes x millions d’euros pour ma campagne et moi, je fais lever le mandat. Donc, ça, c’est l’enquête en cours. Et ce qui est quand même assez optimiste, c’est de voir que cette enquête avance.
 </details>
 
-<!-- #### <div align="right">00:19:45</div>-->
+<!-- * <div align="right">00:19:45</div>-->
 <details>
   <summary>00:19:45</summary>
 
@@ -93,7 +93,7 @@ Alors, les vingt-huit Etats membres n’ont pas adhéré. Ni l’Angleterre, ni 
 Et vous voyez bien que l’avantage de ça, c’est la distance. On peut noter que, par exemple en Allemagne, il n’y a pas eu de poursuite très énergique contre Deutsche Bank. C’est une banque très pourrie que j’ai trouvée en Islande - je ne vais pas vous raconter les détails - mais que qui est sûr, c’est que nous avons des informations sur le blanchiment opéré par Deutsche Bank en Islande. Les Allemands n’ont pas poursuivi cela. Ils ne sont pas non plus très énergiques dans la poursuite de Volswagen parce que tout ça… on voit bien que ce dont on a souffert en France, c’est la proximité du pouvoir avec l’autorité poursuivante. Dès qu’on met à distance, ça marche beaucoup mieux. Donc pour moi, c’est un progrès pour la justice et un progrès pour l’Union européenne d’avoir cette institution. Nous n’avons pas encore un tribunal, mais ça viendra. Mais pour le moment, c’est donc le procureur européen qui, avec l’aide des locaux ira soutenir l’accusation devant les tribunaux français par exemple, pour les dossiers de sa compétence. 
 </details>
 
-<!-- #### <div align="right">00:24:42</div> -->
+<!-- * <div align="right">00:24:42</div> -->
 <details>
   <summary>00:24:42</summary>
 
@@ -102,11 +102,11 @@ Il y a aussi un autre mécanisme qui est très efficace, et je l’ai à l’oeu
 En plus les Etats-Unis s’estiment compétents, ça vous le savez, dès lors que la transaction est en dollars. C’est un des critères. Et donc, je vais finir par ça, c’est une des raisons pour lesquelles nous n’avons pas le choix aujourd’hui. Qu’il faut, si nous ne voulons pas une domination américaine sur le monde par exemple, que la politique étrangère absurde de  Donald Trump s’impose à nous et nos entreprises, ll faut que nous soyons capables d’avoir une zone euro suffisamment importante pour que les transactions sur le pétrole par exemple puissent s’exprimer en euros. Mais ça, c’est l’avenir et c'est sur quoi nous devons travailler, ou les prochaines législatures européennes devraient travailler. Et donc, les Etats-Unis s’estiment compétents pour un délit de corruption commis au Mali par une entreprise française par exemple. Voilà. Il faut bien comprendre ça. Et là, ils sont incroyablement et redoutablement efficaces. Donc, ça, c’est bon dans la lutte contre la corruption mais ce n’est pas bon pour les entreprises française parce que ça les affaiblit et ça prépare souvent l’acquisition par les Américains de ces entreprises. Donc c’est un vrai problème qu’on ne peut pas ne pas voir. 
 </details>
 
-<!-- #### <div align="right">00:28:20</div>-->
+<!-- * <div align="right">00:28:20</div>-->
 <details>
   <summary>00:28:20</summary>
 
-#### Jean GUARRIGUES
+* Jean GUARRIGUES
 
 Merci. Je vais donc relever celle qui m‘a précédé. Alors, Eva JOLY a commencé par un exemple. Je serai tenté de vous en donner un. Ça va vous paraître très très loin dans l’histoire. Malheureusement je suis historien et on se se refait pas. L’exemple que je voudrais vous donner, ce serait celui du grand scandale politico-financier de notre histoire à ce jour parce que grâce à Nicolas SARKOZY, on a passé un certain mur du son, mais qui est le scandale de Panama. Nous sommes en 1892 et un journal anti-sémite qui s’appelle La Libre Parole et je vais y revenir, dévoile au grand public ce que tout le monde connaît à l’époque dans le monde politique et financier, à savoir qu’une des plus grandes sociétés de l’époque, la Compagnie universelle du canal de Panama - je ne vais pas revenir sur les péripéties sur la construction de ce canal - a corrompu la quasi totalité des grands journaux français, des directeurs de journaux, des journalistes qui s’occupaient des questions financières et à peu près cent cinquante députés et sénateurs. C’est une affaire qui est évidemment très importante. Une affaire de corruption à très très grande échelle. Et ce qui est intéressant dans cette affaire, c’est d’en mesurer le coût puisqu’au fond, c’était le sujet de cette séance.
 
@@ -129,7 +129,7 @@ Donc, il y a de toute évidence un coût financier, un coût économique très t
 Mais je voudrais aussi rappeler que la corruption, elle est permanente dans tous les secteurs de la société, à tous les niveaux et que c’est quand même une caractéristique, française en tout cas. On le sait bien, les enquêtes de Transparency International par exemple montrent que nous sommes assez mal placés. On l’a vu d’ailleurs tout à l’heure un classement, et que nous sommes, en tout cas en termes de probité, en termes d’excellence, beaucoup... très loin derrière les pays scandinaves, loin derrière aussi le Royaume-Uni et l’Allemagne par exemple. Donc, là, il y a effectivement des caractéristiques françaises.
 </details>
 
-<!-- #### <div align="right">00:35:56</div>-->
+<!-- * <div align="right">00:35:56</div>-->
 <details>
   <summary>00:35:56</summary>
 
@@ -142,7 +142,7 @@ Alors, la corruption évidement, elle a changé de nature. On ne retrouve pas so
 En France, il me semble qu’il y a eu un électrochoc qui a été la fameuse affaire Urba parce que au fond, de manière un petit peu paradoxale, le système qu’il y avait de financement occulte qui avait été mis en place par le Parti socialiste qui était tellement au fond classique et rigoureux …. Comment dire ça? Organisé, que ça a provoqué justement… que ça a permis une investigation judiciaire convaincante et suscité les appétits plus ou moins malsains d’ailleurs d’un certain nombre de journalistes, d’une presse qui précisément avaient peut-être des comptes à régler avec l’alternance socialiste. Mais, bon, l’alternance, c’est un des aspects aussi de ce qu’ont pu provoquer les scandales de corruption dans notre histoire.
 </details>
 
-<!-- #### <div align="right">00:41:27</div>-->
+<!-- * <div align="right">00:41:27</div>-->
 <details>
   <summary>00:41:27</summary>
 
@@ -155,7 +155,7 @@ Autre facteur, j’en parlais tout à l’heure, l’émancipation médiatique, 
 Donc, il y a eu aussi cet élément-là qui est important, mais je crois que dans la prescience, dans la perception collective de ce qu’est la culture des privilèges, l’affaire CAHUZAC a beaucoup marqué tout simplement par la dramatisation, par le mensonge public qui a été proféré par Cahuzac et qui ont, je veux dire, justement, parce qu’ils étaient une dramatisation de ce qui n’est pas d’ailleurs de la corruption proprement dite, mais qui, si l’on se réfère à une conception ou à une acception plus large de ce qui corrompt un système politique, - au fond, c’est ça le plus grave: ce qui corrompt sous toutes ses formes notre confiance en la démocratie - eh bien, ont profondément marqué les esprits. Et je crois qu’il y a eu, il y aura eu un avant Cahuzac et un après Cahuzac. Ce n’est pas, comment dirais-je?  une appréciation politique que je livre là. Les socialistes ont eu leur part de malversations comme les gaullistes et les giscardiens l’avaient eue… les libéraux l’avaient eue bien avant eux, même si Alain Juppé parlait de la gauche la plus pourrie du monde après l’affaire des délits d’initiés en 1988. Je pense que la droite avait pris largement toute sa part, et Nicolas SARKOZY se charge aujourd’hui, comment dire? de poursuivre cette tradition.
 </details>
 
-<!--#### <div align="right">00:45:16</div>-->
+<!--* <div align="right">00:45:16</div>-->
 <details>
   <summary>00:45:16</summary>
 
@@ -168,15 +168,15 @@ Alors, évidemment, le coût, le coût de la corruption, c’est essentiellement
 Alors, voilà ce que j’avais à vous dire très brièvement, hein, parce que si je m’écoutais, je reparlerais de tous ces scandales , de tout ce qu’ils ont signifié à l’époque mais je pense que… à… vous qui êtes un peu les fers de lance de cette prise de conscience collective, comprenez à quel point votre action est importante, parce que précisément, elle touche au coeur de ces éléments du refus de la démocratie, du contournement de la démocratie tel qu’il fonctionne je le répète historiquement, dans l’histoire de l’extrême-droite française et du populisme en général. Donc, voilà quelques éléments avant éventuellement de réfléchir ensemble des solutions à y apporter.
 </details>
 
-<!--#### <div align="right">00:50:55</div>-->
+<!--* <div align="right">00:50:55</div>-->
 <details>
   <summary>00:50:55</summary>
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 
 Vous m’entendez? Avant de passer aux actions, on dit souvent que la corruption rend difficile (inaudible). Est-ce que vous pourriez nous donner des exemples de ce type de situations?
 
-#### Eva JOLY
+* Eva JOLY
 
 On ne dépense pas le montant de ce qu’on reçoit par la corruption, on ne dépose pas à la Caisse d’épargne. Donc, on ne paie pas d’impôt dessus. C’est dé-fiscalisé. Donc ce qui fait que déjà, ça donne une fortune illégitime. Et en plus, cet donc de l’argent dont on peut se servir pour acquérir un bien et comparé à une personne qui gagne honnêtement sa vie et qui paie des impôts, c’est clair que là, il y a une grande inégalité. Donc, c’est quelque chose qui creuse les inégalités parce que ça enrichit une élite. Ça enrichit en fait les décideurs. Parce que les seuls à pouvoir être corrompus, ce sont les décideurs. Ceux qui peuvent vendre un bout de leur pouvoir. Donc, je pense que c’est un élément assez directement mesurable, cette inégalité-là. D’abord de l’argent au noir. 
 
@@ -187,15 +187,15 @@ Et on voit bien que tout ce que nous avons mis en place au niveau de l’OCDE, d
 Les mécanismes de lutte contre le blanchiment ne sont pas suffisamment performants pour empêcher l’argent de la corruption d’entrer dans des circuits économiques. Si on avait encore des doutes là-dessus, il faut lire Roberto Salinas sur le (inaudible) de la mafia italienne.
 </details>
 
-<!-- #### <div align="right">00:55:19</div>-->
+<!-- * <div align="right">00:55:19</div>-->
 <details>
   <summary>00:55:19</summary>
   
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 
 Mais pourquoi, ceci est tellement important, on dit que la corruption impacte la qualité du service public, des services publics d’une manière générale?
 
-#### Jean GUARRIGUES
+* Jean GUARRIGUES
 Là on est dans un secteur qui touche à la corruption qui est ici, je dirais, systémique. 
 
 Je ne suis vraiment pas compétent pour vous parler de ça. Simplement, il est évident que le système de corruption induit forcément une inégalité entre les citoyens et aussi des pertes financières pour la collectivité. Donc, presque mécaniquement, on peut se dire que c’est, ce sont des entraves. Ça impacte le le…ce que j’appellerai « le vivre ensemble ». 
@@ -204,21 +204,21 @@ C’est d’ailleurs… ça me fait penser à la corruption locale. Et voir comm
 
 Pour ce qui est des, comment dire? La question précédente, de l’appauvrissement lié à la corruption. Si ou prenez quelque chose qui est très important, c’est la corruption dans le sport, puisqu’on est en pleine Coupe du Monde, là. On sait très bien à quel point la corruption à la FIFA par exemple, hein, la Fédération Internationale de Football, a provoqué dans un certain nombre de pays des retards d'équipement, hein. Des retards de croissance de la pratique footballistique comme lien social, et même comme j’allais dire, de promotion sociale à cause justement de cette corruption massive, hein, liée aux élections, etc. Et puis à ce système d’apparatchiks qui s’est installé. Donc, là, on a de manière très claire comment la corruption peut appauvrir un système de lien social et de promotion sociale. Et Dieu sait que dans un certain nombre de pays émergents, la pratique du football fait partie intégrante de ce lien social.
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 
 Et ce qui est intéressant, je crois, pour le retard d’investissement, c’est ça. C’est que l’argent aujourd’hui de la corruption ne va pas dans les investissements publics, dans les routes, dans les écoles. Et ça, c’est clairement autant d’argent qui ne va pas dans l’économie, qui ne permet pas de faire tourner l’activité économique
-#### Jean GUARRIGUES
+* Jean GUARRIGUES
 
 Et je le répète, puisqu’on est en ce moment dans un grand moment sportif, de, de de comment dire ça? d’opium du peuple, il faut aussi avoir bien en tête que ça dissimule des systèmes de corruption, de blanchiment aussi d’ailleurs qui sont très importants. 
 
 Et moi, j’avais une autre question, mais c’est plus une question parce que je ne suis vraiment pas compétent, c’est cette frontière qui m’apparaît totalement artificielle, et dont je ne sais pas comment on peut la contourner. C’est peut-être une question pour Eva JOLY entre ce qu’on appelle « la fraude fiscale », et ce que la société appelle « l’optimisation fiscale » . Je me demande si là, il n’y a pas aussi un enjeu majeur. Et comment résoudre cette question? Est-ce qu’on a aujourd’hui des moyens? Voilà, c’est une question que je voudrais poser à Eva JOLY parce que c’est quelque chose de très important.
 </details>
 
-<!--#### <div align="right">00:59:29</div>-->
+<!--* <div align="right">00:59:29</div>-->
 <details>
   <summary>00:59:29</summary>
   
-#### Eva JOLY
+* Eva JOLY
 
 J’ai d’abord envie de parler un peu de l’affaiblissement du secteur public par la corruption.
 
@@ -230,26 +230,26 @@ Les hôpitaux, je pense qu’on ne paie pas pour y rentrer. Et ça, contrairemen
 
 Par contre, je vois par exemple, pour le grand homme qui vient de mourir, Serge Dassault, Lui, il utilisait la corruption pour acquérir le pouvoir. Il achetait les votes. Il achetait la paix dans les Tarterêts.
 
-#### Jean GUARRIGUES
+* Jean GUARRIGUES
 
 Son père aussi, hein. C’est une vieille tradition familiale. 
 
-#### Eva JOLY
+* Eva JOLY
 
 Oui.
 
-#### Jean GUARRIGUES
+* Jean GUARRIGUES
   
 Dans les années soixante.
-#### Eva JOLY
+* Eva JOLY
   
 Mais ce qui est plus grave, et je vous invite à y réfléchir, c’est qu’en réalité, il finance l’équipement de l’armée française parce que c’est conditionné au fait que nous allons vendre les Rafales. C’était comme si c’est la France qui vendait les Rafales. Et, en fin de compte, ça fait que Total peut acheter de l’huile de palme, parce que sinon, la Malaisie n’achèterait pas les Rafales. On voit bien là qu’il y a des liens et que cette corruption-là, elle est très très, elle est très très grave. Voilà.
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 
 Et sur l’optimisation fiscale?
 
-#### Eva JOLY
+* Eva JOLY
 
 Mais vous savez que c’est la raison pour laquelle je me suis engagée en politique, c’est lorsque j’ai compris que, malgré l’existence des textes anti-abus dans presque tous les pays européens, c’est interdit de faire des montages dont le seul objectif est de pas payer d’impôts. Ce n’est jamais utilisé pour la bonne raison que le parquetier qui déciderait de faire ça, c’est quelque chose qui va durer quinze ans. Il est tout seul. En face de lui, il a une multinationale avec soixante avocats. Il n’y arrivera tout simplement pas. Et donc, la réalité, c’est que les multinationales, et pas simplement les GAFA, pas simplement l’industrie numérique,  mais aucune multinationale - peut-être il existe peut-être une exception quelque part, je ne sais pas, mais 99,99% passent une énergie absolument fantastique à réduire artificiellement l’assiette imposable parce qui s’appelle «l’optimisation fiscale».
 
@@ -258,7 +258,7 @@ Et donc à ça, s’ajoutent aussi des conventions secrètes qu’ils passent av
 Ensuite, l’impôt, ça ne concerne plus la multinationale. [Il] est réparti entre les Etats selon des critères en anglais c’est le système Marsch aux Etats-Unis entre les différents Etats. Et donc ça s’appelle (inaudible) on a des règles. Donc, ce texte se trouve actuellement au bureau du Conseil. Vous savez tous pour qu’un texte existe, il faut l’accord entre le Parlement et le Conseil. Mais en matière de fiscalité, c’est même pire. C’est le Conseil tout seul parce que là, nous, on a un espion consultative. Ce qui est intéressant, c’est ce que ça été voté à une très grande majorité. C’est transpolitique. Et nous avons très bien travaillé avec les conservateurs, les socialistes, les néo-liber sur ce sujet. Et donc, c’est près, c’est tout près qu’on va taxer l’industrie numérique. On sait comment faire. Mais au Conseil, l’unanimité ce n’est pas possible parce que donc, les voleurs - le Luxembourg, les Pays-Bas, l’Irlande, Malte et Chypre - ils ont donc gardé la possibilité de continuer à nous piller.
 </details>
 
-<!-- #### <div align="right">01:11:00</div>-->
+<!-- * <div align="right">01:11:00</div>-->
 <details>
   <summary>01:11:00</summary>
 
@@ -266,11 +266,11 @@ Alors, qu’est-ce qu’il fait faire? Il faut utiliser l’article 116 du trait
 
 Mais figurez-vous qu’aujourd’hui, l’Allemagne ne veut plus jouer avec nous parce que Angela [Merkel] est affaiblie malheureusement, et ils ont peur que les Américains en rétorsion à une taxation des GAFA va mettre des taux de douane sur les voitures de luxe allemandes. Et cette menace est tellement forte pour elle que ils ont décidé de ne pas mécontenter les Américains. Et du coup, ce texte-là ne bouge pas. ( à 1h13) Il y a… . J’espère que vous me suivez tous sur Twitter . Vous pouvez voir publié il y a trois jours, une petite vidéo où l’on voit les multinationales, remercier un certain nombre de chefs d’Etat dont Angela Merkel pour leur laisser leurs bénéfices et ne pas payer d'impôt.
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 
 Merci. Je vous propose de passer à la troisième partie qui est: comment mieux (inaudible) qu’est-ce que, quel action peut-on mettre en place pour mieux sensibiliser l’opinion?
 
-#### Jean GUARRIGUES
+* Jean GUARRIGUES
 
 Au fond, c’est pour ça que je parlais d’électrochoc tout à l’heure. On voit bien que notre système de thérapie démocratique, il a toujours fonctionné à la suite de scandales, d’opérations . Je parlais tout à l’heure de l’affaire CAHUZAC. Il y en a eu bien d’autres auparavant.
 
@@ -280,7 +280,7 @@ Mais on voit bien aussi qu’à chaque fois qu’on essaie de faire progresser l
 Mais par exemple, en qui concerne la régulation et l’encadrement du lobbying qui me paraît en France… Nous sommes très en retard là-dessus. La publication donc de la liste des représentants des groupes d’intérêts euh, comment dire, liés au Parlement, enfin à l’Assemblée nationale et au Sénat est très insuffisante si vous ne publiez pas aussi la liste de leurs correspondants, de ceux avec qui, qu’ils soient parlementaires ou ministres, ils ont eu des contacts.
 </details>
 
-<!-- #### <div align="right">01:17:00</div>-->
+<!-- * <div align="right">01:17:00</div>-->
 <details>
   <summary>01:17:00</summary>
 
@@ -288,11 +288,11 @@ De la même manière, la régulations des conflits d’intérêts aujourd’hui 
 
 Donc, je contourne un peu votre question, mais je pense que sur ces points-là, je ne vois sensibiliser l’opinion aujourd’hui que par des campagnes menées par des organisations comme la vôtre, non gouvernementales, et relayées par les médias. Parce que dans l’autre cas… Alors relayée par les médias ET faisant pression sur la classe politique, sur les responsable politiques. Mais n’allons pas encore attendre un nouveau scandale pour faire évoluer les choses. On est, je pense, dans une… d’emblée, dans un moment culturel où précisément, collectivement, cette prise de conscience est en train de se faire. Donc c’est le moment semble-t-il de mener des initiatives de ce type. Maintenant, sont-elles suffisantes à l’échelle franco-française? Ça, c’est autre chose, car on voit très bien - Eva JOLY le démontre - que les problèmes ne peuvent se résoudre qu’à l’échelle européenne et mondiale dans un partenariat mondialisé. Donc, voilà. Mais je le répète, pour la question de la sensibilisation, je ne vois aujourd’hui que cette possibilité-là, de passer par des initiatives comme le fait Anticor par exemple dans l’affaire d’Alexis Kohler, là. C’est-à-dire d’alerter l’opinion sur des dysfonctionnements, précisément au coeur du débat sur les conflits d’intérêts. Le manque de régulation, de clarté sur les conflits d’intérêts, là, il me semble que voilà. Alerter l’opinion, être le fer de lance de ces alertes et trouver le relais à la fois des médias et d’une partie des élites politiques qui sont convaincues par la nécessité d’avancer.
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 
 Est-ce qu’on peut imaginer des actions liées à l’éducation? C’est-à-dire entre le problème et la prévention plutôt que de (inaudible) la solution.
 
-#### Eva JOLY
+* Eva JOLY
   
 Je vais continuer un petit peu la réflexion d’abord, parce qu’il y a a aussi des bonnes nouvelles. 
 
@@ -304,80 +304,80 @@ Et la question que je vous pose, c’est: si ça vaut trois mois avec sursis pou
 
 C’est exactement comme la corruption dans les années 90. On les déduisait des bénéfices, des résultats. Aujourd’hui, ça apporte, si c’est aggravé, c'est dix ans d’emprisonnement. C’est une révolution culturelle et c’est exactement la même chose avec l’optimisation fiscale. C’est-à-dire qu’il est dangereux aujourd’hui de conseiller l’optimisation fiscale. Très dangereux. 
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
   
 Alors, je vous propose aussi de parler peut-être de la communication qu’on peut avoir. C’est-à-dire: est-ce qu’aujourd’hui une telle révolution est assez (inaudible) est assez vulgarisée? On le voit dans certaines affaires. Mais on ne voit pas qu’il y a des impacts. On ne motive pas les gens à (inaudible). Est-ce que dans ce domaine de la prévention, on peut avoir une action?
 
-#### Eva JOLY
+* Eva JOLY
   
 Là aussi, je pense qu’il y a eu beaucoup de progrès. Nous avons maintenant l’Agence Anti-Corruption qui est à pour aider les entreprises, qui est dirigée par monsieur Duchaîne, qui fonctionne pas depuis très longtemps mais qui a.. je ne sais pas, ils sont une cinquantaine de personnes. Ils  ont des moyens.
 
 Ensuite, nous avons une institution qui est arrivée avec l’après-CAHUZAC, qui est la Haute Autorité pour la Transparence de la Vie Publique. J’ai envie d’en parler deux minutes. Ça vous paraît peut-être un machin, mais c’est incroyablement efficace. Pas simplement parce que c’est dirigé par Jean-Louis NADAL, mais parce que la fausse déclaration de vos actifs est punie de trois ans d’emprisonnement. Ce qui veut dire pour Balkany, si par extraordinaire, il ne serait pas condamné par les tribunaux, il y a la Haute Autorité qui peut le faire condamner à trois ans de prison ferme parce que il n’avait pas déclaré ses villas. Donc on voit bien que c‘est une institution qui se nourrit du procès de quinze ans pour la corruption, elle va directement au coeur: monsieur, vous nous avez menti. Vous n’avez pas déclaré les comptes offshore, voilà. Et ça, par exemple, aujourd’hui en Grèce, où ils sont, les pauvres, affaiblis par des classes politiques épouvantablement corrompues et la justice n’est pas en état de faire de enquêtes de corruption pour tous ces gens. Mais bon, cette règle-là, ils l’ont. Et ça, ça permet d’obtenir des condamnations. Et ils peuvent en Grèce sur ce fondement-là.
 </details>
 
-<!-- #### <div align="right">01:25:51</div>-->
+<!-- * <div align="right">01:25:51</div>-->
 <details>
   <summary>01:25:51</summary>
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 
 Merci. On avait bien fait tomber Al Capone que la question de la fraude fiscale. Merci. Je vous propose de passer aux questions/réponses. Allez, allez-y, tenez posez votre question.
 
-#### Intervenant public 1
+* Intervenant public 1
 
 Moi, je suis étonné, vous avez l’air très optimiste. Et en fait, là, c’est aujourd’hui que la loi sur le secret des affaires est votée. Donc, au point de vue démocratique, c’est une régression totale, quoi. Je vous voudrais savoir ce que vous en pensez. Et ( inaudible) dans l’article de Libération, Anticor a signé en disant que c’était un risque, une tribune en marche vers la censure en interpellent MACRON à ce sujet, quoi. 
 
-#### Nicole-Marie MEYER
+* Nicole-Marie MEYER
 
 Il faut recontextualiser
 
-#### Eva JOLY
+* Eva JOLY
   
 C’est la transcription d’une directive européenne qui avait été votée, qui a été votée sans qu’on sache très bien qui a voté le texte. Je crois que nous en avons déjà parlé avec madame en face de moi, qui est une lanceuse d’alerte qui a payé très cher dans sa propre vie. Mais il ne faut pas trop s’inquiéter parce que nous veillons au grain, nous Les Verts. Déjà dans la direction de certains professionnels, et surtout, nous avons en élaboration un texte sur la protection des lanceurs d’alerte. Tout le monde est décidé à ce que ce texte sorte dans cette législature. Alors j’ai bon espoir. Et nous allons, nous allons… Et je pense que avec mes collègues socialistes et même les conservateurs allemands, on va se mettre d’accord pour dire clairement dans ce texte que la directive sur le secret des affaires ne peut pas empêcher le lanceur d’alerte. C’est-à-dire une priorité au lanceur d’alerte.
 
-#### Intervenant public 1
+* Intervenant public 1
 
 Mais il peut empêcher les journaux de publier, avant même qu’ils publient, quoi. Ça les empêche…
 
-#### Eva JOLY
+* Eva JOLY
   
 Alors, c’est ce qu’on peut craindre. Mais je vous dis que la réponse, elle est déjà un peu dans les textes en amendement des Verts. C’est-à-dire qu’il y aussi vers le texte à la directive européenne une limitation. Si vous dénoncez quelque chose qui est délictuel, euh… et en plus, là, vous savez, moi, je suis très convaincue: on ne gouverne pas contre son opinion, et on ne gouverne pas… On ne peut pas agir contre l’opinion publique très longtemps. C’est-à-dire la première occasion où le texte serait mal appliqué, je pense qu’il y aurait une résistance et que les juges ne vivent pas dans un vide, dans un (inaudible) vide. Et la tendance aujourd’hui, elle est quand même à la protection  du lanceur d’alerte. Elle est pour la liberté de la presse.
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 Alors, attendez. Vous avez ici une question. Parlez fort s’il-vous-plaît.
 
-#### Intervenant du public 2
+* Intervenant du public 2
 
 Donc, je voulais poser une question à madame Eva JOLY concernant la justice. Quand tout à l’heure, vous avez dit  deux reprises que la justice n’est pas du tout corrompue Je voudrais juste apporter une petite définition. Et vous parlez de lanceurs d’alerte, donc j’en suis un. 2011, 2005, Valenciennes. Et donc, la définition initiale du... 
 
-#### Intervenant public 3
+* Intervenant public 3
 
 Vous êtes au RSA.
 
-#### Intervenant public 2
+* Intervenant public 2
 
 Oui. Depuis 3 ans au mois d’octobre.
 
-#### Intervenant public 3
+* Intervenant public 3
 
 Stéphanie Gibaud? C’est pareil.
 </details>
 
-<!-- #### <div align="right">01:30:00</div>-->
+<!-- * <div align="right">01:30:00</div>-->
 <details>
   <summary>01:30:00</summary>
 
-#### Intervenant public 2
+* Intervenant public 2
 
 Donc je voudrais revenir sur la définition du mot « corruption »  qui vient du latin. Initialement c’est briser complètement, détériorer physiquement ou moralement. Donc, on parle beaucoup de corruption avec ces histoires d’argent, tout ça. Et donc, je vais vous dire, les lanceurs d'alerte, c’est exactement la définition de la corruption que je viens de donner, initiale, du latin. Et donc, on nous enterre. Voilà.
 
 Et donc, je mène tous mes combats tout seul. Pour la corruption, par exemple, vous disiez que la justice française n’était pas corrompue. Moi, je prendrai un simple exemple de ma lettre de licenciement. J’étais cadre et j’ai fait une faute en plein milieu d’une semaine de congé, et ça ne choque pas le tribunal. J’ai gagné aux Prud’hommes. J’ai fait appel. J’ai gagné en appel et je vais en cassation parce que le justice ne me répare pas. Et ma situation est simplement la décision du juge. Mes dossiers sont béton. Donc, c’est pour ça que je voulais revenir sur votre phrase disant que la justice n’est pas corrompue en France.
 
-<!-- #### Intervenant public
+<!-- * Intervenant public
 Je ne suis pas d’accord. Je le prouve.
-#### Intervenant public 2
+* Intervenant public 2
 Vous pouvez me suivre sur Twitter. Moi c’est @blouseblanche59. J’attends la décision de l’arrêt de la Cour de cassation pour l’aide juridictionnelle. Voilà.-->
 
-#### Intervenant public 4
+* Intervenant public 4
 
 Oui, je me présente, Serge Rader, lanceur d’alerte. Stéphanie Gibaud qui avait dénoncé l’affaire UBS et qui est aujourd’hui hélas sur le carreau aussi en tant que lanceur d’alerte. Vous avez beaucoup parlé…. Je suis aussi le co-auteur du livre, avec votre collègue Michèle Rivasi, l’ancienne juge Marie-Odile Bertella-Geoffroy, du racket dans les laboratoires pharmaceutiques. ET dans ce livre que je viens de sortir, on a analysé des vaccins courants. Et ils sont tous contaminés notamment, notamment, notamment… c’est vrai que la sono n’est pas très bonne… notamment de nanoparticules. Je dépose des plaintes à la DGCCRF, etc. On renvoie ça aux agences, aux institutions sanitaires qui enterrent le dossier. C’est scandaleux, hein? Il y a des milliers de gamins aujourd’hui qui souffrent de produits de vaccination qui sont dus aux lobbies. Il n’est pas normal que notre ministre vote une loi d’obligation vaccinale par exemple avant ce vaccin quand on était à trois, ça, sans aucune justification sanitaire. Je suis pharmacien de formation. Et son mari, il était directeur de l’INSERM, et il s’occupe donc des programmes avec Sanofi and co, de programmes vaccinaux. 
 
@@ -389,11 +389,11 @@ Pourquoi en arrive-t-on… bonne question pour la Commission. Pourquoi n’arriv
 
 En Italie, il y a eu une opération que nous avons lancée avec Michèle Rivasi au 1er janvier 2015 ( inaudible)  Et toutes les affaires sanitaires se terminent par des relaxes, par des non-lieux, par des classements sans suite.
 
-#### Intervenant public 2
+* Intervenant public 2
   
 Et des lanceurs d’alerte, SDF.
 
-#### Intervenant public 4
+* Intervenant public 4
   
 Et par des affaires comme la Depakine, les conséquences du vaccin hépatite B et la sclérose en plaques qui est une réalité, ou du vaccin papillomavirus. Si je vous donne les chiffres américains, vous allez tomber à la renverse. Surtout, ne vaccinez pas vos jeunes filles avec ce vaccin qui est criminel. Et tout ça avec une omerta.
 
@@ -403,27 +403,27 @@ Et pour terminer là, pas plus tard qu’aujourd’hui, j’ai eu le responsable
 
 Pourquoi dans les médias nationaux, pourquoi je n’ai pas… moi, je fais des conférences à l’échelle nationale, pourquoi je n’ai droit qu’aux médias alternatifs type Sud radio, type Radio Courtoisie., type Nexus, etc… Et pourquoi les grands médias censurent mon livre? C’est un scandale, et acceptent tous les livres qui sont bourrés de mensonges sur les conséquences vaccinales. C’est vrai, on n’est plus en démocratie . Nous sommes un des derniers pays démocratiques en France ( inaudible, brouhaha)
 
-#### Intervenant public 1
+* Intervenant public 1
 
 C’est le même processus pour tout le monde. J’ai lancé l’alerte dans le domaine de la santé , la fécondation in vitro…
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
   
 Attendez, attendez…
 
-#### Intervenant public 4
+* Intervenant public 4
   
 Le coût du médicament en France, c’est trente-cinq milliards.  (Inaudible) la même chose avec dix-huit milliards.
 Brouhaha 
 
-#### Intervenant public 5
+* Intervenant public 5
   
 Quand vous avez parlé de cette ( inaudible) en dollars. Moi je ne suis quand même pas très fan ce cette loi extra-territoriale. Je me demande comment les Américains réagiraient si on les accusait d’avoir corrompu une entreprise en euros. Est-ce qu’on pourrait les accuser sur notre propre territoire?
 
 En tout cas, merci. Je ne vais pas mentionner la corruption d’Alstom parce qu’on sait très bien qu’Alstom est corrompue. Mais enfin, est-ce qu’on peut tolérer qu’une ( inaudible)  fasse main base sur une entreprise très importante pour la France? Là, j’ai un peu de mal à digérer ça.
 Brouhaha
 
-#### Nicole-Marie MEYER
+* Nicole-Marie MEYER
 
 On n’a rien entendu. Il faut peut-être arrêter le micro, on n’entend pas bien.
 </details>
@@ -431,7 +431,7 @@ On n’a rien entendu. Il faut peut-être arrêter le micro, on n’entend pas b
 <!-- <div align="right">01:38:23</div>-->
 <details>
   <summary>01:38:23</summary>
-#### Eva JOLY
+* Eva JOLY
   
 Je vais peut-être répondre aux trois intervenants.
 J’ai fait un constat en ce qui concerne la justice française un peu comparatif. J’ai commencé par dire qu’elle était pauvre et que c’est insupportable pour les citoyens qu’elle soit débordée et que les enquêtes durent quinze ans. Les enquêtes de santé, par exemple, personne ne pense que les juges qui conduisaient ces enquêtes ont fait exprès de mettre quinze années. Mais c’est la pauvreté de leurs moyens. Je pense que je l’ai bien dit. Cela ne garantit pas que chaque cas donne le sentiment de justice à la personne que ça concerne. Cette justice-là, elle n’existe pas, je pense. Et donc comparativement, et je peux vraiment en attester, la justice française souffre de ces maux-là mais ne souffre pas d’un mal qui est très courant dans l’Europe de l’Est par exemple. Si vous allez en Bulgarie, en Roumanie, et si vous allez dans les pays africains, et si vous allez en Indonésie, la justice s’achète. C’est comme ça. En France, ce n’est pas le cas. Il faut s’en réjouir. C’est quelque chose que nous pouvons dire.
@@ -442,11 +442,11 @@ Ensuite, le débat sur la vaccination, je ne vais pas l’engager ici. Ce n’es
 
 Ensuite, j’oublie le fil de mes idées. C’était quoi déjà? [Alstom] Ah oui! Le problème américain. Je décris le monde tel qu’il fonctionne. Je n’ai pas dit que c’était bien. Je dis que c’est un danger potentiel. J’ai dit que pour combattre la corruption, c’est peut-être bien parce que ça fait tellement peur, que je pense que les entreprises qui sont passées par là, on ne les reprend plus. Ils ne vont pas, ils ne vont pas s’y redonner. Je pense que la faiblesse de nos institutions, la faiblesse de notre justice, la faiblesse de son euro a des implications géopolitiques que nous ne mesurons pas, et que nous avons tout intérêt à avoir une justice de compétition qui peut vraiment faire pièce à la justice américaine. ( inaudible) enquêter sur l’attitude d’une entreprise américaine corrompue loin de chez nous, parce qu’ils auraient utilisé l’euro.
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
   
 Une dernière question.
 
-#### Intervenant public 6
+* Intervenant public 6
 
 Moi je voudrais parler de l’impact démocratique lié à la défaillance de la justice. 
 
@@ -458,16 +458,16 @@ Ma question c’est: comment lutter contre cette corruption qui gangrène la soc
 
 Sur le plan médical, il y a le risque évidemment… on n’a pas d’infos puisque c’est le secret médical. Le secret des affaires ou le secret médical. Donc on ne peut savoir ce qui se passe. La cewiki des comptes n’est pas donnée, là, au moment du décès de nos parents. Voilà. Et c’est vraiment très très difficile parce que c’est des choses très graves.
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
   
 Merci. Une autre question?
 </details>
 
-<!-- #### <div align="right">01:44:20</div>-->
+<!-- * <div align="right">01:44:20</div>-->
 <details>
   <summary>01:44:20</summary>
 
-#### Nicole-Marie MEYER
+* Nicole-Marie MEYER
   
 Alors, Nicole-Marie MEYER. Je suis la représentante de Transparency International France. On attend évidement les moyens pour augmenter les moyens de la justice, comme vous, parce que nous pensons effectivement qu’il se passe des choses extrêmement graves. 
 
@@ -477,41 +477,38 @@ Et je voulais juste faire un point sur le secret des affaires parce qu’on est 
 
 Premièrement, nous avons pu jouer sur la traduction. C’est-à-dire que nous allons pouvoir ( inaudible) un acte répréhensible, une activité illégale ou une faute. Et nous, on a obtenu avec les ONG qui poussaient, pour révéler un comportement répréhensible, ce qui est beaucoup plus ouvert qu’un acte. C’tait justement oublié. Et il a été ajouté « y compris pour exercer le droit d’alerte selon la loi Sapin 2, ce qui veut dire qu’on sauve la protection du régime général du lanceur d'alerte qu’on a obtenue dans le régime Sapin 2. Et c’est une grande victoire parce que…
 
-#### Intervenant public 7
+* Intervenant public 7
   
 C’est pas vrai!
 
-#### Nicole-Marie MEYER
+* Nicole-Marie MEYER
 
 Attendez. Parce que les Irlandais n’ont pas réussi à sauver leur droit d’alerte.
 Donc, je vais dire qu’on a un doute parce que c’est « y compris » ( inaudible, brouhaha ) .. sur la question de ce « y compris », on a obtenu dans le verbatim le fait que l’intégrité de la loi est sauvée. Et effectivement, on travaille actuellement à la directive européenne parce que dans l’application de la directive, d’abord on peut peser sur la directive européenne qui est dans les tuyaux, et on peut essayer de contre-attaquer pour tout ce qu’on n’a pas réussi dans la loi « secret des affaires », notamment veiller aux procédures bâillons et à sanctionner un certain nombre de choses. Donc, on a réussi  quelques petites avancées, notamment pour le droit d’alerte et on a une position de repli des attaques avec les directives de l’Union européenne. Donc, ça c’était pour vous donner de petites bonnes nouvelles.
 
-#### Intervenant public 7
+* Intervenant public 7
 
 Qui n’en sont pas. C’est faux!
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 
 On va…. Derrière question? La dernière dernière.
 
-#### Intervenant public 8
+* Intervenant public 8
 
 Est-ce qu’on pourrait trouver des solutions dans le domaine éducatif. Est-ce que vous avez des idées à proposer?
 </details>
 
-<!-- #### <div align="right">01:47:00</div>-->
+<!-- * <div align="right">01:47:00</div>-->
 <details>
   <summary>01:47:00</summary>
 
-#### Jean-Yves COGNIÈRE
+* Jean-Yves COGNIÈRE
 
 Alors sur ce thème-là, on pourrait parler d’initiatives d’Anticor 75. Donc, Anticor 75 Paris, dans le cadre de la réserve citoyenne, a mis en œuvre un outil pédagogique auprès de collégiens de manière à éveiller les consciences et de permettre aux collégiens de détecter et de comprendre comment fonctionne la corruption.
 
 Alors, juste, est-ce que vous auriez un dernier mot? Madame Joly? Monsieur GUARRIGUES? Est-ce qu’on peut s’arrêter là? On s’arrête là. Très bien. Merci beaucoup à tous.
 </details>
-
-## Voir aussi
-### [Affaire Elf](elf.md)
 
 ---
 [Photo](./cewiki-attrib.md#joly92)

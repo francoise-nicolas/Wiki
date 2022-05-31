@@ -1,4 +1,4 @@
-# [Ce Wiki](./cewiki.md) — Projets
+# Ce Wiki — Projets
 
 ## Tableau Kaban
 ### À faire

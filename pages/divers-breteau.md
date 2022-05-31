@@ -6,7 +6,7 @@
 
 ## Audition
 
-<details><summary>Verbatim</summary>
+<details><summary>Verbatim 🚧</summary>
 Donc voilà, après cet accompagnement graduel du LDA, la questions pose est-ce que lLDA
 
 , le DDD

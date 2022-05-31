@@ -1,4 +1,4 @@
-# Signalitique
+# Ce wiki — Signalitique
 
 | Symbol | Signification | 
 |--------|---------------|
