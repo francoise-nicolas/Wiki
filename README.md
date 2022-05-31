@@ -18,7 +18,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 
 ## Mis en avant
 ### 2020
-* [🏛️NICOLAS évoquée dans une QAG](./pages/nicolas-qag-32447.md)
+* [🏛️NICOLAS au centre d'une QAG](./pages/nicolas-qag-32447.md)
 * [🏛️NICOLAS entendue par le député Ugo Bernalicis](https://github.com/francoise-nicolas/audition-phi)
 ### 2021
 * [⚖️NICOLAS remporte une victoire c. le MAE](./pages/nicolas-pf.md)
@@ -26,4 +26,3 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ### 2022
 * [🗣️NICOLAS témoigne sur Europe 1](./pages/nicolas-medias.md#delacroix)
 <!-- * [✍️️NICOLAS: « Ce sujet qui attend son lanceur d'alerte: le jeu des apparences »](./pages/nicolas-japp.md) -->
-
