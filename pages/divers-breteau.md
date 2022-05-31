@@ -1,8 +1,8 @@
-![img](../_aux/sncf_Commons.png)
+![img](../_aux/Bourbon_Commons.png)
 
-# Parlement - Audition de Denis BRÉTEAU
+# Audition de Denis BRÉTEAU
 
-[Le 2021-05-21 était auditionné Denis BRÉTEAU](https://shorturl.me/jHBHC), lanceur d'alerte de la SNCF, dans le cadre de la [loi Sapin 2](#sapin2)
+[Le 2021-05-21 était auditionné Denis BRÉTEAU](https://shorturl.me/jHBHC), lanceur d'alerte de la SNCF, dans le cadre de la [loi Sapin 2](./bib-loi#sapin2)
 
 ## Audition
 
@@ -48,4 +48,4 @@ Voilà. Je ne
 </details>
 
 ---
-[Photo](./cewiki-attrib.md#sncf)
+[Photo](./cewiki-attrib.md#Bourbon)
