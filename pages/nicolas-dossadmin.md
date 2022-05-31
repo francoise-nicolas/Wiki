@@ -36,18 +36,18 @@
 
     <details><summary>Extrait</summary>
     
-    * Sur les conclusions aux find d'annulation:
-    
-    Considération, en premier lieu, que Mme NICOLAS soutient que son dossier administratif contenait notamment des pièces relatives à sont état de santé alors que ces pièces, étant couvertes par le secret médical, auraient dû être retirée de son dossier; que, toutefois, les documents en cause, à savoir deux télégramme diplomatique rédigés par l'ambassadeur de France au Bénin, en date du 2008-11-10 et 2008-11-21, ainsi que l'extrait d'une note, établie par l'inspection générale des affaires étrangère, en date du 2009-08-05, se bornent à constater les difficultés d'adaptation de Mme NICOLAS [], afin d'envisager, dans l'intérêt du service et de l'intéressée, l'évolution de sa situation professionnele; que, dès lors, et nonobstant la circonstance qu'un des documents mentionne la spécialité médicale à laquelle il a été fait recours, ces documents ne sauraient être regardé comme portant atteinte au secret médical, ni au respect de la vie privée de Mme NICOLAS;
-    
-    Considérant, en second lieu, que Mme NICOLAS soutient que les documents susmentionnés contiendraient des informations erronnées et mensongères; que, toutefois, le caractère matériellement inexact des information contenues dans les documents incriminés; que la circonstance, à la supposer établie, que ces documents seraient susceptibles d'avoir un effet négatif sur le déroulement de la carrière de Mme NICOLAS ou lui causeraient un préjudice moral est sans influence sur la légalité de la décision attaquée;
-    
-    [...]
-    
-    DÉCIDE
-    
-    Article 1er: requête rejetée
-    
+        * Sur les conclusions aux find d'annulation:
+        
+        Considération, en premier lieu, que Mme NICOLAS soutient que son dossier administratif contenait notamment des pièces relatives à sont état de santé alors que ces pièces, étant couvertes par le secret médical, auraient dû être retirée de son dossier; que, toutefois, les documents en cause, à savoir deux télégramme diplomatique rédigés par l'ambassadeur de France au Bénin, en date du 2008-11-10 et 2008-11-21, ainsi que l'extrait d'une note, établie par l'inspection générale des affaires étrangère, en date du 2009-08-05, se bornent à constater les difficultés d'adaptation de Mme NICOLAS [], afin d'envisager, dans l'intérêt du service et de l'intéressée, l'évolution de sa situation professionnele; que, dès lors, et nonobstant la circonstance qu'un des documents mentionne la spécialité médicale à laquelle il a été fait recours, ces documents ne sauraient être regardé comme portant atteinte au secret médical, ni au respect de la vie privée de Mme NICOLAS;
+        
+        Considérant, en second lieu, que Mme NICOLAS soutient que les documents susmentionnés contiendraient des informations erronnées et mensongères; que, toutefois, le caractère matériellement inexact des information contenues dans les documents incriminés; que la circonstance, à la supposer établie, que ces documents seraient susceptibles d'avoir un effet négatif sur le déroulement de la carrière de Mme NICOLAS ou lui causeraient un préjudice moral est sans influence sur la légalité de la décision attaquée;
+        
+        [...]
+        
+        DÉCIDE
+        
+        Article 1er: requête rejetée
+        
     </details>
 
 ### Pourvoi no. 359289
