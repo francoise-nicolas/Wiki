@@ -1,4 +1,9 @@
+<!--
 ![marc-chaumeil](../_aux/marc-chaumeil.png)
+-->
+
+![img](../_aux/asonposte.png)
+
 
 # About
 
@@ -47,4 +52,7 @@ I was [substitute candidate](http://www.nantes-infos.fr/legislatives-1ere-circon
 
 
 ---
+<!--
 [Photo](./cewiki-attrib.md#marc-chaumeil)
+-->
+[Photo](./cewiki-attrib.md#asonposte)

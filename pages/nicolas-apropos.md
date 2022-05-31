@@ -1,8 +1,8 @@
 <!--
-![marc-chaumeil](../_aux/marc-chaumeil.png)
+![img](../_aux/marc-chaumeil.png)
 -->
 
-![marc-chaumeil](../_aux/asonposte.png)
+![img](../_aux/asonposte.png)
 
 # Françoise NICOLAS — À propos
 
