@@ -1,4 +1,8 @@
+<!--
 ![marc-chaumeil](../_aux/marc-chaumeil.png)
+-->
+
+![marc-chaumeil](../_aux/asonposte.png)
 
 # Françoise NICOLAS — À propos
 
@@ -46,7 +50,10 @@ Je suis originaire de Saint-Malo, et mère célibataire d'un enfant unique depui
 
 
 ### <a id="voiraussi"></a>🌐
-* [Sommaire des pages me concernant](./whoswho#nicolas)
+* [Sommaire des pages me concernant](./whoswho.md#nicolas)
 
 ---
+<!--
 [Photo](./cewiki-attrib.md#marc-chaumeil)
+-->
+[Photo](./cewiki-attrib.md#asonposte)
