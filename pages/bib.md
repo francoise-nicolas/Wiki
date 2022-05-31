@@ -2,8 +2,6 @@
 
 ## Avertissement
 
-Le critère d'inclusion est diffus:  dans l'optique d'un développement existant ou mijoté, dans les autres pages.
-
 Certains profils de Twitter précisent: RT ≠ « en accord. » Ici, c'est pareil. Par exemple, la dénonciation de tel ou tel dysfonctionnement est une technique de manipulation éprouvée, qui pourra fournir matière à une tribune. Ce qui fait foi d'une opinion, c'est ce qui a été exprimé de façon explicite.
 
 ## Catégorie
