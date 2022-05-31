@@ -63,7 +63,7 @@ Ci-après, attribution des [photos stockées](../_aux), utilisées ou pas dans l
 
 ### Autre
 
-* <a id="scac"></a> [Équipe du SCAC](https://bj.ambafrance.org/Le-service-de-cooperation-et-d-action-culturelle), 2010
+* <a id="scac"></a> [Équipe du SCAC](https://bj.ambafrance.org/Le-service-de-cooperation-et-d-action-culturelle) (c) Ambassade de France au Bénin
 
 * <a id="marc-chaumeil"></a>[Françoise NICOLAS, rencontre LDA, 2015 (Marc Chaumeil)](https://www.liberation.fr/resizer/Ygw6gn4dOU3szIG7zi8ZbVTAkFM=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/6LH7K6MIGVT62DR63VG463FTWM.jpg)
 

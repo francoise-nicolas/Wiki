@@ -1,4 +1,4 @@
-![image-mise-en-avant](../_aux/scac2010.png)
+![image-mise-en-avant](../_aux/8ce62a40.png)
 <!--![image](../_aux/asonposte.png)-->
 
 # [Françoise NICOLAS](fn.md) — Faits
