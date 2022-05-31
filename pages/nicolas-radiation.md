@@ -5,28 +5,10 @@
 Contestation de la décision du MAE du [2018-07-25](nicolas-faits.md#radiation).
 
 ## 🗓️
-* 2018-01-11 — CAA de Nantes — Décision
-    <details>
-      <summary>Info</summary>
-    
-    * [piece](../pieces/identifiant/d9347606)
-    </details>
 
-* 2018-04-06 — DDD — Mise à jour
-    <details>
-      <summary>Info</summary>
-    
-    * [piece](../pieces/identifiant/e122f48d)
-    </details>
+### TA de Nantes
 
-* 2018-06-01 — Défendeur — Décision
-    <details>
-      <summary>Info</summary>
-    
-    * [piece](../pieces/identifiant/87f8abb5)
-    </details>
-
-* 2018-10-09 — Demandeur — Saisine
+* 2018-10-09 — Saisine
     <details>
       <summary>Info</summary>
     
