@@ -204,11 +204,13 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     documents. Should any claim that I have made. . . ” Recently I set up github.
     com/francoise-nicolas/wiki, that keeps track of my legal & advocacy work,
     with supporting evidence.
+    
     On the open reason of state and the penal ruling in my case, I said: “and neither
     my supervisor, nor the ambassador were auditioned”. This begs for an erratum :
     these parties made statements before the prosecutor (see attachment no. 4 of the
     memoir), but there was no confrontation (in the sense of the 6th amendment) in
     the adhesion procedure I filed for to overrule his dismissal.
+    
     Attached, continuation of some background material in my memoir.
     Sincerely,
     
