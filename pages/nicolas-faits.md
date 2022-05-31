@@ -51,10 +51,6 @@ Les personnes clés ou à haute responsabilité sont signalées par †.
 
 -->
 
-## Synthèse
-
-* [📁 Indemnité](./nicolas-indemnite.md#faits)
-
 ## 🗓️
 * <a id="HEUDE"></a>2001-09-19 — [Rapport sur NICOLAS](../pieces/identifiant/8ce4e41b)
     
