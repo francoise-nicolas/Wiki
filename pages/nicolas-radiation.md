@@ -5,113 +5,113 @@
 Contestation de la décision du MAE du [2018-07-25](nicolas-faits.md#radiation).
 
 ## 🗓️
-### 2018-01-11 — CAA de Nantes — Décision
-<details>
-  <summary>Info</summary>
+* 2018-01-11 — CAA de Nantes — Décision
+    <details>
+      <summary>Info</summary>
+    
+    * [piece](../pieces/identifiant/d9347606)
+    </details>
 
-* [piece](../pieces/identifiant/d9347606)
-</details>
+* 2018-04-06 — DDD — Mise à jour
+    <details>
+      <summary>Info</summary>
+    
+    * [piece](../pieces/identifiant/e122f48d)
+    </details>
 
-### 2018-04-06 — DDD — Mise à jour
-<details>
-  <summary>Info</summary>
+* 2018-06-01 — Défendeur — Décision
+    <details>
+      <summary>Info</summary>
+    
+    * [piece](../pieces/identifiant/87f8abb5)
+    </details>
 
-* [piece](../pieces/identifiant/e122f48d)
-</details>
+* 2018-10-09 — Demandeur — Saisine
+    <details>
+      <summary>Info</summary>
+    
+    * [piece](../pieces/identifiant/c952a7be)
+    </details>
 
-### 2018-06-01 — Défendeur — Décision
-<details>
-  <summary>Info</summary>
+* 2018-10-09 — Défendeur — Mémoire
+    <details>
+      <summary>Info</summary>
+    
+    * [piece](../pieces/identifiant/aabf6a5)
+    </details>
 
-* [piece](../pieces/identifiant/87f8abb5)
-</details>
+* 2018-10-10 — Demandeur — Mémoire
+    <details>
+      <summary>Info</summary>
+    
+    * [piece](../pieces/identifiant/8da78f8e)
+    </details>
 
-### 2018-10-09 — Demandeur — Saisine
-<details>
-  <summary>Info</summary>
+* 2018-10-15 —  TA de Nantes — Décision
+    <details>
+      <summary>Info</summary>
+    
+    * No. 1808963
+    * Effet: rejet
+    * [piece](../pieces/identifiant/3410024c)
+    </details>
 
-* [piece](../pieces/identifiant/c952a7be)
-</details>
+* 2019-07-09 —  TA de Nantes — Décision
+    <details>
+      <summary>Info</summary>
+    
+    * No. 1808894
+    * Effet: rejet
+    * [piece](../pieces/identifiant/16e6ed74)
+    </details>
 
-### 2018-10-09 — Défendeur — Mémoire
-<details>
-  <summary>Info</summary>
+* 2019-09-06 — Demandeur — Saisine
+    <details>
+      <summary>Info</summary>
+    
+    * No. 1808894
+    * [piece](../pieces/identifiant/19b3ac10)
+    </details>
 
-* [piece](../pieces/identifiant/aabf6a5)
-</details>
+* 2020-11-30 — Demandeur — Mémoire
+    <details>
+      <summary>Info</summary>
+    
+    * [piece](../pieces/identifiant/668ed141)
+    </details>
 
-### 2018-10-10 — Demandeur — Mémoire
-<details>
-  <summary>Info</summary>
+* 2021-02-08 — Défenseur — Mémoire
+    <details>
+      <summary>Info</summary>
+    
+    * [piece](../pieces/identifiant/76684f87)
+    </details>
 
-* [piece](../pieces/identifiant/8da78f8e)
-</details>
+* 2021-03-16 —  CAA Nantes — Décision
+    <details>
+      <summary>Info</summary>
+    
+    * No. 19NT03606
+    * Effet: rejet
+    * [piece](../pieces/identifiant/65d1eb75)
+    </details>
 
-### 2018-10-15 —  TA de Nantes — Décision
-<details>
-  <summary>Info</summary>
+* 2021-03-31 — Demandeur — pourvoi
+    <details>
+      <summary>Info</summary>
+      
+    * Conseil: ROUSSEAU-TAPIE
+    * [piece](../pieces/identifiant/38e76fc9)
+    </details>
 
-* No. 1808963
-* Effet: rejet
-* [piece](../pieces/identifiant/3410024c)
-</details>
-
-### 2019-07-09 —  TA de Nantes — Décision
-<details>
-  <summary>Info</summary>
-
-* No. 1808894
-* Effet: rejet
-* [piece](../pieces/identifiant/16e6ed74)
-</details>
-
-### 2019-09-06 — Demandeur — Saisine
-<details>
-  <summary>Info</summary>
-
-* No. 1808894
-* [piece](../pieces/identifiant/19b3ac10)
-</details>
-
-### 2020-11-30 — Demandeur — Mémoire
-<details>
-  <summary>Info</summary>
-
-* [piece](../pieces/identifiant/668ed141)
-</details>
-
-### 2021-02-08 — Défenseur — Mémoire
-<details>
-  <summary>Info</summary>
-
-* [piece](../pieces/identifiant/76684f87)
-</details>
-
-### 2021-03-16 —  CAA Nantes — Décision
-<details>
-  <summary>Info</summary>
-
-* No. 19NT03606
-* Effet: rejet
-* [piece](../pieces/identifiant/65d1eb75)
-</details>
-
-### 2021-03-31 — Demandeur — pourvoi
-<details>
-  <summary>Info</summary>
-  
-* Conseil: ROUSSEAU-TAPIE
-* [piece](../pieces/identifiant/38e76fc9)
-</details>
-
-### 2021-08-30 — Demandeur — mémoire
-<details>
-  <summary>Info</summary>
-  
-* No. 452652
-* Conseil: ROUSSEAU-TAPIE
-* [piece](../pieces/identifiant/2a770bf5)
-</details>
+* 2021-08-30 — Demandeur — mémoire
+    <details>
+      <summary>Info</summary>
+      
+    * No. 452652
+    * Conseil: ROUSSEAU-TAPIE
+    * [piece](../pieces/identifiant/2a770bf5)
+    </details>
 
 #### Faits
 <details>
@@ -221,25 +221,24 @@ motivation, exposant son arrêt à une censure certaine.
 <details>
   <summary>VI 🚧 </summary>
 
-EN ATTENTE
 </details>
 
-### 2021-08-30 — Demandeur — mémoire complémentaire
-<details>
-  <summary>Info</summary>
-  
-* No. 452652
-* Conseil: ROUSSEAU-TAPIE
-* [piece](../pieces/identifiant/5740ca1d)
-</details>
+* 2021-08-30 — Demandeur — mémoire complémentaire
+    <details>
+      <summary>Info</summary>
+      
+    * No. 452652
+    * Conseil: ROUSSEAU-TAPIE
+    * [piece](../pieces/identifiant/5740ca1d)
+    </details>
 
-### 2021-12-09 — CE — Décision
-<details>
-  <summary>Info</summary>
-  
-* No. 452652
-* [piece](../pieces/identifiant/c0b31ebb)
-</details>
+* 2021-12-09 — CE — Décision
+    <details>
+      <summary>Info</summary>
+      
+    * No. 452652
+    * [piece](../pieces/identifiant/c0b31ebb)
+    </details>
 
 ---
 [Photo](./cewiki-attrib.md#contentieux)
