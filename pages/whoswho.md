@@ -3,7 +3,7 @@
 ## <a id="nicolas"></a>Françoise NICOLAS
 ### Ce wiki
 * [Appel aux dons](./nicolas-don.md)
-* [Factures](./nicolas-factures.md)
+* [Factures](./nicolas-fact.md)
 * [Faits](./nicolas-faits.md)
 * [Activisme](./nicolas-activ.md)
 * [Litiges](./nicolas-litiges.md)

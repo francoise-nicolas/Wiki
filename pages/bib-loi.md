@@ -349,6 +349,8 @@
     * 5. Par ordonnance de transmission de pièces aux fins de saisine de la chambre de l'instruction, en date du 12 juillet 2019, les juges d'instruction, après avoir écarté la circonstance aggravante précitée, ont estimé qu'il existait contre M. [T], d'une part, des charges suffisantes d'avoir commis les faits d'homicide volontaire et de séquestration qui lui étaient reprochés et d'autre part, des raisons plausibles d'appliquer le premier alinéa de l'article 122-1 du code pénal.
     </details>
 
+* [🏛Sarah HALIMI: Audition de a JI](./divers-halimi.md#a20211124)
+
 ## Code
 ### Des pensions civiles et militaires
 * Article R. 49 bis: la décision d'admission à la retraite...
