@@ -22,7 +22,7 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     </details>
     
     <details>
-      <summary>🇬🇧Letter</summary>
+      <summary>🇬🇧Lettre</summary>
     
     > 02/01/2022
     > 
@@ -57,7 +57,7 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     </details>
 
     <details>
-      <summary>🇬🇧Memoir</summary>
+      <summary>🇬🇧Mémoir</summary>
     
     > 1 Authorship
     > 
@@ -185,7 +185,7 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     </details>
 
     <details>
-      <summary>🇬🇧Letter</summary>
+      <summary>🇬🇧Lettre</summary>
     
     04/20/2022
     
