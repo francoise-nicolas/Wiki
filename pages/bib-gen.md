@@ -1696,7 +1696,7 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 
 <!-- 2018-06-04 -->
-* <a id="anticorjoly"></a>[📁Anticor 92 reçoit Eva JOLY sur le coût de la corrupion](./debat-anticor92joly.md)
+* <a id="anticorjoly"></a>[📁Anticor 92 reçoit Eva JOLY sur le coût de la corrupion](./divers-anticor92joly.md)
 
 <!-- 2018-09-26 -->
 <!--
