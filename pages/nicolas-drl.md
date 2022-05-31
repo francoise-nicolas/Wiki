@@ -187,10 +187,10 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     <details>
       <summary>Letter</summary>
     
-    The Honorable Lisa Peterson
-    Bureau of Democracy, Human Rights and Labor
-    U.S. Department of State
-    2201 C St. NW
+    The Honorable Lisa Peterson\
+    Bureau of Democracy, Human Rights and Labor\
+    U.S. Department of State\
+    2201 C St. NW\
     Washington, DC 20520
     
     FRANCE: persecution of a female diplomat for reporting corruption
