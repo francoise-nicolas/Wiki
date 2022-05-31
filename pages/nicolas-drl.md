@@ -187,6 +187,8 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     <details>
       <summary>Letter</summary>
     
+    04/20/2022
+    
     The Honorable Lisa Peterson\
     Bureau of Democracy, Human Rights and Labor\
     U.S. Department of State\
@@ -212,6 +214,7 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     the adhesion procedure I filed for to overrule his dismissal.
     
     Attached, continuation of some background material in my memoir.
+    
     Sincerely,
     
     
