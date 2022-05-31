@@ -2,7 +2,6 @@
 
 | Symbol | Signification | 
 |--------|---------------|
-| 🎓 | Académique |
 | 🗓️ | Chronologie     |
 | 📁  | Dossier|
 | ⚖  | Droit         | 
