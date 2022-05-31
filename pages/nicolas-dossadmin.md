@@ -11,17 +11,17 @@
 
 ### TA de Paris no. 1006079/5-2
 
-    <details><summary>Info</summary>
-    
-    * Demandeur: Françoise NICOLAS
-    * Défendeur: MAE
-    * Objet: 
-        1. Retrait du dossier administratif de document émis par
-            - l'inspection, non signé, du [2009-08-05](nicolas-faits.md#inspec)
-            - Hervé BESANCENOT
-            - Hervé BESANCENOT
-        2. Refus de communication de son dossier médical
-    </details>
+<details><summary>Info</summary>
+
+* Demandeur: Françoise NICOLAS
+* Défendeur: MAE
+* Objet: 
+    1. Retrait du dossier administratif de document émis par
+        - l'inspection, non signé, du [2009-08-05](nicolas-faits.md#inspec)
+        - Hervé BESANCENOT
+        - Hervé BESANCENOT
+    2. Refus de communication de son dossier médical
+</details>
 
 * [2010-03-31 Saisine](../pieces/identifiant/4e3f1aaf)
 
