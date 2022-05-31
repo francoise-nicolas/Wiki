@@ -174,7 +174,7 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     > 6. Follow up to a new demand for whistleblower status, on 08/11/2021
     </details>
 
-* 2022-05-15
+* 2022-05-20
     <details>
       <summary>Info</summary>
     
@@ -182,6 +182,44 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     * [Amb EU - dépôt](../pieces/identifiant/3d2125d8)
     * [State DLR - lettre](../pieces/identifiant/d7c8696b)
     * [PJ no. 1](../pieces/identifiant/bf8eea58)
+    </details>
+
+    <details>
+      <summary>Letter</summary>
+    
+    The Honorable Lisa Peterson
+    Bureau of Democracy, Human Rights and Labor
+    U.S. Department of State
+    2201 C St. NW
+    Washington, DC 20520
+    
+    FRANCE: persecution of a female diplomat for reporting corruption
+    
+    Dear Assistant Secretary Peterson,
+    
+    On 07/08/2021 you echoed Abraham Lincoln’s warning that “citizens lose trust
+    in democracy” 1 . Thank you for these words.
+    Here’s an update to my 02/01/2022 letter on the stated subject 2 . The attached
+    memoir ended on this note: “I have made a drastic selection in the attached
+    documents. Should any claim that I have made. . . ” Recently I set up github.
+    com/francoise-nicolas/wiki, that keeps track of my legal & advocacy work,
+    with supporting evidence.
+    On the open reason of state and the penal ruling in my case, I said: “and neither
+    my supervisor, nor the ambassador were auditioned”. This begs for an erratum :
+    these parties made statements before the prosecutor (see attachment no. 4 of the
+    memoir), but there was no confrontation (in the sense of the 6th amendment) in
+    the adhesion procedure I filed for to overrule his dismissal.
+    Attached, continuation of some background material in my memoir.
+    Sincerely,
+    
+    
+    Françoise Nicolas.
+    
+    CC: Paris Bureau Chief, New York Times, Roger Cohen; Co-chair, Tom Lantos Human Rights Commission, Hon. James P. McGovern; Executive Director, Amnesty International USA, Paul O’Brien; Executive Director, Human Rights Watch, Paris branch, Kenneth Roth; Co-chair, Tom Lantos Human Rights Commission, Hon. Christopher H. Smith.
+
+    Attached:
+    1. Op-ed proposal dated 04/21/2022 . . . . . . . . . . . . . . . . . . . . . .
+
     </details>
 
 ---
