@@ -4,7 +4,7 @@
 Contestation de la décision du MAE du [2010-06-21](nicolas-faits.md#mutation).
 
 ## 🗓️
-## TA de Paris, no. 0913852/5-2
+## TA de Paris — no. 0913852/5-2
 * [2009-08-10 — Saisine](../pieces/identifiant/3ad82e00)
 
 * [🚧 Mémoire en réplique](../pieces/identifiant/683b557c)
@@ -20,7 +20,7 @@ Contestation de la décision du MAE du [2010-06-21](nicolas-faits.md#mutation).
     Article 1er: il n'y a pas lieu de statuer
     </details>
 
-## CE, no. 359288
+## CE — no. 359288
 
 * 2012-05-10 — Pourvoi sommaire
 * 2012-08-10 — Mémoire complémentaire
