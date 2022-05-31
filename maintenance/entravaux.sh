@@ -27,9 +27,9 @@ cible="${source}"/'cewiki-entrav.md'
 touch "${cible}"
 >"${cible}"
 printf "%s\n"\
-       "# En travaux"\
+       "# Ce Wiki — En travaux"\
        "## Description"\
-       "Dresse l'inventaire des pages contenant '🚧'"\
+       "Inventaire des pages contenant '🚧'"\
        "## Pages"\
        "|Fichier                                 |ligne| code                                   |"\
        "|----------------------------------------|-----|----------------------------------------|"\
