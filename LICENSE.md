@@ -1,10 +1,13 @@
-# Textuel
+# LICENSE
 
-Copyright 2022 Françoise Nicolas
+Copyright 2022 Françoise NICOLAS
 
-CC BY-NC-ND 4.0
+* Avertissement: les droits d'auteurs suivants sont par défaut, et limités par d'éventuelles exceptions mentionnés aux pages où elles s'appliquent.
 
-# Pieces
+* [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)
+   * Organisation du site
+   * Structure du texte (markdown)
+   * [bibliographie](./pages/bib.md)
 
-Les pièces référencées dans ce dossier appartiennent à leur émetteur.
-
+* [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+   * Tout le reste

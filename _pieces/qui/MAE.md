@@ -1,8 +1,0 @@
-[82f04043](../../pieces/82f04043)
-[3cd189d9](../../pieces/3cd189d9)
-[72daf38c](../../pieces/72daf38c)
-[5884d9d2](../../pieces/5884d9d2)
-[a45dfe90](../../pieces/a45dfe90)
-[7caecbb5](../../pieces/7caecbb5)
-[75ff52c3](../../pieces/75ff52c3)
-[8068d595](../../pieces/8068d595)
