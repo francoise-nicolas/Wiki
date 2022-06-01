@@ -1,4 +1,4 @@
-![img](../_aux/VeR_Commons.png)
+1![img](../_aux/VeR_Commons.png)
 # [Bibliographie](./bib.md) — La loi
 
 ## 🗓
@@ -18,11 +18,14 @@
     * Article 34: Le fonctionnaire en activité a droit...
 
 <!-- 1986-03-14-->
-
 * [Décret no. 86-442 du 1986-03-14 relatif à la désignation des médecins agrées,...](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000884830/)
     * Article 35: Pour obtenir un congé de longue maladie...
 
 ### 1989-1995
+
+<!-- 1991-07-10-->
+* [Loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000537611/2022-06-01/)
+    * Article 9-2: exemption de ressources pour les victimes d'atteintes à la vie, ...
 
 ### 1995-2002
 
@@ -363,7 +366,11 @@
 * [Article 306](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410461/) (l'inscription en faux est formée par acte remis au greffe par la partie ou son mandataire muni d'un pourvoi spécial)
 
 ### <a id="cpp"></a>De procédure pénale
+
+* [Article 82](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575453/) 
+> Le procureur de la République peut requérir du magistrat instructeur tous actes...
 * [Article 85](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312069/)(partie civile)
+* [Article 203](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576000/)(connexité)
 * [Article 689](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151920/#LEGISCTA000006151920)(infractions commises hors du territoire)
 * [Article 693](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279364)(La juridiction compétente est celle du lieu où réside le prévenu)
 
