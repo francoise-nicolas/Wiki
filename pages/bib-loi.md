@@ -1,4 +1,4 @@
-1![img](../_aux/VeR_Commons.png)
+![img](../_aux/VeR_Commons.png)
 # [Bibliographie](./bib.md) — La loi
 
 ## 🗓
