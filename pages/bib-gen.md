@@ -1707,23 +1707,23 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
 <!--2018-10-18-->
 
-* <a id="slipping"></a>[🗣🇬🇧Slipping Secrets: Transparency or Demise?](https://www.nyu.edu/washington-dc/nyu-washington--dc-events/events-by-year/2018/slipping-secrets--transparency-or-demise--.html)
+* <a id="slipping"></a>[🗣🇬🇧Slipping Secrets: Transparency or Demise? NYU Talk. Santiago O’Donnell, author of ArgenLeaks](https://www.nyu.edu/washington-dc/nyu-washington--dc-events/events-by-year/2018/slipping-secrets--transparency-or-demise--.html)
 
-<details><summary>00:00-00:30</summary>
-
-Big wars are fought over information. It's a tragedy for Snowden, Manning, Assange. They're not the caricatures they are made out to be, from either side. Players: leakers, victims, intermediaries (like Wikileaks, or ICIJ ), the media. Guardian has non profit model and removed from US influence. ... Newpspapers more and more dependent on advertisers. That said, leaks are very difficult to control. They are not geopolitically neutral. Wikileaks+Snowden's leaks considered threat by DOS. Panamapapers a threat to Putin and Xi Jinping (hence rumor perpetrated by the US). Cable gate started in 2001. Against Iranian nuclear program. 2012, headlines in the US: big concern about CN companies hacking US companies. 
-
-Big wars are fought over information. It's a tragedy for Snowden, Manning, Assange. They're not the caricatures they are made out to be, from either side. Players: leakers, victims, intermediaries (like Wikileaks, or ICIJ ), the media. Guardian has non profit model and removed from US influence. ... Newpspapers more and more dependent on advertisers. That said, leaks are very difficult to control. They are not geopolitically neutral. Wikileaks+Snowden's leaks considered threat by DOS. Panamapapers a threat to Putin and Xi Jinping (hence rumor perpetrated by the US). Cable gate started in 2001. Against Iranian nuclear program. 2012, headlines in the US: big concern about CN companies hacking US companies. 
-
-Assange felt he never got the success he deserved. Then comes Collateral murder. 5 big newspapers throught which breaks Cablegate. [Faustian pact], they wanted to kill Assange (as a competitor), and they edited the story. Millions of cables ignored. So then he went to individual journalists in Columbia, Mexico, myself. He was paranoid (he'd put stones in his shoes to fake a different gait). I read about how people started a clothing fashion trend. I told him I want to write about you. Che Guevera, Marcos. Revolutionary change, that broke the ice between us. He gave me leaks on AG. And now the story gets spinned. I curated the cables. Some controversial (a word I shouldn't be using), on Monsanto. In the second book, ... Assange used my model for "World Empire". Important to put cables in context. Trick: use characters. 
-</details>
-
-<details><summary>00:00-00:30</summary>
-
-Cablegate was never denied. We could see what person went to the US embassy kissed their ass, committed treason. Even after 9/11, bit obessession was Iran and China.
-
-I'm trying to create library of whistleblowers.
-</details>
+    <details><summary>00:00-00:30</summary>
+    
+    Big wars are fought over information. It's a tragedy for Snowden, Manning, Assange. They're not the caricatures they are made out to be, from either side. Players: leakers, victims, intermediaries (like Wikileaks, or ICIJ ), the media. Guardian has non profit model and removed from US influence. ... Newpspapers more and more dependent on advertisers. That said, leaks are very difficult to control. They are not geopolitically neutral. Wikileaks+Snowden's leaks considered threat by DOS. Panamapapers a threat to Putin and Xi Jinping (hence rumor perpetrated by the US). Cable gate started in 2001. Against Iranian nuclear program. 2012, headlines in the US: big concern about CN companies hacking US companies. 
+    
+    Big wars are fought over information. It's a tragedy for Snowden, Manning, Assange. They're not the caricatures they are made out to be, from either side. Players: leakers, victims, intermediaries (like Wikileaks, or ICIJ ), the media. Guardian has non profit model and removed from US influence. ... Newpspapers more and more dependent on advertisers. That said, leaks are very difficult to control. They are not geopolitically neutral. Wikileaks+Snowden's leaks considered threat by DOS. Panamapapers a threat to Putin and Xi Jinping (hence rumor perpetrated by the US). Cable gate started in 2001. Against Iranian nuclear program. 2012, headlines in the US: big concern about CN companies hacking US companies. 
+    
+    Assange felt he never got the success he deserved. Then comes Collateral murder. 5 big newspapers throught which breaks Cablegate. [Faustian pact], they wanted to kill Assange (as a competitor), and they edited the story. Millions of cables ignored. So then he went to individual journalists in Columbia, Mexico, myself. He was paranoid (he'd put stones in his shoes to fake a different gait). I read about how people started a clothing fashion trend. I told him I want to write about you. Che Guevera, Marcos. Revolutionary change, that broke the ice between us. He gave me leaks on AG. And now the story gets spinned. I curated the cables. Some controversial (a word I shouldn't be using), on Monsanto. In the second book, ... Assange used my model for "World Empire". Important to put cables in context. Trick: use characters. 
+    </details>
+    
+    <details><summary>00:30-01:00</summary>
+    
+    Cablegate was never denied. We could see what person went to the US embassy kissed their ass, committed treason. Even after 9/11, bit obessession was Iran and China.
+    
+    I'm trying to create library of whistleblowers.
+    </details>
 
 
 <!-- 2018-10-18 -->
