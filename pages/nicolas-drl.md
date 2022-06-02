@@ -13,7 +13,7 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
 * 2022-02-01
 
     <details>
-      <summary>Preuves</summary>
+      <summary>Info</summary>
     
     * [Amb EU - lettre](../pieces/identifiant/67ecf1b9)
     * [Amb EU - dépôt](../pieces/identifiant/6ee9b5eb)
