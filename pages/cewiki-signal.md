@@ -2,6 +2,7 @@
 
 | Symbol | Signification | 
 |--------|---------------|
+| 🇬🇧 | anglais |
 | 🗓️ | Chronologie     |
 | 📁  | Dossier|
 | ⚖  | Droit         | 

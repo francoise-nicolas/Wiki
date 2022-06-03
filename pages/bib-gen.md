@@ -1,6 +1,20 @@
 ![img](../_aux/bnf_Commons.png)
 # [Bibliographie](./bib.md) — Générale
 
+## Thèmes
+* Affaire Elf
+* Affaire Gaudino
+* Affaire Sarah Halimi
+* Alternatives
+* Capture de l'état
+* État policier
+* Féminisme
+* Inflation législative
+* Lanceur d'alerte
+* Liberté d'expression
+* Autorité judiciaire
+* Personnalité: Eva Joly
+
 ## 🗓
 
 ### 1981-1988
@@ -322,7 +336,7 @@ Cette étude s'est largement intéressée à la résilience et à l'adaptabilit�
 
 <!-- 2010-06-03 -->
 * <a id="frenaud"></a>[🕮Franck RENAUD : Les diplomates — derrière la façade des ambassades de France](./pieces/identifiant/4738ca13)
-    NB: l'introduction est un résumé de l'affaire Françoise NICOLAS.
+    NB: l'introduction = résumé de l'affaire Françoise NICOLAS.
     
 <!-- 2011-05-05 -->
 * <a id="colonna"></a> [🕮De Vincent LE COQ, « Yvan COLONNA, anathomie d'un procès truqué »](https://books.google.com/books?id=bWViHTyKsNMC&pg=PT1&lpg=PT1&dq=yvan+colonna+anatomie+d%27un+proc%C3%A8s+truqu%C3%A9+vincent+le+coq&source=bl&ots=HdTpJOZnGL&sig=ACfU3U1IjMhOH0vt3sNv9elFgqDoSx63Dw&hl=en&sa=X&ved=2ahUKEwin0aLHxaz2AhXtTN8KHbQyAeA4FBDoAXoECCQQAw#v=onepage&q=yvan%20colonna%20anatomie%20d'un%20proc%C3%A8s%20truqu%C3%A9%20vincent%20le%20coq&f=false)
@@ -346,6 +360,8 @@ Cette étude s'est largement intéressée à la résilience et à l'adaptabilit�
     </details>
 
 
+### 2012-2017
+
 <!-- 2013-03-22 -->
 * <a id="lecoq2012moinscher"></a>[🕮Vincent LE COQ: Le « toujours moins cher » : à quel prix ?](https://www.yvesmichel.org/livre/le-toujours-moins-cher-a-quel-prix-2/)
 
@@ -354,7 +370,9 @@ Cette étude s'est largement intéressée à la résilience et à l'adaptabilit�
     > L’observation minutieuse des relations entre la grande distribution et l’État, révèle l’intelligence des acteurs des grandes enseignes à tirer parti de la corruption des élites : la grande distribution a financé la vie politique française.  En contrepartie, celle-ci l’a favorisée systématiquement au détriment des petits commerçants, mais aussi des paysans, des producteurs en général, de la santé des consommateurs et plus généralement de notre modèle social lui-même.
     </details>
 
-### 2012-2017
+<!--2013-10-12-->
+* <a id="ciasnowden"></a>[📰🇬🇧NY Times: C.I.A. Disputes Eearly Suspicions on Snowden](https://www.nytimes.com/2013/10/12/us/cia-disputes-early-suspicions-on-snowden.html)
+    * Voir aussi: [Slipping secrets](#slipping)
 
 <!-- 2014-06-20 -->
 * <a id="louvel"></a>[📰Le Monde: Bertrand LOUVEL devient le plus haut magistrat de France](https://www.lemonde.fr/societe/article/2014/06/20/cour-de-cassation-bertrand-louvel-devient-le-plus-haut-magistrat-de-france_4442119_3224.html). 
@@ -535,9 +553,14 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 * <a id="gonzales2017hatvp"></a>[📰Jean-Louis NADAL: Haute autorité pour la transparence: "La lutte contre la corruption est trop morcelée"](https://www.lefigaro.fr/actualite-france/2017/07/09/01016-20170709ARTFIG00146-nadal-la-lutte-contre-la-corruption-est-trop-morcelee.php)
 
 <!-- 2017-07-11 -->
+
+<!--
+
 * ️[🎓Karim BENYEKHLEF, université de MTL: « Les secrets du droits »](https://www.karimbenyekhlef.ca/blogue/2017/07/11/les-secrets-du-droit/?utm_source=pocket_mylist), de Karim BENYEKHLEF, professeur de droit à l'université de Montréal)
 
 > Le droit est, en fait, pénétré du secret, puisque sa matrice, l’État, est elle-même fondée sur celui-ci. Le secret prend alors la forme de la Raison d’État. 
+
+-->
 
 <!--
 
@@ -1723,6 +1746,18 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
     Cablegate was never denied. We could see what person went to the US embassy kissed their ass, committed treason. Even after 9/11, bit obessession was Iran and China.
     
     I'm trying to create library of whistleblowers.
+    [...]
+    
+    What's interesting is how Turkey is playing has a lot to do with journalism. They leak information to WaPo and such, drop by drop. Leaks are very hard to control. What do they want? Qatar, currency. Wait and see what happend. 
+    </details>
+    
+    <details><summary>01:00-01:30</summary>
+    
+    Getting into the journalism question. Paradigm has change from fairness (when I started), humilty. New paradigm, transparency, not balanced and checking. People care about "where we are coming from". The whole role of mediation in journalism has disappeared, we're the friendly faces of corporations. Media concentration+technology. Too much too hide => people want to get straight to the source. Chrysler's page, Senator Doyle, Dallas Coyboys, Kavannaugh. Journalists have been curators. We have our own followers. Paul Krugman has more than the NY Times.
+    
+    Transparency in the sense that we live in an era where everything is known [recorded?]. You can buy all the phone calls in a given country. Very few people have access to it. Blogs, social media: we are our own publishers. I spent 20 years never giving an interview, because my place behind the byline. Otherwise I'd be cheating my newspaper. Today a journalist who does so is perceived as "he's got something to hide". Myself I've gone from journalist to cheap celebrity doing X interview a week. 
+    
+    Fine line between journalism and terrorism. [NYTimes article](#ciasnowden) you can read any day, national sec. reporter, way back when Snowden worked for the CIA, called him toddler go home for the day, explains he has 6 different sources, military, legislative (how so?), which direct knowledge ... on condition of anonymity. Well there's this law that's fills a loophole. Really funny, because attribution doesn't say ... They're leaking a report of the CIA to denounce Snowden's leak. Gov authorized leak = good leak?! CIA comes up and say "..." 6 sources turns into two.
     </details>
 
 
@@ -1855,17 +1890,6 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 <!-- 2021-04-01 -->
 * <a id="smuller"></a>[📰C'est un jugement historique": Sandra Muller, initiatrice de "#Balancetonporc", a gagné le procès en appel où elle était poursuivie pour diffamation](https://www.bfmtv.com/societe/c-est-un-jugement-historique-sandra-muller-initiatrice-de-balancetonporc-a-gagne-le-proces-en-appel-ou-elle-etait-poursuivie-pour-diffamation_VN-202104010450.html)
 
-<!-- 2021-05-20 -->
-* <a id="FS-fantomesbenin"></a>[📰France Soir:Dossiers fantômes et détournement de fonds au Bénin](https://www.francesoir.fr/videos-le-defi-de-la-verite/dossiers-fantomes-et-detournements-de-fonds-publics-au-benin)
-
-<!-- 2021-05-21 -->
-* [📰Netafrique.net: « J’ai défendu les intérêts des Béninois », une ex-diplomate française en détresse crie à l’aide](https://netafrique.net/jai-defendu-les-interets-des-beninois-une-ex-diplomate-francaise-en-detresse-crie-a-laide/)
-
-<!-- 2021-05-21 -->
-* [🗣️Le réveil citoyen: agressée pour avoir dénoncé du détournement de fonds publics, Françoise NICOLAS témoigne](https://lereveilcitoyen.fr/2021/05/21/agressee-pour-avoir-denonce-du-detournement-de-fonds-publics-francoise-nicolas-temoigne/)
-
-<!-- 2021-05-22 -->
-* <a id="NT-fantomesbenin"></a>[📰Nouvelle Tribune:Dossiers fantômes et détournement de fonds au Bénin](https://lanouvelletribune.info/2021/05/dossiers-fantomes-a-lambassade-de-france-au-benin-lex-employee-demande-de-laide/)
 
 <!-- 2021-07-02 -->
 * <a id="piel2021dumas"></a>[📰Quand le Conseil constitutionnel validait les comptes de campagne de CHIRAC et de BALLADUR](https://www.letelegramme.fr/bretagne/eva-joly-la-perquisition-au-ministere-de-la-justice-montre-la-pertinence-du-travail-d-anticor-02-07-2021-12781768.php)
@@ -1873,9 +1897,6 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
     > La récente ouverture d’archives de l’institution confirme que les entorses à la loi étaient connues et que la voix de son président, Roland DUMAS, a été prépondérante pour fermer les yeux sur ces irrégularités de la présidentielle de 19 95.
     </details>
-
-<!-- 2021-07-12  -->
-* <a id="RTnicolas"></a>[🗣RT: Après une violente agression, la lanceur d'alerte Françoise NICOLAS se bat pour être protégée](https://francais.rt.com/france/88671-apres-violente-agression-lanceuse-alerte-francoise-nicolas-bat-pour-etre-protegee)
 
 <!-- 2021-10-07 -->
 * <a id="an-xv-3696"></a>[🏛️Rapport AN no. 3296: Obstacles à l'indépendance du pouvoir judiciaire](https://www.vie-publique.fr/rapport/276139-commission-enquete-les-obstacles-lindependance-du-pouvoir-judiciaire)
@@ -1974,13 +1995,12 @@ En janvier 1983, Le Canard enchaîné révèle qu'Alain Joissains, maire d'Aix-e
 
     > Alors que les noms de Jacqueline GOURAULT, Véronique MALBEC et François SENERS viennent d’être proposés pour rejoindre l’institution, la juriste Elina LEMAIRE appelle le Parlement à vérifier les compétences juridiques et l’exemplarité des candidats.
 
+## En attente
 
-## 🌐
+## Voir aussi: 
+* [NICOLAS dans les médias](./nicolas-medias.md)
 * [Blog de Bernard TRIGALLOU](http://avocats-notaires.over-blog.com).
 * [Le blog « Déni de justice, pour une réforme de la justice »](https://denidejustice.wordpress.com/)
-
-## Voir aussi
-* [NICOLAS dans les médias](./nicolas-medias.md)
 
 ---
 [Photo](./cewiki-attrib.md#bnf)
