@@ -6,13 +6,13 @@
 * Affaire Gaudino
 * Affaire Sarah Halimi
 * Alternatives
+* Autorité judiciaire
 * Capture de l'état
 * État policier
 * Féminisme
 * Inflation législative
 * Lanceur d'alerte
 * Liberté d'expression
-* Autorité judiciaire
 * Personnalité: Eva Joly
 
 ## 🗓
