@@ -1,5 +1,7 @@
 # Françoise NICOLAS — Appel aux dons
 
+Ma capacité à alerter le public dépend de votre générosité.
+
 ## 💳
 
 * [Paypal](https://www.paypal.com/paypalme/francoisenicolas)

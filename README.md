@@ -26,3 +26,7 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 ### 2022
 * [🗣️NICOLAS témoigne sur Europe 1](./pages/nicolas-medias.md#delacroix)
 <!-- * [✍️️NICOLAS: « Ce sujet qui attend son lanceur d'alerte: le jeu des apparences »](./pages/nicolas-japp.md) -->
+
+---
+Ma capacité à alerter le public dépend de la générosité de bienfaiteurs
+↳[appel aux dons](./pages/cewiki-don.md)
