@@ -1,6 +1,6 @@
 # Françoise NICOLAS — Appel aux dons
 
-Ma capacité à alerter le public dépend de votre générosité.
+Ma capacité à alerter le public dépend de la générosité de bienfaiteurs.
 
 ## 💳
 
