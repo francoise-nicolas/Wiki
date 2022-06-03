@@ -6,6 +6,6 @@ Certains profils de Twitter précisent: RT ≠ « en accord. » Ici, c'est parei
 
 ## Catégorie
 * [Général](./bib-gen.md)
-* [La loi](./bib-loi.md)
+* [Législation](./bib-loi.md)
 * 📁
     * [NICOLAS dans les médias](./nicolas-medias.md)
