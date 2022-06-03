@@ -18,7 +18,7 @@
 
 * [2016-12-08 — Convocation](../pieces/identifiant/d2dc8868)
 
-* <a id="decision-1">decision-1</a>[2020-02-28 — Décision](../pieces/identifiant/2ec03cd5)
+* <a id="decision-1"></a>[2020-02-28 — Décision](../pieces/identifiant/2ec03cd5)
 
 ### Appel
 

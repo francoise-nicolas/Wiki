@@ -13,12 +13,12 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
 * 2022-02-01
 
     <details>
-      <summary>Preuves</summary>
+      <summary>Info</summary>
     
     * [Amb EU - lettre](../pieces/identifiant/67ecf1b9)
     * [Amb EU - dépôt](../pieces/identifiant/6ee9b5eb)
-    * [State DLR - lettre](../pieces/identifiant/31f73b4d)
-    * [State DLR - dépôt](../pieces/identifiant/8fefd21f)
+    * [Dép. d'état - lettre](../pieces/identifiant/31f73b4d)
+    * [Dép. d'état - dépôt](../pieces/identifiant/8fefd21f)
     </details>
     
     <details>
@@ -180,14 +180,14 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     
     * [Amb EU - lettre](../pieces/identifiant/6ed4b67c)
     * [Amb EU - dépôt](../pieces/identifiant/3d2125d8)
-    * [State DLR - lettre](../pieces/identifiant/d7c8696b)
-    * [PJ no. 1](../pieces/identifiant/bf8eea58)
+    * [Dép. d'état - lettre](../pieces/identifiant/d7c8696b)
+    * [Dép. d'état - P.J. no. 1](../pieces/identifiant/bf8eea58)
     </details>
 
     <details>
       <summary>🇬🇧Lettre</summary>
     
-    04/20/2022
+    04/15/2022
     
     The Honorable Lisa Peterson\
     Bureau of Democracy, Human Rights and Labor\
@@ -199,13 +199,14 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     
     Dear Assistant Secretary Peterson,
     
-    On 07/08/2021 you echoed Abraham Lincoln’s warning that “citizens lose trust
-    in democracy” 1 . Thank you for these words.
-    Here’s an update to my 02/01/2022 letter on the stated subject 2 . The attached
-    memoir ended on this note: “I have made a drastic selection in the attached
-    documents. Should any claim that I have made. . . ” Recently I set up github.
-    com/francoise-nicolas/wiki, that keeps track of my legal & advocacy work,
-    with supporting evidence.
+    On 07/08/2021 you echoed Abraham Lincoln’s warning that “citizens may lose
+    trust in democracy”. Here’s an update to my 02/01/2022 letter on the stated
+    subject, received the 14th.
+    
+    The attached memoir ended on this note: “I have made a drastic selection in
+    the attached documents. Should any claim that I have made. . . ” Recently I set up
+    github.com/francoise-nicolas/Wiki, that keeps track of my legal & advocacy
+    work, with supporting evidence (work in progress).
     
     On the open reason of state and the penal ruling in my case, I said: “and neither
     my supervisor, nor the ambassador were auditioned”. This begs for an erratum :
@@ -213,7 +214,9 @@ Signalement à leur directeur, Lisa PETERSON, à l'ambassadeur, Denise CAMPBELL-
     memoir), but there was no confrontation (in the sense of the 6th amendment) in
     the adhesion procedure I filed for to overrule his dismissal.
     
-    Attached, continuation of some background material in my memoir.
+    Your bureau’s 2021 report on France reiterates from 2020, “impunity was not
+    widespread” 3 . Attached, a [draft op-ed](../pieces/identifiant/bf8eea58) that continues the part of my memoir on
+    the rule of law (it’s dated 04/24/2022, I see no major change in hindsight).
     
     Sincerely,
     

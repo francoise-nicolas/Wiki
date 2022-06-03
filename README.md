@@ -22,7 +22,11 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 * [🏛️NICOLAS entendue par le député Ugo Bernalicis](https://github.com/francoise-nicolas/audition-phi)
 ### 2021
 * [⚖️NICOLAS remporte une victoire c. le MAE](./pages/nicolas-pf.md)
-* [🏛NICOLAS écrit au gouvernement des 🇺🇸](./pages/nicolas-drl.md)
+* [🏛NICOLAS écrit au gouvernement des É.U.](./pages/nicolas-drl.md)
 ### 2022
 * [🗣️NICOLAS témoigne sur Europe 1](./pages/nicolas-medias.md#delacroix)
 <!-- * [✍️️NICOLAS: « Ce sujet qui attend son lanceur d'alerte: le jeu des apparences »](./pages/nicolas-japp.md) -->
+
+---
+La capacité de Françoise NICOLAS à alerter le public dépend de la générosité de bienfaiteurs\
+↳[appel aux dons](./pages/nicolas-don.md)

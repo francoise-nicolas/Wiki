@@ -1,7 +1,7 @@
 # Who's who
 
 ## <a id="nicolas"></a>Françoise NICOLAS
-### Ce wiki
+### Ce wiki:
 * [Appel aux dons](./nicolas-don.md)
 * [Factures](./nicolas-fact.md)
 * [Faits](./nicolas-faits.md)
@@ -9,6 +9,6 @@
 * [Litiges](./nicolas-litiges.md)
 * [Médias](./nicolas-medias.md)
 * [Opinion](./nicolas-opinion.md)
-### <a id="www"></a>🌐
+### <a id="www"></a>Ailleurs sur la toile:
 * [@FranoiseNicolas](https://twitter.com/FranoiseNicolas)
 * [Wikipedia](https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Nicolas_(diplomate))

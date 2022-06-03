@@ -36,7 +36,7 @@ My refutation has [registered 700k views](https://twitter.com/FranoiseNicolas/st
 
 Whistleblower protection has been an active legislative topic in the EU/France in recent years.
 I [reported to several parties](./activ.md#nicolas), that the ombudsman had systematically whitewashed the MFA in the [context of 5 requests](./nicolas-lda.md) initiated in 2012.
-The new bill transposing European law,
+The [new law](https://www.vie-publique.fr/loi/282472-loi-21-mars-2022-waserman-protection-des-lanceurs-dalerte) transposing European law,
 sponsored by Sylvain WASERMAN,
 gives that entity enhanced powers.
     In 2020, the same daily that I quoted hailed its outgoing prsident, Jacques TOUBON, [“a serendipitous ombudsman”](./bib-gen.md#inespere).
@@ -45,11 +45,10 @@ Corruption is a literary genre in its own right. With a few notable exceptions, 
  
 ## Other
 I am from Saint-Malo where ["A Summer's Tale"](https://www.imdb.com/title/tt0115940/) was filmed, and a single mother of an only child since adulthood. In [1986](../pieces/identifiant/829cbd9) and [1987](../pieces/identifiant/b5b09b6e) I was awarded prestigious prizes for my thesis work on space law. In 2017, 
-I was [substitute candidate](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats -de-la-france-insoumise-3-5-137.html) to represent a constituency of Nantes in the National Assembly, on a [France Insoumise](https://twitter.com/FranceInsoumise) platform.
+I was [substitute candidate](http://www.nantes-infos.fr/legislatives-1ere-circonscription-de-la-loire-atlantique-christophe-le-tallec-et-francoise-nicolas-candidats-de-la-france-insoumise-3-5-137.html) to represent a constituency of Nantes in the National Assembly, on a [France Insoumise](https://twitter.com/FranceInsoumise) platform.
 
 ### <a id="voiraussi"></a>Also see
-* [Synopsis of pages on me](./whoswho.md#nicolas)
-
+* [Pages about me](./whoswho.md#nicolas)
 
 ---
 <!--
