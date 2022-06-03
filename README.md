@@ -28,5 +28,5 @@ Plusieurs médias m’ont accolé l’étiquette suivante : « la lanceuse d'ale
 <!-- * [✍️️NICOLAS: « Ce sujet qui attend son lanceur d'alerte: le jeu des apparences »](./pages/nicolas-japp.md) -->
 
 ---
-Ma capacité à alerter le public dépend de la générosité de bienfaiteurs
-↳[appel aux dons](./pages/cewiki-don.md)
+La capacité de Françoise NICOLAS à alerter le public dépend de la générosité de bienfaiteurs\
+↳[appel aux dons](./pages/nicolas-don.md)
