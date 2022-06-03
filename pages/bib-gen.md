@@ -3,8 +3,8 @@
 
 ## Thèmes
 * Affaire Elf
-* Affaire Gaudino
-* Affaire Sarah Halimi
+* Affaire GAUDINO
+* Affaire Sarah HALIMI
 * Alternatives
 * Autorité judiciaire
 * Capture de l'état
@@ -13,6 +13,7 @@
 * Inflation législative
 * Lanceur d'alerte
 * Liberté d'expression
+* Ministère des Affaires Étrangères
 * Personnalité: Eva Joly
 
 ## 🗓
